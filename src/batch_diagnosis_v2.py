@@ -24,7 +24,7 @@ model = AzureChatOpenAI(
 )
 
 # Load the synthetic data
-df = pd.read_csv('data/synthetic_claude_data_v2.csv', sep=',')
+df = pd.read_csv('data/synthetic_medisearch_data_v2.csv', sep=',')
 
 # Create a new DataFrame to store the diagnoses
 diagnoses_df = pd.DataFrame(columns=['GT', 'Diagnosis 1'])
@@ -65,4 +65,4 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     diagnoses_df.loc[index] = [gt] + diagnoses
 
 # Save the diagnoses to a new CSV file
-diagnoses_df.to_csv('data/diagnoses_claude_v2.csv', index=False)
+diagnoses_df.to_csv('data/diagnoses_medisearch_v2.csv', index=False)

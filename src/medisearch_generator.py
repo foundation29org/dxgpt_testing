@@ -8,6 +8,7 @@ from langchain.callbacks.manager import (
     CallbackManagerForToolRun,
 )
 from langchain.tools.base import BaseTool
+from langchain.agents import Tool, initialize_agent, AgentType
 
 from medisearch_client import MediSearchClient
 import uuid
@@ -46,6 +47,12 @@ model = AzureChatOpenAI(
     openai_api_type=str(os.getenv("OPENAI_API_TYPE")),
 )
 
+# Initialize the Langchain agent with the MediSearch tool
+medisearch_tool = MediSearchRun(client=MediSearchClient(api_key=os.getenv("MEDISEARCH_API_KEY")))
+agent = initialize_agent(
+    [medisearch_tool], model, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
+)
+
 # Load the list of diseases
 with open('./data/clean_eng_names.txt', 'r') as file:
     diseases = file.read().splitlines()
@@ -53,12 +60,12 @@ with open('./data/clean_eng_names.txt', 'r') as file:
 # Initialize lists to store different types of descriptions
 detailed, detailed_noise = [], []
 
-for i, disease in enumerate(diseases[:50]):  # Limiting to 5 for demonstration
+for i, disease in enumerate(diseases):  # Limiting to 5 for demonstration
     print(f"Generating synthetic data {i} for {disease}...")
     for _ in range(2):  # Try twice
         try:
             prompt = f"Summarize in one paragraph the chief complaints and notable findings that would be consistent with early stages of {disease}, for a new patient coming to primary care who has no clear diagnosis upon arrival. Do not explicitly state {disease}."
-            detailed.append(model([HumanMessage(content=prompt)]).content)
+            detailed.append(agent.run(prompt))
             # detailed_noise.append(detailed[-1] + f" Additionally, the patient reports {noise_items[i % len(noise_items)]}.")
             break  # If the model call is successful, break the loop
         except Exception as e:  # Catch any exception
@@ -70,7 +77,7 @@ for i, disease in enumerate(diseases[:50]):  # Limiting to 5 for demonstration
     
 # Create a DataFrame
 df = pd.DataFrame({
-    'Disease': diseases[:50], 
+    'Disease': diseases, 
     'Detailed': detailed, 
     # 'Detailed with Noise': detailed_noise, 
 })

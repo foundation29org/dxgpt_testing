@@ -22,7 +22,7 @@ model = AzureChatOpenAI(
 )
 
 # Load the diagnoses data
-df = pd.read_csv('data/diagnoses_claude_v2.csv')
+df = pd.read_csv('data/diagnoses_medisearch_v2.csv')
 
 # Summarize the data
 # print(df.describe())
@@ -82,4 +82,4 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     scores_df.loc[index] = [gt, score]
 
 # Save the scores to a new CSV file
-scores_df.to_csv('data/scores_claude_v2.csv', index=False)
+scores_df.to_csv('data/scores_medisearch_v2.csv', index=False)

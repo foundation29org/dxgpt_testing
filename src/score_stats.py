@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Load the scores data
-df = pd.read_csv('data/scores_v2.csv')
+df = pd.read_csv('data/scores_medisearch_v2.csv')
 
 # Summarize the data
 print(df.describe())
@@ -79,3 +79,18 @@ lenient_accuracy_new = ((count_p1 + count_p5) / total_predictions) * 100
 
 strict_accuracy_new, lenient_accuracy_new
 """
+#Score
+count_p1 = 114
+count_p5 = 53
+count_p0 = 33
+
+# Calculate total number of predictions
+total_predictions = count_p1 + count_p5 + count_p0
+
+# Calculate Strict Accuracy
+strict_accuracy_new = (count_p1 / total_predictions) * 100
+
+# Calculate Lenient Accuracy
+lenient_accuracy_new = ((count_p1 + count_p5) / total_predictions) * 100
+
+print(strict_accuracy_new, lenient_accuracy_new)
