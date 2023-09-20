@@ -22,7 +22,7 @@ model = AzureChatOpenAI(
 )
 
 # Load the diagnoses data
-df = pd.read_csv('data/diagnoses.csv')
+df = pd.read_csv('data/diagnoses_claude_v2.csv')
 
 # Summarize the data
 # print(df.describe())
@@ -36,11 +36,24 @@ df = pd.read_csv('data/diagnoses.csv')
 # Create a new DataFrame to store the scores of the predictions
 scores_df = pd.DataFrame(columns=['GT', 'Score'])
 
-PROMPT_TEMPLATE = """Behave like a hypotethical doctor who has to classify if a diagnosis is correct or not. You will receive a Ground Thruth (GT) and a series of suggested predictions. You have to classify if the GT is in the predictions or not. If the GT is in the prediction 1, return 'P1'. If the GT is in any other prediction, return 'P5'. If the GT is not in the predictions, return 'P0'. 
+PROMPT_TEMPLATE = """Behave like a medical doctor reviewing patient diagnoses. You will be given a Ground Truth diagnosis (GT) and 5 Predicted diagnoses (P1-P5). Compare the GT to the predictions and return a classification: 
+
+If GT exactly matches P1, return "P1".  
+If GT is contained within or is a broader term for P1-P5, return "P5".
+If GT does not match any of P1-P5, return "P0".
+
+The GT may be a more general diagnosis, while predictions may include specific conditions. Broadly match GT to any prediction it reasonably encompasses.
 ----------------------------------------
-The text is \n\nGT: {gt}\n\nPredictions:\n\n{predictions}
+The text is:
+
+GT: {gt}
+
+Predictions:
+
+{predictions} 
 ----------------------------------------
-Remember to return the score in the format 'P1', 'P5' or 'P0'. Do not return any other text. NEVER"""
+Return either "P1", "P5", or "P0". Do not return any other text.
+"""
 human_message_prompt = HumanMessagePromptTemplate.from_template(PROMPT_TEMPLATE)
 chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
@@ -69,4 +82,4 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     scores_df.loc[index] = [gt, score]
 
 # Save the scores to a new CSV file
-scores_df.to_csv('data/scores.csv', index=False)
+scores_df.to_csv('data/scores_claude_v2.csv', index=False)

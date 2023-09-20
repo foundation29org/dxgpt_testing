@@ -7,3 +7,4 @@ gpt4all
 python-dotenv
 pandas
 tqdm
+medisearch_client

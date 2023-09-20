@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Load the scores data
-df = pd.read_csv('data/scores.csv')
+df = pd.read_csv('data/scores_v2.csv')
 
 # Summarize the data
 print(df.describe())
@@ -11,6 +11,8 @@ print(df.shape)
 
 # Give me the stats for P1, P5 and P0
 print(df['Score'].value_counts())
+# Give me the stats for P1, P5 and P0 for the first 50 rows
+print(df['Score'].iloc[:50].value_counts())
 
 # GPT4 Code Interpreter:
 """
@@ -59,4 +61,21 @@ disease_accuracy.columns = ['GT', 'Strict_Accuracy']
 disease_accuracy['Lenient_Accuracy'] = data.groupby('GT')['Score'].apply(lambda x: ((x == 'P1') | (x == 'P5')).sum() / len(x) * 100).reset_index()['Score']
 
 strict_accuracy, lenient_accuracy, disease_accuracy.sort_values(by='Strict_Accuracy', ascending=False).head()
+"""
+"""
+# Given counts for P1, P5, and P0
+count_p1 = 121
+count_p5 = 58
+count_p0 = 21
+
+# Calculate total number of predictions
+total_predictions = count_p1 + count_p5 + count_p0
+
+# Calculate Strict Accuracy
+strict_accuracy_new = (count_p1 / total_predictions) * 100
+
+# Calculate Lenient Accuracy
+lenient_accuracy_new = ((count_p1 + count_p5) / total_predictions) * 100
+
+strict_accuracy_new, lenient_accuracy_new
 """
