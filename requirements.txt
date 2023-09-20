@@ -1,0 +1,9 @@
+langchain
+langchain_experimental
+openai
+deepl
+medisearch_client
+gpt4all
+python-dotenv
+pandas
+tqdm
