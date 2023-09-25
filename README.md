@@ -3,7 +3,7 @@
 
 ## Summary
 
-This paper evaluates DxGPT, a web platform designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
+[This paper](https://foundation29.sharepoint.com/:w:/s/Fundacion29-Share/Edy1Cl9pjdRLicmopJgPCeoBlwPpwjQ-Po07vLb-ZVXIWQ?e=HNViOk) evaluates DxGPT, a web platform designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
 
 ## Key Features
 
