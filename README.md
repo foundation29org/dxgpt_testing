@@ -1,8 +1,7 @@
-
 # Evaluation of DxGPT Accuracy for Rare Diseases Diagnoses
-
 This repository contains all the code, data, and results for the evaluation of [DxGPT](https://github.com/foundation29org/Dx29_client_gpt)'s diagnostic accuracy on synthetic rare disease cases. The paper "Evaluation of DxGPT Accuracy for Rare Diseases Diagnoses" describes the methodology and findings of this analysis in detail. The goal of open sourcing this content is to provide full transparency on the evaluation process and enable further research to build on this work.
 
+[![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://dxgpt.app/)
 ## Summary
 
 [This paper](https://foundation29.sharepoint.com/:w:/s/Fundacion29-Share/Edy1Cl9pjdRLicmopJgPCeoBlwPpwjQ-Po07vLb-ZVXIWQ?e=HNViOk) evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
