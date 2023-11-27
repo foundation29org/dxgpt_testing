@@ -11,18 +11,25 @@ from tqdm import tqdm
 load_dotenv()
 
 # Initialize the AzureChatOpenAI model
+# model = AzureChatOpenAI(
+#     openai_api_base=str(os.getenv("OPENAI_API_BASE")),
+#     openai_api_version=os.getenv("OPENAI_API_VERSION"),
+#     deployment_name=str(os.getenv("DEPLOYMENT_NAME")),
+#     openai_api_key=os.getenv("OPENAI_API_KEY"),
+#     openai_api_type=str(os.getenv("OPENAI_API_TYPE")),
+#     temperature=0,
+#     max_tokens=800,
+# )
 model = AzureChatOpenAI(
-    openai_api_base=str(os.getenv("OPENAI_API_BASE")),
-    openai_api_version=os.getenv("OPENAI_API_VERSION"),
-    deployment_name=str(os.getenv("DEPLOYMENT_NAME")),
-    openai_api_key=os.getenv("OPENAI_API_KEY"),
-    openai_api_type=str(os.getenv("OPENAI_API_TYPE")),
+    openai_api_version = str(os.getenv("OPENAI_API_VERSION")),
+    deployment_name="nav29",
     temperature=0,
-    max_tokens=800,
+    # request_timeout=128,
+    max_tokens=800
 )
 
 # Load the diagnoses data
-df = pd.read_csv('data/diagnoses_medisearch_v2.csv')
+df = pd.read_csv('data/diagnoses_medisearch_turbo_v2.csv')
 
 # Summarize the data
 # print(df.describe())
@@ -82,4 +89,4 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     scores_df.loc[index] = [gt, score]
 
 # Save the scores to a new CSV file
-scores_df.to_csv('data/scores_medisearch_v2.csv', index=False)
+scores_df.to_csv('data/scores_medisearch_turbo_v2.csv', index=False)

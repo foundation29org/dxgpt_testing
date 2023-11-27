@@ -1,0 +1,1337 @@
+GT,Diagnosis 1
+Down syndrome,"+1 Prader-Willi Syndrome:
+This genetic disorder is characterized by poor muscle tone, low levels of sex hormones, and a feeling of constant hunger. The patient's symptoms of delayed motor milestones and generalized hypotonia are consistent with Prader-Willi Syndrome. However, the facial features and heart murmur are not typical for this condition, and the constant hunger usually develops later in infancy or early childhood.
+
++2 Down Syndrome:
+Down Syndrome is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21. The dysmorphic facial features described, including upslanting palpebral fissures, epicanthal folds, flattened nasal bridge, and protruding tongue, as well as the generalized hypotonia and heart murmur, are common in Down Syndrome. Delayed developmental milestones are also a characteristic of this condition.
+
++3 Williams Syndrome:
+This rare genetic disorder is often characterized by cardiovascular disease, distinctive facial features, and developmental delays. While the patient does have developmental delays and a heart murmur, which could be related to the cardiovascular issues seen in Williams Syndrome, the specific facial features described do not align perfectly with those typically associated with Williams Syndrome, which often include a broad forehead, short nose with a broad tip, full cheeks, and a wide mouth with full lips.
+
++4 Turner Syndrome:
+Turner Syndrome affects females and results from a missing or partially missing X chromosome. It can cause a variety of medical and developmental problems, including heart defects and learning disabilities. However, the facial features described do not match the typical Turner Syndrome phenotype, which may include a webbed neck, low-set ears, and a low hairline at the back of the neck. Additionally, Turner Syndrome is not associated with a protruding tongue.
+
++5 Fragile X Syndrome:
+This genetic condition causes a range of developmental problems including learning disabilities and cognitive impairment. Some physical characteristics can include large ears, a long face, and a prominent jaw and forehead. The patient's developmental delays are consistent with Fragile X Syndrome, but the specific facial features and heart murmur are not typical of this condition.
+
++6 Congenital Hypothyroidism:
+This condition arises from an underactive thyroid gland at birth and can lead to developmental delays and features such as a protruding tongue. However, the facial features described and the heart murmur are not typical symptoms of congenital hypothyroidism, and the condition usually presents with other symptoms such as jaundice, constipation, and poor feeding.
+
++7 Noonan Syndrome:
+Noonan Syndrome is a genetic disorder that prevents normal development in various parts of the body. A person can have heart defects, developmental delays, and distinctive facial features, which may include a deep philtrum, wide-set eyes, and low-set ears. The heart murmur and developmental delays in the patient could be consistent with Noonan Syndrome, but the specific facial features described do not align perfectly with the condition.
+
+Given the symptoms presented, Down Syndrome (+2) seems to be the most likely diagnosis, but genetic testing and further evaluation by a pediatric specialist are essential to confirm the diagnosis and rule out other conditions."
+Neural tube defect,"+1 Tethered Cord Syndrome:
+Tethered cord syndrome is a neurological disorder caused by tissue attachments that limit the movement of the spinal cord within the spinal column. These attachments cause an abnormal stretching of the spinal cord. This condition is often associated with spina bifida.
+Common Symptoms with Patient: Lower back pain, weakness or numbness in the legs, sacral dimple or hair tuft over the spine, decreased muscle strength or sensation in the lower extremities.
+Uncommon Symptoms with Patient: The patient's history does not mention specific symptoms such as bowel or bladder dysfunction, which can be associated with tethered cord syndrome.
+
++2 Spina Bifida:
+Spina bifida is a birth defect where there is incomplete closing of the backbone and membranes around the spinal cord. There are several types, including myelomeningocele, the most severe form, which can lead to significant neurological issues.
+Common Symptoms with Patient: Lower back pain, possible weakness or numbness in the legs, sacral dimple or hair tuft over the spine, possible asymmetry of the gluteal muscles, decreased muscle strength or sensation in the lower extremities, history of inadequate folic acid intake.
+Uncommon Symptoms with Patient: The patient may not exhibit other common symptoms such as hydrocephalus or learning difficulties, which are often associated with spina bifida.
+
++3 Cauda Equina Syndrome:
+Cauda equina syndrome is a serious condition caused by compression of the nerves at the lower end of the spinal cord. It requires urgent surgical intervention to prevent permanent damage.
+Common Symptoms with Patient: Lower back pain, weakness or numbness in the legs, decreased muscle strength or sensation in the lower extremities.
+Uncommon Symptoms with Patient: The patient does not have other symptoms typically associated with cauda equina syndrome, such as severe bladder and bowel dysfunction or ""saddle anesthesia"" (loss of sensation in the areas that would touch a saddle).
+
++4 Sacral Agenesis:
+Sacral agenesis is a congenital disorder characterized by the abnormal development of the lower spine. It can lead to a range of symptoms, including lower limb deformity and dysfunction.
+Common Symptoms with Patient: Lower back pain, possible weakness or numbness in the legs, sacral dimple or hair tuft over the spine, possible asymmetry of the gluteal muscles.
+Uncommon Symptoms with Patient: The patient may not show other signs of sacral agenesis, such as severe limb deformities or urogenital abnormalities.
+
++5 Diastematomyelia:
+Diastematomyelia is a rare congenital condition in which a part of the spinal cord is split, usually by a bony, cartilaginous, or fibrous septum. This can cause a tethering effect and lead to neurological symptoms.
+Common Symptoms with Patient: Lower back pain, weakness or numbness in the legs, sacral dimple or hair tuft over the spine, decreased muscle strength or sensation in the lower extremities.
+Uncommon Symptoms with Patient: The patient's history does not mention other symptoms such as scoliosis or skin abnormalities that can be associated with diastematomyelia.
+
++6 Lipomyelomeningocele:
+Lipomyelomeningocele is a form of spina bifida where a lipoma (fatty mass) is attached to the spinal cord, which can cause tethering and neurological deficits.
+Common Symptoms with Patient: Lower back pain, weakness or numbness in the legs, sacral dimple or hair tuft over the spine, decreased muscle strength or sensation in the lower extremities.
+Uncommon Symptoms with Patient: The patient's history does not mention the presence of a fatty mass in the spinal region, which is a key characteristic of lipomyelomeningocele.
+
+Further imaging and possibly referral to a specialist would be necessary to confirm any of these diagnoses and to rule out other conditions."
+Cleft lip/palate,"+1 Velocardiofacial syndrome (22q11.2 deletion syndrome):
+Common symptoms with the patient: Velocardiofacial syndrome can present with cleft palate, feeding difficulties, and speech delays due to palatal dysfunction.
+Symptoms not in common with the patient: This syndrome often includes additional features such as heart defects, learning difficulties, and characteristic facial features (e.g., elongated face, almond-shaped eyes), which have not been mentioned in the patient's presentation.
+
++2 Pierre Robin sequence:
+Common symptoms with the patient: Pierre Robin sequence is characterized by a small lower jaw (micrognathia), a tongue that is placed further back than normal (glossoptosis), and cleft palate, which can lead to feeding difficulties and nasal regurgitation.
+Symptoms not in common with the patient: The hallmark of this condition is micrognathia and glossoptosis, which are not described in the patient's symptoms.
+
++3 Cleft lip and palate:
+Common symptoms with the patient: This condition directly corresponds with the patient's symptoms, including the unilateral cleft of the upper lip and hard palate, difficulty feeding, and potential for delayed speech development.
+Symptoms not in common with the patient: The description provided aligns well with cleft lip and palate, and no additional symptoms are required for this diagnosis.
+
++4 Stickler syndrome:
+Common symptoms with the patient: Stickler syndrome can include cleft palate, which may lead to feeding difficulties and speech delays.
+Symptoms not in common with the patient: This genetic disorder also typically involves other symptoms such as eye abnormalities, hearing loss, and joint problems, which are not mentioned in the patient's presentation.
+
++5 Treacher Collins syndrome:
+Common symptoms with the patient: Treacher Collins syndrome can present with facial asymmetry and may include cleft palate, which could contribute to feeding difficulties and speech delays.
+Symptoms not in common with the patient: This condition also involves underdeveloped facial bones, and ear abnormalities, which have not been described in the patient's symptoms.
+
++6 Van der Woude syndrome:
+Common symptoms with the patient: This syndrome can present with cleft lip and/or cleft palate, which may lead to feeding difficulties and speech delays.
+Symptoms not in common with the patient: Van der Woude syndrome is also associated with lower lip pits, which have not been mentioned in the patient's presentation.
+
+Given the symptoms described, the most likely diagnosis for the patient appears to be '+3 Cleft lip and palate:', as it directly corresponds with the clinical findings without the need for additional unreported symptoms. However, further genetic testing and evaluation may be warranted to rule out syndromic forms of clefting, such as those mentioned above."
+Tumor of endocrine glands,"+1 Hypothyroidism:
+Hypothyroidism is not a rare disease, but it is a common condition that matches many of the symptoms described. It occurs when the thyroid gland does not produce enough thyroid hormones. Symptoms in common with the patient include fatigue, weight gain, feeling cold, constipation, emotional changes such as irritability or depression, muscle weakness, dry skin and hair, slowed reflexes, low blood pressure, slow heart rate, puffiness around the eyes, and an enlarged thyroid. The loss of the outer part of the eyebrow is also a classic sign. Lab tests showing elevated TSH and low T3 and T4, along with elevated cholesterol, anemia, and vitamin deficiencies, are consistent with hypothyroidism.
+
++2 Hashimoto's Thyroiditis:
+Hashimoto's thyroiditis is an autoimmune disorder and a common cause of hypothyroidism, where the immune system attacks the thyroid gland. Symptoms in common with the patient include fatigue, weight changes, feeling cold, constipation, emotional changes, muscle weakness, dry skin and hair, slowed reflexes, low blood pressure, slow heart rate, puffiness around the eyes, and an enlarged thyroid. Lab tests showing elevated TSH and low T3 and T4 support this diagnosis. However, the patient does not have symptoms such as a goiter, which is often (but not always) present in Hashimoto's thyroiditis.
+
++3 Sheehan's Syndrome:
+Sheehan's syndrome is a rare condition that occurs when a woman bleeds severely during childbirth and the pituitary gland is damaged due to loss of blood supply. Symptoms in common with the patient include fatigue, weight changes, feeling cold, constipation, and emotional changes. However, the patient does not have a history of severe postpartum hemorrhage, which is a key feature of Sheehan's syndrome.
+
++4 Myxedema Coma:
+Myxedema coma is a rare but life-threatening complication of untreated or poorly treated hypothyroidism. Symptoms in common with the patient include severe fatigue, weight changes, feeling cold, constipation, emotional changes, muscle weakness, dry skin and hair, slowed reflexes, low blood pressure, slow heart rate, puffiness around the eyes, and an enlarged thyroid. Lab tests showing elevated TSH and low T3 and T4 are also consistent with this condition. However, myxedema coma typically presents with altered mental status and hypothermia, which are not mentioned in the patient's presentation.
+
++5 Addison's Disease:
+Addison's disease, also known as primary adrenal insufficiency, is a rare disorder where the adrenal glands do not produce enough steroid hormones. Symptoms in common with the patient include fatigue, weight changes, low blood pressure, and muscle weakness. However, the patient does not have other symptoms of Addison's disease, such as hyperpigmentation or salt cravings.
+
++6 Cushing's Syndrome:
+Cushing's syndrome is a rare condition that occurs from exposure to high cortisol levels for a long time. Symptoms in common with the patient include weight changes, emotional changes such as irritability or depression, and muscle weakness. However, the patient does not have symptoms such as a rounded face, high blood pressure, or purple stretch marks, which are characteristic of Cushing's syndrome.
+
+Given the symptoms and lab findings, the most likely diagnosis for this patient is hypothyroidism, potentially due to Hashimoto's thyroiditis. Further testing, such as thyroid antibody tests, can help confirm the diagnosis and rule out other conditions. It is important to note that while some of the diseases listed are rare, the symptoms presented by the patient are most consistent with a common endocrine disorder."
+Cleft palate,"+1 Velocardiofacial syndrome (22q11.2 deletion syndrome):
+Common symptoms with the patient: Cleft palate, feeding difficulties, poor weight gain.
+Symptoms not in common with the patient: Typically, this syndrome may also present with a characteristic facial appearance, heart defects, and learning difficulties, which have not been mentioned in the patient's presentation.
+
++2 Pierre Robin sequence:
+Common symptoms with the patient: Cleft palate, difficulty feeding, poor suction, nasal regurgitation, and poor weight gain.
+Symptoms not in common with the patient: This condition is also associated with a small lower jaw (micrognathia) and a tendency for the tongue to fall back and obstruct the airway, which are not specified in the patient's symptoms.
+
++3 Cleft lip and palate:
+Common symptoms with the patient: Cleft palate, difficulty feeding, nasal regurgitation, visible defect between the lip and gum, poor weight gain.
+Symptoms not in common with the patient: This diagnosis is primarily focused on the structural abnormalities described and does not inherently include excessive crying during feedings, which could be due to other causes such as colic or discomfort.
+
++4 Congenital syphilis:
+Common symptoms with the patient: Difficulty feeding, nasal regurgitation, poor weight gain.
+Symptoms not in common with the patient: Congenital syphilis can cause a variety of symptoms including rash, hepatosplenomegaly, and bone abnormalities, which are not mentioned in the patient's presentation. Additionally, a cleft palate is not a typical feature of congenital syphilis.
+
++5 Stickler syndrome:
+Common symptoms with the patient: Cleft palate, feeding difficulties, poor weight gain.
+Symptoms not in common with the patient: Stickler syndrome often includes other features such as eye abnormalities, hearing loss, and joint problems, which have not been reported in the patient's case.
+
++6 Trisomy 13 (Patau syndrome):
+Common symptoms with the patient: Cleft palate, feeding difficulties, poor weight gain.
+Symptoms not in common with the patient: Trisomy 13 is usually associated with severe intellectual disability, heart defects, and additional physical abnormalities, which have not been described in the patient's symptoms.
+
++7 Van der Woude syndrome:
+Common symptoms with the patient: Cleft lip and palate, difficulty feeding, poor weight gain.
+Symptoms not in common with the patient: This syndrome can also present with pits or mounds on the lower lip, which has not been mentioned in the patient's presentation.
+
+Given the symptoms described, the most likely diagnosis from this list would be a cleft lip and palate, which directly correlates with the structural issues observed and the feeding difficulties experienced by the infant. However, further investigation and genetic testing may be warranted to rule out syndromic causes of cleft palate."
+"Renal agenesis, unilateral","+1 Alport Syndrome:
+Alport Syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities. Symptoms that match your patient's presentation include proteinuria and chronic kidney disease. However, the typical hearing loss and eye changes associated with Alport Syndrome are not mentioned in your patient's symptoms.
+
++2 Medullary Cystic Kidney Disease:
+This hereditary disorder leads to cyst formation in the inner part of the kidney, which can cause a reduction in glomerular filtration rate, chronic kidney disease, and sometimes hypertension. The patient's symptoms of reduced glomerular filtration rate and chronic kidney disease align with this condition. However, the presence of medullary cysts is not specified in the imaging findings you provided.
+
++3 Renal Artery Stenosis:
+Renal artery stenosis is the narrowing of one or more arteries that carry blood to the kidneys, which can lead to hypertension and atrophy of the affected kidney, resulting in a smaller kidney size and compensatory hypertrophy of the other kidney. The patient's symptoms of a smaller kidney, compensatory hypertrophy, and potentially hypertension are consistent with this condition. However, recurrent urinary tract infections are not a typical feature of renal artery stenosis.
+
++4 Polycystic Kidney Disease (PKD):
+PKD is a genetic disorder characterized by the growth of numerous cysts in the kidneys, which can lead to hypertension, chronic kidney disease, and reduced kidney function. The patient's symptoms of hypertension and chronic kidney disease could be related to PKD. However, the imaging does not mention multiple cysts, which is a hallmark of this disease, and the patient does not have a family history mentioned, which is often the case with PKD.
+
++5 Ureteropelvic Junction Obstruction:
+This condition occurs when there is a blockage in the area where the ureter joins the kidney, which can lead to urinary tract infections, pain, and a reduction in kidney function. The patient's symptoms of recurrent urinary tract infections and flank pain are consistent with this diagnosis. However, the typical hydronephrosis seen with this condition is not described in the imaging findings.
+
++6 Reflux Nephropathy:
+Reflux nephropathy is caused by the backward flow of urine from the bladder into the kidneys, leading to recurrent urinary tract infections, scarring, and potentially smaller kidney size due to damage. The patient's recurrent urinary tract infections and smaller kidney size could suggest this condition. However, the absence of a history of vesicoureteral reflux or other typical findings makes this diagnosis less certain.
+
++7 Focal Segmental Glomerulosclerosis (FSGS):
+FSGS is a disease that attacks the kidney's filtering units, causing scarring, proteinuria, and a decline in kidney function, which can lead to chronic kidney disease. The patient's symptoms of proteinuria and reduced glomerular filtration rate are consistent with FSGS. However, FSGS does not typically result in a smaller kidney size or compensatory hypertrophy of the contralateral kidney.
+
++8 Renal Tubular Acidosis:
+This is a group of disorders that involve an accumulation of acid in the body due to a failure of the kidneys to appropriately acidify the urine. While the patient does have chronic kidney disease, the symptoms of reduced glomerular filtration rate and proteinuria could be seen in this condition, the specific acid-base imbalances typical of renal tubular acidosis are not mentioned in your patient's presentation.
+
+Please note that this list is not exhaustive, and further diagnostic tests would be necessary to narrow down the potential diagnoses. Additionally, some symptoms may overlap between different diseases, making it important to consider the patient's full medical history, additional symptoms, and results from further testing."
+Pneumonia caused by Pseudomonas aeruginosa infection,"+1 Alpha-1 Antitrypsin Deficiency:
+This is a genetic disorder that can lead to lung and liver disease. Symptoms may include shortness of breath and chronic cough, which can be productive. However, this condition typically does not present with acute symptoms like fever or localized crackles in the lung, and it is not associated with an acute infiltrate on chest X-ray as seen in pneumonia.
+
+Common Symptoms: Productive cough, shortness of breath.
+Not Common Symptoms: Acute onset, fever, localized crackles, acute infiltrate on chest X-ray.
+
++2 Pulmonary Alveolar Proteinosis:
+A rare lung disease characterized by the accumulation of proteinaceous material in the alveoli, leading to impaired gas exchange. Patients may present with a cough, fever, and shortness of breath. However, the chest X-ray would typically show a ""bat-wing"" pattern or diffuse ground-glass opacities, not a localized infiltrate.
+
+Common Symptoms: Cough, shortness of breath.
+Not Common Symptoms: Localized infiltrate on chest X-ray, pleuritic chest pain.
+
++3 Lymphangioleiomyomatosis (LAM):
+A rare lung disease that affects women and can cause cough, shortness of breath, and chest pain. It is characterized by the abnormal growth of smooth muscle cells, especially in the lungs. Chest X-rays can show thin-walled cysts throughout the lungs, which is not consistent with the patient's presentation of a localized infiltrate.
+
+Common Symptoms: Cough, shortness of breath.
+Not Common Symptoms: Localized infiltrate on chest X-ray, the disease is more common in women.
+
++4 Eosinophilic Pneumonia:
+A rare disorder characterized by the accumulation of eosinophils in the lung. Patients can present with cough, fever, and shortness of breath. Chest X-ray may show infiltrates, but these are typically more diffuse and often associated with peripheral blood eosinophilia, which is not mentioned in the patient's labs.
+
+Common Symptoms: Cough, fever, shortness of breath.
+Not Common Symptoms: Localized infiltrate on chest X-ray, absence of peripheral eosinophilia.
+
++5 Pulmonary Embolism (PE):
+While not extremely rare, PE can sometimes be overlooked. It presents with shortness of breath, chest pain that can be pleuritic, tachycardia, and sometimes cough. The chest X-ray may be normal or show atelectasis or an effusion, but not typically a localized infiltrate as seen in pneumonia.
+
+Common Symptoms: Pleuritic chest pain, shortness of breath, tachycardia.
+Not Common Symptoms: Productive cough, localized infiltrate on chest X-ray.
+
+Given the patient's symptoms and the findings on the chest X-ray, the most likely diagnosis is not a rare disease but rather a common case of bacterial pneumonia, which is consistent with the patient's presentation of fever, productive cough, leukocytosis with neutrophil predominance, and a localized infiltrate on chest X-ray."
+"47,XYY syndrome","+1 Klinefelter Syndrome:
+Common Symptoms: The patient's tall stature and learning disabilities are consistent with Klinefelter Syndrome, which is often associated with an extra X chromosome rather than an extra Y, but variations exist. 
+Non-Common Symptoms: Typically, Klinefelter Syndrome is characterized by hypogonadism and reduced fertility, which are not mentioned in the patient's presentation.
+
++2 XYY Syndrome:
+Common Symptoms: The presence of an extra Y chromosome is a defining characteristic of XYY Syndrome. The patient's tall stature, behavioral concerns such as attention difficulties and impulsivity, and delayed developmental milestones align with this condition.
+Non-Common Symptoms: The patient's physical exam findings of macrocephaly, hypertelorism, and clinodactyly are not classic features of XYY Syndrome but can be variably present.
+
++3 Fragile X Syndrome:
+Common Symptoms: Behavioral issues, including attention difficulties and learning disabilities, are common in Fragile X Syndrome. Additionally, macrocephaly is a feature that can be associated with this condition.
+Non-Common Symptoms: Fragile X Syndrome is typically caused by a mutation in the FMR1 gene on the X chromosome, not an extra Y chromosome. Physical features such as hypertelorism and clinodactyly are not typical of Fragile X Syndrome.
+
++4 Marfan Syndrome:
+Common Symptoms: Tall stature and some skeletal abnormalities such as clinodactyly can be seen in Marfan Syndrome.
+Non-Common Symptoms: Marfan Syndrome is not typically associated with an extra Y chromosome, behavioral concerns, or learning disabilities. It is also characterized by cardiovascular and ocular issues, which are not mentioned in the patient's presentation.
+
++5 22q11.2 Deletion Syndrome (DiGeorge Syndrome):
+Common Symptoms: Some dysmorphic features like hypertelorism can be seen in 22q11.2 Deletion Syndrome. Learning disabilities and developmental delays are also common in this condition.
+Non-Common Symptoms: The presence of an extra Y chromosome is not associated with 22q11.2 Deletion Syndrome. Additionally, this syndrome often includes cardiac anomalies and immune deficiencies, which are not described in the patient's case.
+
+Given the patient's symptoms and the genetic testing results revealing an extra Y chromosome, the most likely diagnosis from this list would be XYY Syndrome (+2). However, a thorough evaluation and consideration of the full clinical picture are necessary to confirm the diagnosis and rule out other conditions."
+Iniencephaly ,"+1 Ankylosing Spondylitis:
+Common Symptoms: Ankylosing spondylitis often presents with back pain and stiffness, which can be more pronounced in the morning or after periods of inactivity. Neck stiffness and reduced spinal range of motion are also common features of this condition.
+Not Present Symptoms: Patients with ankylosing spondylitis may also experience symptoms such as fatigue, eye inflammation, and in advanced cases, a more pronounced spinal curvature than what is described. The patient's normal strength and reflexes in the arms and legs are not typical for advanced stages of ankylosing spondylitis, which can sometimes lead to neurological deficits.
+
++2 Cervical Spondylosis:
+Common Symptoms: Cervical spondylosis is characterized by neck stiffness and reduced range of motion in the cervical spine, which aligns with the patient's symptoms. The mild posterior midline protrusion could be indicative of degenerative disc disease or osteophyte formation, which are common in cervical spondylosis.
+Not Present Symptoms: Symptoms not mentioned include radicular pain, which can occur if nerve roots are compressed. The patient's normal strength and reflexes suggest that there is no significant nerve compression at this time.
+
++3 Chiari Malformation:
+Common Symptoms: A Chiari malformation can present with neck stiffness and headaches, which may be related to the mild backache described. Reduced cervical spine range of motion can also be a feature of this condition.
+Not Present Symptoms: Common symptoms not present include occipital headaches (often exacerbated by coughing or straining), coordination problems, and sometimes syringomyelia-related symptoms such as atrophy of hand muscles. The patient's normal strength and reflexes do not align with the more severe neurological deficits often seen in Chiari malformation.
+
++4 Spinal Tumor:
+Common Symptoms: Spinal tumors can present with back pain and spinal deformity, which could correlate with the mild posterior midline protrusion. Neck stiffness and reduced range of motion can also occur if the tumor affects the cervical spine.
+Not Present Symptoms: However, spinal tumors often cause localized neurological deficits due to compression of the spinal cord or nerve roots, which is not indicated by the patient's normal strength and reflexes. Other symptoms like weight loss, night sweats, or a history of cancer could also be relevant but are not mentioned.
+
++5 Osteoporosis with Vertebral Fracture:
+Common Symptoms: Osteoporosis can lead to vertebral fractures, which may present with back pain and spinal deformities, potentially explaining the mild posterior midline protrusion.
+Not Present Symptoms: Acute vertebral fractures are often associated with sharp, sudden back pain and limited mobility, which does not completely align with the mild backache described. The patient's normal strength and reflexes are not typical for acute fractures, where more pronounced pain and potential neurological compromise might be expected.
+
++6 Forestier's Disease (Diffuse Idiopathic Skeletal Hyperostosis - DISH):
+Common Symptoms: Forestier's Disease can cause stiffness and reduced range of motion in the spine, aligning with the patient's neck stiffness and reduced cervical spine range of motion.
+Not Present Symptoms: The disease typically presents with calcification along the sides of the vertebrae, which is not specifically mentioned. Additionally, symptoms such as dysphagia or respiratory issues due to large osteophytes may be present but are not indicated here.
+
+Please note that this list is not exhaustive, and the presence of common symptoms does not necessarily indicate a diagnosis. Further imaging, such as MRI or CT scans, and consultation with specialists are essential to reach an accurate diagnosis and to rule out other conditions."
+Rare cutaneous lupus erythematosus,"+1 Porphyria Cutanea Tarda (PCT):
+PCT is a type of porphyria that affects the skin and is characterized by photosensitivity, leading to blisters, erosions, and scarring on sun-exposed areas. The patient's symptoms of a red, scaly rash on sun-exposed areas align with the photosensitivity seen in PCT. However, PCT typically presents with blisters rather than just a scaly rash, and there is no mention of urine discoloration or liver dysfunction, which are common in PCT. The positive ANA is not a typical finding for PCT.
+
++2 Dermatomyositis:
+Dermatomyositis is an autoimmune condition that affects the skin and muscles, presenting with a distinctive rash, often violet or dusky red, over the face, knuckles, neck, shoulders, upper chest, and back. The patient's red, scaly rash and positive ANA could suggest dermatomyositis. However, the lack of muscle weakness, which is a hallmark of the condition, and the absence of Gottron's papules or heliotrope rash make this diagnosis less likely.
+
++3 Lupus Erythematosus:
+Lupus is an autoimmune disease that can affect multiple organ systems. Cutaneous lupus erythematosus can present with a malar rash or discoid rash, which is often photosensitive and can lead to hyperpigmentation. The patient's rash in a photodistribution pattern and positive ANA are consistent with lupus. However, the absence of other systemic symptoms such as oral ulcers or joint complaints makes systemic lupus erythematosus less likely, though cutaneous lupus remains a possibility.
+
++4 Polymorphous Light Eruption (PMLE):
+PMLE is a skin condition caused by a reaction to sunlight that results in a rash on sun-exposed areas. The patient's symptoms of a worsening rash with sun exposure could suggest PMLE. However, PMLE typically presents with an itchy rash that appears hours to days after sun exposure and resolves over time, which does not fully align with the patient's presentation. Additionally, PMLE is not associated with a positive ANA.
+
++5 Actinic Prurigo:
+Actinic prurigo is a form of photodermatosis that leads to intensely itchy lesions on sun-exposed areas. The patient's rash on sun-exposed areas could be consistent with actinic prurigo. However, actinic prurigo usually presents with pruritic papules, nodules, or plaques, and the patient does not report itching. The positive ANA is not characteristic of actinic prurigo.
+
++6 Subacute Cutaneous Lupus Erythematosus (SCLE):
+SCLE is a subtype of lupus that primarily affects the skin, presenting with non-scarring lesions that appear on sun-exposed areas. The patient's photosensitive rash and positive ANA are consistent with SCLE. The absence of systemic symptoms such as oral ulcers or joint complaints is also in line with SCLE, which tends to have a more benign course than systemic lupus erythematosus.
+
+Given the patient's presentation, SCLE seems to be a plausible diagnosis, but a dermatology referral for a skin biopsy and further evaluation would be necessary to confirm the diagnosis and rule out other conditions."
+Congenital bilateral absence of vas deferens,"+1 Kallmann Syndrome:
+Kallmann syndrome is a genetic condition that can lead to delayed or absent puberty and an impaired sense of smell. It is often associated with hypogonadotropic hypogonadism, which can result in infertility due to low levels of sex hormones affecting sperm production. However, this patient reports normal development through puberty, which is not consistent with Kallmann syndrome. Additionally, the normal FSH and LH levels do not align with the typical findings of hypogonadotropic hypogonadism seen in Kallmann syndrome.
+
++2 Kartagener Syndrome:
+Kartagener syndrome is a rare genetic disorder characterized by the combination of situs inversus (reversal of organ placement), chronic sinusitis, bronchiectasis, and infertility. The infertility in males is often due to immotile sperm as a result of defects in the cilia. While this patient presents with infertility, he does not exhibit any of the respiratory or anatomical abnormalities associated with Kartagener syndrome, making this diagnosis less likely.
+
++3 Cystic Fibrosis:
+Cystic fibrosis is a genetic disorder that affects the respiratory, digestive, and reproductive systems. It can lead to the obstruction of the vas deferens, which can cause azoospermia and infertility in males. However, the absence of respiratory or digestive symptoms and the normal physical exam findings make cystic fibrosis an unlikely diagnosis for this patient.
+
++4 Non-Obstructive Azoospermia:
+Non-obstructive azoospermia is a condition where the testes produce an insufficient number of sperm, leading to azoospermia without any blockage in the reproductive tract. This diagnosis is consistent with the patient's presentation of azoospermia with normal ejaculate volume, pH, and fructose levels, as well as normal FSH, LH, and testosterone levels. However, further investigation would be needed to confirm this diagnosis, including genetic testing and possibly a testicular biopsy.
+
++5 Y Chromosome Microdeletions:
+Y chromosome microdeletions are genetic abnormalities that can affect male fertility. These deletions can lead to azoospermia or severe oligospermia (very low sperm count). The patient's normal hormone levels and lack of other symptoms may be consistent with this condition. Genetic testing would be required to confirm the presence of Y chromosome microdeletions.
+
++6 Sertoli Cell-Only Syndrome:
+Sertoli cell-only syndrome is a condition where the seminiferous tubules in the testes only contain Sertoli cells, with no germ cells present to produce sperm. This can result in azoospermia, as seen in this patient. The normal testicular exam without masses or tenderness and the normal hormone levels could be consistent with this syndrome. A testicular biopsy would be necessary to diagnose Sertoli cell-only syndrome definitively.
+
+Given the patient's symptoms and test results, the most likely diagnoses to consider would be non-obstructive azoospermia, Y chromosome microdeletions, or Sertoli cell-only syndrome. Further diagnostic tests, including genetic testing and possibly a testicular biopsy, would be helpful in reaching a definitive diagnosis."
+Ovarian cancer,"+1 Ovarian Cancer:
+Ovarian cancer is a type of cancer that begins in the ovaries and is more common in women after the age of 50. Symptoms the patient has in common with ovarian cancer include persistent abdominal bloating, pelvic pain, increasing urinary frequency and urgency, and a palpable mass in the abdomen. The elevated CA-125 level and imaging showing complex adnexal masses are also consistent with ovarian cancer. Symptoms the patient does not have in common with ovarian cancer include vomiting, which she does not experience.
+
++2 Leiomyosarcoma of the Uterus:
+Leiomyosarcoma is a rare type of cancer that occurs in smooth muscle tissue, which can include the uterus. Symptoms the patient has in common with leiomyosarcoma of the uterus include pelvic pain and a palpable mass in the abdomen. However, leiomyosarcoma typically does not cause elevated CA-125 levels or complex adnexal masses, which are more characteristic of ovarian pathology.
+
++3 Meigs' Syndrome:
+Meigs' syndrome is a rare condition characterized by the triad of ovarian fibroma, ascites, and pleural effusion. Symptoms the patient has in common with Meigs' syndrome include abdominal bloating and a palpable mass, which could be an ovarian fibroma. However, the patient does not have ascites or pleural effusion, which are key components of Meigs' syndrome.
+
++4 Ovarian Fibroma:
+Ovarian fibroma is a benign tumor of the ovary that can cause similar symptoms to ovarian cancer. Symptoms the patient has in common with ovarian fibroma include a palpable mass in the abdomen and pelvic pain. However, ovarian fibromas are typically not associated with elevated CA-125 levels or complex adnexal masses on imaging.
+
++5 Lymphoma:
+Lymphoma is a type of blood cancer that can present with abdominal masses. Symptoms the patient has in common with lymphoma include a palpable mass in the abdomen and abdominal bloating. However, lymphoma typically presents with systemic symptoms such as night sweats, fever, and weight loss, which the patient does not report. Additionally, lymphoma would not typically cause an elevated CA-125 level or complex adnexal masses.
+
++6 Metastatic Disease to the Ovary:
+Metastatic disease to the ovary can occur from primary cancers elsewhere in the body, such as the breast or gastrointestinal tract. Symptoms the patient has in common with metastatic disease to the ovary include a palpable mass in the abdomen, abdominal bloating, and pelvic pain. The elevated CA-125 level and complex adnexal masses could also be consistent with metastatic disease. However, the patient has no significant past medical history, which makes a primary cancer elsewhere less likely.
+
++7 Endometrioid Tumors:
+Endometrioid tumors are a type of ovarian neoplasm that can mimic the symptoms of ovarian cancer. Symptoms the patient has in common with endometrioid tumors include pelvic pain, abdominal bloating, and a palpable mass in the abdomen. Elevated CA-125 levels and complex adnexal masses on imaging are also possible with endometrioid tumors. However, these tumors are often associated with endometriosis, which is not mentioned in the patient's history.
+
+Given the patient's symptoms, lab work, and imaging results, ovarian cancer seems to be the most likely diagnosis. However, further diagnostic procedures, such as a biopsy, would be necessary to confirm the diagnosis and rule out other potential rare diseases."
+Primary Sjögren syndrome,"+1 Sjögren's Syndrome:
+Sjögren's Syndrome is an autoimmune disorder characterized by the body's immune system attacking its own moisture-producing glands. Common symptoms include dry eyes and dry mouth, which align with the patient's complaints. Joint pain, fatigue, and enlarged parotid glands are also consistent with this condition. The positive ANA (antinuclear antibody test), elevated ESR (erythrocyte sedimentation rate), and CRP (C-reactive protein) support an autoimmune process. However, the patient's intermittent low-grade fevers and myalgias are not specific to Sjögren's Syndrome but can be seen in various autoimmune disorders.
+
++2 Rheumatoid Arthritis:
+Rheumatoid Arthritis (RA) is a chronic inflammatory disorder affecting the joints. It can cause joint pain, fatigue, and elevated inflammatory markers such as ESR and CRP, which the patient exhibits. RA can also lead to Sjögren's Syndrome as a secondary condition, which could explain the dry eyes and mouth. However, the specific enlargement of the parotid glands and a positive Schirmer's test are more typical of primary Sjögren's Syndrome than RA.
+
++3 Systemic Lupus Erythematosus (SLE):
+SLE is a systemic autoimmune disease that can affect multiple organ systems. Symptoms can include joint pain, fatigue, and dry eyes/mouth, as well as fever and myalgias, which the patient reports. The positive ANA is also a common finding in SLE. However, the presence of enlarged parotid glands is not a hallmark of SLE, and while SLE can cause sicca symptoms (dryness), it is less commonly associated with a positive Schirmer's test compared to Sjögren's Syndrome.
+
++4 Mixed Connective Tissue Disease (MCTD):
+MCTD is a rare autoimmune disorder that has features of several connective tissue diseases, including SLE, scleroderma, and polymyositis. Patients may experience joint pain, fatigue, myalgias, and fever, which are present in this patient. The positive ANA and elevated inflammatory markers are also consistent with MCTD. However, the specific symptoms of dry eyes and mouth and parotid gland enlargement are not as characteristic of MCTD as they are of Sjögren's Syndrome.
+
++5 Polymyalgia Rheumatica:
+Polymyalgia Rheumatica is an inflammatory disorder that causes muscle pain and stiffness, particularly in the shoulders and hips. It is associated with fatigue, low-grade fever, and elevated inflammatory markers like ESR and CRP. However, this condition does not typically cause dry eyes, dry mouth, or parotid gland enlargement, making it less likely in this patient's case.
+
+Based on the symptoms and lab findings presented, Sjögren's Syndrome (+1) appears to be the most likely diagnosis for this patient. However, further evaluation and possibly a lip biopsy or additional specific autoantibody testing (such as anti-Ro/SSA and anti-La/SSB) would be helpful in confirming the diagnosis and ruling out other potential conditions."
+B-cell chronic lymphocytic leukemia,"'+1' Chronic Lymphocytic Leukemia (CLL):
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes, high white blood cell count with many small, mature lymphocytes, monoclonal lymphocytosis with clonal B-cells, night sweats.
+Uncommon Symptoms with Patient: Typically, CLL may present with fevers and cytopenias, which the patient denies.
+
+'+2' Small Lymphocytic Lymphoma (SLL):
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes, high white blood cell count with many small, mature lymphocytes, monoclonal lymphocytosis with clonal B-cells.
+Uncommon Symptoms with Patient: SLL is often considered the same disease as CLL but with the primary involvement in lymph nodes rather than blood. The patient does not have significant organomegaly, which can be seen in SLL.
+
+'+3' Non-Hodgkin Lymphoma (NHL):
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes, night sweats.
+Uncommon Symptoms with Patient: NHL encompasses a diverse group of lymphomas, some of which may present with organomegaly and cytopenias, which the patient does not have.
+
+'+4' Waldenström's Macroglobulinemia:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged lymph nodes, high white blood cell count.
+Uncommon Symptoms with Patient: Waldenström's typically presents with high levels of IgM and symptoms related to hyperviscosity, such as visual disturbances and neurological symptoms, which the patient does not report.
+
+'+5' Hairy Cell Leukemia:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, high white blood cell count.
+Uncommon Symptoms with Patient: Hairy cell leukemia usually presents with pancytopenia and splenomegaly, which the patient does not have.
+
+'+6' Marginal Zone Lymphoma:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes.
+Uncommon Symptoms with Patient: Marginal zone lymphoma may present with organomegaly, which the patient does not have, and the lymphocytosis is not typically monoclonal.
+
+'+7' Mantle Cell Lymphoma:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes, night sweats.
+Uncommon Symptoms with Patient: Mantle cell lymphoma often presents with a more aggressive course and may show cytopenias and significant organomegaly, which the patient does not have.
+
+'+8' Follicular Lymphoma:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes.
+Uncommon Symptoms with Patient: Follicular lymphoma is typically indolent but can transform into a more aggressive disease. The patient's lack of significant organomegaly and cytopenias is less common in this disease.
+
+'+9' T-cell Prolymphocytic Leukemia:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes.
+Uncommon Symptoms with Patient: This leukemia is more aggressive and usually presents with a high white blood cell count, but with prolymphocytes and not small mature lymphocytes. It also often presents with skin lesions and significant organomegaly, which the patient does not have.
+
+'+10' Lymphoplasmacytic Lymphoma:
+Common Symptoms with Patient: Fatigue, weight loss, frequent infections, enlarged non-tender lymph nodes, high white blood cell count.
+Uncommon Symptoms with Patient: This type of lymphoma is associated with IgM paraprotein and symptoms of hyperviscosity, neither of which are reported in the patient's presentation.
+
+Given the patient's symptoms and lab findings, the most likely diagnosis would be '+1' Chronic Lymphocytic Leukemia (CLL) or '+2' Small Lymphocytic Lymphoma (SLL), as these conditions best match the overall clinical picture. However, further diagnostic testing is essential to confirm the diagnosis and rule out other possibilities."
+Congenital hydrocephalus,"+1 Hydrocephalus:
+Hydrocephalus is a condition where there is an accumulation of cerebrospinal fluid (CSF) within the ventricles of the brain, which can lead to increased intracranial pressure. This can cause an increase in head size, full and bulging fontanelles, and sunset eyes, all of which are present in the patient. Developmental delays and poor head control are also consistent with hydrocephalus. However, without further information, we cannot confirm additional symptoms such as vomiting, irritability, or seizures that might be associated with this condition.
+
++2 Craniosynostosis:
+Craniosynostosis is a rare condition where one or more of the sutures in an infant's skull close prematurely, resulting in an abnormally shaped head and potentially increased intracranial pressure. The patient's increasing head size and full fontanelles could suggest this condition. However, craniosynostosis typically presents with an abnormal head shape rather than just an enlarged head circumference, and the patient's symptoms do not include any mention of an abnormal head shape.
+
++3 Alexander Disease:
+Alexander disease is a rare form of leukodystrophy that often presents in infancy with macrocephaly (an abnormally large head), developmental delay, and seizures. The patient's increasing head size and developmental delays are consistent with Alexander disease. However, the patient does not exhibit seizures, which are commonly associated with this disease. Further genetic testing would be required to confirm this diagnosis.
+
++4 Dandy-Walker Syndrome:
+Dandy-Walker Syndrome is a congenital brain malformation involving the cerebellum and the fluid-filled spaces around it. It is characterized by an enlarged fourth ventricle, a partially or completely absent cerebellar vermis, and cyst formation near the internal base of the skull. The patient's symptoms of increasing head size, developmental delays, and poor head control could be indicative of this syndrome. However, additional symptoms such as ataxia or rapid eye movements are not mentioned.
+
++5 Achondroplasia:
+Achondroplasia is a form of short-limbed dwarfism. While macrocephaly is a common feature, it is usually accompanied by characteristic facial features and skeletal abnormalities, which are not described in the patient's presentation. Developmental delays can occur, but the primary concerns in achondroplasia are typically related to skeletal development, not intracranial pressure.
+
++6 Benign External Hydrocephalus:
+Benign external hydrocephalus, also known as ""benign enlargement of the subarachnoid spaces,"" is a condition where there is an accumulation of CSF in the subarachnoid space, particularly over the frontal lobes. It is often characterized by macrocephaly, and infants may present with developmental delays. The patient's symptoms of an increasing head size and developmental delays could fit this condition. However, the presence of full and bulging fontanelles and sunset eyes suggests increased intracranial pressure, which is less common in benign external hydrocephalus.
+
+Each of these potential diagnoses would require further investigation, including neuroimaging such as an MRI or CT scan, to evaluate the brain structure and the extent of any fluid accumulation. Genetic testing, metabolic studies, and consultation with a pediatric neurologist or neurosurgeon may also be necessary to arrive at a definitive diagnosis and appropriate treatment plan."
+Necrotizing enterocolitis,"+1 Hirschsprung's Disease:
+Hirschsprung's disease is a rare condition that affects the large intestine (colon) and causes problems with passing stool. It is present at birth (congenital) as a result of missing nerve cells in the muscles of the baby's colon. 
+Common Symptoms with Patient: Abdominal distension, feeding intolerance.
+Uncommon Symptoms with Patient: Typically presents in newborns, would likely show a more distinct pattern of bowel obstruction on imaging, and may not have metabolic acidosis unless complications have arisen.
+
++2 Intestinal Pseudo-Obstruction:
+Intestinal pseudo-obstruction is a condition with symptoms like those caused by a blockage of the intestines, but no actual blockage is present. It is a rare disorder characterized by impaired muscular contraction of the intestines.
+Common Symptoms with Patient: Abdominal distension, hypoactive bowel sounds, early signs of bowel obstruction on x-ray without a clear mechanical cause.
+Uncommon Symptoms with Patient: The condition is chronic and often presents with more severe symptoms over time, including nausea, vomiting, and severe abdominal pain.
+
++3 Superior Mesenteric Artery Syndrome (SMAS):
+SMAS is a rare, life-threatening gastro-vascular disorder characterized by compression of the third portion of the duodenum between the abdominal aorta and the overlying superior mesenteric artery. This can lead to symptoms of partial bowel obstruction.
+Common Symptoms with Patient: Abdominal distension, early signs of bowel obstruction on x-ray.
+Uncommon Symptoms with Patient: SMAS typically presents with more severe symptoms including vomiting, which is not mentioned in the patient's presentation.
+
++4 Volvulus:
+Volvulus is a condition in which a loop of the intestine twists around itself and the mesentery that supports it, which can lead to a bowel obstruction. It is a rare condition but can cause severe complications if not treated promptly.
+Common Symptoms with Patient: Abdominal distension, hypoactive bowel sounds, signs of bowel obstruction on x-ray.
+Uncommon Symptoms with Patient: Volvulus typically presents with more acute onset of symptoms and severe pain, often with signs of a more complete obstruction on imaging.
+
++5 Ischemic Bowel Disease:
+Ischemic bowel disease occurs when blood flow to a part of the intestine is reduced, typically due to a blockage in an artery. It can lead to tissue death and damage if not treated quickly.
+Common Symptoms with Patient: Abdominal distension, mild metabolic acidosis, hypoactive bowel sounds, and concerns for early bowel obstruction which could be due to compromised bowel wall integrity.
+Uncommon Symptoms with Patient: The patient does not exhibit signs of severe pain, bloody stools, or other more definitive symptoms of ischemia such as gangrene or perforation.
+
++6 Chronic Intestinal Pseudo-Obstruction (CIPO):
+CIPO is a rare disorder characterized by recurrent episodes of bowel obstruction symptoms without any mechanical cause. It is a severe form of intestinal pseudo-obstruction with symptoms that can be similar to those of a true obstruction.
+Common Symptoms with Patient: Abdominal distension, hypoactive bowel sounds, and signs of bowel obstruction on x-ray.
+Uncommon Symptoms with Patient: CIPO is a chronic condition that would typically present with a history of similar episodes and possibly other symptoms such as weight loss and malnutrition.
+
+Please note that these are potential rare diseases based on the symptoms provided, and further diagnostic tests would be necessary to confirm any diagnosis. It is also important to consider more common conditions that could present with similar symptoms."
+Preeclampsia,"+1 Preeclampsia:
+Preeclampsia is a condition that occurs in pregnant women, typically after 20 weeks of gestation, and is characterized by new onset hypertension and proteinuria. Symptoms and findings in common with the patient include elevated blood pressure, proteinuria, edema, headache, visual changes, epigastric pain, elevated liver enzymes, and low platelet count. This condition can have serious consequences for both the mother and the fetus if not managed properly.
+
++2 HELLP Syndrome:
+HELLP Syndrome is a severe form of preeclampsia that involves hemolysis (H), elevated liver enzymes (EL), and low platelet count (LP). Symptoms and findings in common with the patient include elevated blood pressure, proteinuria, headache, visual changes, epigastric pain, elevated liver enzymes, and low platelet count. The patient does not have symptoms of hemolysis, which would typically include anemia and jaundice, but this condition could still be a possibility given the other findings.
+
++3 Acute Fatty Liver of Pregnancy (AFLP):
+Acute Fatty Liver of Pregnancy is a rare but serious complication of pregnancy that typically occurs in the third trimester. Symptoms and findings in common with the patient include hypertension, headache, visual changes, epigastric pain, elevated liver enzymes, and low platelet count. However, the patient does not exhibit some of the other symptoms commonly associated with AFLP, such as jaundice, nausea, vomiting, and malaise.
+
++4 Thrombotic Thrombocytopenic Purpura (TTP):
+Thrombotic Thrombocytopenic Purpura is a rare blood disorder that can occur in pregnancy and is characterized by thrombocytopenia and microangiopathic hemolytic anemia. Symptoms and findings in common with the patient include headache, visual changes, elevated liver enzymes, and low platelet count. However, the patient does not exhibit the classic pentad of TTP symptoms, which includes fever and neurologic symptoms, in addition to the findings mentioned.
+
++5 Eclampsia:
+Eclampsia is a severe complication of preeclampsia that involves the onset of seizures in a woman with preeclampsia. Symptoms and findings in common with the patient include new onset hypertension, proteinuria, headache, visual changes, and epigastric pain. The patient has not experienced seizures, which is a defining feature of eclampsia, but the presence of other symptoms warrants close monitoring for the development of this condition.
+
+Given the symptoms and lab findings, the most likely diagnosis for this patient is preeclampsia, with a consideration for the progression to HELLP syndrome. Immediate management and further investigation are crucial to ensure the safety of both the mother and the fetus."
+Asherman syndrome,"+1 Asherman's Syndrome:
+Asherman's Syndrome is characterized by the formation of intrauterine adhesions, which can lead to amenorrhea, infertility, and sometimes cyclic pelvic pain due to hematometra. This condition often occurs after a dilation and curettage procedure. The patient's symptoms of amenorrhea and infertility, along with the finding of a stenotic cervical os and scarring within the uterine cavity, are consistent with Asherman's Syndrome. However, the patient does not report any symptoms that are not in common with Asherman's Syndrome based on the information provided.
+
++2 Mayer-Rokitansky-Küster-Hauser (MRKH) Syndrome:
+MRKH Syndrome is a rare disorder that affects the female reproductive system, leading to the congenital absence of the uterus and the upper part of the vaginal canal. Patients with MRKH typically present with primary amenorrhea but have normal secondary sexual characteristics and functioning ovaries. The patient's symptoms of amenorrhea could be seen in MRKH; however, the presence of a uterine cavity, even with scarring, and the history of a dilation and curettage procedure are not consistent with MRKH Syndrome.
+
++3 Mullerian Agenesis:
+Mullerian Agenesis, similar to MRKH Syndrome, involves the congenital absence or underdevelopment of the uterus and upper vagina. Patients present with primary amenorrhea but do not typically experience infertility related to previous surgical procedures or cyclic pelvic pain due to hematometra. The patient's history of menstruation prior to the cessation of periods and the dilation and curettage procedure does not align with Mullerian Agenesis.
+
++4 Uterine Synechiae:
+Uterine Synechiae involves the presence of adhesions within the uterine cavity, which can result from infections, surgeries, or trauma to the uterine lining. This condition can lead to menstrual irregularities, amenorrhea, and infertility. The patient's symptoms and the findings of scarring within the uterine cavity are consistent with Uterine Synechiae. There are no reported symptoms that do not match this condition based on the provided information.
+
++5 Endometrial Tuberculosis:
+Endometrial Tuberculosis is a rare form of extrapulmonary tuberculosis that affects the lining of the uterus. It can cause menstrual irregularities, amenorrhea, infertility, and intrauterine adhesions. While the patient's symptoms could suggest Endometrial Tuberculosis, there is no mention of systemic symptoms such as fever, night sweats, or weight loss that are often associated with tuberculosis. Further testing, such as endometrial biopsy and culture, would be needed to explore this diagnosis.
+
++6 Hypothalamic Amenorrhea:
+Hypothalamic Amenorrhea is a condition where the hypothalamus stops producing gonadotropin-releasing hormone (GnRH), leading to a cessation of menstrual periods and infertility. It is often associated with stress, significant weight loss, or excessive exercise. The patient's symptoms of amenorrhea and infertility could be seen in Hypothalamic Amenorrhea; however, the presence of intrauterine adhesions and a stenotic cervical os are not typical features of this condition.
+
+Given the patient's history and symptoms, the most likely diagnosis is Asherman's Syndrome or Uterine Synechiae. Further imaging and hysteroscopic evaluation will be crucial in confirming the diagnosis and guiding the appropriate management."
+Renal dysplasia,"+1 Alport Syndrome:
+Alport Syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities. Patients often present with hematuria, proteinuria, and progressive renal failure. While this patient has symptoms such as hematuria and proteinuria, they do not exhibit hearing loss or eye abnormalities, which are also common in Alport Syndrome.
+
++2 Polycystic Kidney Disease (PKD):
+PKD is a genetic disorder that causes multiple cysts to form in the kidneys, leading to enlarged kidneys and renal dysfunction. Symptoms include hypertension, kidney pain, and urinary tract infections. The patient's history of recurrent urinary tract infections and chronic kidney disease align with PKD, but the absence of hypertension and the description of small and irregular kidneys rather than enlarged kidneys with cysts suggest this may not be the correct diagnosis.
+
++3 Medullary Cystic Kidney Disease:
+This hereditary condition leads to cyst formation in the medulla of the kidneys and eventual kidney failure. Patients typically present with symptoms of chronic kidney disease, such as elevated serum creatinine and abnormal urinalysis. However, the patient's renal imaging showing small and irregular kidneys is not typical for this condition, which usually presents with medullary cysts.
+
++4 Renal Dysplasia:
+Renal dysplasia is a congenital malformation of the renal parenchyma, where the kidneys do not develop normally. It can present with abnormal renal imaging, chronic kidney disease, and urinary tract infections. The patient's symptoms of abnormal renal imaging, recurrent urinary tract infections, and chronic kidney disease are consistent with renal dysplasia.
+
++5 Fabry Disease:
+Fabry Disease is a rare genetic disorder caused by the buildup of a particular type of fat in the body's cells. It can lead to kidney damage, as well as heart and skin manifestations. While the patient does have kidney involvement, they do not present with other common symptoms such as angiokeratomas or cardiovascular issues, making this diagnosis less likely.
+
++6 Bartter Syndrome:
+Bartter Syndrome is a group of rare inherited disorders that affect the kidneys' ability to reabsorb sodium. Patients often present with symptoms like hypokalemia, metabolic alkalosis, and normal to low blood pressure. The patient's normal vital signs and lack of edema do not fit the typical presentation of Bartter Syndrome.
+
++7 Nephronophthisis:
+Nephronophthisis is a genetic disorder that causes inflammation and scarring in the kidneys. It often leads to kidney failure in children and young adults. The patient's symptoms of abnormal renal imaging and chronic kidney disease could be consistent with nephronophthisis, but the disease typically presents in a younger demographic and may be associated with extrarenal manifestations, which are not described in this patient.
+
++8 Dense Deposit Disease (DDD):
+DDD, also known as membranoproliferative glomerulonephritis type II, is a rare disease that affects the kidneys' filtering system, leading to proteinuria, hematuria, and renal insufficiency. The patient's abnormal urinalysis with proteinuria and hematuria aligns with DDD, but additional immunofluorescence studies would be needed to confirm this diagnosis.
+
+In summary, based on the patient's presentation, diseases such as Renal Dysplasia and Nephronophthisis could be higher on the differential diagnosis list, but further diagnostic workup is essential to narrow down the possibilities and reach a definitive diagnosis."
+Diffuse large B-cell lymphoma,"+1 Hodgkin's Lymphoma:
+Hodgkin's lymphoma is a type of cancer that originates from white blood cells called lymphocytes. It typically presents with painless enlargement of lymph nodes, night sweats, fever, and weight loss, which are symptoms your patient has. Elevated lactate dehydrogenase can also be seen in Hodgkin's lymphoma. However, the diagnosis would require a biopsy of the lymph nodes to confirm the presence of characteristic Reed-Sternberg cells.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes.
+Uncommon Symptoms with Patient: Presence of Reed-Sternberg cells (requires biopsy for confirmation).
+
++2 Non-Hodgkin's Lymphoma:
+Non-Hodgkin's lymphoma is a diverse group of blood cancers that include any type of lymphoma except Hodgkin's lymphomas. Symptoms can include swollen, painless lymph nodes, fever, night sweats, weight loss, and fatigue. Elevated lactate dehydrogenase levels can also be associated with this disease. A biopsy and further imaging would be necessary to differentiate it from Hodgkin's lymphoma.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes, elevated lactate dehydrogenase.
+Uncommon Symptoms with Patient: Specific subtype characteristics (requires biopsy and imaging for confirmation).
+
++3 Tuberculosis (TB):
+Tuberculosis is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It commonly affects the lungs but can also involve lymph nodes (scrofula). Symptoms can include fatigue, fever, night sweats, and weight loss. Enlarged lymph nodes can occur, especially in extrapulmonary TB. Elevated lactate dehydrogenase is not typically associated with TB, but it can be elevated in many conditions.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes.
+Uncommon Symptoms with Patient: Elevated lactate dehydrogenase (not typical for TB), cough or respiratory symptoms (if pulmonary TB is present).
+
++4 Lymphoma:
+Lymphoma is a general term for cancers that originate in the lymphatic system. The symptoms can overlap with both Hodgkin's and Non-Hodgkin's lymphoma, including enlarged lymph nodes, fever, night sweats, weight loss, and fatigue. Elevated lactate dehydrogenase is a common finding in patients with lymphoma. Diagnosis requires a lymph node biopsy.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes, elevated lactate dehydrogenase.
+Uncommon Symptoms with Patient: Specific subtype characteristics (requires biopsy for confirmation).
+
++5 Castleman Disease:
+Castleman disease is a rare disorder that involves an overgrowth of cells in the body's lymph nodes. Symptoms can include fatigue, fever, night sweats, and weight loss, similar to lymphoma. Enlarged lymph nodes are also a feature of this disease. Laboratory findings can be nonspecific, but elevated levels of certain markers, including lactate dehydrogenase, can be present. Diagnosis is made through a lymph node biopsy.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes.
+Uncommon Symptoms with Patient: Specific histological findings on lymph node biopsy (required for diagnosis).
+
++6 Sarcoidosis:
+Sarcoidosis is an inflammatory disease that can affect multiple organs, most commonly the lungs and lymph nodes. It can cause fatigue, fever, night sweats, and weight loss. Lymphadenopathy is common, and while elevated lactate dehydrogenase can occur, it is not a hallmark of the disease. Diagnosis often requires a biopsy of the affected tissue and exclusion of other diseases.
+
+Common Symptoms with Patient: Fatigue, night sweats, unexplained fever, unintentional weight loss, enlarged lymph nodes.
+Uncommon Symptoms with Patient: Pulmonary involvement (common in sarcoidosis), elevated lactate dehydrogenase (not a hallmark).
+
+Given the patient's symptoms and initial laboratory results, further diagnostic tests such as imaging studies (e.g., CT scan, PET scan) and a biopsy of the enlarged lymph nodes would be essential to narrow down the differential diagnosis and confirm the underlying condition."
+Trisomy X,"+1 Rett Syndrome:
+Rett syndrome is a rare genetic neurological disorder that occurs almost exclusively in girls and leads to severe impairments, affecting nearly every aspect of the child's life. Common symptoms include problems with language, coordination, and repetitive movements. However, the patient does not exhibit the typical regression in abilities or the repetitive hand movements often associated with Rett syndrome.
+
++2 Fragile X Syndrome:
+Fragile X syndrome is a genetic condition that causes a range of developmental problems including learning disabilities and cognitive impairment. It is the most common form of inherited intellectual disability in boys, but it can also affect girls, although typically to a lesser extent. Symptoms that match include delayed speech and language development, learning challenges, and subtle dysmorphic features. However, the patient's above-average height is not typical for Fragile X syndrome, which often presents with a larger head (macrocephaly) and a more pronounced facial features than those described.
+
++3 Turner Syndrome:
+Turner syndrome is a chromosomal disorder that affects females and can cause a variety of medical and developmental problems, including short stature and learning disabilities. While the patient does have learning challenges and some dysmorphic features, Turner syndrome is usually associated with short stature, which does not align with the patient's above-average height. Additionally, Turner syndrome typically presents with a webbed neck and swelling of the hands and feet, which are not mentioned in the patient's symptoms.
+
++4 Williams Syndrome:
+Williams syndrome is a developmental disorder that affects many parts of the body. It is characterized by mild to moderate intellectual disability or learning problems, unique personality characteristics, distinctive facial features, and heart and blood vessel problems. The patient's learning challenges and subtle dysmorphic features could fit, but the syndrome also typically includes a more outgoing and engaging personality, heart issues, and a specific facial appearance that includes a broad forehead, full cheeks, and a wide mouth, which are not described in the patient's presentation.
+
++5 22q11.2 Deletion Syndrome (DiGeorge Syndrome):
+This syndrome is caused by a deletion on chromosome 22 and can result in a wide range of symptoms, including heart defects, immune deficiencies, and learning disabilities. The patient's learning challenges and speech delays could be indicative of this syndrome, but she does not exhibit the heart problems or immune deficiencies commonly associated with it. Additionally, the syndrome often includes other facial features such as a cleft palate, which the patient does not have.
+
++6 Klinefelter Syndrome:
+Klinefelter syndrome is a genetic condition that affects males who are born with an extra X chromosome. It can cause physical, developmental, and social challenges. While the patient does have learning difficulties and some speech delays, Klinefelter syndrome is not applicable as the patient is female, and the syndrome is specific to males.
+
++7 Velocardiofacial Syndrome:
+Also known as 22q11.2 deletion syndrome, this genetic condition can cause a wide variety of symptoms including heart defects, immune system problems, cleft palate, and learning disabilities. The patient's learning challenges and speech delays could be indicative of this syndrome, but she does not exhibit the heart problems or immune deficiencies commonly associated with it. The syndrome often includes other facial features such as a cleft palate, which the patient does not have.
+
+Given the patient's symptoms, it is important to conduct further genetic testing and evaluations to narrow down the diagnosis and determine the most appropriate course of treatment and support."
+Scleroderma,"+1 Systemic Sclerosis (Scleroderma):
+Systemic sclerosis is a rare chronic autoimmune disease characterized by fibrosis of the skin and internal organs. The patient's symptoms of skin thickening and tightening, particularly of the hands and face, fatigue, joint pain, and difficulty opening the mouth are consistent with this condition. Raynaud's phenomenon, which the patient is experiencing, is also commonly associated with systemic sclerosis. The positive anti-nuclear antibodies and abnormal nailfold capillaroscopy findings further support this potential diagnosis.
+
+Common Symptoms with Patient:
+- Progressive skin thickening and tightening of the hands and face
+- Fatigue
+- Joint pain
+- Difficulty fully opening the mouth
+- Raynaud's phenomenon
+- Positive anti-nuclear antibodies
+- Nailfold capillaroscopy abnormalities
+
+Symptoms Not Observed:
+- Internal organ involvement (not mentioned but would be relevant for diagnosis)
+
++2 Mixed Connective Tissue Disease (MCTD):
+Mixed connective tissue disease is a rare autoimmune disorder that may have overlapping features of systemic sclerosis, systemic lupus erythematosus, and polymyositis. The patient's positive anti-nuclear antibodies in a speckled pattern, Raynaud's phenomenon, and skin changes could suggest MCTD.
+
+Common Symptoms with Patient:
+- Raynaud's phenomenon
+- Positive anti-nuclear antibodies in a speckled pattern
+- Skin thickening
+
+Symptoms Not Observed:
+- Specific antibodies such as U1-RNP (not mentioned)
+- Overlapping features of other connective tissue diseases (not mentioned)
+
++3 Dermatomyositis:
+Dermatomyositis is an inflammatory muscle disease that often presents with distinctive skin rashes in addition to muscle weakness. While the patient does not report muscle weakness, the presence of skin changes and positive anti-nuclear antibodies could raise suspicion for this condition.
+
+Common Symptoms with Patient:
+- Skin changes
+- Positive anti-nuclear antibodies
+
+Symptoms Not Observed:
+- Muscle weakness (not mentioned)
+- Heliotrope rash or Gottron's papules (not mentioned)
+
++4 CREST Syndrome:
+CREST syndrome is a limited form of systemic sclerosis characterized by Calcinosis, Raynaud's phenomenon, Esophageal dysmotility, Sclerodactyly, and Telangiectasia. The patient's symptoms of Raynaud's phenomenon and sclerodactyly (skin thickening of the fingers) align with this syndrome.
+
+Common Symptoms with Patient:
+- Raynaud's phenomenon
+- Sclerodactyly (thickening of the skin on the fingers)
+
+Symptoms Not Observed:
+- Calcinosis (not mentioned)
+- Esophageal dysmotility (not mentioned)
+- Telangiectasia (not mentioned)
+
++5 Eosinophilic Fasciitis:
+Eosinophilic fasciitis is a rare condition that causes inflammation and thickening of the fascia beneath the skin. It typically presents with rapid onset of skin thickening and often follows physical exertion or trauma. The patient's skin symptoms could be suggestive, but other hallmark features of eosinophilic fasciitis are not described.
+
+Common Symptoms with Patient:
+- Skin thickening
+
+Symptoms Not Observed:
+- Eosinophilia (not mentioned)
+- History of rapid onset post-exertion (not mentioned)
+
+Given the patient's symptoms and findings, systemic sclerosis appears to be the most likely diagnosis, but further evaluation by a rheumatologist is essential for accurate diagnosis and management."
+Non-immune hydrops fetalis,"+1 Amyloidosis:
+Amyloidosis is a group of diseases in which abnormal protein, known as amyloid, deposits build up in tissues and organs. Common symptoms include fatigue, edema, and sometimes organ dysfunction. In this case, the patient's fatigue, peripheral edema, and possibly the ascites could be related to amyloidosis. However, the presence of muffled heart sounds and crackles in the lungs may suggest other conditions as well, such as cardiac issues. The anemia and low albumin could also be seen in amyloidosis but are nonspecific.
+
++2 Constrictive Pericarditis:
+Constrictive pericarditis is a condition where the pericardium becomes thickened and fibrotic, constricting the heart and reducing its ability to function properly. Symptoms can include fatigue, shortness of breath, peripheral edema, and ascites, all of which the patient is experiencing. Muffled heart sounds could be due to the thickened pericardium, and crackles in the lungs could result from pulmonary congestion due to poor heart function. Anemia and low albumin are not specific to this condition but could be secondary to chronic disease.
+
++3 Cardiac Tamponade:
+Cardiac tamponade occurs when fluid accumulates in the pericardial space, exerting pressure on the heart and hindering its ability to pump effectively. This can lead to symptoms such as fatigue, shortness of breath, and peripheral edema. The muffled heart sounds and the presence of a fluid wave/thrill on palpation of the abdomen could be indicative of fluid accumulation, which is consistent with cardiac tamponade. However, ascites is less common in this condition, and the anemia and low albumin would need to be explained by another process.
+
++4 Budd-Chiari Syndrome:
+Budd-Chiari syndrome is a rare liver condition, resulting from the obstruction of the hepatic veins. It can lead to symptoms such as abdominal discomfort, ascites, and peripheral edema. The anemia and low albumin could be related to liver dysfunction in this syndrome. However, the muffled heart sounds and crackles at the lung bases are not typical for Budd-Chiari and suggest a cardiac rather than hepatic cause for the patient's symptoms.
+
++5 Heart Failure with Preserved Ejection Fraction (HFpEF):
+HFpEF, also known as diastolic heart failure, is a condition where the heart muscle is stiff and does not relax properly, leading to symptoms such as fatigue, shortness of breath, and edema. The presence of crackles at the lung bases could indicate pulmonary congestion, and the muffled heart sounds may be due to associated pericardial effusion. The anemia and low albumin could be secondary to chronic illness or kidney dysfunction associated with heart failure.
+
++6 Nephrotic Syndrome:
+Nephrotic syndrome is a kidney disorder that causes the body to excrete too much protein in the urine, leading to low albumin levels, edema, and fatigue. The anemia could be related to chronic kidney disease. However, the muffled heart sounds and crackles at the lung bases are not typical features of nephrotic syndrome and suggest a cardiac or pulmonary process.
+
++7 Liver Cirrhosis:
+Liver cirrhosis is the result of long-term, continuous damage to the liver and may lead to liver failure. Symptoms can include fatigue, abdominal discomfort, ascites, and peripheral edema. The low albumin and anemia could be due to poor liver function. However, muffled heart sounds and crackles at the lung bases are not characteristic of liver cirrhosis and would likely indicate a concurrent cardiac or pulmonary issue.
+
++8 Myxedema:
+Myxedema is a severe form of hypothyroidism that can cause symptoms such as fatigue, edema, and ascites. The anemia could be a result of the metabolic slowdown associated with hypothyroidism. However, the muffled heart sounds and crackles at the lung bases are not typical of myxedema, which usually presents with other symptoms such as cold intolerance and weight gain.
+
+Given the patient's symptoms, further diagnostic tests such as echocardiography, abdominal ultrasound, CT scans, or specific organ function tests may be necessary to narrow down the diagnosis and determine the appropriate treatment."
+Renal cell carcinoma,"+1 Polycystic Kidney Disease (PKD):
+PKD is a genetic disorder characterized by the growth of numerous cysts in the kidneys. Common symptoms include flank pain and blood in the urine, which the patient has. However, PKD often leads to high blood pressure and larger kidneys, which may be palpable as abdominal masses. The patient does not have high blood pressure or a palpable abdominal mass.
+
++2 Renal Cell Carcinoma:
+Renal cell carcinoma is a type of kidney cancer that can present with flank pain and blood in the urine, matching the patient's symptoms. It may also cause a slight elevation in creatinine levels. However, common symptoms not present in the patient include weight loss, fever, and a palpable mass in the abdomen.
+
++3 Urolithiasis (Kidney Stones):
+Urolithiasis refers to stones in the urinary tract and can cause intermittent flank pain and hematuria (blood in the urine), which align with the patient's symptoms. Stones do not typically cause a change in creatinine levels unless they lead to obstruction. The patient does not have symptoms of severe pain, which is often associated with kidney stones, nor any signs of infection.
+
++4 Hydronephrosis:
+Hydronephrosis is the swelling of a kidney due to a build-up of urine, which can cause flank pain and blood in the urine. It may also lead to an elevation in creatinine if kidney function is affected. The patient's symptoms are consistent with hydronephrosis, but there is no mention of urinary symptoms such as difficulty urinating or a history of urinary tract obstructions.
+
++5 Renal Artery Stenosis:
+Renal artery stenosis is the narrowing of one or more arteries that carry blood to the kidneys. It can cause flank pain and elevated creatinine levels due to reduced kidney function. However, it is often associated with high blood pressure, which the patient does not have. Blood in the urine is not a typical symptom of renal artery stenosis.
+
++6 Pyelonephritis:
+Pyelonephritis is a kidney infection that can cause flank pain, tenderness in the costovertebral angle, and blood in the urine. It may also lead to an elevation in creatinine levels if the infection affects kidney function. However, the patient's urinalysis is negative for infection, which is not consistent with pyelonephritis.
+
++7 Renal Tuberculosis:
+Renal tuberculosis is a rare form of tuberculosis that affects the kidneys. It can cause flank pain, blood in the urine, and elevated creatinine levels. However, it typically also presents with symptoms of a chronic infection, such as fever, night sweats, and weight loss, which the patient does not have.
+
++8 Renal Angiomyolipoma:
+Renal angiomyolipoma is a benign tumor of the kidney that can cause flank pain and blood in the urine if the tumor bleeds. It may also lead to an elevation in creatinine levels if it affects kidney function. However, these tumors are often asymptomatic and discovered incidentally, and there is no mention of a palpable mass in the patient's abdomen.
+
+Given the patient's symptoms and history, further diagnostic imaging, such as an ultrasound or CT scan, would be crucial in narrowing down the diagnosis and determining the appropriate treatment plan."
+Genetic peripheral neuropathy,"+1 Charcot-Marie-Tooth Disease (CMT):
+Common Symptoms: 
+- Progressive numbness, tingling, and pain in the feet and hands
+- Decreased sensation to light touch and vibration in a stocking-glove distribution
+- Diminished reflexes at the ankles
+- Mild distal weakness on manual muscle testing
+- Family history of a similar condition
+
+Non-Common Symptoms:
+- The patient does not have any known history of diabetes or toxin exposure, which can be associated with peripheral neuropathy but is not directly related to CMT.
+
++2 Hereditary Sensory and Autonomic Neuropathy (HSAN):
+Common Symptoms:
+- Progressive numbness and pain in the feet and hands
+- Decreased sensation to light touch and vibration
+- Diminished reflexes
+- Family history of a similar condition
+
+Non-Common Symptoms:
+- The patient's presentation does not specifically mention autonomic dysfunction, which is a key feature of HSAN.
+
++3 Familial Amyloid Polyneuropathy (FAP):
+Common Symptoms:
+- Progressive numbness, tingling, and pain in the feet and hands
+- Decreased sensation to light touch and vibration
+- Diminished reflexes
+- Family history of a similar condition
+
+Non-Common Symptoms:
+- The patient does not report symptoms such as gastrointestinal disturbances or cardiac involvement, which can be seen in FAP.
+
++4 Fabry Disease:
+Common Symptoms:
+- Pain in the hands and feet
+
+Non-Common Symptoms:
+- The patient does not exhibit other common symptoms of Fabry disease, such as angiokeratomas, corneal opacity, or renal dysfunction.
+- The progression and sensory loss pattern do not typically align with Fabry disease.
+
++5 Friedreich's Ataxia:
+Common Symptoms:
+- Progressive numbness and weakness in the limbs
+- Diminished reflexes at the ankles
+
+Non-Common Symptoms:
+- The patient does not exhibit ataxia or gait disturbances, which are hallmark features of Friedreich's Ataxia.
+- The condition usually presents earlier in life, not in mid-life.
+
+Given the symptoms and family history, Charcot-Marie-Tooth Disease seems to be the most likely diagnosis. However, further genetic testing and possibly nerve conduction studies would be necessary to confirm the diagnosis and rule out other conditions."
+Cardiogenic shock,"+1 Pulmonary Arterial Hypertension (PAH):
+PAH is a rare disease characterized by high blood pressure in the arteries of the lungs, which can lead to shortness of breath and fatigue. Symptoms in common with the patient include shortness of breath and fatigue. Symptoms not in common include specific signs of right heart failure such as peripheral edema, which is not mentioned in the patient's presentation.
+
++2 Acute Decompensated Heart Failure (ADHF):
+ADHF is a sudden worsening of the symptoms of heart failure, which can include shortness of breath, fatigue, and lightheadedness. Symptoms in common with the patient include shortness of breath, fatigue, lightheadedness, tachycardia, hypotension, jugular venous distension, and crackles on lung auscultation. Elevated BNP is also indicative of heart failure. This condition is not rare but should be considered given the presentation.
+
++3 Cardiac Tamponade:
+Cardiac tamponade is a rare, life-threatening condition where fluid accumulates in the pericardium (the sac around the heart), leading to decreased heart function. Symptoms in common with the patient include tachycardia, hypotension, jugular venous distension, and shortness of breath. Symptoms not in common include pulsus paradoxus and an absence of lung crackles, as fluid typically accumulates around the heart rather than in the lungs.
+
++4 Constrictive Pericarditis:
+Constrictive pericarditis is a rare condition where the pericardium becomes thickened and fibrotic, restricting the heart's movement. Symptoms in common with the patient include fatigue, jugular venous distension, and tachycardia. Symptoms not in common include pericardial knock on auscultation and the absence of elevated troponin, as this condition does not typically involve myocardial injury.
+
++5 Myocarditis:
+Myocarditis is an inflammation of the heart muscle, which can be rare depending on its etiology. Symptoms in common with the patient include shortness of breath, fatigue, tachycardia, elevated troponin, and signs of decreased perfusion. Symptoms not in common include the absence of chest pain, which is often present in myocarditis.
+
++6 Pulmonary Embolism (PE):
+PE is a blockage in one of the pulmonary arteries in the lungs, often caused by blood clots that travel from the legs or other parts of the body. Symptoms in common with the patient include shortness of breath, tachycardia, and hypotension. Symptoms not in common include the absence of risk factors such as recent surgery, immobilization, or a history of thromboembolism, which are not mentioned in the patient's presentation.
+
++7 Pheochromocytoma:
+Pheochromocytoma is a rare tumor of the adrenal gland tissue that can cause the gland to produce too much adrenaline, leading to symptoms such as tachycardia and hypotension. Symptoms in common with the patient include tachycardia, hypotension, and diaphoresis. Symptoms not in common include headaches, palpitations, and episodic hypertension, which are classic for pheochromocytoma but not mentioned in the patient's presentation.
+
+Given the patient's symptoms and initial workup, it is important to continue with a thorough diagnostic evaluation, including imaging studies such as echocardiography, chest X-ray, or CT scan, and possibly more specific tests depending on the suspected diagnosis. The patient's presentation is most consistent with acute decompensated heart failure, but other conditions should be considered and ruled out."
+Acute sensorineural hearing loss by acute acoustic trauma or sudden deafness or surgery induced acoustic trauma,"+1 Meniere's Disease:
+Common Symptoms with Patient: Tinnitus, sensorineural hearing loss.
+Uncommon Symptoms with Patient: Vertigo, episodic nature of symptoms, aural fullness.
+
++2 Sudden Sensorineural Hearing Loss (SSHL):
+Common Symptoms with Patient: Acute onset of unilateral hearing loss, tinnitus, sensorineural hearing loss, sudden within the last few days, Weber test lateralization to the affected ear, negative Rinne test on the affected side.
+Uncommon Symptoms with Patient: Typically, some patients may also experience vertigo, but this patient denies any vertigo or other neurologic symptoms.
+
++3 Acoustic Neuroma (Vestibular Schwannoma):
+Common Symptoms with Patient: Unilateral hearing loss, tinnitus, sensorineural hearing loss.
+Uncommon Symptoms with Patient: Often presents with other neurologic symptoms such as balance issues or facial numbness, which the patient does not have.
+
++4 Autoimmune Inner Ear Disease (AIED):
+Common Symptoms with Patient: Rapidly progressive bilateral sensorineural hearing loss, tinnitus.
+Uncommon Symptoms with Patient: Usually affects both ears (bilateral), and patients may have a history of autoimmune disease, which is not mentioned in this patient's presentation.
+
++5 Labyrinthitis:
+Common Symptoms with Patient: Sensorineural hearing loss, tinnitus.
+Uncommon Symptoms with Patient: Usually accompanied by vertigo and possibly a recent history of viral infection, which the patient denies.
+
++6 Otosclerosis:
+Common Symptoms with Patient: Hearing loss, tinnitus.
+Uncommon Symptoms with Patient: The hearing loss is typically conductive in nature rather than sensorineural, and the onset is usually gradual, not sudden.
+
++7 Ramsay Hunt Syndrome:
+Common Symptoms with Patient: Sensorineural hearing loss, tinnitus.
+Uncommon Symptoms with Patient: Usually presents with facial paralysis and vesicles in the ear canal or on the tympanic membrane, which are not observed in this patient.
+
++8 Cogan's Syndrome:
+Common Symptoms with Patient: Sensorineural hearing loss, tinnitus.
+Uncommon Symptoms with Patient: Often associated with inflammatory eye problems, such as interstitial keratitis, which the patient does not report.
+
+Given the patient's symptoms and the absence of vertigo, fever, or other neurologic symptoms, the most likely diagnosis from this list would be Sudden Sensorineural Hearing Loss (SSHL). However, further diagnostic tests, such as an MRI or blood tests, may be necessary to rule out other conditions and confirm the diagnosis."
+AL amyloidosis,"+1 Amyloidosis:
+Common Symptoms: The patient's enlarged tongue, periorbital purpura, and bilateral peripheral edema could be indicative of amyloidosis, where abnormal protein deposits can lead to organ dysfunction. Fatigue, weight loss, and easy bruising or bleeding are also associated with this condition.
+Not Common Symptoms: The presence of lightheadedness is not a classic symptom of amyloidosis, but it could be related to anemia or other systemic effects of the disease.
+
++2 Multiple Myeloma:
+Common Symptoms: Multiple myeloma can cause anemia, fatigue, weight loss, and elevated inflammatory markers, which align with the patient's lab work. Easy bruising or bleeding and peripheral edema are also possible symptoms.
+Not Common Symptoms: The enlarged tongue and periorbital purpura are not typical of multiple myeloma, but can occur in advanced stages due to secondary conditions like amyloidosis.
+
++3 Paroxysmal Nocturnal Hemoglobinuria (PNH):
+Common Symptoms: PNH can lead to symptoms such as fatigue, easy bruising or bleeding, and anemia, which are present in the patient. Elevated inflammatory markers can also be seen.
+Not Common Symptoms: Weight loss, lightheadedness, enlarged tongue, periorbital purpura, and peripheral edema are not classic features of PNH.
+
++4 Hemophagocytic Lymphohistiocytosis (HLH):
+Common Symptoms: HLH is characterized by symptoms like fatigue, weight loss, and elevated inflammatory markers. Anemia and easy bruising or bleeding can also be seen due to the hyperactive immune response.
+Not Common Symptoms: The specific findings of an enlarged tongue, periorbital purpura, and bilateral peripheral edema are not typical for HLH.
+
++5 Acquired Hemophilia:
+Common Symptoms: This rare autoimmune disorder can lead to easy bruising or bleeding and unintentional weight loss. Fatigue may also be a symptom due to anemia.
+Not Common Symptoms: Lightheadedness, enlarged tongue, periorbital purpura, and bilateral peripheral edema are not commonly associated with acquired hemophilia.
+
++6 Waldenström's Macroglobulinemia:
+Common Symptoms: This type of cancer can cause symptoms such as fatigue, weight loss, and easy bruising or bleeding. Anemia and elevated inflammatory markers can also be present.
+Not Common Symptoms: The enlarged tongue is a possible symptom due to lymphoplasmacytic infiltration, but periorbital purpura and peripheral edema are less common in Waldenström's macroglobulinemia.
+
++7 Gaucher's Disease:
+Common Symptoms: Gaucher's disease can lead to fatigue, anemia, and easy bruising or bleeding due to a deficiency in the enzyme glucocerebrosidase.
+Not Common Symptoms: Unintentional weight loss, lightheadedness, enlarged tongue, periorbital purpura, and bilateral peripheral edema are not typical symptoms of Gaucher's disease.
+
++8 Polycythemia Vera:
+Common Symptoms: While polycythemia vera typically involves an increase in red blood cell mass, it can also cause fatigue and easy bruising or bleeding.
+Not Common Symptoms: Weight loss, lightheadedness, anemia, enlarged tongue, periorbital purpura, and peripheral edema are not characteristic of polycythemia vera.
+
++9 Mantle Cell Lymphoma:
+Common Symptoms: This type of non-Hodgkin lymphoma can cause symptoms such as fatigue, weight loss, and easy bruising or bleeding. Elevated inflammatory markers may also be present.
+Not Common Symptoms: Anemia, lightheadedness, enlarged tongue, periorbital purpura, and peripheral edema are not commonly associated with mantle cell lymphoma.
+
++10 Hereditary Angioedema:
+Common Symptoms: Hereditary angioedema can cause peripheral edema, which the patient has.
+Not Common Symptoms: Fatigue, unintentional weight loss, lightheadedness, easy bruising or bleeding, anemia, elevated inflammatory markers, enlarged tongue, and periorbital purpura are not typical symptoms of hereditary angioedema.
+
+Given the combination of symptoms and lab findings, amyloidosis (+1) seems to be the most likely diagnosis to consider further. However, additional diagnostic tests, such as a biopsy, would be necessary to confirm the presence of amyloid deposits and to determine the type of amyloidosis. It is also important to consider other potential diagnoses and conduct a thorough workup to rule out other conditions."
+Hepatitis delta,"+1 Wilson's Disease:
+Wilson's disease is a rare genetic disorder that causes copper to accumulate in the liver, brain, and other vital organs. Symptoms the patient has in common with Wilson's disease include fatigue, abdominal discomfort, and elevated liver enzymes. The patient also exhibits jaundice, which can be associated with Wilson's disease. However, the patient does not present with neurological symptoms such as tremors or uncoordinated movements, which are also characteristic of Wilson's disease.
+
++2 Autoimmune Hepatitis:
+Autoimmune hepatitis is a chronic disease in which the body's immune system attacks the liver, causing inflammation and damage. Symptoms the patient has in common with autoimmune hepatitis include fatigue, nausea, abdominal discomfort, elevated liver enzymes, and jaundice. The history of hepatitis B infection could potentially trigger or complicate autoimmune hepatitis. However, the patient does not exhibit other common symptoms such as rash, joint pain, or other extrahepatic autoimmune manifestations.
+
++3 Hemochromatosis:
+Hemochromatosis is a condition where the body absorbs too much iron from the diet, leading to iron overload. Symptoms the patient has in common with hemochromatosis include fatigue, abdominal discomfort, elevated liver enzymes, and loss of appetite. The patient's mild jaundice could also be a sign of iron accumulation in the liver. However, the patient does not present with other typical symptoms of hemochromatosis, such as skin bronzing, diabetes, or heart problems.
+
++4 Primary Biliary Cholangitis (PBC):
+Primary biliary cholangitis is a chronic disease that slowly destroys the bile ducts in the liver. Symptoms the patient has in common with PBC include fatigue, abdominal discomfort, elevated liver enzymes, and jaundice. However, the patient does not present with itching, which is a common symptom of PBC, nor is there mention of the specific antibodies typically found in PBC, such as antimitochondrial antibodies (AMA).
+
++5 Hepatic Sarcoidosis:
+Hepatic sarcoidosis is a rare condition where inflammatory cells form granulomas in the liver. Symptoms the patient has in common with hepatic sarcoidosis include fatigue, elevated liver enzymes, and abdominal discomfort. The patient's history of hepatitis B and the presence of jaundice could potentially be related to granuloma formation in the liver. However, the patient does not exhibit other common symptoms of sarcoidosis, such as fever, weight loss, or enlarged lymph nodes.
+
++6 Primary Sclerosing Cholangitis (PSC):
+Primary sclerosing cholangitis is a rare, chronic liver disease characterized by inflammation and scarring of the bile ducts. Symptoms the patient has in common with PSC include fatigue, abdominal discomfort, elevated liver enzymes, and jaundice. However, the patient does not present with symptoms such as itching or inflammatory bowel disease, which are often associated with PSC.
+
++7 Budd-Chiari Syndrome:
+Budd-Chiari syndrome is a rare condition caused by the blockage of the hepatic veins that drain the liver. Symptoms the patient has in common with Budd-Chiari syndrome include abdominal discomfort, elevated liver enzymes, and jaundice. The patient's tenderness in the right upper quadrant could also be indicative of Budd-Chiari syndrome. However, the patient does not present with ascites or hepatomegaly, which are common in Budd-Chiari syndrome.
+
+Please note that these are potential rare diseases based on the symptoms provided, and further diagnostic tests such as imaging, biopsy, or genetic testing would be necessary to confirm any diagnosis."
+Fetal cytomegalovirus syndrome,"+1 Zellweger Spectrum Disorder (ZSD):
+Zellweger Spectrum Disorder is a group of rare congenital disorders characterized by the reduction or absence of peroxisomes in the cells. Symptoms can include hypotonia, seizures, liver dysfunction, and developmental delays. The patient's symptoms of delayed development, hepatosplenomegaly, and elevated liver enzymes are consistent with ZSD. However, microcephaly is less commonly associated with ZSD, and there is no mention of the characteristic craniofacial features or peroxisomal biomarkers.
+
++2 Congenital Cytomegalovirus (CMV) Infection:
+Congenital CMV infection occurs when a mother passes the virus to the fetus during pregnancy. Symptoms can include microcephaly, hepatosplenomegaly, thrombocytopenia, and intrauterine growth restriction, all of which are present in this patient. The history of suspected maternal infection during pregnancy aligns with the risk factors for congenital CMV. This condition is a strong possibility given the clinical presentation.
+
++3 Congenital Rubella Syndrome:
+This is a condition that results from maternal infection with rubella virus during pregnancy. Symptoms can include growth retardation, microcephaly, liver dysfunction, and thrombocytopenia. The patient's symptoms of delayed development, microcephaly, hepatosplenomegaly, thrombocytopenia, and intrauterine growth restriction are consistent with congenital rubella syndrome. The history of suspected maternal infection supports this potential diagnosis.
+
++4 Congenital Toxoplasmosis:
+This infection is caused by the parasite Toxoplasma gondii, which can be transmitted from an infected mother to her baby during pregnancy. Symptoms can include intracranial calcifications, hydrocephalus, chorioretinitis, and hepatosplenomegaly. The patient's symptoms of delayed development, microcephaly, hepatosplenomegaly, and thrombocytopenia could be seen in congenital toxoplasmosis. However, there is no mention of chorioretinitis or intracranial calcifications, which are common in this condition.
+
++5 Congenital Syphilis:
+This is caused by the bacterium Treponema pallidum, which can be transmitted from an infected mother to her unborn child. Symptoms can include hepatosplenomegaly, rash, bone abnormalities, and anemia. The patient's symptoms of delayed development, hepatosplenomegaly, and thrombocytopenia could be consistent with congenital syphilis. However, the absence of other characteristic findings such as rash or bone changes makes this diagnosis less likely.
+
++6 Niemann-Pick Disease Type C:
+This is a lysosomal storage disorder characterized by the accumulation of lipids in various tissues, including the brain, liver, and spleen. Symptoms can include hepatosplenomegaly, developmental delay, and neurological abnormalities. The patient's symptoms of delayed development, hepatosplenomegaly, and elevated liver enzymes are consistent with Niemann-Pick disease type C. However, the history of suspected maternal infection and the absence of neurologic symptoms at this time may not fully align with this diagnosis.
+
+Given the patient's symptoms and prenatal history, congenital infections such as CMV, rubella, toxoplasmosis, and syphilis are high on the differential diagnosis list. Further diagnostic testing, including specific serologies, PCR, and possibly imaging studies like an ultrasound or MRI, will be necessary to confirm the diagnosis and guide management."
+Romano-Ward syndrome,"+1 Long QT Syndrome (LQTS):
+Long QT Syndrome is a rare heart rhythm disorder that can potentially lead to fast, chaotic heartbeats, which may trigger a sudden fainting spell or even sudden cardiac death. Symptoms often include palpitations, fainting, and lightheadedness, which can occur without warning or be triggered by stress or exercise. The prolonged QT interval on the EKG is a hallmark of this condition. 
+Common symptoms with the patient: Lightheadedness, palpitations, prolonged QT interval on EKG.
+Uncommon symptoms with the patient: No clear triggers identified, and the patient has not experienced fainting.
+
++2 Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT):
+CPVT is a rare, genetically inherited arrhythmia that leads to irregular heartbeats, particularly during physical activity or emotional stress. Symptoms include lightheadedness, dizziness, and palpitations, and it can lead to syncope or cardiac arrest in severe cases. Episodes are often triggered by adrenaline release during exercise or stress.
+Common symptoms with the patient: Lightheadedness, palpitations, episodes of fast heart rate.
+Uncommon symptoms with the patient: No clear triggers related to exercise or stress, and the patient has not experienced syncope.
+
++3 Paroxysmal Supraventricular Tachycardia (PSVT):
+PSVT is a condition where the heart suddenly starts beating faster than normal, which can occur at rest or during activity. Symptoms include palpitations, lightheadedness, and a racing heart. These episodes can start and stop without clear triggers and are often not associated with structural heart disease.
+Common symptoms with the patient: Palpitations, episodes of fast heart rate, lightheadedness.
+Uncommon symptoms with the patient: The patient's EKG shows a prolonged QT interval, which is not typical for PSVT.
+
++4 Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC):
+ARVC is a rare form of cardiomyopathy where the muscle tissue in the right ventricle dies and is replaced with scar tissue, leading to arrhythmias. Symptoms can include palpitations, lightheadedness, and fainting, particularly during physical activity. The condition can be associated with ventricular tachycardias.
+Common symptoms with the patient: Palpitations, lightheadedness.
+Uncommon symptoms with the patient: The patient's symptoms are not clearly exercise-induced, and there is no mention of fainting or structural heart disease.
+
++5 Brugada Syndrome:
+Brugada Syndrome is a rare genetic disorder that can lead to dangerous ventricular arrhythmias and sudden cardiac death. It is characterized by a specific pattern on an EKG and can lead to symptoms such as palpitations, lightheadedness, and fainting, often at night during rest.
+Common symptoms with the patient: Palpitations, lightheadedness.
+Uncommon symptoms with the patient: The patient's EKG does not mention the characteristic Brugada pattern, and episodes do not appear to be nocturnal.
+
+Given the symptoms and findings, Long QT Syndrome (LQTS) seems to be the most consistent with the patient's presentation, but further diagnostic testing, including genetic testing and possibly an electrophysiology study, would be necessary to confirm the diagnosis and rule out other potential rare diseases."
+Autosomal dominant polycystic kidney disease,"+1 Polycystic Kidney Disease (PKD):
+Polycystic Kidney Disease is a genetic disorder characterized by the growth of numerous cysts in the kidneys. Symptoms can include pain in the back and sides (which the patient has), headaches (which the patient also experiences), and problems with kidney function, such as increased serum creatinine and decreased glomerular filtration rate (both present in the patient). The presence of multiple bilateral renal cysts and a family history of chronic kidney disease are also consistent with PKD. However, the patient's symptoms and test results do not include some common PKD symptoms, such as high blood pressure, urinary tract infections, or blood in the urine.
+
++2 Medullary Cystic Kidney Disease (MCKD):
+Medullary Cystic Kidney Disease is a rare inherited renal disorder that leads to cyst formation in the medulla of the kidneys and eventual kidney failure. The patient's symptoms of flank pain and the presence of renal cysts could be indicative of MCKD. The gradual rise in serum creatinine and decreasing glomerular filtration rate are also consistent with this disease. However, MCKD typically presents with symptoms like salt wasting and polyuria, which have not been mentioned for this patient.
+
++3 Fabry Disease:
+Fabry Disease is a rare genetic disorder that results from the buildup of a particular type of fat in the body's cells. While kidney involvement is common and can lead to an increase in serum creatinine and a decrease in glomerular filtration rate, the patient's symptoms do not include other typical manifestations of Fabry Disease, such as angiokeratomas, pain in the hands and feet, or gastrointestinal issues.
+
++4 Alport Syndrome:
+Alport Syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities. The patient's family history of chronic kidney disease and the presence of renal cysts could suggest Alport Syndrome. However, the patient does not exhibit hearing loss or eye problems, which are key features of this syndrome.
+
++5 Von Hippel-Lindau Disease (VHL):
+Von Hippel-Lindau Disease is a hereditary condition associated with tumors and cysts in multiple organs, including the kidneys. The patient's renal cysts could be a sign of VHL. However, VHL is also associated with other tumors, such as hemangioblastomas of the brain and spine, pheochromocytomas, and clear cell renal carcinoma, none of which have been reported in this patient.
+
++6 Tuberous Sclerosis Complex (TSC):
+Tuberous Sclerosis Complex is a genetic disorder that causes non-cancerous tumors to form in many different organs, primarily in the brain, eyes, heart, kidney, skin, and lungs. Renal cysts can occur in TSC, but the patient does not exhibit other common symptoms of TSC, such as skin abnormalities (e.g., angiofibromas), seizures, or cognitive disabilities.
+
+Given the patient's symptoms and family history, Polycystic Kidney Disease seems to be the most likely diagnosis. However, further genetic testing and a comprehensive review of the patient's family medical history would be necessary to confirm the diagnosis and rule out other potential rare diseases."
+Congenital pulmonary valvar stenosis,"+1 Pulmonary Valve Stenosis:
+The patient's symptoms of shortness of breath and fatigue with exertion, along with the findings of a systolic heart murmur at the left upper sternal border, right ventricular hypertrophy, and post-stenotic dilatation of the pulmonary artery, are consistent with pulmonary valve stenosis. The echocardiogram showing a peak Doppler gradient of 50mmHg across the pulmonary valve further supports this diagnosis. Pulmonary valve stenosis is a condition where the flow of blood from the right ventricle to the pulmonary artery is obstructed at the level of the pulmonary valve, leading to increased pressure and work for the right ventricle.
+
++2 Eisenmenger Syndrome:
+While the patient does present with symptoms that could be seen in Eisenmenger syndrome, such as shortness of breath and fatigue, the echocardiographic findings do not fully align with this condition. Eisenmenger syndrome is a long-term complication of untreated congenital heart disease that leads to pulmonary hypertension and right ventricular hypertrophy. However, it typically involves a communication between the left and right sides of the heart (such as a ventricular septal defect) and the development of cyanosis, which are not described in this patient's presentation.
+
++3 Primary Pulmonary Hypertension:
+The patient's symptoms of shortness of breath and fatigue could be seen in primary pulmonary hypertension, and the echocardiogram showing right ventricular hypertrophy is also consistent with this condition. However, primary pulmonary hypertension does not typically present with a systolic murmur at the left upper sternal border or with a specific obstruction at the pulmonary valve, as indicated by the peak Doppler gradient of 50mmHg. Primary pulmonary hypertension is characterized by high blood pressure in the pulmonary arteries without an apparent cause.
+
++4 Cardiac Sarcoidosis:
+Cardiac sarcoidosis could present with symptoms of shortness of breath and fatigue due to the involvement of the heart muscle. However, the specific findings of a systolic murmur, right ventricular hypertrophy, and post-stenotic dilatation of the pulmonary artery, along with the peak Doppler gradient across the pulmonary valve, are not typical features of cardiac sarcoidosis. Cardiac sarcoidosis is an inflammatory disease that can cause patches of inflamed tissue (granulomas) in the heart muscle, leading to arrhythmias, heart block, or heart failure.
+
++5 Carcinoid Heart Disease:
+Carcinoid heart disease can lead to symptoms of shortness of breath and fatigue due to heart valve dysfunction. While the echocardiogram findings of right ventricular hypertrophy could be seen in this condition, the presence of a systolic murmur at the left upper sternal border and the specific echocardiographic findings related to the pulmonary valve are not characteristic of carcinoid heart disease. Carcinoid heart disease typically affects the tricuspid and pulmonary valves due to the release of serotonin and other substances from carcinoid tumors, leading to valve thickening, regurgitation, and sometimes stenosis.
+
+Given the patient's symptoms and echocardiogram findings, pulmonary valve stenosis seems to be the most likely diagnosis. Further investigation and confirmation through additional imaging, cardiac catheterization, or other diagnostic procedures would be necessary to establish a definitive diagnosis and appropriate treatment plan."
+Uveitis,"+1 Behçet's Disease:
+Behçet's disease is a rare inflammatory disorder that can affect various parts of the body, including the eyes. It can cause uveitis, which is inflammation of the uvea, the middle layer of the eye. Symptoms in common with the patient include redness and pain in the eyes, blurriness, photophobia, and headaches. Symptoms not in common may include oral ulcers, genital sores, and skin lesions, which are not mentioned in the patient's presentation.
+
++2 Acute Angle-Closure Glaucoma:
+Acute angle-closure glaucoma is a rare type of glaucoma that occurs when the drainage angle of the eye becomes blocked, leading to a rapid increase in intraocular pressure. Symptoms in common with the patient include eye redness, pain, blurriness, headaches, and potentially elevated intraocular pressure. Symptoms not in common might include seeing halos around lights and nausea or vomiting, which are not reported by the patient.
+
++3 Sarcoidosis:
+Sarcoidosis is a rare inflammatory disease that can affect any organ, but often starts in the lungs or lymph nodes. It can also involve the eyes, leading to uveitis. Symptoms in common with the patient include eye redness, pain, blurriness, photophobia, and headaches. Symptoms not in common could include lung problems, skin nodules, and enlarged lymph nodes, which the patient has not reported.
+
++4 Vogt-Koyanagi-Harada Disease:
+Vogt-Koyanagi-Harada Disease is a rare multisystem autoimmune disorder that affects the eyes, skin, and central nervous system. It can cause panuveitis, which is inflammation of all layers of the uvea. Symptoms in common with the patient include redness, pain, blurriness, photophobia, headaches, and inflammatory cells in the eye. Symptoms not in common might include hearing loss, vitiligo, and poliosis (whitening of hair), which are not mentioned in the patient's symptoms.
+
++5 Uveitis Associated with Juvenile Idiopathic Arthritis:
+This condition is a rare form of uveitis that occurs in children with juvenile idiopathic arthritis (JIA). While it typically affects children, it can sometimes be seen in adults. Symptoms in common with the patient include eye redness, pain, blurriness, and potentially elevated intraocular pressure. Symptoms not in common include joint pain and swelling characteristic of JIA, which the patient has not reported.
+
++6 Fuchs' Heterochromic Iridocyclitis:
+Fuchs' heterochromic iridocyclitis is a rare form of chronic, low-grade anterior uveitis that often affects only one eye. Symptoms in common with the patient include pain, blurriness, and photophobia. Symptoms not in common include heterochromia (differences in iris color), which is not reported by the patient, and the condition is typically not associated with acute redness or elevated intraocular pressure.
+
++7 Tubulointerstitial Nephritis and Uveitis Syndrome (TINU):
+TINU syndrome is a rare disorder that involves inflammation of the kidneys (tubulointerstitial nephritis) and the eyes (uveitis). Symptoms in common with the patient include eye redness, pain, blurriness, and photophobia. Symptoms not in common include kidney dysfunction, which the patient has not reported.
+
+Please note that this list is not exhaustive, and further testing, including laboratory work and imaging, would be necessary to narrow down the diagnosis and rule out other conditions."
+Congenital hypothyroidism,"+1 Hypothyroidism:
+Common Symptoms with Patient: Persistent fatigue, sensitivity to cold temperatures, constipation, unexplained weight gain, dry skin, thinning hair, slowed reflexes, enlarged thyroid gland, elevated TSH level, low free T4 level.
+Uncommon Symptoms with Patient: None indicated.
+
++2 Hashimoto's Thyroiditis:
+Common Symptoms with Patient: Persistent fatigue, sensitivity to cold temperatures, constipation, unexplained weight gain, dry skin, thinning hair, slowed reflexes, enlarged thyroid gland.
+Uncommon Symptoms with Patient: The presence of anti-thyroid antibodies would be expected, which is not mentioned in the initial laboratory results provided.
+
++3 Cushing's Syndrome:
+Common Symptoms with Patient: Unexplained weight gain.
+Uncommon Symptoms with Patient: The patient does not exhibit other common symptoms such as a round face, high blood pressure, or purple stretch marks.
+
++4 Sheehan's Syndrome:
+Common Symptoms with Patient: Persistent fatigue, sensitivity to cold temperatures, constipation, unexplained weight gain.
+Uncommon Symptoms with Patient: This condition is typically associated with a history of significant blood loss during childbirth, which is not mentioned in the patient's history.
+
++5 Addison's Disease:
+Common Symptoms with Patient: Persistent fatigue, weight gain.
+Uncommon Symptoms with Patient: The patient does not have other symptoms such as hyperpigmentation or low blood pressure; also, Addison's typically presents with weight loss rather than weight gain.
+
++6 Myxedema Coma:
+Common Symptoms with Patient: Persistent fatigue, sensitivity to cold temperatures, constipation, unexplained weight gain, dry skin, thinning hair, slowed reflexes, enlarged thyroid gland.
+Uncommon Symptoms with Patient: This is a severe, life-threatening condition that usually presents with altered mental status and hypothermia, which are not mentioned in the patient's presentation.
+
+Given the patient's symptoms and initial lab results, the most likely diagnosis is hypothyroidism, potentially due to Hashimoto's thyroiditis, which is an autoimmune condition that can lead to hypothyroidism. Further testing, including the presence of thyroid antibodies, would be necessary to confirm this diagnosis."
+Moderate and severe traumatic brain injury,"+1 Post-Concussion Syndrome:
+Common Symptoms: The patient's headache, dizziness, fatigue, difficulty concentrating, photophobia, phonophobia, irritability, balance and coordination issues, and cognitive problems including short-term memory, attention, and processing speed are all consistent with post-concussion syndrome. This condition typically follows a head injury, such as one might sustain in a motor vehicle accident.
+Non-Common Symptoms: The patient's report of significant anxiety and depressed mood could be related to the post-concussion syndrome, but these symptoms can also be indicative of other psychological conditions that may need to be evaluated separately.
+
++2 Chronic Fatigue Syndrome (CFS):
+Common Symptoms: Fatigue and difficulty concentrating are symptoms that overlap with chronic fatigue syndrome. The patient's reported difficulty with memory and cognitive testing could also be seen in CFS.
+Non-Common Symptoms: Headache, dizziness, photophobia, phonophobia, irritability, balance and coordination issues, and the onset after a motor vehicle accident are not typical presentations of chronic fatigue syndrome. CFS usually does not have a clear precipitating event like a trauma.
+
++3 Vestibular Migraine:
+Common Symptoms: The patient's headache, dizziness, photophobia, and phonophobia could be indicative of vestibular migraine. Balance and coordination issues are also common in this condition.
+Non-Common Symptoms: The cognitive issues, such as problems with short-term memory, attention, and processing speed, are not classic symptoms of vestibular migraine. Additionally, the mood changes and irritability are not primary symptoms of this condition.
+
++4 Traumatic Brain Injury (TBI):
+Common Symptoms: The patient's symptoms of headache, dizziness, fatigue, difficulty concentrating, photophobia, phonophobia, irritability, balance and coordination issues, and cognitive problems are all consistent with a traumatic brain injury, which could have occurred during the motor vehicle accident.
+Non-Common Symptoms: The patient's anxiety and depressed mood may be secondary to the TBI but could also be a result of an adjustment disorder or depression following the trauma and the changes in the patient's life post-accident.
+
++5 Whiplash Associated Disorder (WAD):
+Common Symptoms: Headache, dizziness, fatigue, and cognitive issues such as difficulty concentrating, memory problems, and processing speed can be associated with whiplash, which is a common injury in motor vehicle accidents.
+Non-Common Symptoms: Photophobia, phonophobia, and specific balance and coordination issues are not typically the main features of whiplash associated disorder. Mood changes like anxiety and depression can occur but are not definitive symptoms of WAD.
+
++6 Mild Cognitive Impairment (MCI):
+Common Symptoms: The patient's issues with memory, attention, and processing speed could suggest mild cognitive impairment.
+Non-Common Symptoms: Headache, dizziness, fatigue, photophobia, phonophobia, balance and coordination issues, and the acute onset following a motor vehicle accident are not typical of mild cognitive impairment, which usually develops more gradually.
+
++7 Depression with Somatic Symptoms:
+Common Symptoms: The patient's significant anxiety and depressed mood since the accident are consistent with depression. Some somatic symptoms of depression can include fatigue and difficulty concentrating.
+Non-Common Symptoms: Headache, dizziness, photophobia, phonophobia, irritability, balance and coordination issues, and cognitive problems are not primary symptoms of depression, although they can be present in some cases.
+
++8 Anxiety Disorder:
+Common Symptoms: Anxiety and difficulty concentrating can be symptoms of an anxiety disorder.
+Non-Common Symptoms: Headache, dizziness, fatigue, photophobia, phonophobia, irritability, balance and coordination issues, and cognitive problems are not typical symptoms of an anxiety disorder, although anxiety can exacerbate these issues if they are present due to another cause.
+
+Given the patient's history and symptoms, the most likely diagnosis appears to be post-concussion syndrome, but it is important to consider other conditions and to possibly refer the patient for further evaluation by a neurologist or a psychiatrist to address the psychological symptoms."
+22q11.2 deletion syndrome,"+1 Fragile X Syndrome:
+Common Symptoms with Patient: Developmental delays, particularly delayed speech and language skills, and subtle dysmorphic facial features such as a long face.
+Uncommon Symptoms with Patient: Fragile X Syndrome often includes intellectual disability, anxiety, and hyperactive behavior, which are not mentioned in the patient's symptoms.
+
++2 22q11.2 Deletion Syndrome (DiGeorge Syndrome):
+Common Symptoms with Patient: Cardiac anomalies like septal defects, immune dysfunction leading to frequent infections, and developmental delays.
+Uncommon Symptoms with Patient: This syndrome may also present with calcium metabolism issues and thymus gland abnormalities, which are not specified in the patient's presentation.
+
++3 Williams Syndrome:
+Common Symptoms with Patient: Developmental delays and subtle dysmorphic facial features.
+Uncommon Symptoms with Patient: Williams Syndrome is also characterized by a unique personality profile that includes being overly friendly, which is not described, and there may be issues with blood vessel stenosis, which is not mentioned.
+
++4 Turner Syndrome:
+Common Symptoms with Patient: Cardiac anomalies such as septal defects.
+Uncommon Symptoms with Patient: Turner Syndrome typically affects females and includes short stature and ovarian dysfunction, which are not indicated in the patient's symptoms.
+
++5 Velocardiofacial Syndrome:
+Common Symptoms with Patient: Cardiac anomalies, immune dysfunction, and developmental delays.
+Uncommon Symptoms with Patient: This condition also often includes cleft palate and learning difficulties, which are not specifically mentioned in the patient's symptoms.
+
++6 Noonan Syndrome:
+Common Symptoms with Patient: Cardiac anomalies and developmental delays.
+Uncommon Symptoms with Patient: Noonan Syndrome also typically includes short stature and a broad or webbed neck, which are not described in the patient's presentation.
+
++7 Kabuki Syndrome:
+Common Symptoms with Patient: Developmental delays, frequent ear infections, and subtle dysmorphic facial features.
+Uncommon Symptoms with Patient: Kabuki Syndrome often includes skeletal abnormalities and joint laxity, which are not mentioned in the patient's symptoms.
+
++8 Stickler Syndrome:
+Common Symptoms with Patient: Facial dysmorphism and a history of frequent ear infections.
+Uncommon Symptoms with Patient: Stickler Syndrome is commonly associated with eye abnormalities, hearing loss, and joint problems, which are not specified in the patient's presentation.
+
++9 CHARGE Syndrome:
+Common Symptoms with Patient: Developmental delays and possible cardiac anomalies.
+Uncommon Symptoms with Patient: CHARGE Syndrome typically includes coloboma, heart defects, atresia of the choanae, growth retardation, genital abnormalities, and ear abnormalities, which are not all detailed in the patient's symptoms.
+
++10 Cornelia de Lange Syndrome:
+Common Symptoms with Patient: Developmental delays and subtle dysmorphic facial features.
+Uncommon Symptoms with Patient: This syndrome also includes limb abnormalities, hirsutism, and growth delays, which are not indicated in the patient's presentation.
+
+Please note that this list is not exhaustive, and the presence of certain symptoms does not definitively diagnose any of these conditions. A thorough clinical evaluation, including genetic testing and consultation with specialists, may be necessary to reach an accurate diagnosis."
+Primary congenital hypothyroidism,"+1 Congenital Hypothyroidism:
+Common Symptoms: The patient's symptoms of slow development and growth, enlarged anterior fontanelle, macroglossia (large tongue), umbilical hernia, and hypotonia (low muscle tone) are consistent with congenital hypothyroidism. The lab findings of elevated TSH (thyroid-stimulating hormone) and low T4 (thyroxine) also support this diagnosis.
+Not Common Symptoms: There are no additional symptoms provided that are inconsistent with congenital hypothyroidism.
+
++2 Pompe Disease:
+Common Symptoms: Pompe disease can present with hypotonia in infants, which aligns with the patient's symptom.
+Not Common Symptoms: However, Pompe disease typically does not present with an enlarged anterior fontanelle, macroglossia, umbilical hernia, or specific thyroid function abnormalities such as elevated TSH and low T4.
+
++3 Prader-Willi Syndrome:
+Common Symptoms: Hypotonia is a symptom that can be seen in Prader-Willi Syndrome, which matches the patient's presentation.
+Not Common Symptoms: Prader-Willi Syndrome does not typically present with an enlarged anterior fontanelle, macroglossia, umbilical hernia, or the specific thyroid lab abnormalities of elevated TSH and low T4.
+
++4 Beckwith-Wiedemann Syndrome:
+Common Symptoms: Beckwith-Wiedemann Syndrome can present with macroglossia and umbilical hernia, which are observed in the patient.
+Not Common Symptoms: However, it is not typically associated with hypothyroidism (elevated TSH and low T4), and while hypotonia can be present, it is not a defining feature. Enlarged anterior fontanelle is not a common symptom of Beckwith-Wiedemann Syndrome.
+
++5 Cretinism (a historical term for severe congenital hypothyroidism):
+Common Symptoms: The patient's symptoms of slow development and growth, enlarged anterior fontanelle, macroglossia, umbilical hernia, hypotonia, and the lab findings of elevated TSH and low T4 are all indicative of severe congenital hypothyroidism, historically referred to as cretinism.
+Not Common Symptoms: There are no additional symptoms provided that are inconsistent with severe congenital hypothyroidism.
+
+Given the patient's symptoms and lab findings, the most likely diagnosis from this list would be +1 Congenital Hypothyroidism. It is important to note that while other conditions can present with some overlapping symptoms, the combination of clinical findings and specific thyroid function tests point towards congenital hypothyroidism as the most probable diagnosis. Further diagnostic testing and evaluation by a pediatric endocrinologist would be warranted to confirm the diagnosis and initiate appropriate treatment."
+Follicular lymphoma,"+1 Hodgkin Lymphoma:
+Hodgkin lymphoma is a type of cancer that affects the lymphatic system. Common symptoms include painless swelling of the lymph nodes in the neck, armpits, or groin, as well as fatigue and night sweats. However, patients with Hodgkin lymphoma often experience fevers and weight loss, which this patient does not report. The presence of enlarged, rubbery, non-tender lymph nodes and fatigue align with this diagnosis, but the absence of fevers, weight loss, and drenching night sweats, as well as a normal white blood cell count, may suggest another condition.
+
++2 Non-Hodgkin Lymphoma:
+Non-Hodgkin lymphoma is a diverse group of blood cancers that includes any type of lymphoma except Hodgkin's lymphomas. Symptoms can be similar to those of Hodgkin lymphoma, including painless lymph node swelling, fatigue, and night sweats. The normal white blood cell count does not rule out this disease, and the low red blood cell and platelet counts could be associated with bone marrow involvement. The lack of fevers, weight loss, and drenching night sweats are not typical but do not exclude the diagnosis.
+
++3 Castleman Disease:
+Castleman disease is a rare disorder that involves an overgrowth of cells in the body's lymph nodes. Symptoms can include enlarged lymph nodes, fatigue, and night sweats. While some forms of Castleman disease can cause systemic symptoms like fever and weight loss, others do not, which could be consistent with this patient's presentation. The normal white blood cell count, along with low red blood cell and platelet counts, could also be seen in this condition.
+
++4 Lymphoma of the Bone Marrow (Primary Bone Marrow Lymphoma):
+This rare form of lymphoma originates in the bone marrow. Patients may present with fatigue, night sweats, and anemia (low red blood cell count), which could explain the patient's low red blood cell and platelet counts. Enlarged lymph nodes can also occur, although this is more common in other types of lymphoma. The absence of fever and weight loss does not rule out this diagnosis.
+
++5 Autoimmune Lymphoproliferative Syndrome (ALPS):
+ALPS is a rare genetic disorder that affects the immune system, leading to the overproduction of lymphocytes and causing enlarged lymph nodes, as well as an increased risk of autoimmune disorders. Patients with ALPS can have symptoms like fatigue and may have normal or elevated white blood cell counts with low red blood cell and platelet counts due to autoimmune destruction. The lack of fever and weight loss is consistent with ALPS, but the condition is usually diagnosed in childhood or early adolescence.
+
++6 Sarcoidosis:
+Sarcoidosis is a rare inflammatory disease that can affect multiple organs, including the lymph nodes. It can cause fatigue, night sweats, and lymphadenopathy (enlarged lymph nodes). While sarcoidosis can cause systemic symptoms like fever and weight loss, not all patients experience these. The normal white blood cell count and low red blood cell and platelet counts could be related to sarcoidosis, but this condition often involves other organ systems and may present with additional symptoms not seen in this patient.
+
+Please note that this list is not exhaustive, and further diagnostic testing, including imaging and possibly a lymph node biopsy, would be necessary to narrow down the diagnosis and rule out other conditions."
+Hemorrhagic fever-renal syndrome,"+1 Hemorrhagic Fever Syndromes:
+Common symptoms with the patient: Acute onset of high fever, chills, headache, back pain, abdominal pain, nausea, vomiting, petechial rash, thrombocytopenia, elevated hematocrit, decreased white blood cell count, elevated creatinine, proteinuria, and recent travel to an area with an outbreak of an unknown viral illness.
+Symptoms not in common: Specific viral etiology not identified, potential organ failure not mentioned.
+
++2 Meningococcemia:
+Common symptoms with the patient: Acute onset of high fever, chills, headache, petechial rash, thrombocytopenia, and decreased white blood cell count.
+Symptoms not in common: Meningitis symptoms such as neck stiffness and altered mental status are not described, and the specific bacteria (Neisseria meningitidis) is not confirmed.
+
++3 Thrombotic Thrombocytopenic Purpura (TTP):
+Common symptoms with the patient: Thrombocytopenia, fever, and neurological symptoms could be inferred from the headache.
+Symptoms not in common: Classic pentad of TTP (thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal symptoms, and fever) is not fully described, and the presence of ADAMTS13 enzyme deficiency or antibodies is not mentioned.
+
++4 Dengue Hemorrhagic Fever:
+Common symptoms with the patient: High fever, headache, back pain, abdominal pain, nausea, vomiting, petechial rash, thrombocytopenia, and recent travel to an endemic area.
+Symptoms not in common: Specific serological confirmation of dengue virus is not provided, and other dengue-specific symptoms like retro-orbital pain are not mentioned.
+
++5 Hantavirus Pulmonary Syndrome:
+Common symptoms with the patient: Fever, chills, headache, back pain, abdominal pain, thrombocytopenia, and recent travel to an area with a potential outbreak.
+Symptoms not in common: Respiratory symptoms such as cough and shortness of breath are not described, and specific serological tests confirming Hantavirus are not mentioned.
+
++6 Ehrlichiosis:
+Common symptoms with the patient: Acute onset of high fever, chills, headache, nausea, vomiting, thrombocytopenia, elevated creatinine, and recent travel to an area where tick-borne illnesses could be present.
+Symptoms not in common: Specific white blood cell inclusions (morulae) in leukocytes not mentioned, and serological or PCR confirmation of Ehrlichia species not provided.
+
++7 Rocky Mountain Spotted Fever:
+Common symptoms with the patient: Acute onset of high fever, chills, headache, abdominal pain, nausea, vomiting, petechial rash, and recent travel to an area with potential tick exposure.
+Symptoms not in common: The characteristic spotted rash starting on the wrists and ankles and spreading to the trunk is not described, and Rickettsia rickettsii infection confirmation is not mentioned.
+
++8 Leptospirosis:
+Common symptoms with the patient: High fever, chills, headache, back pain, abdominal pain, nausea, vomiting, elevated creatinine, and recent travel to an area with possible exposure to contaminated water.
+Symptoms not in common: Jaundice, conjunctival suffusion, and specific serological or PCR confirmation of Leptospira are not mentioned.
+
+Please note that this list is not exhaustive, and further diagnostic tests would be necessary to confirm the diagnosis. The presence of an unknown viral outbreak in the area of recent travel is particularly concerning and suggests that the patient may be suffering from a novel or emerging infectious disease. It is crucial to report this case to public health authorities and consider quarantine measures while awaiting further test results."
+Non-papillary transitional cell carcinoma of the bladder,"+1 Alport Syndrome:
+Alport Syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities. Symptoms that the patient has in common include hematuria. However, the patient does not exhibit hearing loss or eye abnormalities, which are also typical of Alport Syndrome.
+
++2 Bladder Cancer:
+Bladder cancer can present with painless hematuria, which is a common symptom in this patient. The history of smoking and occupational exposure to chemicals are significant risk factors for bladder cancer. The patient does not present with other common symptoms such as frequent urination or pain during urination.
+
++3 IgA Nephropathy (Berger's Disease):
+IgA Nephropathy is a kidney disorder that occurs when IgA—a protein that helps the body fight infections—settles in the kidneys. This can result in hematuria, which the patient is experiencing. However, the patient does not exhibit other symptoms such as proteinuria or high blood pressure.
+
++4 Thin Basement Membrane Disease:
+This is a hereditary disorder that can cause persistent microscopic hematuria and is usually benign. The patient's symptom of hematuria aligns with this disease, but there is no mention of a family history or other diagnostic features such as mild proteinuria.
+
++5 Kidney Stones:
+Kidney stones can cause hematuria and suprapubic tenderness. However, the patient does not report other common symptoms of kidney stones, such as severe pain in the back or side, nausea, or vomiting.
+
++6 Schistosomiasis:
+Schistosomiasis is a parasitic infection that can cause hematuria. It is associated with freshwater exposure in certain endemic regions. The patient's symptoms include hematuria, but there is no mention of exposure to freshwater in endemic areas or other symptoms like abdominal pain or diarrhea.
+
++7 Glomerulonephritis:
+Glomerulonephritis is an inflammation of the glomeruli in the kidneys. It can present with hematuria, which the patient has. However, the patient does not show other common symptoms such as edema, hypertension, or proteinuria.
+
++8 Polycystic Kidney Disease:
+Polycystic Kidney Disease is a genetic disorder characterized by the growth of numerous cysts in the kidneys. Hematuria can occur, but the patient does not present with other symptoms such as kidney pain, high blood pressure, or kidney failure.
+
++9 Renal Cell Carcinoma:
+Renal cell carcinoma is a type of kidney cancer that can cause hematuria. The patient's smoking history could be a risk factor. However, the patient does not have other symptoms like weight loss, fever, or a palpable mass on the kidney area.
+
++10 Urothelial Carcinoma (Transitional Cell Carcinoma):
+This is a cancer that occurs in the urinary system and can present with painless hematuria, which the patient is experiencing. The patient's occupational exposure to chemicals is a risk factor. However, there are no symptoms such as urinary urgency or dysuria reported.
+
+Please note that this list is not exhaustive, and further diagnostic tests such as imaging studies, cystoscopy, and possibly a biopsy would be necessary to reach a definitive diagnosis."
+High-grade dysplasia in patients with Barrett esophagus,"+1 Achalasia:
+Achalasia is a rare disorder of the esophagus, where the muscles fail to relax properly, leading to difficulty swallowing, regurgitation of food, and sometimes chest pain. This condition can also cause symptoms similar to heartburn and reflux. However, achalasia typically does not present with tenderness in the upper abdomen. The patient's long-standing gastroesophageal reflux disease (GERD) and anemia could be related, but occult blood in the stool is not a common symptom of achalasia.
+
++2 Zollinger-Ellison Syndrome:
+Zollinger-Ellison Syndrome is a rare condition caused by a gastrin-secreting tumor (gastrinoma) that leads to excessive acid production. It can result in severe peptic ulcers, reflux symptoms, and chronic diarrhea. The patient's increasing heartburn and reflux symptoms could be explained by this syndrome, and the anemia might be due to bleeding ulcers. However, the presence of occult blood in the stool is a symptom, while tenderness in the upper abdomen could be related to ulceration or inflammation.
+
++3 Eosinophilic Esophagitis:
+Eosinophilic esophagitis is a chronic immune system disease where eosinophils build up in the esophagus, leading to inflammation. Symptoms can include heartburn, difficulty swallowing, and food getting stuck in the esophagus. The patient's symptoms of heartburn and reflux are common in eosinophilic esophagitis, but anemia and occult blood in the stool are not typical features of this disease.
+
++4 Gastric Cancer:
+Gastric cancer can sometimes present with symptoms similar to GERD, including heartburn and reflux. It can also cause tenderness in the upper abdomen, anemia, and occult blood in the stool due to bleeding from the tumor. The patient's long-standing reflux symptoms and recent exacerbation could potentially be related to an underlying gastric cancer, which would need to be investigated with an upper endoscopy.
+
++5 Peptic Ulcer Disease:
+Peptic ulcer disease involves the development of ulcers in the lining of the stomach or the first part of the small intestine. It can cause symptoms like heartburn, reflux, and upper abdominal pain or tenderness. The anemia and occult blood in the stool could be due to bleeding from the ulcers. The patient's symptoms and laboratory findings could be consistent with peptic ulcer disease, which can be exacerbated by long-term proton pump inhibitor use.
+
++6 Gastrointestinal Stromal Tumor (GIST):
+GISTs are rare tumors that can occur anywhere along the gastrointestinal tract. They can cause symptoms such as pain or discomfort in the abdomen, nausea, vomiting, anemia, and occult blood in the stool if bleeding occurs. While the patient's symptoms could be related to a GIST, this condition would not typically cause heartburn and reflux symptoms.
+
++7 Barrett's Esophagus:
+Barrett's esophagus is a condition where the esophageal lining changes, often due to chronic GERD, and can increase the risk of esophageal cancer. Symptoms can mimic GERD, including heartburn and reflux. The patient's long-standing GERD and worsening symptoms could suggest the development of Barrett's esophagus. Anemia and occult blood in the stool could be related if there is bleeding from the esophagus, but this is not a common symptom of Barrett's esophagus.
+
+Please note that these are hypothetical considerations based on the provided symptoms, and actual diagnosis should be made following a thorough clinical evaluation, including an upper endoscopy and other diagnostic tests as indicated."
+Aorta coarctation,"+1 Coarctation of the Aorta:
+Common Symptoms: The patient's symptoms of shortness of breath, chest pain during physical activity, and hypertension in the upper extremities are consistent with coarctation of the aorta. The weakened femoral pulses and the blood pressure difference between the arms and legs also align with this condition.
+Non-Common Symptoms: The patient does not exhibit other symptoms such as headaches, nosebleeds, or leg cramps that can sometimes be associated with coarctation of the aorta.
+
++2 Pheochromocytoma:
+Common Symptoms: Fatigue and dizziness can be symptoms of pheochromocytoma, as well as occasional chest pain and hypertension, which could be related to the noted high blood pressure in the upper extremities.
+Non-Common Symptoms: The patient does not show classic symptoms of pheochromocytoma such as episodes of sweating, palpitations, or headaches. There is no mention of a history of tumors in the adrenal glands.
+
++3 Takayasu Arteritis:
+Common Symptoms: The difference in blood pressure between the arms and legs, weakened femoral pulses, and hypertension in the upper extremities could be indicative of Takayasu arteritis. The cardiac murmur may also be related to this condition.
+Non-Common Symptoms: The patient does not exhibit other common symptoms of Takayasu arteritis such as night sweats, weight loss, or joint and muscle pain.
+
++4 Aortic Valve Stenosis:
+Common Symptoms: The patient's symptoms of chest pain during physical activity and the presence of a cardiac murmur could suggest aortic valve stenosis. Fatigue and shortness of breath are also common in this condition.
+Non-Common Symptoms: The patient does not show signs of syncope or heart failure, which are often associated with advanced aortic valve stenosis. There is no mention of a congenital heart defect, which is a common cause of aortic stenosis in younger individuals.
+
++5 Hypertrophic Cardiomyopathy:
+Common Symptoms: The patient's symptoms of chest pain, particularly with physical activity, and shortness of breath could be consistent with hypertrophic cardiomyopathy. The cardiac murmur noted on exam may be due to the obstruction of blood flow that is characteristic of this disease.
+Non-Common Symptoms: The patient does not exhibit other symptoms such as palpitations or syncope, which can be seen in hypertrophic cardiomyopathy. There is also no mention of a family history of the disease, which is often present.
+
++6 Pulmonary Hypertension:
+Common Symptoms: Shortness of breath and fatigue are symptoms that could be associated with pulmonary hypertension. The dizziness and chest pain with physical activity could also be related.
+Non-Common Symptoms: The patient does not show signs of edema, cyanosis, or Raynaud's phenomenon, which can occur in pulmonary hypertension. The blood pressure difference between the arms and legs is not typical for this condition.
+
+Given the symptoms and findings, coarctation of the aorta (1) seems to be the most likely diagnosis. However, further diagnostic tests such as imaging (echocardiogram, MRI, or CT angiography) would be necessary to confirm the diagnosis and to rule out other potential conditions."
+Uremic pruritus,"+1 Polycythemia Vera:
+Polycythemia vera is a rare blood disorder in which the body makes too many red blood cells. This can lead to thickened blood and increased risk of clotting. It can sometimes cause itching, especially after a hot bath or shower. However, it is not typically associated with kidney dysfunction, so while the itching symptom aligns, the elevated creatinine level and decreased estimated glomerular filtration rate do not.
+
++2 Primary Biliary Cholangitis:
+Primary biliary cholangitis is a chronic disease that slowly destroys the bile ducts in the liver. It can lead to itching, which is a common symptom. However, the disease is more often associated with liver dysfunction rather than kidney dysfunction, so the elevated creatinine level and decreased estimated glomerular filtration rate are not typical symptoms of this condition.
+
++3 Hodgkin's Lymphoma:
+Hodgkin's lymphoma is a type of cancer that affects the lymphatic system. Intense itching without an apparent cause can be a symptom of Hodgkin's lymphoma. However, this condition is also usually associated with additional symptoms such as swollen lymph nodes, which are not mentioned in the patient's presentation. Kidney function can be affected, but it is not a primary symptom of Hodgkin's lymphoma.
+
++4 Chronic Kidney Disease (CKD):
+Chronic kidney disease is the gradual loss of kidney function over time. It can lead to a buildup of waste products in the blood, which can cause itching. The patient's elevated creatinine level and decreased estimated glomerular filtration rate are indicative of impaired kidney function, which aligns with CKD. Dry skin can also be a symptom of CKD. However, CKD is not considered a rare disease.
+
++5 Uremic Pruritus:
+Uremic pruritus is a common symptom in patients with advanced chronic kidney disease or end-stage renal disease. It is characterized by intense itching and is often worse at night. The patient's symptoms of severe itching, elevated creatinine level, and decreased estimated glomerular filtration rate are consistent with uremic pruritus. Dry skin is also a common finding in patients with renal insufficiency.
+
++6 Multiple Myeloma:
+Multiple myeloma is a cancer of the plasma cells in the bone marrow. It can cause a variety of symptoms, including bone pain and kidney dysfunction, which can lead to elevated creatinine levels. Itching can occur but is not a hallmark symptom. The patient's kidney-related lab findings could be consistent with multiple myeloma, but the absence of other common symptoms such as bone pain or anemia makes this diagnosis less likely.
+
++7 Cholestasis:
+Cholestasis is a condition where bile flow from the liver is reduced or blocked. Itching is a common symptom due to the accumulation of bile salts in the skin. However, cholestasis primarily affects liver function tests rather than kidney function, so the patient's elevated creatinine level and decreased estimated glomerular filtration rate do not fit this condition.
+
+Given the patient's symptoms and lab findings, uremic pruritus associated with chronic kidney disease seems to be the most likely diagnosis. However, further diagnostic workup, including more detailed lab tests and possibly a kidney biopsy, would be necessary to confirm the diagnosis and rule out other conditions."
+Radiation proctitis,"+1 Peutz-Jeghers Syndrome:
+This rare genetic condition is characterized by the development of polyps in the gastrointestinal tract and pigmented spots on the skin, especially around the mouth, nose, and eyes. Symptoms in common with the patient include rectal bleeding and changes in bowel habits. However, the patient does not present with the characteristic pigmented spots, and there is no mention of a family history or polyps in other areas of the gastrointestinal tract.
+
++2 Familial Adenomatous Polyposis (FAP):
+FAP is a hereditary disorder that causes the development of hundreds to thousands of polyps in the colon and rectum, which can lead to colorectal cancer if not treated. Symptoms in common with the patient include rectal bleeding and changes in bowel habits. However, the patient does not present with the extensive number of polyps typically seen in FAP, nor is there a mention of a family history of the disease.
+
++3 Solitary Rectal Ulcer Syndrome (SRUS):
+SRUS is a rare disorder that presents with rectal bleeding, changes in bowel habits, and rectal pain. Symptoms in common with the patient include rectal bleeding, changes in bowel habits, tenesmus, urgency, and rectal pain. Findings on exam such as friable mucosa or ulceration are also consistent with SRUS. However, SRUS is not typically associated with a history of pelvic radiation therapy.
+
++4 Radiation Proctitis:
+This condition is an inflammation of the rectum following radiation therapy to the pelvic area. Symptoms in common with the patient include rectal bleeding, changes in bowel habits, tenesmus, urgency, rectal pain, and a history of pelvic radiation therapy. Findings on exam such as contact bleeding, telangiectasia, friable mucosa, or ulceration are also consistent with radiation proctitis.
+
++5 Ulcerative Colitis:
+Ulcerative colitis is a chronic inflammatory bowel disease that causes inflammation and ulcers in the lining of the colon and rectum. Symptoms in common with the patient include rectal bleeding, changes in bowel habits, tenesmus, urgency, and rectal pain. Findings on exam such as friable mucosa or ulceration are also consistent with ulcerative colitis. However, ulcerative colitis is not typically associated with a history of pelvic radiation therapy.
+
++6 Crohn's Disease:
+Crohn's disease is a type of inflammatory bowel disease that can affect any part of the gastrointestinal tract, causing a wide range of symptoms. Symptoms in common with the patient include rectal bleeding and changes in bowel habits. However, Crohn's disease often presents with inflammation that can be seen in other parts of the digestive tract, not just the rectum, and there is no mention of a history of pelvic radiation therapy.
+
++7 Anal Cancer:
+Anal cancer can present with rectal bleeding, changes in bowel habits, and rectal pain. Symptoms in common with the patient include rectal bleeding, changes in bowel habits, tenesmus, urgency, and rectal pain. Findings on exam such as ulceration of the rectal mucosa are also consistent with anal cancer. A history of pelvic radiation therapy is a known risk factor for developing secondary cancers, including anal cancer.
+
+Given the patient's history and symptoms, the most likely diagnosis would be Radiation Proctitis, especially considering the history of pelvic radiation therapy. However, further diagnostic tests such as a biopsy during anoscopy or proctoscopy would be necessary to confirm the diagnosis and rule out other conditions."
+Osteochondritis dissecans,"+1 Osteochondritis Dissecans:
+Common Symptoms: The patient's moderate knee pain and swelling, as well as pain worsening with physical activity, are consistent with osteochondritis dissecans. Tenderness upon palpation and decreased range of motion are also common in this condition.
+Non-Common Symptoms: Typically, osteochondritis dissecans is seen in adolescents and young adults, and it may be associated with a history of trauma or sports activity, which is not specified for this patient.
+
++2 Pigmented Villonodular Synovitis (PVNS):
+Common Symptoms: The patient's symptoms of knee pain and swelling could be related to PVNS, as this disease often presents with joint pain and effusion. Tenderness and decreased range of motion can also be seen in PVNS.
+Non-Common Symptoms: PVNS is often characterized by a more localized nodular swelling, and the pain might not necessarily worsen with physical activity. Additionally, PVNS can sometimes cause locking or instability of the knee, which is not mentioned in the patient's symptoms.
+
++3 Synovial Chondromatosis:
+Common Symptoms: The patient's symptoms of knee pain, swelling, and decreased range of motion could be indicative of synovial chondromatosis, where loose bodies within the joint cause such manifestations.
+Non-Common Symptoms: Synovial chondromatosis often presents with joint locking or clicking, which is not described in the patient's symptoms. Also, the pain is not typically localized to a specific area as described by the patient.
+
++4 Hoffa's Syndrome (Infrapatellar Fat Pad Impingement):
+Common Symptoms: The patient's localized knee pain and tenderness, particularly in the front of the knee, could suggest Hoffa's Syndrome. The pain worsening with activity and the slight decrease in range of motion are also consistent with this condition.
+Non-Common Symptoms: Hoffa's Syndrome is usually associated with a history of knee hyperextension or direct trauma, which is not specified in the patient's history.
+
++5 Tumoral Calcinosis:
+Common Symptoms: The patient's symptoms of localized knee pain and swelling could potentially be explained by tumoral calcinosis, which involves calcium deposits in soft tissues around joints.
+Non-Common Symptoms: Tumoral calcinosis typically presents with larger, palpable masses, which was not indicated in the patient's examination. It is also more common in patients with renal disease or metabolic disorders, which is not mentioned in the patient's history.
+
++6 Gout:
+Common Symptoms: Gout can cause joint pain and swelling, which may be consistent with the patient's symptoms. Tenderness upon palpation is also a common feature of gout.
+Non-Common Symptoms: Gout typically presents with acute onset and intense pain, often at the base of the big toe, rather than a gradual development of pain in the knee. It is also associated with redness and extreme sensitivity, which are not described here.
+
++7 Rheumatoid Arthritis:
+Common Symptoms: The patient's chronic pain, swelling, and decreased range of motion could be indicative of rheumatoid arthritis, a chronic inflammatory disorder.
+Non-Common Symptoms: Rheumatoid arthritis usually affects multiple joints in a symmetrical pattern and is often accompanied by systemic symptoms like fatigue and fever, which are not mentioned in the patient's presentation.
+
++8 Lyme Disease:
+Common Symptoms: Lyme disease can cause joint pain and swelling, which aligns with the patient's symptoms. It can also lead to decreased range of motion in the affected joint.
+Non-Common Symptoms: Lyme disease typically presents with a characteristic ""bull's-eye"" rash and flu-like symptoms, which are not described in the patient's case. It is also more common in patients with a history of tick exposure.
+
+Please note that this list is not exhaustive, and further investigation including imaging, laboratory tests, and possibly a referral to a specialist may be necessary to reach a definitive diagnosis."
+Isolated anencephaly/exencephaly,"+1 Pseudotumor Cerebri (Idiopathic Intracranial Hypertension):
+This condition is characterized by increased intracranial pressure without a detectable cause. Symptoms often include headaches that are worse in the morning, nausea, vomiting, and sometimes visual disturbances. The patient's frequent headaches and nausea are consistent with this disease. However, prominent scalp veins are not a typical feature, and the patient's abnormal neurological findings would need further investigation to confirm this diagnosis.
+
++2 Brain Tumor:
+A brain tumor can present with headaches that are worse in the morning due to increased intracranial pressure overnight. Nausea and vomiting are also common symptoms. The presence of abnormal neurological findings such as hyperreflexia could be indicative of a brain tumor. The prominent scalp veins might suggest increased intracranial pressure, which can be associated with a tumor. Neuroimaging would be crucial in evaluating this possibility.
+
++3 Meningioma:
+Meningiomas are typically benign brain tumors that arise from the meninges, the layers of tissue covering the brain and spinal cord. Patients may experience headaches, nausea, and vomiting. Neurological abnormalities can occur depending on the location of the tumor. While prominent scalp veins are not a classic symptom, they could be related to increased intracranial pressure. Neuroimaging would help in diagnosing a meningioma.
+
++4 Venous Sinus Thrombosis:
+This condition involves a blood clot in the dural venous sinuses, which drain blood from the brain. Symptoms can include headache, nausea, vomiting, and sometimes seizures or focal neurological deficits. The prominent scalp veins could be a sign of increased pressure due to impaired venous drainage. The patient's hyperreflexia is not a typical symptom but could be related to increased intracranial pressure or secondary effects of the clot.
+
++5 Chiari Malformation:
+A structural defect in the cerebellum, the part of the brain that controls balance. It can lead to headaches, often worse in the morning, and nausea. Neurological findings such as hyperreflexia can be associated with this condition. However, prominent scalp veins are not a common symptom of Chiari malformation. Imaging studies, particularly MRI, would be necessary to diagnose this condition.
+
++6 Glomus Jugulare Tumor:
+This is a rare, typically benign tumor that arises from the glomus body located at the skull base. It can cause headaches, pulsatile tinnitus, and neurological deficits depending on its size and location. While the patient's headaches and neurological findings could fit, nausea and vomiting are less common, and prominent scalp veins are not a typical symptom. Detailed imaging would be required for diagnosis.
+
++7 Primary Angiitis of the Central Nervous System (PACNS):
+This rare disorder involves inflammation of the blood vessels in the brain and spinal cord. It can present with headaches, neurological deficits, and sometimes systemic symptoms like fever. The patient's headaches and neurological findings could be suggestive, but prominent scalp veins and nausea/vomiting are not characteristic symptoms. Diagnosis often requires a combination of imaging and possibly a biopsy.
+
++8 Acromegaly:
+A hormonal disorder that develops when the pituitary gland produces too much growth hormone. Symptoms can include headache, enlarged hands and feet, and coarsening of facial features. While headaches are a symptom, the patient's presentation of prominent scalp veins, nausea, vomiting, and hyperreflexia are not typical of acromegaly. Blood tests measuring growth hormone levels and imaging of the pituitary gland would be part of the diagnostic workup.
+
+Each of these potential diagnoses shares some overlap with the patient's symptoms but also has discrepancies. A thorough and targeted workup, including advanced neuroimaging and possibly further laboratory tests or biopsies, would be essential to narrow down the diagnosis and initiate appropriate treatment."
+Eosinophilic esophagitis,"+1 Eosinophilic Esophagitis (EoE):
+Common Symptoms with Patient: Intermittent solid food dysphagia, episodic food impaction, endoscopy showing rings and furrows in the esophageal mucosa, and white plaques.
+Uncommon Symptoms with Patient: Patients with EoE often have a history of atopic diseases such as asthma, eczema, or allergic rhinitis, which is not mentioned in the patient's symptoms.
+
++2 Achalasia:
+Common Symptoms with Patient: Intermittent solid food dysphagia.
+Uncommon Symptoms with Patient: Achalasia typically presents with progressive dysphagia to both solids and liquids, weight loss, and a bird-beak appearance on barium swallow, which are not described in the patient's presentation. Additionally, endoscopic findings for achalasia do not typically include rings, furrows, or white plaques.
+
++3 Schatzki Ring:
+Common Symptoms with Patient: Intermittent solid food dysphagia, episodic food impaction, and endoscopy showing rings in the esophageal mucosa.
+Uncommon Symptoms with Patient: Schatzki rings are usually a singular ring, and the presence of furrows and white plaques is not characteristic of this condition.
+
++4 Esophageal Candidiasis:
+Common Symptoms with Patient: White plaques on endoscopy.
+Uncommon Symptoms with Patient: Esophageal candidiasis typically presents with odynophagia (painful swallowing) rather than intermittent dysphagia and food impaction. The rings and furrows seen in the esophageal mucosa are not typical findings in esophageal candidiasis.
+
++5 Lichen Planus Esophagitis:
+Common Symptoms with Patient: White plaques on endoscopy, which may be seen in lichen planus esophagitis.
+Uncommon Symptoms with Patient: Lichen planus esophagitis is usually associated with lacy white patches in the mouth or skin lesions, which are not mentioned in the patient's symptoms. The presence of rings and furrows is also not a typical finding.
+
+Given the symptoms and endoscopic findings, the most likely diagnosis from this list appears to be Eosinophilic Esophagitis (EoE). However, further testing, such as biopsies to assess for eosinophilic infiltration, would be necessary to confirm the diagnosis and rule out other conditions."
+Tetralogy of Fallot,"+1 Tetralogy of Fallot:
+The patient's symptoms and findings are consistent with Tetralogy of Fallot, which is a congenital heart defect that includes four specific heart problems: a ventricular septal defect (VSD), pulmonary stenosis, right ventricular hypertrophy, and an overriding aorta. The symptoms of progressive shortness of breath, episodes of cyanosis during feeding or agitation, a heart murmur, and a boot-shaped heart silhouette on chest X-ray, along with echocardiographic findings of right ventricular hypertrophy, overriding aorta, and pulmonary stenosis, all align with this diagnosis.
+
++2 Eisenmenger Syndrome:
+While Eisenmenger syndrome is associated with cyanosis and shortness of breath due to advanced pulmonary hypertension and reversal of left-to-right shunt to a right-to-left shunt, the patient does not exhibit the specific signs of advanced pulmonary vascular disease or the history of an unrepaired congenital heart defect that would lead to this condition. Additionally, the chest X-ray and echocardiogram findings provided do not specifically indicate Eisenmenger syndrome.
+
++3 Primary Pulmonary Hypertension:
+Primary pulmonary hypertension could cause shortness of breath and cyanosis due to high blood pressure in the lungs' arteries. However, the patient's symptoms of a heart murmur, split S2, and the specific echocardiogram findings of right ventricular hypertrophy, overriding aorta, and pulmonary stenosis are not typical for primary pulmonary hypertension alone, which does not usually present with these congenital defects.
+
++4 Transposition of the Great Arteries:
+This condition involves the aorta and the pulmonary artery being switched from their normal positions. While it can lead to cyanosis and shortness of breath, the patient's specific findings of a boot-shaped heart silhouette and the echocardiogram results do not match the typical presentation of transposition of the great arteries, which usually presents with different structural heart abnormalities.
+
++5 Tricuspid Atresia:
+Tricuspid atresia is a congenital heart defect where the tricuspid heart valve is absent or abnormally developed. This can lead to cyanosis and shortness of breath. However, the patient's echocardiogram findings of an overriding aorta and pulmonary stenosis, along with a boot-shaped heart silhouette, are not characteristic of tricuspid atresia, which typically involves an underdeveloped right ventricle and an atrial septal defect.
+
+Given the patient's symptoms and the diagnostic findings, Tetralogy of Fallot (+1) is the most likely diagnosis among the rare diseases listed."
+Neurofibromatosis type 1,"+1 Neurofibromatosis Type 1 (NF1):
+Common Symptoms with Patient:
+- Presence of multiple cafe-au-lait macules.
+- Learning disabilities.
+- Benign soft bumps on the skin, which could be neurofibromas.
+
+Symptoms Not Present in Patient:
+- Freckling in the armpits or groin area.
+- Lisch nodules (benign iris hamartomas).
+- Bone deformities.
+- Family history of NF1 (if not mentioned by the parents).
+
++2 Legius Syndrome:
+Common Symptoms with Patient:
+- Multiple cafe-au-lait macules.
+- Learning disabilities.
+
+Symptoms Not Present in Patient:
+- Freckling in the armpits or groin area.
+- Macrocephaly (unusually large head size).
+- Absence of neurofibromas, which differentiates it from NF1.
+
++3 McCune-Albright Syndrome:
+Common Symptoms with Patient:
+- Presence of cafe-au-lait macules.
+
+Symptoms Not Present in Patient:
+- Polyostotic fibrous dysplasia (a condition where bone tissue is replaced with fibrous tissue).
+- Precocious puberty.
+- Endocrine abnormalities such as hyperthyroidism or growth hormone excess.
+
++4 Tuberous Sclerosis Complex (TSC):
+Common Symptoms with Patient:
+- Learning disabilities.
+
+Symptoms Not Present in Patient:
+- Angiofibromas (red or pink acne-like bumps) on the face.
+- Ash leaf spots (white patches on the skin).
+- Shagreen patches (thickened, pebbly skin).
+- Seizures or epilepsy.
+- Renal angiomyolipomas (benign tumors of the kidney).
+
++5 Noonan Syndrome:
+Common Symptoms with Patient:
+- Learning disabilities.
+
+Symptoms Not Present in Patient:
+- Distinctive facial features (e.g., wide-set eyes, down-slanting eyes, low-set ears).
+- Short stature.
+- Heart defects.
+- Broad or webbed neck.
+
+Please note that this list is not exhaustive, and the presence or absence of symptoms can vary greatly within each condition. A thorough genetic evaluation and possibly genetic testing would be necessary to confirm a diagnosis."

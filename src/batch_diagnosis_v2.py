@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from langchain.chat_models import AzureChatOpenAI
+from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
 from langchain.schema import HumanMessage
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
@@ -12,16 +12,25 @@ from tqdm import tqdm
 load_dotenv()
 
 # Initialize the AzureChatOpenAI model
-model = AzureChatOpenAI(
-    openai_api_base=str(os.getenv("OPENAI_API_BASE")),
-    openai_api_version=os.getenv("OPENAI_API_VERSION"),
-    deployment_name=str(os.getenv("DEPLOYMENT_NAME")),
-    openai_api_key=os.getenv("OPENAI_API_KEY"),
-    openai_api_type=str(os.getenv("OPENAI_API_TYPE")),
-    temperature=0,
-    max_tokens=800,
-    model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
-)
+# model = AzureChatOpenAI(
+#     openai_api_base=str(os.getenv("OPENAI_API_BASE")),
+#     openai_api_version=os.getenv("OPENAI_API_VERSION"),
+#     deployment_name=str(os.getenv("DEPLOYMENT_NAME")),
+#     openai_api_key=os.getenv("OPENAI_API_KEY"),
+#     openai_api_type=str(os.getenv("OPENAI_API_TYPE")),
+#     temperature=0,
+#     max_tokens=800,
+#     model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
+# )
+
+# Initialize the ChatOpenAI model turbo
+model_name = "gpt-4-1106-preview"
+openai_api_key=os.getenv("OPENAI_API_KEY")
+model = ChatOpenAI(
+        openai_api_key = openai_api_key,
+        model_name = model_name,
+        temperature = 0,
+    )
 
 # Load the synthetic data
 df = pd.read_csv('data/synthetic_medisearch_data_v2.csv', sep=',')
@@ -65,4 +74,4 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     diagnoses_df.loc[index] = [gt] + diagnoses
 
 # Save the diagnoses to a new CSV file
-diagnoses_df.to_csv('data/diagnoses_medisearch_v2.csv', index=False)
+diagnoses_df.to_csv('data/diagnoses_medisearch_turbo_v2.csv', index=False)
