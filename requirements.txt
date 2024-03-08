@@ -8,3 +8,5 @@ python-dotenv
 pandas
 tqdm
 medisearch_client
+openpyxl
+boto3

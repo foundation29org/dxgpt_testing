@@ -1,0 +1,6117 @@
+[
+    {
+        "id": "ORPHA:870",
+        "name": "Down Syndrome",
+        "items": [
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Reduction in heart defects"
+            },
+            {
+                "name": "Improvement in gastrointestinal issues"
+            },
+            {
+                "name": "Reduction in hearing loss"
+            },
+            {
+                "name": "Improvement in vision problems"
+            },
+            {
+                "name": "Reduction in thyroid problems"
+            },
+            {
+                "name": "Improvement in bone health"
+            },
+            {
+                "name": "Reduction in sleep apnea"
+            },
+            {
+                "name": "Improvement in behavioral issues"
+            },
+            {
+                "name": "Reduction in obesity"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3388",
+        "name": "Neural tube anomalies",
+        "items": [
+            {
+                "name": "Reducing the severity of physical disabilities"
+            },
+            {
+                "name": "Improving mobility and physical independence"
+            },
+            {
+                "name": "Managing chronic pain"
+            },
+            {
+                "name": "Preventing or managing complications such as urinary tract infections or pressure sores"
+            },
+            {
+                "name": "Improving bowel and bladder function"
+            },
+            {
+                "name": "Enhancing cognitive development and learning abilities"
+            },
+            {
+                "name": "Improving quality of life and emotional well-being"
+            },
+            {
+                "name": "Reducing the risk of respiratory problems"
+            },
+            {
+                "name": "Improving nutritional status and preventing obesity"
+            },
+            {
+                "name": "Enhancing social participation and integration"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:199306",
+        "name": "Physura labiopalatina",
+        "items": [
+            {
+                "name": "Reducing the frequency of ear infections"
+            },
+            {
+                "name": "Improving speech clarity"
+            },
+            {
+                "name": "Reducing the risk of dental problems"
+            },
+            {
+                "name": "Improving the ability to eat and drink normally"
+            },
+            {
+                "name": "Reducing the risk of hearing loss"
+            },
+            {
+                "name": "Improving facial appearance"
+            },
+            {
+                "name": "Reducing the risk of social and emotional problems"
+            },
+            {
+                "name": "Improving the ability to breathe normally"
+            },
+            {
+                "name": "Reducing the risk of language and learning difficulties"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:182130",
+        "name": "Tumor of the endocrine glands",
+        "items": [
+            {
+                "name": "Reducing the size of the tumor"
+            },
+            {
+                "name": "Managing pain associated with the tumor"
+            },
+            {
+                "name": "Preventing the spread of the tumor to other parts of the body"
+            },
+            {
+                "name": "Improving hormonal balance"
+            },
+            {
+                "name": "Minimizing side effects of treatment"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving appetite and managing weight loss"
+            },
+            {
+                "name": "Managing anxiety and depression associated with the diagnosis"
+            },
+            {
+                "name": "Improving sleep quality"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2014",
+        "name": "Cleft palate",
+        "items": [
+            {
+                "name": "Reducing the frequency of ear infections"
+            },
+            {
+                "name": "Improving speech clarity"
+            },
+            {
+                "name": "Reducing the risk of dental problems"
+            },
+            {
+                "name": "Improving feeding and swallowing"
+            },
+            {
+                "name": "Reducing the risk of hearing loss"
+            },
+            {
+                "name": "Improving facial appearance"
+            },
+            {
+                "name": "Reducing the risk of social and emotional problems"
+            },
+            {
+                "name": "Improving breathing"
+            },
+            {
+                "name": "Reducing the risk of language and learning difficulties"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:93100",
+        "name": "Unilateral renal agenesia",
+        "items": [
+            {
+                "name": "Reducing the risk of high blood pressure"
+            },
+            {
+                "name": "Preventing kidney damage in the functioning kidney"
+            },
+            {
+                "name": "Managing potential proteinuria"
+            },
+            {
+                "name": "Reducing the risk of kidney disease"
+            },
+            {
+                "name": "Improving overall renal function"
+            },
+            {
+                "name": "Managing potential urinary tract infections"
+            },
+            {
+                "name": "Reducing the risk of kidney stones"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for dialysis or kidney transplant"
+            },
+            {
+                "name": "Managing potential complications during pregnancy"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90066",
+        "name": "Pneumonia caused by pseudomonas aeruginosa infection",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:8",
+        "name": "Syndrome 47,XYY",
+        "items": [
+            {
+                "name": "Reducing the risk of developing learning disabilities"
+            },
+            {
+                "name": "Managing behavioral problems such as impulsivity and hyperactivity"
+            },
+            {
+                "name": "Improving social skills"
+            },
+            {
+                "name": "Reducing the risk of developing autism spectrum disorder"
+            },
+            {
+                "name": "Managing symptoms of attention deficit hyperactivity disorder (ADHD)"
+            },
+            {
+                "name": "Improving speech and language skills"
+            },
+            {
+                "name": "Reducing the risk of developing mental health disorders"
+            },
+            {
+                "name": "Improving motor skills"
+            },
+            {
+                "name": "Reducing the risk of developing seizures"
+            },
+            {
+                "name": "Managing symptoms of anxiety and depression"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:63259",
+        "name": "Iniencephaly",
+        "items": [
+            {
+                "name": "Reducing the severity of neurological symptoms"
+            },
+            {
+                "name": "Improving the quality of life"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Preventing or managing respiratory complications"
+            },
+            {
+                "name": "Improving feeding and nutrition"
+            },
+            {
+                "name": "Preventing or managing infections"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Supporting mental and emotional health"
+            },
+            {
+                "name": "Improving communication abilities"
+            },
+            {
+                "name": "Managing other associated health conditions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:535",
+        "name": "Rare cutaneous lupus erythematosus",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of skin rashes and lesions"
+            },
+            {
+                "name": "Managing chronic pain associated with the disease"
+            },
+            {
+                "name": "Preventing or managing photosensitivity"
+            },
+            {
+                "name": "Improving fatigue and energy levels"
+            },
+            {
+                "name": "Preventing or managing joint pain and inflammation"
+            },
+            {
+                "name": "Reducing the risk of organ damage"
+            },
+            {
+                "name": "Improving mental health and coping with the psychological impact of the disease"
+            },
+            {
+                "name": "Managing side effects of medications"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Preventing or managing comorbidities such as cardiovascular disease, kidney disease, and osteoporosis"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:48",
+        "name": "Bilateral congenital absence of the vas deferens",
+        "items": [
+            {
+                "name": "Reducing the risk of respiratory infections"
+            },
+            {
+                "name": "Improving fertility outcomes"
+            },
+            {
+                "name": "Managing chronic sinusitis symptoms"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations due to pulmonary exacerbations"
+            },
+            {
+                "name": "Improving overall lung function"
+            },
+            {
+                "name": "Managing symptoms of pancreatitis"
+            },
+            {
+                "name": "Improving nutritional status and weight gain"
+            },
+            {
+                "name": "Reducing the risk of diabetes"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of liver disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:213500",
+        "name": "Ovarian cancer",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:289390",
+        "name": "Primary Sjögren's syndrome",
+        "items": [
+            {
+                "name": "Reducing dryness in the mouth and eyes"
+            },
+            {
+                "name": "Improving joint pain and stiffness"
+            },
+            {
+                "name": "Managing fatigue and energy levels"
+            },
+            {
+                "name": "Preventing dental cavities due to dry mouth"
+            },
+            {
+                "name": "Improving swallowing and speaking abilities"
+            },
+            {
+                "name": "Reducing the risk of developing lymphoma"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing mental health issues such as depression and anxiety"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the frequency of flare-ups"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:67038",
+        "name": "B-cell chronic lymphocytic leukemia",
+        "items": [
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing and reducing pain"
+            },
+            {
+                "name": "Improving overall physical functioning"
+            },
+            {
+                "name": "Preventing and managing infections"
+            },
+            {
+                "name": "Improving mental and emotional well-being"
+            },
+            {
+                "name": "Reducing the frequency of hospital visits"
+            },
+            {
+                "name": "Improving appetite and managing weight loss"
+            },
+            {
+                "name": "Managing side effects of chemotherapy"
+            },
+            {
+                "name": "Improving quality of sleep"
+            },
+            {
+                "name": "Increasing life expectancy"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2185",
+        "name": "Congenital hydrocephalus",
+        "items": [
+            {
+                "name": "Reducing the frequency of headaches"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Decreasing nausea and vomiting"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Reducing the need for surgical interventions"
+            },
+            {
+                "name": "Improving vision problems"
+            },
+            {
+                "name": "Decreasing fatigue and sleepiness"
+            },
+            {
+                "name": "Improving bladder control"
+            },
+            {
+                "name": "Reducing irritability and changes in personality"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:391673",
+        "name": "Necrotizing enterocolitis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:275555",
+        "name": "Preeclampsia",
+        "items": [
+            {
+                "name": "Reducing high blood pressure"
+            },
+            {
+                "name": "Preventing seizures"
+            },
+            {
+                "name": "Managing symptoms such as headaches and vision problems"
+            },
+            {
+                "name": "Preventing premature birth"
+            },
+            {
+                "name": "Improving liver function"
+            },
+            {
+                "name": "Reducing proteinuria"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Preventing complications such as HELLP syndrome"
+            },
+            {
+                "name": "Reducing the risk of maternal and fetal mortality"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:137686",
+        "name": "Asherman's syndrome",
+        "items": [
+            {
+                "name": "Reducing menstrual irregularities or amenorrhea"
+            },
+            {
+                "name": "Improving fertility and chances of successful pregnancy"
+            },
+            {
+                "name": "Minimizing pelvic pain and discomfort"
+            },
+            {
+                "name": "Preventing recurrent miscarriages"
+            },
+            {
+                "name": "Reducing the risk of preterm labor"
+            },
+            {
+                "name": "Improving the quality of life"
+            },
+            {
+                "name": "Reducing emotional distress and anxiety"
+            },
+            {
+                "name": "Preventing the development of adhesions"
+            },
+            {
+                "name": "Improving the success rate of IVF treatments"
+            },
+            {
+                "name": "Reducing the need for surgical interventions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:93108",
+        "name": "Renal dysplasia",
+        "items": [
+            {
+                "name": "Reducing the frequency of painful kidney stones."
+            },
+            {
+                "name": "Managing high blood pressure associated with renal dysplasia."
+            },
+            {
+                "name": "Improving kidney function and slowing the progression of kidney disease."
+            },
+            {
+                "name": "Preventing or managing urinary tract infections."
+            },
+            {
+                "name": "Reducing the need for dialysis or kidney transplant."
+            },
+            {
+                "name": "Improving quality of life by reducing symptoms like fatigue and nausea."
+            },
+            {
+                "name": "Managing associated conditions like diabetes."
+            },
+            {
+                "name": "Reducing the risk of cardiovascular disease."
+            },
+            {
+                "name": "Improving growth and development in children with renal dysplasia."
+            },
+            {
+                "name": "Reducing the psychological stress and anxiety associated with living with a chronic disease."
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:544",
+        "name": "Diffuse large B-cell lymphoma",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:3375",
+        "name": "Trisomy X",
+        "items": [
+            {
+                "name": "Reducing the frequency of seizures"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Enhancing speech and language skills"
+            },
+            {
+                "name": "Improving motor skills"
+            },
+            {
+                "name": "Managing behavioral issues"
+            },
+            {
+                "name": "Reducing anxiety and depression"
+            },
+            {
+                "name": "Improving social interaction skills"
+            },
+            {
+                "name": "Enhancing learning abilities"
+            },
+            {
+                "name": "Managing physical health issues such as heart defects"
+            },
+            {
+                "name": "Improving quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:801",
+        "name": "Scleroderma",
+        "items": [
+            {
+                "name": "Reducing the severity of skin hardening and tightening"
+            },
+            {
+                "name": "Improving gastrointestinal function"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Preventing or slowing down lung damage"
+            },
+            {
+                "name": "Improving mobility and flexibility"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Preventing or managing heart complications"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Managing mental health issues such as depression and anxiety"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:363999",
+        "name": "Non-immunologic fetal hydrops",
+        "items": [
+            {
+                "name": "Reducing fluid accumulation in the fetus"
+            },
+            {
+                "name": "Preventing heart failure in the fetus"
+            },
+            {
+                "name": "Improving fetal lung development"
+            },
+            {
+                "name": "Preventing preterm labor"
+            },
+            {
+                "name": "Reducing the risk of fetal death"
+            },
+            {
+                "name": "Improving placental function"
+            },
+            {
+                "name": "Reducing maternal stress and anxiety"
+            },
+            {
+                "name": "Improving fetal growth and development"
+            },
+            {
+                "name": "Preventing complications during delivery"
+            },
+            {
+                "name": "Improving long-term outcomes for the baby"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:217071",
+        "name": "Renal cell carcinoma",
+        "items": [
+            {
+                "name": "Reducing the size of the tumor"
+            },
+            {
+                "name": "Managing pain associated with the disease"
+            },
+            {
+                "name": "Preventing or managing metastasis"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Minimizing side effects of chemotherapy"
+            },
+            {
+                "name": "Improving overall survival rates"
+            },
+            {
+                "name": "Enhancing quality of life"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving mental health and coping strategies"
+            },
+            {
+                "name": "Preventing recurrence of the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:98497",
+        "name": "Genetic peripheral neuropathy",
+        "items": [
+            {
+                "name": "Reducing the intensity of chronic pain"
+            },
+            {
+                "name": "Improving sensory functions"
+            },
+            {
+                "name": "Enhancing motor skills"
+            },
+            {
+                "name": "Reducing the frequency of muscle cramps"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Reducing the occurrence of numbness or tingling"
+            },
+            {
+                "name": "Improving the quality of sleep"
+            },
+            {
+                "name": "Reducing fatigue and weakness"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of complications due to injury or infection"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:97292",
+        "name": "Cardiogenic shock",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:90059",
+        "name": "Sensorineural hearing loss due to severe acoustic trauma or sudden deafness, or due to acoustic trauma induced by surgery.",
+        "items": [
+            {
+                "name": "Improvement in hearing ability"
+            },
+            {
+                "name": "Reduction in tinnitus or ringing in the ears"
+            },
+            {
+                "name": "Decrease in vertigo or dizziness"
+            },
+            {
+                "name": "Improvement in speech comprehension"
+            },
+            {
+                "name": "Reduction in ear pain or discomfort"
+            },
+            {
+                "name": "Improvement in balance"
+            },
+            {
+                "name": "Improvement in quality of life"
+            },
+            {
+                "name": "Reduction in anxiety or depression related to hearing loss"
+            },
+            {
+                "name": "Improvement in social interactions"
+            },
+            {
+                "name": "Reduction in the need for hearing aids or other assistive devices"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:85443",
+        "name": "Amyloidosis AL",
+        "items": [
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing and reducing pain"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Preventing and managing heart complications"
+            },
+            {
+                "name": "Improving gastrointestinal symptoms"
+            },
+            {
+                "name": "Reducing swelling and fluid retention"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Preventing and managing nerve damage"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of infection"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:402823",
+        "name": "Hepatitis delta",
+        "items": [
+            {
+                "name": "Reducing the severity of jaundice symptoms"
+            },
+            {
+                "name": "Managing chronic fatigue"
+            },
+            {
+                "name": "Preventing liver cirrhosis"
+            },
+            {
+                "name": "Reducing the risk of liver cancer"
+            },
+            {
+                "name": "Improving overall liver function"
+            },
+            {
+                "name": "Minimizing abdominal pain"
+            },
+            {
+                "name": "Preventing weight loss"
+            },
+            {
+                "name": "Reducing the frequency of nausea and vomiting"
+            },
+            {
+                "name": "Improving appetite"
+            },
+            {
+                "name": "Managing co-infections with other forms of hepatitis"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:294",
+        "name": "Fetal cytomegalovirus syndrome",
+        "items": [
+            {
+                "name": "Reducing the risk of transmission from mother to fetus"
+            },
+            {
+                "name": "Preventing or reducing the severity of hearing loss"
+            },
+            {
+                "name": "Improving neurodevelopmental outcomes"
+            },
+            {
+                "name": "Preventing or reducing the severity of vision loss"
+            },
+            {
+                "name": "Reducing the risk of seizures"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Reducing the risk of liver disease"
+            },
+            {
+                "name": "Reducing the risk of lung disease"
+            },
+            {
+                "name": "Improving immune system function"
+            },
+            {
+                "name": "Reducing the risk of secondary infections"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:101016",
+        "name": "Romano-Ward syndrome",
+        "items": [
+            {
+                "name": "Reducing frequency of cardiac arrhythmias"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Preventing sudden cardiac death"
+            },
+            {
+                "name": "Reducing anxiety related to the condition"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Managing symptoms of syncope"
+            },
+            {
+                "name": "Reducing the risk of fainting"
+            },
+            {
+                "name": "Improving physical endurance"
+            },
+            {
+                "name": "Reducing the need for hospitalization"
+            },
+            {
+                "name": "Improving overall survival rates"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:730",
+        "name": "Autosomal dominant polycystic kidney disease",
+        "items": [
+            {
+                "name": "Reducing the frequency of kidney pain"
+            },
+            {
+                "name": "Slowing the growth of kidney cysts"
+            },
+            {
+                "name": "Preventing or managing high blood pressure"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Preventing kidney failure"
+            },
+            {
+                "name": "Managing symptoms of urinary tract infections"
+            },
+            {
+                "name": "Reducing the risk of kidney stones"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for dialysis or transplantation"
+            },
+            {
+                "name": "Managing associated symptoms like fatigue and insomnia"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3189",
+        "name": "Congenital pulmonary valvular stenosis",
+        "items": [
+            {
+                "name": "Reducing the severity of shortness of breath"
+            },
+            {
+                "name": "Improving the ability to exercise and perform physical activities"
+            },
+            {
+                "name": "Decreasing the frequency of fainting spells"
+            },
+            {
+                "name": "Reducing the occurrence of chest pain"
+            },
+            {
+                "name": "Improving overall heart function"
+            },
+            {
+                "name": "Reducing the need for surgical intervention"
+            },
+            {
+                "name": "Decreasing the risk of heart failure"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations"
+            },
+            {
+                "name": "Decreasing the risk of sudden cardiac death"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:98715",
+        "name": "Uveitis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:442",
+        "name": "Congenital hypothyroidism",
+        "items": [
+            {
+                "name": "Reducing fatigue and lethargy associated with congenital hypothyroidism"
+            },
+            {
+                "name": "Improving growth and development in children with congenital hypothyroidism"
+            },
+            {
+                "name": "Managing weight gain and obesity related to congenital hypothyroidism"
+            },
+            {
+                "name": "Improving cognitive function and mental development"
+            },
+            {
+                "name": "Reducing the risk of heart diseases due to high cholesterol levels"
+            },
+            {
+                "name": "Improving skin dryness and hair loss"
+            },
+            {
+                "name": "Reducing constipation and digestive issues"
+            },
+            {
+                "name": "Improving muscle strength and reducing muscle weakness"
+            },
+            {
+                "name": "Reducing sensitivity to cold"
+            },
+            {
+                "name": "Improving mood and reducing depression symptoms"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90056",
+        "name": "Moderate to severe traumatic brain injury",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of headaches"
+            },
+            {
+                "name": "Improving memory and cognitive function"
+            },
+            {
+                "name": "Managing mood swings and emotional instability"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Reducing dizziness and balance issues"
+            },
+            {
+                "name": "Improving speech and communication skills"
+            },
+            {
+                "name": "Managing chronic pain"
+            },
+            {
+                "name": "Improving motor skills and coordination"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving quality of life and independence in daily activities"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:567",
+        "name": "22q11.2 Deletion Syndrome",
+        "items": [
+            {
+                "name": "Reducing the frequency of heart defects"
+            },
+            {
+                "name": "Improving immune system function"
+            },
+            {
+                "name": "Reducing the occurrence of palatal abnormalities"
+            },
+            {
+                "name": "Improving calcium metabolism to prevent hypocalcemia"
+            },
+            {
+                "name": "Reducing the risk of developing psychiatric disorders"
+            },
+            {
+                "name": "Improving learning and cognitive abilities"
+            },
+            {
+                "name": "Reducing the occurrence of feeding difficulties"
+            },
+            {
+                "name": "Improving speech and language skills"
+            },
+            {
+                "name": "Reducing the risk of developing kidney abnormalities"
+            },
+            {
+                "name": "Improving overall growth and development"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:226295",
+        "name": "Congenital primary hypothyroidism",
+        "items": [
+            {
+                "name": "Reducing fatigue and lethargy associated with hypothyroidism"
+            },
+            {
+                "name": "Improving cognitive function and memory"
+            },
+            {
+                "name": "Managing weight gain and difficulty losing weight"
+            },
+            {
+                "name": "Controlling sensitivity to cold temperatures"
+            },
+            {
+                "name": "Reducing constipation and digestive issues"
+            },
+            {
+                "name": "Improving dry skin and hair loss"
+            },
+            {
+                "name": "Managing depression and mood swings"
+            },
+            {
+                "name": "Reducing muscle weakness and joint pain"
+            },
+            {
+                "name": "Improving slow heart rate and high cholesterol levels"
+            },
+            {
+                "name": "Managing menstrual problems in women"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:545",
+        "name": "Follicular lymphoma",
+        "items": [
+            {
+                "name": "Reducing the size of the lymph nodes"
+            },
+            {
+                "name": "Improving the patient’s overall survival rate"
+            },
+            {
+                "name": "Decreasing the frequency of relapses"
+            },
+            {
+                "name": "Minimizing the side effects of chemotherapy"
+            },
+            {
+                "name": "Improving the patient’s quality of life"
+            },
+            {
+                "name": "Managing symptoms such as fatigue, fever, and night sweats"
+            },
+            {
+                "name": "Preventing the progression of the disease"
+            },
+            {
+                "name": "Reducing the risk of infection"
+            },
+            {
+                "name": "Improving the patient’s mental health"
+            },
+            {
+                "name": "Managing co-morbidities such as anemia and neutropenia"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:340",
+        "name": "Hemorrhagic fever with renal syndrome",
+        "items": [
+            {
+                "name": "Reducing the severity of fever and other symptoms"
+            },
+            {
+                "name": "Preventing kidney damage"
+            },
+            {
+                "name": "Managing pain"
+            },
+            {
+                "name": "Preventing complications such as shock or organ failure"
+            },
+            {
+                "name": "Reducing the risk of transmission to others"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the duration of the illness"
+            },
+            {
+                "name": "Preventing recurrence of the disease"
+            },
+            {
+                "name": "Improving physical strength and energy levels"
+            },
+            {
+                "name": "Reducing the psychological stress and anxiety associated with the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:209989",
+        "name": "Non-papillary transitional cell carcinoma of the bladder",
+        "items": [
+            {
+                "name": "Reducing the frequency of urination"
+            },
+            {
+                "name": "Managing pain during urination"
+            },
+            {
+                "name": "Preventing blood in the urine"
+            },
+            {
+                "name": "Reducing the risk of bladder infections"
+            },
+            {
+                "name": "Improving bladder control"
+            },
+            {
+                "name": "Preventing the spread of cancer to other organs"
+            },
+            {
+                "name": "Reducing the need for frequent hospital visits"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Minimizing side effects of chemotherapy"
+            },
+            {
+                "name": "Preventing recurrence of the cancer"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:231080",
+        "name": "High-grade dysplasia in patients with Barrett's esophagus",
+        "items": [
+            {
+                "name": "Reducing the frequency of heartburn and acid reflux symptoms"
+            },
+            {
+                "name": "Preventing the progression of Barrett’s esophagus to esophageal cancer"
+            },
+            {
+                "name": "Improving swallowing difficulties"
+            },
+            {
+                "name": "Reducing chest pain associated with Barrett’s esophagus"
+            },
+            {
+                "name": "Improving quality of sleep disrupted by acid reflux"
+            },
+            {
+                "name": "Reducing anxiety and stress related to the risk of cancer"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the need for frequent endoscopic surveillance"
+            },
+            {
+                "name": "Decreasing dependency on long-term medication use"
+            },
+            {
+                "name": "Improving nutritional status affected by swallowing difficulties"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1457",
+        "name": "Isthmic coarctation",
+        "items": [
+            {
+                "name": "Reducing high blood pressure"
+            },
+            {
+                "name": "Improving blood flow to the lower body"
+            },
+            {
+                "name": "Preventing heart failure"
+            },
+            {
+                "name": "Reducing the risk of aortic rupture"
+            },
+            {
+                "name": "Minimizing the risk of endocarditis"
+            },
+            {
+                "name": "Improving exercise tolerance"
+            },
+            {
+                "name": "Reducing chest pain"
+            },
+            {
+                "name": "Preventing stroke"
+            },
+            {
+                "name": "Improving growth and development in children"
+            },
+            {
+                "name": "Reducing the need for future surgeries or interventions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:94059",
+        "name": "Uremic pruritus",
+        "items": [
+            {
+                "name": "Relief from constant itching"
+            },
+            {
+                "name": "Improvement in sleep quality"
+            },
+            {
+                "name": "Reduction in skin inflammation"
+            },
+            {
+                "name": "Decrease in anxiety and stress levels"
+            },
+            {
+                "name": "Improvement in overall skin health"
+            },
+            {
+                "name": "Reduction in the frequency of scratching"
+            },
+            {
+                "name": "Improvement in daily activities"
+            },
+            {
+                "name": "Reduction in skin damage due to scratching"
+            },
+            {
+                "name": "Improvement in social interactions"
+            },
+            {
+                "name": "Decrease in the use of antihistamines and other medications"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70475",
+        "name": "Radiation proctitis",
+        "items": [
+            {
+                "name": "Reducing the frequency of bowel movements"
+            },
+            {
+                "name": "Alleviating rectal pain and discomfort"
+            },
+            {
+                "name": "Minimizing rectal bleeding"
+            },
+            {
+                "name": "Improving stool consistency"
+            },
+            {
+                "name": "Reducing the urgency to have a bowel movement"
+            },
+            {
+                "name": "Preventing weight loss due to malabsorption"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of infection"
+            },
+            {
+                "name": "Improving sleep quality affected by frequent bowel movements"
+            },
+            {
+                "name": "Reducing the psychological stress associated with the condition"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2764",
+        "name": "Osteochondritis dissecans",
+        "items": [
+            {
+                "name": "Pain reduction"
+            },
+            {
+                "name": "Improvement in joint mobility"
+            },
+            {
+                "name": "Reduction in joint swelling"
+            },
+            {
+                "name": "Improvement in daily activities"
+            },
+            {
+                "name": "Reduction in joint stiffness"
+            },
+            {
+                "name": "Improvement in sleep quality due to reduced pain"
+            },
+            {
+                "name": "Reduction in the need for surgical intervention"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            },
+            {
+                "name": "Reduction in anxiety and depression related to chronic pain"
+            },
+            {
+                "name": "Improvement in physical fitness and ability to exercise"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1048",
+        "name": "Isolated anencephaly/exencephaly",
+        "items": [
+            {
+                "name": "Reducing the risk of infection"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Providing emotional support to the family"
+            },
+            {
+                "name": "Preventing complications from other health conditions"
+            },
+            {
+                "name": "Improving the effectiveness of palliative care"
+            },
+            {
+                "name": "Reducing the risk of respiratory problems"
+            },
+            {
+                "name": "Improving nutritional status"
+            },
+            {
+                "name": "Providing appropriate physical care"
+            },
+            {
+                "name": "Improving communication between healthcare providers and family"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:73247",
+        "name": "Eosinophilic esophagitis",
+        "items": [
+            {
+                "name": "Reducing the frequency of heartburn and chest pain"
+            },
+            {
+                "name": "Improving swallowing difficulties"
+            },
+            {
+                "name": "Decreasing the frequency of food impaction"
+            },
+            {
+                "name": "Reducing the need for dietary restrictions"
+            },
+            {
+                "name": "Improving sleep quality affected by night-time symptoms"
+            },
+            {
+                "name": "Reducing the frequency of vomiting"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Decreasing the need for frequent hospital visits"
+            },
+            {
+                "name": "Reducing the risk of esophageal stricture"
+            },
+            {
+                "name": "Decreasing the need for invasive procedures like dilation"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3303",
+        "name": "Tetralogy of Fallot",
+        "items": [
+            {
+                "name": "Reducing the frequency of cyanotic spells"
+            },
+            {
+                "name": "Improving oxygen saturation levels"
+            },
+            {
+                "name": "Decreasing the risk of endocarditis"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Reducing the need for multiple surgeries"
+            },
+            {
+                "name": "Minimizing the risk of arrhythmias"
+            },
+            {
+                "name": "Improving exercise tolerance"
+            },
+            {
+                "name": "Reducing the risk of blood clots"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Decreasing the risk of long-term complications such as pulmonary hypertension"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:636",
+        "name": "Neurofibromatosis type",
+        "items": [
+            {
+                "name": "Reducing the number and size of neurofibromas"
+            },
+            {
+                "name": "Preventing or slowing the growth of tumors"
+            },
+            {
+                "name": "Managing pain associated with tumors"
+            },
+            {
+                "name": "Improving skin appearance"
+            },
+            {
+                "name": "Preventing or managing learning disabilities"
+            },
+            {
+                "name": "Improving hearing loss"
+            },
+            {
+                "name": "Preventing or managing high blood pressure"
+            },
+            {
+                "name": "Improving bone abnormalities"
+            },
+            {
+                "name": "Preventing or managing vision loss"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:226292",
+        "name": "Permanent congenital hypothyroidism",
+        "items": [
+            {
+                "name": "Reducing fatigue and lethargy associated with hypothyroidism"
+            },
+            {
+                "name": "Improving cognitive function and mental clarity"
+            },
+            {
+                "name": "Managing weight gain and difficulty losing weight"
+            },
+            {
+                "name": "Alleviating depression and mood swings"
+            },
+            {
+                "name": "Improving sensitivity to cold"
+            },
+            {
+                "name": "Reducing constipation"
+            },
+            {
+                "name": "Improving dry skin and hair loss"
+            },
+            {
+                "name": "Reducing muscle weakness and aches"
+            },
+            {
+                "name": "Improving slow heart rate"
+            },
+            {
+                "name": "Managing high cholesterol levels due to hypothyroidism"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:858",
+        "name": "Congenital Toxoplasmosis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 4)"
+    },
+    {
+        "id": "ORPHA:439167",
+        "name": "Placental insufficiency",
+        "items": [
+            {
+                "name": "Reducing the risk of preterm birth"
+            },
+            {
+                "name": "Improving fetal growth"
+            },
+            {
+                "name": "Preventing fetal distress"
+            },
+            {
+                "name": "Reducing the risk of stillbirth"
+            },
+            {
+                "name": "Improving maternal blood flow to the placenta"
+            },
+            {
+                "name": "Preventing preeclampsia"
+            },
+            {
+                "name": "Reducing the need for cesarean delivery"
+            },
+            {
+                "name": "Improving maternal nutrition to support placental function"
+            },
+            {
+                "name": "Reducing maternal stress to prevent placental insufficiency"
+            },
+            {
+                "name": "Preventing maternal complications such as gestational diabetes"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:908",
+        "name": "Fragile X syndrome",
+        "items": [
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Reduction in anxiety and hyperactivity"
+            },
+            {
+                "name": "Improvement in social interaction skills"
+            },
+            {
+                "name": "Reduction in self-injurious behavior"
+            },
+            {
+                "name": "Improvement in speech and language skills"
+            },
+            {
+                "name": "Reduction in seizures"
+            },
+            {
+                "name": "Improvement in motor skills"
+            },
+            {
+                "name": "Reduction in sensory sensitivities"
+            },
+            {
+                "name": "Improvement in sleep disturbances"
+            },
+            {
+                "name": "Reduction in gastrointestinal problems"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:908",
+        "name": "Fragile X syndrome",
+        "items": [
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Reduction in anxiety and hyperactivity"
+            },
+            {
+                "name": "Improvement in social interaction skills"
+            },
+            {
+                "name": "Reduction in self-injurious behavior"
+            },
+            {
+                "name": "Improvement in language and communication skills"
+            },
+            {
+                "name": "Reduction in seizures"
+            },
+            {
+                "name": "Improvement in sleep disturbances"
+            },
+            {
+                "name": "Reduction in sensory sensitivities"
+            },
+            {
+                "name": "Improvement in physical abnormalities (e.g., flat feet, low muscle tone)"
+            },
+            {
+                "name": "Improvement in gastrointestinal problems"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90058",
+        "name": "Spinal cord damage",
+        "items": [
+            {
+                "name": "Reducing chronic pain associated with spinal cord injury"
+            },
+            {
+                "name": "Improving bladder and bowel control"
+            },
+            {
+                "name": "Enhancing mobility and physical function"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing spasticity"
+            },
+            {
+                "name": "Improving respiratory function"
+            },
+            {
+                "name": "Enhancing ability to perform daily activities independently"
+            },
+            {
+                "name": "Improving mental health and reducing depression"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Enhancing overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90051",
+        "name": "Sepsis in preterm neonates",
+        "items": [
+            {
+                "name": "Reducing the risk of infection in premature neonates"
+            },
+            {
+                "name": "Improving the effectiveness of antibiotics"
+            },
+            {
+                "name": "Minimizing the side effects of antibiotics"
+            },
+            {
+                "name": "Preventing the development of antibiotic resistance"
+            },
+            {
+                "name": "Improving the survival rate of premature neonates with sepsis"
+            },
+            {
+                "name": "Reducing the duration of hospital stay"
+            },
+            {
+                "name": "Improving the long-term health outcomes of premature neonates with sepsis"
+            },
+            {
+                "name": "Reducing the emotional stress on the parents and caregivers"
+            },
+            {
+                "name": "Improving the quality of life of premature neonates with sepsis"
+            },
+            {
+                "name": "Reducing the financial burden on the family and healthcare system"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70476",
+        "name": "Spring keratoconjunctivitis",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of eye itching"
+            },
+            {
+                "name": "Preventing the formation of papillae on the conjunctiva"
+            },
+            {
+                "name": "Reducing eye redness and inflammation"
+            },
+            {
+                "name": "Improving tear production and eye lubrication"
+            },
+            {
+                "name": "Preventing corneal damage and vision loss"
+            },
+            {
+                "name": "Reducing the discomfort and pain associated with the condition"
+            },
+            {
+                "name": "Improving the quality of sleep by reducing eye discomfort at night"
+            },
+            {
+                "name": "Reducing the need for frequent use of eye drops or other medications"
+            },
+            {
+                "name": "Improving overall quality of life by reducing the impact of symptoms on daily activities"
+            },
+            {
+                "name": "Preventing the recurrence of the condition after treatment"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:216675",
+        "name": "Transposition of the great arteries",
+        "items": [
+            {
+                "name": "Reducing the frequency of cyanosis episodes"
+            },
+            {
+                "name": "Improving oxygen saturation levels"
+            },
+            {
+                "name": "Decreasing the need for supplemental oxygen"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Decreasing the risk of heart failure"
+            },
+            {
+                "name": "Improving exercise tolerance"
+            },
+            {
+                "name": "Reducing the risk of arrhythmias"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Decreasing the need for heart transplantation"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:791",
+        "name": "Retinosis pigmentaria",
+        "items": [
+            {
+                "name": "Improvement in night vision"
+            },
+            {
+                "name": "Reduction in the rate of vision loss"
+            },
+            {
+                "name": "Decrease in visual field constriction"
+            },
+            {
+                "name": "Improvement in color discrimination"
+            },
+            {
+                "name": "Reduction in photophobia (light sensitivity)"
+            },
+            {
+                "name": "Improvement in visual acuity"
+            },
+            {
+                "name": "Reduction in the occurrence of cataracts"
+            },
+            {
+                "name": "Improvement in peripheral vision"
+            },
+            {
+                "name": "Reduction in the occurrence of macular edema"
+            },
+            {
+                "name": "Improvement in quality of life due to better vision"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:729",
+        "name": "Polycythemia vera",
+        "items": [
+            {
+                "name": "Reducing the risk of blood clots"
+            },
+            {
+                "name": "Managing symptoms of fatigue"
+            },
+            {
+                "name": "Controlling the high red blood cell count"
+            },
+            {
+                "name": "Preventing complications such as heart disease"
+            },
+            {
+                "name": "Managing symptoms of itching"
+            },
+            {
+                "name": "Reducing the risk of stroke"
+            },
+            {
+                "name": "Controlling the high white blood cell count"
+            },
+            {
+                "name": "Managing symptoms of night sweats"
+            },
+            {
+                "name": "Preventing complications such as liver disease"
+            },
+            {
+                "name": "Reducing the risk of developing acute myeloid leukemia"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:563",
+        "name": "Peripartum cardiomyopathy",
+        "items": [
+            {
+                "name": "Reducing the severity of heart failure symptoms"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Preventing the recurrence of peripartum cardiomyopathy"
+            },
+            {
+                "name": "Managing co-morbid conditions such as hypertension and diabetes"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing hospitalization rates"
+            },
+            {
+                "name": "Improving survival rates"
+            },
+            {
+                "name": "Reducing the risk of blood clots"
+            },
+            {
+                "name": "Managing side effects of medications"
+            },
+            {
+                "name": "Improving emotional and psychological well-being"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3394",
+        "name": "Soft tissue sarcoma",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:33208",
+        "name": "Idiopathic hypersomnia",
+        "items": [
+            {
+                "name": "Reducing excessive daytime sleepiness"
+            },
+            {
+                "name": "Improving quality of nighttime sleep"
+            },
+            {
+                "name": "Decreasing frequency of napping during the day"
+            },
+            {
+                "name": "Improving cognitive function and concentration"
+            },
+            {
+                "name": "Reducing feelings of anxiety or depression"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of accidents due to sleepiness"
+            },
+            {
+                "name": "Improving social and occupational functioning"
+            },
+            {
+                "name": "Reducing the need for high doses of stimulants"
+            },
+            {
+                "name": "Improving physical health and reducing comorbidities"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:314701",
+        "name": "Primary systemic amyloidosis",
+        "items": [
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing and reducing pain"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Reducing swelling and fluid retention"
+            },
+            {
+                "name": "Improving gastrointestinal symptoms"
+            },
+            {
+                "name": "Improving nerve function and reducing neuropathy"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing the risk of infections"
+            },
+            {
+                "name": "Improving quality of life and emotional well-being"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2140",
+        "name": "Congenital diaphragmatic hernia",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of respiratory complications"
+            },
+            {
+                "name": "Improving lung function and capacity"
+            },
+            {
+                "name": "Minimizing the risk of gastroesophageal reflux disease"
+            },
+            {
+                "name": "Improving feeding and nutritional status"
+            },
+            {
+                "name": "Reducing the risk of developmental delays"
+            },
+            {
+                "name": "Minimizing the need for long-term ventilator support"
+            },
+            {
+                "name": "Reducing the risk of pulmonary hypertension"
+            },
+            {
+                "name": "Improving overall growth and development"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations"
+            },
+            {
+                "name": "Improving quality of life and daily functioning"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1330",
+        "name": "Partial atrioventricular canal",
+        "items": [
+            {
+                "name": "Reducing the frequency of heart palpitations"
+            },
+            {
+                "name": "Improving the ability to exercise without fatigue"
+            },
+            {
+                "name": "Decreasing the occurrence of shortness of breath"
+            },
+            {
+                "name": "Managing symptoms of heart failure"
+            },
+            {
+                "name": "Preventing the development of arrhythmias"
+            },
+            {
+                "name": "Improving overall heart function"
+            },
+            {
+                "name": "Reducing the risk of stroke"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Decreasing the need for hospitalization"
+            },
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3303",
+        "name": "Tetralogy of Fallot",
+        "items": [
+            {
+                "name": "Reducing the frequency of cyanotic spells"
+            },
+            {
+                "name": "Improving oxygen saturation levels"
+            },
+            {
+                "name": "Decreasing the risk of endocarditis"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Reducing the need for additional surgeries"
+            },
+            {
+                "name": "Improving exercise tolerance"
+            },
+            {
+                "name": "Decreasing the risk of arrhythmias"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of stroke"
+            },
+            {
+                "name": "Decreasing the risk of sudden cardiac death"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:73247",
+        "name": "Eosinophilic esophagitis",
+        "items": [
+            {
+                "name": "Reducing the frequency of heartburn and chest pain."
+            },
+            {
+                "name": "Improving swallowing difficulties."
+            },
+            {
+                "name": "Decreasing the frequency of food impaction."
+            },
+            {
+                "name": "Reducing the need for dietary restrictions."
+            },
+            {
+                "name": "Improving sleep quality by reducing nighttime symptoms."
+            },
+            {
+                "name": "Decreasing the frequency of vomiting and nausea."
+            },
+            {
+                "name": "Reducing the need for frequent hospital visits."
+            },
+            {
+                "name": "Improving overall quality of life."
+            },
+            {
+                "name": "Reducing the risk of esophageal stricture."
+            },
+            {
+                "name": "Decreasing the need for invasive procedures like dilation."
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:467",
+        "name": "Combined non-acquired pituitary hormone deficiency",
+        "items": [
+            {
+                "name": "Improvement in growth and development in children"
+            },
+            {
+                "name": "Reduction in fatigue and weakness"
+            },
+            {
+                "name": "Improvement in sexual function and fertility"
+            },
+            {
+                "name": "Reduction in weight gain and obesity"
+            },
+            {
+                "name": "Improvement in bone density and reduction in osteoporosis risk"
+            },
+            {
+                "name": "Improvement in skin and hair health"
+            },
+            {
+                "name": "Reduction in depression and anxiety symptoms"
+            },
+            {
+                "name": "Improvement in memory and cognitive function"
+            },
+            {
+                "name": "Stabilization of blood pressure and heart rate"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:411527",
+        "name": "Central retinal vein occlusion",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:1656",
+        "name": "Dermatitis herpetiforme",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:791",
+        "name": "Retinosis pigmentaria",
+        "items": [
+            {
+                "name": "Improvement in night vision"
+            },
+            {
+                "name": "Reduction in the rate of vision loss"
+            },
+            {
+                "name": "Enhancement of peripheral vision"
+            },
+            {
+                "name": "Decrease in photophobia (light sensitivity)"
+            },
+            {
+                "name": "Improvement in color discrimination"
+            },
+            {
+                "name": "Reduction in the occurrence of visual hallucinations"
+            },
+            {
+                "name": "Improvement in visual acuity"
+            },
+            {
+                "name": "Reduction in the risk of complete blindness"
+            },
+            {
+                "name": "Improvement in the ability to perform daily activities"
+            },
+            {
+                "name": "Reduction in the psychological distress associated with vision loss"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70568",
+        "name": "Post-transplant lymphoproliferative disease",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:182067",
+        "name": "Tumor glial",
+        "items": [
+            {
+                "name": "Reducing the size of the tumor"
+            },
+            {
+                "name": "Managing pain associated with the tumor"
+            },
+            {
+                "name": "Preventing or managing seizures"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Preventing or managing neurological deficits"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing fatigue"
+            },
+            {
+                "name": "Managing depression or anxiety"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Preventing or managing complications from treatment"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:137698",
+        "name": "Cytomegalovirus (CMV) disease in patients at risk due to impaired cell-mediated immunity.",
+        "items": [
+            {
+                "name": "Reducir la fatiga y el agotamiento causados por la CMV."
+            },
+            {
+                "name": "Manejo del dolor crónico asociado con la CMV."
+            },
+            {
+                "name": "Mejorar la capacidad del paciente para combatir infecciones."
+            },
+            {
+                "name": "Reducir la frecuencia de las recaídas de la CMV."
+            },
+            {
+                "name": "Mejorar la calidad del sueño afectada por la enfermedad."
+            },
+            {
+                "name": "Manejo de los efectos secundarios de los medicamentos antivirales."
+            },
+            {
+                "name": "Mejorar la capacidad del paciente para realizar actividades diarias."
+            },
+            {
+                "name": "Reducir el estrés y la ansiedad asociados con el diagnóstico de CMV."
+            },
+            {
+                "name": "Mejorar la nutrición y el apetito del paciente."
+            },
+            {
+                "name": "Mejorar la comunicación y la relación con el equipo de atención médica."
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:95719",
+        "name": "Thyroid hemiagenesis",
+        "items": [
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing weight gain or loss"
+            },
+            {
+                "name": "Improving concentration and memory"
+            },
+            {
+                "name": "Regulating body temperature"
+            },
+            {
+                "name": "Reducing anxiety and depression"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing constipation or diarrhea"
+            },
+            {
+                "name": "Reducing hair loss"
+            },
+            {
+                "name": "Improving skin dryness"
+            },
+            {
+                "name": "Reducing muscle and joint pain"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:93402",
+        "name": "Syndactyly type 1",
+        "items": [
+            {
+                "name": "Reducing pain and discomfort associated with Sindactilia tipo 1"
+            },
+            {
+                "name": "Improving hand and finger function"
+            },
+            {
+                "name": "Preventing or correcting deformities"
+            },
+            {
+                "name": "Improving the appearance of the hand"
+            },
+            {
+                "name": "Reducing the psychological impact of the condition"
+            },
+            {
+                "name": "Improving the ability to perform daily activities"
+            },
+            {
+                "name": "Reducing the need for multiple surgeries"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of complications from surgery"
+            },
+            {
+                "name": "Improving long-term outcomes and prognosis"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:703",
+        "name": "Bullous pemphigoid",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:701",
+        "name": "Universal alopecia",
+        "items": [
+            {
+                "name": "Reducing the psychological distress associated with hair loss"
+            },
+            {
+                "name": "Improving self-esteem and body image"
+            },
+            {
+                "name": "Preventing or treating any associated skin conditions"
+            },
+            {
+                "name": "Improving the quality of life"
+            },
+            {
+                "name": "Reducing the social stigma associated with hair loss"
+            },
+            {
+                "name": "Preventing or treating any associated autoimmune disorders"
+            },
+            {
+                "name": "Improving the effectiveness of current treatments"
+            },
+            {
+                "name": "Reducing the side effects of current treatments"
+            },
+            {
+                "name": "Improving the predictability of treatment outcomes"
+            },
+            {
+                "name": "Increasing the availability of effective treatments"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3002",
+        "name": "Immune thrombocytopenia",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:2073",
+        "name": "Narcolepsia type 1",
+        "items": [
+            {
+                "name": "Reducing excessive daytime sleepiness"
+            },
+            {
+                "name": "Preventing sudden loss of muscle tone (cataplexy)"
+            },
+            {
+                "name": "Improving nighttime sleep"
+            },
+            {
+                "name": "Managing hallucinations and sleep paralysis"
+            },
+            {
+                "name": "Improving concentration and memory"
+            },
+            {
+                "name": "Reducing the risk of accidents due to sudden sleep attacks"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the frequency of automatic behaviors (performing tasks without conscious awareness)"
+            },
+            {
+                "name": "Managing associated conditions such as depression and anxiety"
+            },
+            {
+                "name": "Improving social and occupational functioning"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:186",
+        "name": "Colangitis biliar primaria",
+        "items": [
+            {
+                "name": "Reducing the severity of itching (pruritus) associated with PBC"
+            },
+            {
+                "name": "Improving fatigue levels"
+            },
+            {
+                "name": "Preventing progression to cirrhosis"
+            },
+            {
+                "name": "Reducing the risk of liver failure"
+            },
+            {
+                "name": "Improving overall liver function"
+            },
+            {
+                "name": "Reducing the risk of complications such as varices"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of osteoporosis"
+            },
+            {
+                "name": "Managing associated autoimmune conditions"
+            },
+            {
+                "name": "Reducing the need for liver transplantation"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:166",
+        "name": "Charcot-Marie-Tooth disease/Hereditary sensorimotor neuropathy",
+        "items": [
+            {
+                "name": "Reducing muscle weakness and fatigue"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Preventing foot deformities"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Improving mobility and independence"
+            },
+            {
+                "name": "Preventing or slowing the progression of the disease"
+            },
+            {
+                "name": "Improving nerve function"
+            },
+            {
+                "name": "Enhancing quality of life"
+            },
+            {
+                "name": "Reducing the risk of falls and injuries"
+            },
+            {
+                "name": "Improving overall physical function"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:145",
+        "name": "Hereditary breast and ovarian cancer syndrome",
+        "items": [
+            {
+                "name": "Reducing the risk of cancer recurrence"
+            },
+            {
+                "name": "Managing side effects of chemotherapy"
+            },
+            {
+                "name": "Improving emotional well-being and mental health"
+            },
+            {
+                "name": "Preventing the development of secondary cancers"
+            },
+            {
+                "name": "Improving physical strength and energy levels"
+            },
+            {
+                "name": "Reducing pain and discomfort"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Managing symptoms of menopause caused by treatment"
+            },
+            {
+                "name": "Improving body image and self-esteem"
+            },
+            {
+                "name": "Providing genetic counseling and testing for family members"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:94058",
+        "name": "Neovascular glaucoma",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:1531",
+        "name": "Craniosynostosis",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of headaches"
+            },
+            {
+                "name": "Improving cognitive function and development"
+            },
+            {
+                "name": "Minimizing the risk of vision loss"
+            },
+            {
+                "name": "Reducing the need for multiple surgeries"
+            },
+            {
+                "name": "Improving the cosmetic appearance of the skull"
+            },
+            {
+                "name": "Reducing the risk of hearing loss"
+            },
+            {
+                "name": "Improving sleep quality by reducing sleep apnea"
+            },
+            {
+                "name": "Reducing the risk of seizures"
+            },
+            {
+                "name": "Improving social and emotional well-being"
+            },
+            {
+                "name": "Reducing the risk of developmental delays"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1199",
+        "name": "Oesophageal atresia",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:860",
+        "name": "Congenitally uncorrected transposition of great arteries",
+        "items": [
+            {
+                "name": "Reducing the frequency of cyanotic spells"
+            },
+            {
+                "name": "Improving oxygen saturation levels"
+            },
+            {
+                "name": "Decreasing the risk of heart failure"
+            },
+            {
+                "name": "Improving physical stamina and ability to exercise"
+            },
+            {
+                "name": "Reducing the need for supplemental oxygen"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Decreasing the risk of blood clots"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Decreasing the risk of arrhythmias"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:557",
+        "name": "Non-syndromic anorectal malformation",
+        "items": [
+            {
+                "name": "Reducing the frequency of bowel movements"
+            },
+            {
+                "name": "Improving control over bowel movements"
+            },
+            {
+                "name": "Reducing pain during bowel movements"
+            },
+            {
+                "name": "Improving the ability to pass stool normally"
+            },
+            {
+                "name": "Reducing the need for colostomy bags"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of urinary tract infections"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing the risk of developing anal cancer"
+            },
+            {
+                "name": "Improving psychological well-being"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:171901",
+        "name": "Primary cutaneous T-cell lymphoma",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:2137",
+        "name": "Autoimmune hepatitis",
+        "items": [
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing and reducing jaundice symptoms"
+            },
+            {
+                "name": "Improving liver function"
+            },
+            {
+                "name": "Reducing the risk of liver cirrhosis"
+            },
+            {
+                "name": "Managing and reducing abdominal pain"
+            },
+            {
+                "name": "Improving appetite and managing weight loss"
+            },
+            {
+                "name": "Reducing the risk of liver failure"
+            },
+            {
+                "name": "Managing and reducing itching"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of complications from liver disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1851",
+        "name": "Multicystic dysplastic kidney",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:97363",
+        "name": "Unilateral multicystic dysplastic multicystic kidney",
+        "items": [
+            {
+                "name": "Reducing pain and discomfort associated with the condition"
+            },
+            {
+                "name": "Preventing or managing high blood pressure"
+            },
+            {
+                "name": "Preventing kidney failure"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Managing associated urinary tract infections"
+            },
+            {
+                "name": "Reducing the risk of kidney stones"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for dialysis or kidney transplant"
+            },
+            {
+                "name": "Managing potential complications during pregnancy"
+            },
+            {
+                "name": "Reducing the risk of developing kidney cancer"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90080",
+        "name": "Healing after glaucoma filtration surgery",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:217080",
+        "name": "Fungal pulmonary infections in patients considered at risk.",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:217067",
+        "name": "Pouchitis",
+        "items": [
+            {
+                "name": "Reducing frequency of bowel movements"
+            },
+            {
+                "name": "Alleviating abdominal pain"
+            },
+            {
+                "name": "Improving quality of sleep"
+            },
+            {
+                "name": "Decreasing urgency to defecate"
+            },
+            {
+                "name": "Reducing fatigue"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Minimizing weight loss"
+            },
+            {
+                "name": "Reducing inflammation in the pouch"
+            },
+            {
+                "name": "Preventing complications such as fistulas and abscesses"
+            },
+            {
+                "name": "Improving nutritional absorption"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:95711",
+        "name": "Congenital hypothyroidism due to developmental anomaly",
+        "items": [
+            {
+                "name": "Reducing fatigue and lethargy associated with hypothyroidism"
+            },
+            {
+                "name": "Improving cognitive development and mental function"
+            },
+            {
+                "name": "Managing weight gain and promoting healthy growth"
+            },
+            {
+                "name": "Preventing and treating constipation"
+            },
+            {
+                "name": "Improving skin dryness and hair loss"
+            },
+            {
+                "name": "Regulating body temperature and cold intolerance"
+            },
+            {
+                "name": "Reducing the risk of heart diseases due to high cholesterol levels"
+            },
+            {
+                "name": "Improving muscle strength and reducing muscle weakness"
+            },
+            {
+                "name": "Reducing depression and mood swings"
+            },
+            {
+                "name": "Improving sleep quality and reducing sleep disturbances"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:636",
+        "name": "Neurofibromatosis type 1",
+        "items": [
+            {
+                "name": "Reducing the number and size of neurofibromas"
+            },
+            {
+                "name": "Managing pain associated with neurofibromas"
+            },
+            {
+                "name": "Preventing or slowing the growth of optic gliomas"
+            },
+            {
+                "name": "Improving learning disabilities and attention issues"
+            },
+            {
+                "name": "Managing symptoms of ADHD"
+            },
+            {
+                "name": "Preventing or managing high blood pressure"
+            },
+            {
+                "name": "Reducing the risk of bone abnormalities"
+            },
+            {
+                "name": "Preventing or managing skin complications"
+            },
+            {
+                "name": "Improving social and emotional well-being"
+            },
+            {
+                "name": "Preventing or slowing the progression of malignant peripheral nerve sheath tumors"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2140",
+        "name": "Congenital diaphragmatic hernia",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of respiratory distress"
+            },
+            {
+                "name": "Improving lung function and growth"
+            },
+            {
+                "name": "Minimizing the risk of gastroesophageal reflux disease"
+            },
+            {
+                "name": "Preventing the occurrence of pulmonary hypertension"
+            },
+            {
+                "name": "Improving feeding and nutrition"
+            },
+            {
+                "name": "Reducing the risk of developmental delays"
+            },
+            {
+                "name": "Minimizing the need for long-term ventilator support"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations"
+            },
+            {
+                "name": "Improving overall growth and development"
+            },
+            {
+                "name": "Enhancing quality of life and daily functioning"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:186",
+        "name": "Colangitis biliar primaria",
+        "items": [
+            {
+                "name": "Reducing the severity of itching (pruritus) associated with PBC"
+            },
+            {
+                "name": "Improving fatigue levels"
+            },
+            {
+                "name": "Preventing progression to cirrhosis"
+            },
+            {
+                "name": "Reducing the risk of liver failure"
+            },
+            {
+                "name": "Improving overall liver function"
+            },
+            {
+                "name": "Reducing the risk of complications such as varices"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of osteoporosis"
+            },
+            {
+                "name": "Managing associated autoimmune conditions"
+            },
+            {
+                "name": "Reducing the need for liver transplantation"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1646",
+        "name": "Partial deletion of the Y chromosome",
+        "items": [
+            {
+                "name": "Reducing the risk of infertility"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Managing symptoms of hypogonadism"
+            },
+            {
+                "name": "Preventing or managing short stature"
+            },
+            {
+                "name": "Improving muscle strength"
+            },
+            {
+                "name": "Reducing the risk of osteoporosis"
+            },
+            {
+                "name": "Managing symptoms of fatigue"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing the risk of heart disease"
+            },
+            {
+                "name": "Improving self-esteem and mental health"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:92",
+        "name": "Juvenile idiopathic arthritis",
+        "items": [
+            {
+                "name": "Reducing joint pain and stiffness"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Preventing joint damage and deformity"
+            },
+            {
+                "name": "Managing systemic symptoms like fever and rash"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing associated eye problems like uveitis"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of long-term complications"
+            },
+            {
+                "name": "Improving emotional well-being and coping skills"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:85410",
+        "name": "Oligoarticular juvenile idiopathic arthritis",
+        "items": [
+            {
+                "name": "Reducing joint pain and stiffness"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Preventing joint damage and deformity"
+            },
+            {
+                "name": "Managing systemic symptoms like fever and rash"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing associated eye problems like uveitis"
+            },
+            {
+                "name": "Reducing the impact on growth and development"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of long-term complications"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:95706",
+        "name": "Posterior hypospadias",
+        "items": [
+            {
+                "name": "Reducing pain during urination"
+            },
+            {
+                "name": "Improving the flow of urine"
+            },
+            {
+                "name": "Preventing urinary tract infections"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing psychological distress"
+            },
+            {
+                "name": "Improving body image and self-esteem"
+            },
+            {
+                "name": "Preventing kidney damage"
+            },
+            {
+                "name": "Reducing the need for multiple surgeries"
+            },
+            {
+                "name": "Improving fertility"
+            },
+            {
+                "name": "Reducing the risk of urinary incontinence"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:908",
+        "name": "Fragile X syndrome",
+        "items": [
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Reduction in anxiety and hyperactivity"
+            },
+            {
+                "name": "Improvement in social interaction skills"
+            },
+            {
+                "name": "Reduction in self-injurious behavior"
+            },
+            {
+                "name": "Improvement in speech and language skills"
+            },
+            {
+                "name": "Reduction in seizures"
+            },
+            {
+                "name": "Improvement in motor skills"
+            },
+            {
+                "name": "Reduction in sensory sensitivities"
+            },
+            {
+                "name": "Improvement in sleep disturbances"
+            },
+            {
+                "name": "Reduction in gastrointestinal problems"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90081",
+        "name": "AIDS-associated wasting syndrome",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of opportunistic infections"
+            },
+            {
+                "name": "Improving the patient’s nutritional status"
+            },
+            {
+                "name": "Managing and reducing chronic pain"
+            },
+            {
+                "name": "Improving the patient’s mental health and reducing symptoms of depression and anxiety"
+            },
+            {
+                "name": "Improving the patient’s physical strength and endurance"
+            },
+            {
+                "name": "Reducing the side effects of antiretroviral therapy"
+            },
+            {
+                "name": "Improving the patient’s quality of sleep"
+            },
+            {
+                "name": "Improving the patient’s cognitive function"
+            },
+            {
+                "name": "Reducing the impact of the syndrome on the patient’s daily life activities"
+            },
+            {
+                "name": "Improving the patient’s overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90062",
+        "name": "Acute liver failure",
+        "items": [
+            {
+                "name": "Reducing the severity of jaundice"
+            },
+            {
+                "name": "Improving liver function"
+            },
+            {
+                "name": "Managing coagulation abnormalities"
+            },
+            {
+                "name": "Preventing or managing hepatic encephalopathy"
+            },
+            {
+                "name": "Reducing fatigue and weakness"
+            },
+            {
+                "name": "Improving appetite and nutritional status"
+            },
+            {
+                "name": "Managing associated infections"
+            },
+            {
+                "name": "Preventing or managing ascites"
+            },
+            {
+                "name": "Reducing the risk of liver failure"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:797",
+        "name": "Sarcoidosis",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of coughing"
+            },
+            {
+                "name": "Improving lung function and breathing"
+            },
+            {
+                "name": "Managing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Reducing pain and discomfort in affected areas"
+            },
+            {
+                "name": "Preventing or managing complications such as lung scarring"
+            },
+            {
+                "name": "Improving skin conditions associated with Sarcoidosis"
+            },
+            {
+                "name": "Managing weight loss or gain due to medication side effects"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of vision loss or blindness"
+            },
+            {
+                "name": "Managing mental health issues such as depression or anxiety related to the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70587",
+        "name": "Acute Respiratory Distress Syndrome in Infants",
+        "items": [
+            {
+                "name": "Reducing the frequency of severe breathing difficulties"
+            },
+            {
+                "name": "Improving oxygen levels in the blood"
+            },
+            {
+                "name": "Decreasing the need for mechanical ventilation"
+            },
+            {
+                "name": "Reducing the risk of lung damage"
+            },
+            {
+                "name": "Improving the ability to feed and gain weight"
+            },
+            {
+                "name": "Reducing the length of hospital stay"
+            },
+            {
+                "name": "Decreasing the risk of long-term respiratory complications"
+            },
+            {
+                "name": "Improving overall survival rates"
+            },
+            {
+                "name": "Reducing the stress and anxiety of caregivers"
+            },
+            {
+                "name": "Improving the quality of life for the patient and family"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70",
+        "name": "Proximal spinal muscular atrophy",
+        "items": [
+            {
+                "name": "Improvement in muscle strength"
+            },
+            {
+                "name": "Reduction in respiratory complications"
+            },
+            {
+                "name": "Enhancement in mobility and physical function"
+            },
+            {
+                "name": "Decrease in fatigue and tiredness"
+            },
+            {
+                "name": "Improvement in swallowing and feeding difficulties"
+            },
+            {
+                "name": "Reduction in pain and discomfort"
+            },
+            {
+                "name": "Improvement in speech and communication abilities"
+            },
+            {
+                "name": "Enhancement in quality of life"
+            },
+            {
+                "name": "Reduction in the frequency of hospitalizations"
+            },
+            {
+                "name": "Improvement in life expectancy"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:66627",
+        "name": "Giant-cell tenosynovial tumor",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:60",
+        "name": "Alpha-1 antitrypsin deficiency",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of lung infections"
+            },
+            {
+                "name": "Improving lung function and breathing capacity"
+            },
+            {
+                "name": "Decreasing the progression of liver disease"
+            },
+            {
+                "name": "Managing symptoms of fatigue and shortness of breath"
+            },
+            {
+                "name": "Preventing the development of emphysema"
+            },
+            {
+                "name": "Reducing the risk of liver cirrhosis and liver cancer"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Decreasing the need for lung transplantation"
+            },
+            {
+                "name": "Reducing the frequency of hospitalizations due to respiratory complications"
+            },
+            {
+                "name": "Improving exercise tolerance and physical capacity"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:589",
+        "name": "Myasthenia grave",
+        "items": [
+            {
+                "name": "Reducing muscle weakness and fatigue"
+            },
+            {
+                "name": "Improving respiratory function"
+            },
+            {
+                "name": "Managing swallowing difficulties"
+            },
+            {
+                "name": "Controlling double vision"
+            },
+            {
+                "name": "Improving speech clarity"
+            },
+            {
+                "name": "Reducing the risk of myasthenic crisis"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Managing side effects of medication"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for hospitalization"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:558",
+        "name": "Marfan syndrome",
+        "items": [
+            {
+                "name": "Reducing the risk of aortic dissection"
+            },
+            {
+                "name": "Improving eye problems such as lens dislocation"
+            },
+            {
+                "name": "Reducing the risk of lung collapse"
+            },
+            {
+                "name": "Improving skeletal problems such as scoliosis"
+            },
+            {
+                "name": "Reducing the risk of heart valve problems"
+            },
+            {
+                "name": "Improving physical stamina and reducing fatigue"
+            },
+            {
+                "name": "Reducing joint pain and improving mobility"
+            },
+            {
+                "name": "Improving skin elasticity and reducing stretch marks"
+            },
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            },
+            {
+                "name": "Improving quality of life and mental health"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:557",
+        "name": "Non-syndromic anorectal malformation",
+        "items": [
+            {
+                "name": "Reducing the frequency of bowel movements"
+            },
+            {
+                "name": "Improving control over bowel movements"
+            },
+            {
+                "name": "Reducing pain during bowel movements"
+            },
+            {
+                "name": "Improving the ability to pass stool normally"
+            },
+            {
+                "name": "Reducing the need for colostomy bags"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of urinary tract infections"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing the risk of developing anal cancer"
+            },
+            {
+                "name": "Improving psychological well-being"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:35122",
+        "name": "Congenital sucrase-isomaltase deficiency",
+        "items": [
+            {
+                "name": "Reducing frequency of diarrhea"
+            },
+            {
+                "name": "Improving nutrient absorption"
+            },
+            {
+                "name": "Decreasing abdominal pain"
+            },
+            {
+                "name": "Reducing bloating and gas"
+            },
+            {
+                "name": "Improving weight gain and growth"
+            },
+            {
+                "name": "Reducing fatigue and weakness"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Decreasing frequency of hospital visits"
+            },
+            {
+                "name": "Reducing the need for dietary restrictions"
+            },
+            {
+                "name": "Improving mental and cognitive development"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:261197",
+        "name": "Proximal microdeletion syndrome 16p11.2",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of seizures"
+            },
+            {
+                "name": "Improving cognitive function and learning abilities"
+            },
+            {
+                "name": "Managing and reducing behavioral problems such as aggression and impulsivity"
+            },
+            {
+                "name": "Improving speech and language skills"
+            },
+            {
+                "name": "Reducing symptoms of autism spectrum disorder"
+            },
+            {
+                "name": "Improving motor skills and coordination"
+            },
+            {
+                "name": "Managing and reducing symptoms of attention deficit hyperactivity disorder (ADHD)"
+            },
+            {
+                "name": "Improving social interaction skills"
+            },
+            {
+                "name": "Reducing anxiety and improving mood"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:247",
+        "name": "Arrhythmogenic cardiomyopathy of the right ventricle",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:171673",
+        "name": "Limbal stem cell deficiency",
+        "items": [
+            {
+                "name": "Reducing the frequency of corneal inflammation and infections"
+            },
+            {
+                "name": "Improving vision clarity"
+            },
+            {
+                "name": "Decreasing the occurrence of eye pain"
+            },
+            {
+                "name": "Reducing the need for frequent eye drops usage"
+            },
+            {
+                "name": "Improving overall eye health"
+            },
+            {
+                "name": "Reducing the risk of corneal ulcers"
+            },
+            {
+                "name": "Improving the ability to perform daily activities"
+            },
+            {
+                "name": "Reducing the need for corneal transplantation"
+            },
+            {
+                "name": "Improving the quality of life"
+            },
+            {
+                "name": "Decreasing the occurrence of dry eyes"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1646",
+        "name": "Partial deletion of the Y chromosome",
+        "items": [
+            {
+                "name": "Reducing the risk of infertility"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Managing symptoms of hypogonadism"
+            },
+            {
+                "name": "Preventing or managing short stature"
+            },
+            {
+                "name": "Improving muscle strength"
+            },
+            {
+                "name": "Reducing the risk of osteoporosis"
+            },
+            {
+                "name": "Managing symptoms of delayed puberty"
+            },
+            {
+                "name": "Improving self-esteem and body image"
+            },
+            {
+                "name": "Reducing the risk of learning disabilities"
+            },
+            {
+                "name": "Managing behavioral problems"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:137583",
+        "name": "Vulvar intraepithelial neoplasia",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 3)"
+    },
+    {
+        "id": "ORPHA:1330",
+        "name": "Partial atrioventricular canal",
+        "items": [
+            {
+                "name": "Reducing the frequency of heart palpitations"
+            },
+            {
+                "name": "Improving the ability to exercise without fatigue"
+            },
+            {
+                "name": "Decreasing the occurrence of shortness of breath"
+            },
+            {
+                "name": "Managing symptoms of heart failure"
+            },
+            {
+                "name": "Preventing the development of pulmonary hypertension"
+            },
+            {
+                "name": "Reducing the risk of stroke"
+            },
+            {
+                "name": "Improving overall heart function"
+            },
+            {
+                "name": "Decreasing the need for hospitalization due to heart complications"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing anxiety and stress related to the condition"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:1329",
+        "name": "Complete atrioventricular canal",
+        "items": [
+            {
+                "name": "Reducing the frequency of heart palpitations"
+            },
+            {
+                "name": "Improving the ability to exercise without fatigue"
+            },
+            {
+                "name": "Decreasing the occurrence of shortness of breath"
+            },
+            {
+                "name": "Managing symptoms of heart failure"
+            },
+            {
+                "name": "Preventing the development of pulmonary hypertension"
+            },
+            {
+                "name": "Reducing the risk of blood clots"
+            },
+            {
+                "name": "Improving overall heart function"
+            },
+            {
+                "name": "Decreasing the need for hospitalization due to heart complications"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:130",
+        "name": "Brugada Syndrome",
+        "items": [
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            },
+            {
+                "name": "Managing symptoms such as fainting and irregular heart rhythms"
+            },
+            {
+                "name": "Preventing the onset of ventricular fibrillation"
+            },
+            {
+                "name": "Improving quality of life by reducing anxiety and fear related to the condition"
+            },
+            {
+                "name": "Reducing the need for an implantable cardioverter defibrillator (ICD)"
+            },
+            {
+                "name": "Improving patient understanding and management of the condition"
+            },
+            {
+                "name": "Reducing the impact of the condition on daily activities"
+            },
+            {
+                "name": "Improving sleep quality affected by anxiety or fear of sudden cardiac arrest"
+            },
+            {
+                "name": "Reducing the frequency and severity of palpitations"
+            },
+            {
+                "name": "Improving overall heart health and function"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:586",
+        "name": "Cystic fibrosis",
+        "items": [
+            {
+                "name": "Reducing the frequency of lung infections"
+            },
+            {
+                "name": "Improving lung function"
+            },
+            {
+                "name": "Managing digestive problems"
+            },
+            {
+                "name": "Preventing and treating diabetes"
+            },
+            {
+                "name": "Improving nutritional status"
+            },
+            {
+                "name": "Reducing the impact of physical symptoms on daily life"
+            },
+            {
+                "name": "Improving mental health and coping with the disease"
+            },
+            {
+                "name": "Reducing hospitalizations"
+            },
+            {
+                "name": "Improving life expectancy"
+            },
+            {
+                "name": "Enhancing quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:823",
+        "name": "Isolated spina bifida",
+        "items": [
+            {
+                "name": "Reducing the frequency of urinary tract infections"
+            },
+            {
+                "name": "Improving bowel control"
+            },
+            {
+                "name": "Reducing the occurrence of pressure sores"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing pain and discomfort"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Reducing the risk of hydrocephalus"
+            },
+            {
+                "name": "Improving sexual function"
+            },
+            {
+                "name": "Reducing the risk of orthopedic complications"
+            },
+            {
+                "name": "Improving quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:30391",
+        "name": "Biliary atresia",
+        "items": [
+            {
+                "name": "Reducing the frequency of jaundice episodes"
+            },
+            {
+                "name": "Improving liver function"
+            },
+            {
+                "name": "Preventing the progression of liver disease"
+            },
+            {
+                "name": "Reducing the need for liver transplantation"
+            },
+            {
+                "name": "Managing symptoms of itching and discomfort"
+            },
+            {
+                "name": "Improving nutritional status and growth"
+            },
+            {
+                "name": "Reducing the risk of infections"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of complications from surgery"
+            },
+            {
+                "name": "Improving survival rates"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:228113",
+        "name": "Anal fistula",
+        "items": [
+            {
+                "name": "Reducing pain and discomfort associated with anal fistula"
+            },
+            {
+                "name": "Preventing recurrent anal fistula"
+            },
+            {
+                "name": "Improving bowel control and preventing fecal incontinence"
+            },
+            {
+                "name": "Reducing the risk of infection and abscess formation"
+            },
+            {
+                "name": "Improving quality of life by reducing psychological distress"
+            },
+            {
+                "name": "Minimizing the impact on daily activities and work"
+            },
+            {
+                "name": "Reducing the need for repeated surgeries"
+            },
+            {
+                "name": "Improving sexual function and reducing discomfort during intercourse"
+            },
+            {
+                "name": "Reducing the risk of developing anal cancer"
+            },
+            {
+                "name": "Improving overall patient satisfaction with treatment outcomes"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:91127",
+        "name": "Adenovirus infection in immunocompromised patients.",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 4)"
+    },
+    {
+        "id": "ORPHA:90061",
+        "name": "Non-infectious posterior uveitis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:704",
+        "name": "Pemphigus vulgaris",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of blister outbreaks"
+            },
+            {
+                "name": "Managing pain associated with skin lesions"
+            },
+            {
+                "name": "Preventing secondary skin infections"
+            },
+            {
+                "name": "Improving oral health and preventing oral lesions"
+            },
+            {
+                "name": "Reducing the risk of malnutrition due to difficulty eating"
+            },
+            {
+                "name": "Improving mental health and reducing anxiety or depression"
+            },
+            {
+                "name": "Improving quality of sleep"
+            },
+            {
+                "name": "Reducing the risk of eye complications"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the need for hospitalization due to severe outbreaks"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2248",
+        "name": "Hypoplastic left heart syndrome",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:65753",
+        "name": "Charcot-Marie-Tooth disease type 1",
+        "items": [
+            {
+                "name": "Reducing muscle weakness and atrophy"
+            },
+            {
+                "name": "Improving sensory loss"
+            },
+            {
+                "name": "Managing foot deformities"
+            },
+            {
+                "name": "Reducing pain and discomfort"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Enhancing mobility and physical function"
+            },
+            {
+                "name": "Preventing falls and injuries"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Slowing disease progression"
+            },
+            {
+                "name": "Managing fatigue and energy levels"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:154",
+        "name": "Isolated familial dilated cardiomyopathy",
+        "items": [
+            {
+                "name": "Reducing the frequency of heart failure symptoms"
+            },
+            {
+                "name": "Improving exercise tolerance"
+            },
+            {
+                "name": "Decreasing the need for hospitalization"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Managing co-morbidities like diabetes or hypertension"
+            },
+            {
+                "name": "Reducing fatigue and shortness of breath"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Reducing anxiety and depression related to the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2368",
+        "name": "Gastroschisis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:77240",
+        "name": "Primary lymphedema",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:3380",
+        "name": "Trisomy",
+        "items": [
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Reduction in heart defects"
+            },
+            {
+                "name": "Improvement in gastrointestinal problems"
+            },
+            {
+                "name": "Reduction in hearing loss"
+            },
+            {
+                "name": "Improvement in vision problems"
+            },
+            {
+                "name": "Reduction in thyroid problems"
+            },
+            {
+                "name": "Improvement in muscle tone"
+            },
+            {
+                "name": "Reduction in sleep apnea"
+            },
+            {
+                "name": "Improvement in speech and language development"
+            },
+            {
+                "name": "Reduction in leukemia risk"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:461",
+        "name": "X-linked recessive ischthyosis",
+        "items": [
+            {
+                "name": "Reducing the severity of skin scaling and peeling"
+            },
+            {
+                "name": "Improving skin hydration"
+            },
+            {
+                "name": "Preventing skin infections"
+            },
+            {
+                "name": "Reducing itchiness and discomfort"
+            },
+            {
+                "name": "Improving overall skin appearance"
+            },
+            {
+                "name": "Reducing the frequency of skin care routines"
+            },
+            {
+                "name": "Improving mobility and flexibility affected by skin tightness"
+            },
+            {
+                "name": "Reducing the impact on mental health (anxiety, depression)"
+            },
+            {
+                "name": "Improving social interactions affected by visible skin condition"
+            },
+            {
+                "name": "Reducing the need for hospitalization due to severe skin infections"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90064",
+        "name": "Acute peripheral arterial occlusion",
+        "items": [
+            {
+                "name": "Relief from severe pain in the affected limb"
+            },
+            {
+                "name": "Improvement in mobility and physical function"
+            },
+            {
+                "name": "Prevention of limb loss"
+            },
+            {
+                "name": "Reduction in the risk of heart attack or stroke"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            },
+            {
+                "name": "Reduction in anxiety and depression related to the disease"
+            },
+            {
+                "name": "Improvement in sleep quality affected by pain"
+            },
+            {
+                "name": "Reduction in the need for repeated hospitalizations"
+            },
+            {
+                "name": "Improvement in wound healing in the affected limb"
+            },
+            {
+                "name": "Reduction in the side effects of medications used for treatment"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:774",
+        "name": "Hereditary hemorrhagic telangiectasia",
+        "items": [
+            {
+                "name": "Reducing frequency of nosebleeds"
+            },
+            {
+                "name": "Preventing gastrointestinal bleeding"
+            },
+            {
+                "name": "Improving iron deficiency anemia"
+            },
+            {
+                "name": "Reducing fatigue"
+            },
+            {
+                "name": "Preventing skin telangiectasias"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the risk of stroke"
+            },
+            {
+                "name": "Preventing lung arteriovenous malformations"
+            },
+            {
+                "name": "Reducing the need for blood transfusions"
+            },
+            {
+                "name": "Preventing liver disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:54370",
+        "name": "Primary membranoproliferative glomerulonephritis",
+        "items": [
+            {
+                "name": "Reducing proteinuria levels"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Managing high blood pressure"
+            },
+            {
+                "name": "Reducing swelling and fluid retention"
+            },
+            {
+                "name": "Preventing progression to kidney failure"
+            },
+            {
+                "name": "Managing fatigue and weakness"
+            },
+            {
+                "name": "Improving appetite and preventing weight loss"
+            },
+            {
+                "name": "Managing anemia"
+            },
+            {
+                "name": "Reducing the risk of infections"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:36258",
+        "name": "Buerger's disease",
+        "items": [
+            {
+                "name": "Pain management in affected limbs"
+            },
+            {
+                "name": "Improvement in blood circulation"
+            },
+            {
+                "name": "Prevention of gangrene and amputation"
+            },
+            {
+                "name": "Reduction in inflammation and swelling"
+            },
+            {
+                "name": "Improvement in mobility and daily activities"
+            },
+            {
+                "name": "Reduction in fatigue and weakness"
+            },
+            {
+                "name": "Prevention of weight loss due to disease"
+            },
+            {
+                "name": "Improvement in mental health and stress management"
+            },
+            {
+                "name": "Prevention of disease progression"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3389",
+        "name": "Tuberculosis",
+        "items": [
+            {
+                "name": "Reducing the severity and frequency of coughing"
+            },
+            {
+                "name": "Improving overall lung function"
+            },
+            {
+                "name": "Minimizing weight loss associated with Tuberculosis"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving sleep quality disrupted by night sweats"
+            },
+            {
+                "name": "Managing pain in the chest and other areas"
+            },
+            {
+                "name": "Reducing the incidence of fever and chills"
+            },
+            {
+                "name": "Improving appetite and nutritional intake"
+            },
+            {
+                "name": "Reducing the side effects of Tuberculosis medications"
+            },
+            {
+                "name": "Improving mental health and reducing anxiety related to the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:137599",
+        "name": "Stromal keratitis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:83463",
+        "name": "Microtia",
+        "items": [
+            {
+                "name": "Improvement in hearing ability"
+            },
+            {
+                "name": "Reduction in ear infections"
+            },
+            {
+                "name": "Improvement in speech development"
+            },
+            {
+                "name": "Reduction in psychological distress"
+            },
+            {
+                "name": "Improvement in social interactions"
+            },
+            {
+                "name": "Reduction in facial asymmetry"
+            },
+            {
+                "name": "Improvement in self-esteem"
+            },
+            {
+                "name": "Reduction in bullying or teasing due to appearance"
+            },
+            {
+                "name": "Improvement in quality of life"
+            },
+            {
+                "name": "Reduction in need for multiple surgeries"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:217074",
+        "name": "Rare carcinoma of the pancreas",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:90291",
+        "name": "Systemic sclerosis",
+        "items": [
+            {
+                "name": "Reducing the severity of skin hardening and tightening"
+            },
+            {
+                "name": "Improving gastrointestinal function"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Preventing or slowing down lung damage"
+            },
+            {
+                "name": "Improving mobility and flexibility"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Preventing or managing kidney complications"
+            },
+            {
+                "name": "Improving mental health and coping mechanisms"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2248",
+        "name": "Hypoplastic left heart syndrome",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:88673",
+        "name": "Hepatocellular carcinoma",
+        "items": [
+            {
+                "name": "Reducing the severity of pain associated with the disease."
+            },
+            {
+                "name": "Improving the patient’s ability to perform daily activities."
+            },
+            {
+                "name": "Minimizing the side effects of chemotherapy."
+            },
+            {
+                "name": "Preventing or managing the spread of cancer to other organs."
+            },
+            {
+                "name": "Improving the patient’s overall quality of life."
+            },
+            {
+                "name": "Managing symptoms such as fatigue, loss of appetite, and weight loss."
+            },
+            {
+                "name": "Reducing the risk of recurrence after treatment."
+            },
+            {
+                "name": "Improving the patient’s mental health, including managing anxiety and depression."
+            },
+            {
+                "name": "Providing support and information to caregivers."
+            },
+            {
+                "name": "Improving the patient’s prognosis and extending survival."
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:558",
+        "name": "Marfan syndrome",
+        "items": [
+            {
+                "name": "Reducing the risk of aortic dissection"
+            },
+            {
+                "name": "Improving eye problems, particularly lens dislocation"
+            },
+            {
+                "name": "Preventing or managing scoliosis"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving lung function and reducing breathlessness"
+            },
+            {
+                "name": "Managing chronic pain"
+            },
+            {
+                "name": "Preventing or managing osteoporosis"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Reducing the risk of sudden cardiac death"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:309297",
+        "name": "Mucopolysaccharidosis type",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of respiratory infections"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing pain and discomfort associated with joint stiffness"
+            },
+            {
+                "name": "Improving sleep quality by managing sleep apnea"
+            },
+            {
+                "name": "Improving cognitive function and developmental milestones"
+            },
+            {
+                "name": "Managing gastrointestinal issues such as diarrhea and constipation"
+            },
+            {
+                "name": "Improving vision and managing ocular complications"
+            },
+            {
+                "name": "Improving hearing and managing auditory complications"
+            },
+            {
+                "name": "Reducing the frequency and severity of cardiac complications"
+            },
+            {
+                "name": "Improving quality of life by managing psychological and emotional health"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2828",
+        "name": "Early-onset Parkinson's disease",
+        "items": [
+            {
+                "name": "Reducing tremors and involuntary movements"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Slowing the progression of the disease"
+            },
+            {
+                "name": "Managing cognitive symptoms such as memory loss and confusion"
+            },
+            {
+                "name": "Reducing anxiety and depression associated with the disease"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing constipation and other gastrointestinal issues"
+            },
+            {
+                "name": "Improving speech and swallowing difficulties"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Managing pain associated with the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2382",
+        "name": "Lennox-Gastaut syndrome",
+        "items": [
+            {
+                "name": "Reduction in frequency of seizures"
+            },
+            {
+                "name": "Improvement in cognitive function"
+            },
+            {
+                "name": "Decrease in behavioral problems"
+            },
+            {
+                "name": "Improvement in sleep quality"
+            },
+            {
+                "name": "Reduction in side effects from medication"
+            },
+            {
+                "name": "Improvement in motor skills"
+            },
+            {
+                "name": "Enhancement in quality of life"
+            },
+            {
+                "name": "Decrease in anxiety and depression"
+            },
+            {
+                "name": "Improvement in social interactions"
+            },
+            {
+                "name": "Increase in independence and self-care skills"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:221061",
+        "name": "Hereditary cerebral cavernous malformation",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of seizures"
+            },
+            {
+                "name": "Improving cognitive function and memory"
+            },
+            {
+                "name": "Minimizing the risk of stroke"
+            },
+            {
+                "name": "Reducing headaches and migraines"
+            },
+            {
+                "name": "Improving motor skills and coordination"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving speech and language skills"
+            },
+            {
+                "name": "Reducing anxiety and depression associated with the condition"
+            },
+            {
+                "name": "Improving quality of sleep"
+            },
+            {
+                "name": "Reducing the risk of bleeding in the brain"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:163934",
+        "name": "Atopic keratoconjunctivitis",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:97363",
+        "name": "Unilateral multicystic dysplastic multicystic kidney",
+        "items": [
+            {
+                "name": "Reducing pain and discomfort associated with the condition"
+            },
+            {
+                "name": "Preventing or managing high blood pressure"
+            },
+            {
+                "name": "Preventing kidney failure"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Managing associated urinary tract infections"
+            },
+            {
+                "name": "Reducing the risk of kidney stones"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for dialysis or kidney transplant"
+            },
+            {
+                "name": "Managing associated abdominal swelling"
+            },
+            {
+                "name": "Reducing the risk of developing cancer in the affected kidney"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:166260",
+        "name": "Dentinogenesis imperfecta type 2",
+        "items": [
+            {
+                "name": "Reducing tooth sensitivity and pain"
+            },
+            {
+                "name": "Improving tooth structure and appearance"
+            },
+            {
+                "name": "Preventing tooth loss"
+            },
+            {
+                "name": "Enhancing oral function (chewing, speaking)"
+            },
+            {
+                "name": "Preventing oral infections"
+            },
+            {
+                "name": "Improving overall oral health"
+            },
+            {
+                "name": "Reducing the need for dental restorations"
+            },
+            {
+                "name": "Improving self-esteem and quality of life"
+            },
+            {
+                "name": "Reducing the frequency of dental visits"
+            },
+            {
+                "name": "Preventing the development of secondary conditions such as jaw problems or malnutrition due to difficulty eating"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:49042",
+        "name": "Dentinogenesis imperfecta",
+        "items": [
+            {
+                "name": "Reducing tooth sensitivity and pain"
+            },
+            {
+                "name": "Improving tooth structure and strength"
+            },
+            {
+                "name": "Preventing tooth loss"
+            },
+            {
+                "name": "Improving oral function (chewing, speaking)"
+            },
+            {
+                "name": "Enhancing oral aesthetics (appearance)"
+            },
+            {
+                "name": "Preventing oral infections"
+            },
+            {
+                "name": "Reducing the need for dental restorations"
+            },
+            {
+                "name": "Improving overall oral health"
+            },
+            {
+                "name": "Reducing the frequency of dental visits"
+            },
+            {
+                "name": "Improving quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:95712",
+        "name": "Thyroid ectopia",
+        "items": [
+            {
+                "name": "Reducing the risk of respiratory complications"
+            },
+            {
+                "name": "Improving swallowing difficulties"
+            },
+            {
+                "name": "Managing symptoms of hypothyroidism"
+            },
+            {
+                "name": "Reducing the risk of choking"
+            },
+            {
+                "name": "Improving speech difficulties"
+            },
+            {
+                "name": "Reducing the risk of infection"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Reducing the risk of thyroid cancer"
+            },
+            {
+                "name": "Managing emotional distress and anxiety"
+            },
+            {
+                "name": "Improving nutritional status"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:683",
+        "name": "Progressive supranuclear palsy",
+        "items": [
+            {
+                "name": "Improvement in balance and mobility"
+            },
+            {
+                "name": "Reduction in frequency of falls"
+            },
+            {
+                "name": "Improvement in speech and swallowing difficulties"
+            },
+            {
+                "name": "Reduction in stiffness and rigidity"
+            },
+            {
+                "name": "Improvement in eye movement and vision"
+            },
+            {
+                "name": "Reduction in cognitive impairment"
+            },
+            {
+                "name": "Improvement in mood and reduction in depression"
+            },
+            {
+                "name": "Improvement in sleep disturbances"
+            },
+            {
+                "name": "Reduction in fatigue and increased energy levels"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:238624",
+        "name": "Idiopathic intracranial hypertension",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of headaches"
+            },
+            {
+                "name": "Improving vision disturbances"
+            },
+            {
+                "name": "Decreasing the occurrence of tinnitus"
+            },
+            {
+                "name": "Improving balance and coordination"
+            },
+            {
+                "name": "Reducing fatigue and lethargy"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Reducing nausea and vomiting"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Decreasing the risk of developing a secondary condition like stroke"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:214",
+        "name": "Cystinuria",
+        "items": [
+            {
+                "name": "Reducing the frequency of kidney stone formation"
+            },
+            {
+                "name": "Managing chronic kidney pain"
+            },
+            {
+                "name": "Preventing kidney damage"
+            },
+            {
+                "name": "Improving kidney function"
+            },
+            {
+                "name": "Reducing the need for surgical interventions"
+            },
+            {
+                "name": "Managing associated urinary tract infections"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing hospitalization rates"
+            },
+            {
+                "name": "Decreasing the risk of kidney failure"
+            },
+            {
+                "name": "Improving hydration and dietary habits"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:101959",
+        "name": "Primary chronic adrenal insufficiency",
+        "items": [
+            {
+                "name": "Reducing fatigue and weakness"
+            },
+            {
+                "name": "Managing low blood pressure"
+            },
+            {
+                "name": "Controlling salt cravings"
+            },
+            {
+                "name": "Improving muscle and joint pain"
+            },
+            {
+                "name": "Reducing gastrointestinal problems"
+            },
+            {
+                "name": "Managing weight loss"
+            },
+            {
+                "name": "Improving skin changes"
+            },
+            {
+                "name": "Reducing depression and irritability"
+            },
+            {
+                "name": "Improving cognitive difficulties"
+            },
+            {
+                "name": "Managing hypoglycemia"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2162",
+        "name": "Holoprosencephaly",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of seizures"
+            },
+            {
+                "name": "Improving feeding difficulties and preventing malnutrition"
+            },
+            {
+                "name": "Managing sleep disturbances"
+            },
+            {
+                "name": "Improving cognitive function and developmental delays"
+            },
+            {
+                "name": "Managing hormonal imbalances"
+            },
+            {
+                "name": "Reducing the occurrence of respiratory infections"
+            },
+            {
+                "name": "Improving motor function and mobility"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            },
+            {
+                "name": "Improving communication abilities"
+            },
+            {
+                "name": "Enhancing quality of life and emotional well-being"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3193",
+        "name": "Supravalvular aortic stenosis",
+        "items": [
+            {
+                "name": "Reducing the severity of chest pain"
+            },
+            {
+                "name": "Improving the ability to perform physical activities"
+            },
+            {
+                "name": "Decreasing shortness of breath"
+            },
+            {
+                "name": "Reducing fatigue caused by the disease"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Reducing the risk of heart failure"
+            },
+            {
+                "name": "Decreasing the frequency of fainting spells"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the need for surgical interventions"
+            },
+            {
+                "name": "Decreasing the risk of sudden cardiac death"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:388",
+        "name": "Enfermedad de Hirschsprung",
+        "items": [
+            {
+                "name": "Relief from chronic constipation"
+            },
+            {
+                "name": "Reduction in abdominal pain"
+            },
+            {
+                "name": "Improvement in bowel movement regularity"
+            },
+            {
+                "name": "Decrease in bloating and distension"
+            },
+            {
+                "name": "Improvement in nutritional absorption"
+            },
+            {
+                "name": "Reduction in fatigue due to malnutrition"
+            },
+            {
+                "name": "Decrease in episodes of bowel obstruction"
+            },
+            {
+                "name": "Improvement in overall quality of life"
+            },
+            {
+                "name": "Reduction in anxiety and stress related to bowel movements"
+            },
+            {
+                "name": "Decrease in hospitalization and surgical interventions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:83463",
+        "name": "Microtia",
+        "items": [
+            {
+                "name": "Improvement in hearing ability"
+            },
+            {
+                "name": "Reduction in ear infections"
+            },
+            {
+                "name": "Improvement in speech development"
+            },
+            {
+                "name": "Reduction in psychological distress"
+            },
+            {
+                "name": "Improvement in social interactions"
+            },
+            {
+                "name": "Reduction in facial asymmetry"
+            },
+            {
+                "name": "Improvement in self-esteem"
+            },
+            {
+                "name": "Reduction in bullying or social stigma"
+            },
+            {
+                "name": "Improvement in quality of life"
+            },
+            {
+                "name": "Reduction in need for multiple surgeries"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:827",
+        "name": "Stargardt disease",
+        "items": [
+            {
+                "name": "Improvement in visual acuity"
+            },
+            {
+                "name": "Reduction in the progression of vision loss"
+            },
+            {
+                "name": "Decrease in the frequency of visual hallucinations"
+            },
+            {
+                "name": "Improvement in color perception"
+            },
+            {
+                "name": "Enhancement in night vision"
+            },
+            {
+                "name": "Reduction in the occurrence of blind spots"
+            },
+            {
+                "name": "Improvement in the ability to read or write"
+            },
+            {
+                "name": "Enhancement in the ability to recognize faces"
+            },
+            {
+                "name": "Improvement in the ability to perform daily activities"
+            },
+            {
+                "name": "Reduction in the psychological distress associated with vision loss"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:70589",
+        "name": "Bronchopulmonary dysplasia",
+        "items": [
+            {
+                "name": "Reducing the frequency of respiratory infections"
+            },
+            {
+                "name": "Improving lung function and capacity"
+            },
+            {
+                "name": "Decreasing the need for supplemental oxygen"
+            },
+            {
+                "name": "Reducing the frequency and severity of coughing episodes"
+            },
+            {
+                "name": "Improving overall growth and development"
+            },
+            {
+                "name": "Reducing the risk of pulmonary hypertension"
+            },
+            {
+                "name": "Improving sleep quality by reducing nighttime breathing difficulties"
+            },
+            {
+                "name": "Decreasing the frequency of hospitalizations due to respiratory complications"
+            },
+            {
+                "name": "Improving the ability to participate in physical activities"
+            },
+            {
+                "name": "Reducing the emotional stress and anxiety associated with chronic illness"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:449266",
+        "name": "Pleural empyema",
+        "items": [
+            {
+                "name": "Reducing the severity of chest pain"
+            },
+            {
+                "name": "Improving breathing difficulties"
+            },
+            {
+                "name": "Decreasing the frequency of coughing"
+            },
+            {
+                "name": "Reducing fever and chills"
+            },
+            {
+                "name": "Improving overall physical strength and energy levels"
+            },
+            {
+                "name": "Reducing the need for hospitalization"
+            },
+            {
+                "name": "Preventing the recurrence of pleural effusion"
+            },
+            {
+                "name": "Improving sleep quality affected by symptoms"
+            },
+            {
+                "name": "Reducing anxiety and stress related to the disease"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:44890",
+        "name": "Gastrointestinal Stromal Tumor",
+        "items": [
+            {
+                "name": "Reducing the size of the tumor"
+            },
+            {
+                "name": "Managing pain associated with the tumor"
+            },
+            {
+                "name": "Preventing or managing complications such as bleeding or blockage"
+            },
+            {
+                "name": "Improving digestive function"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving appetite and managing weight loss"
+            },
+            {
+                "name": "Managing anxiety and depression associated with the diagnosis"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Preventing recurrence of the tumor"
+            },
+            {
+                "name": "Reducing side effects of treatment"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:423461",
+        "name": "Mucolipidosis type III alfa/beta",
+        "items": [
+            {
+                "name": "Reducing chronic pain and discomfort"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Enhancing cognitive function and mental clarity"
+            },
+            {
+                "name": "Managing co-occurring heart conditions"
+            },
+            {
+                "name": "Improving respiratory function"
+            },
+            {
+                "name": "Reducing frequency of hospitalizations"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Managing co-occurring skeletal abnormalities"
+            },
+            {
+                "name": "Improving growth and development in children"
+            },
+            {
+                "name": "Reducing the risk of early mortality"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:100088",
+        "name": "Thyroid carcinoma",
+        "items": [
+            {
+                "name": "Reducing the size of the thyroid tumor"
+            },
+            {
+                "name": "Managing symptoms such as difficulty swallowing or breathing"
+            },
+            {
+                "name": "Preventing the spread of cancer to other parts of the body"
+            },
+            {
+                "name": "Minimizing side effects of treatment such as fatigue and nausea"
+            },
+            {
+                "name": "Improving overall survival rates"
+            },
+            {
+                "name": "Maintaining normal thyroid hormone levels"
+            },
+            {
+                "name": "Reducing the risk of recurrence"
+            },
+            {
+                "name": "Improving quality of life during and after treatment"
+            },
+            {
+                "name": "Managing mental health issues such as anxiety and depression associated with diagnosis"
+            },
+            {
+                "name": "Reducing the need for invasive surgical procedures"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3376",
+        "name": "Triploidy",
+        "items": [
+            {
+                "name": "Reducing the frequency of seizures"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Managing heart defects"
+            },
+            {
+                "name": "Improving muscle tone and strength"
+            },
+            {
+                "name": "Reducing the risk of respiratory infections"
+            },
+            {
+                "name": "Improving feeding and swallowing difficulties"
+            },
+            {
+                "name": "Managing sleep disorders"
+            },
+            {
+                "name": "Reducing the risk of vision and hearing loss"
+            },
+            {
+                "name": "Improving growth and development"
+            },
+            {
+                "name": "Managing pain and discomfort"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:903",
+        "name": "Von Willebrand's disease",
+        "items": [
+            {
+                "name": "Reducing frequency of bleeding episodes"
+            },
+            {
+                "name": "Minimizing pain associated with bleeding"
+            },
+            {
+                "name": "Improving wound healing"
+            },
+            {
+                "name": "Preventing complications from surgery or injury"
+            },
+            {
+                "name": "Reducing fatigue caused by anemia"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Preventing joint damage from repeated bleeding"
+            },
+            {
+                "name": "Reducing anxiety about potential bleeding episodes"
+            },
+            {
+                "name": "Improving ability to participate in physical activities"
+            },
+            {
+                "name": "Reducing the need for blood transfusions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:85138",
+        "name": "Addison's disease",
+        "items": [
+            {
+                "name": "Managing chronic fatigue and weakness"
+            },
+            {
+                "name": "Controlling low blood pressure"
+            },
+            {
+                "name": "Preventing and treating Addisonian crisis"
+            },
+            {
+                "name": "Managing weight loss and decreased appetite"
+            },
+            {
+                "name": "Controlling hyperpigmentation"
+            },
+            {
+                "name": "Managing low blood sugar levels"
+            },
+            {
+                "name": "Preventing and treating nausea, vomiting and diarrhea"
+            },
+            {
+                "name": "Managing muscle or joint pains"
+            },
+            {
+                "name": "Controlling irritability and depression"
+            },
+            {
+                "name": "Managing salt craving due to low sodium levels"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:285",
+        "name": "Hypermobile Ehlers-Danlos syndrome",
+        "items": [
+            {
+                "name": "Reducing chronic joint pain"
+            },
+            {
+                "name": "Improving joint stability"
+            },
+            {
+                "name": "Decreasing frequency of dislocations"
+            },
+            {
+                "name": "Improving skin elasticity and reducing bruising"
+            },
+            {
+                "name": "Reducing gastrointestinal issues"
+            },
+            {
+                "name": "Improving cardiovascular function"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Reducing anxiety and depression symptoms"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:273",
+        "name": "Steinert's myotonic dystrophy",
+        "items": [
+            {
+                "name": "Reducing muscle weakness and myotonia"
+            },
+            {
+                "name": "Improving heart function"
+            },
+            {
+                "name": "Managing gastrointestinal issues"
+            },
+            {
+                "name": "Improving respiratory function"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving sleep quality"
+            },
+            {
+                "name": "Managing cognitive and psychological issues"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing pain and discomfort"
+            },
+            {
+                "name": "Improving quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2415",
+        "name": "Rare lymphatic malformation",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of lymphatic malformation flare-ups"
+            },
+            {
+                "name": "Improving lymphatic fluid drainage"
+            },
+            {
+                "name": "Reducing pain and discomfort associated with the malformation"
+            },
+            {
+                "name": "Preventing or managing complications such as infections or bleeding"
+            },
+            {
+                "name": "Improving mobility and physical function affected by the malformation"
+            },
+            {
+                "name": "Improving cosmetic appearance and self-esteem"
+            },
+            {
+                "name": "Reducing the need for invasive procedures like surgery or sclerotherapy"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Managing associated symptoms like shortness of breath or difficulty swallowing"
+            },
+            {
+                "name": "Reducing the emotional and psychological stress associated with living with a rare disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:828",
+        "name": "Stickler syndrome",
+        "items": [
+            {
+                "name": "Reducing the frequency of joint pain and stiffness"
+            },
+            {
+                "name": "Improving vision and preventing retinal detachment"
+            },
+            {
+                "name": "Preventing or slowing down the progression of hearing loss"
+            },
+            {
+                "name": "Improving facial abnormalities"
+            },
+            {
+                "name": "Reducing the risk of heart problems"
+            },
+            {
+                "name": "Improving speech difficulties"
+            },
+            {
+                "name": "Reducing the frequency of respiratory problems"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing the risk of bone and joint deformities"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:86870",
+        "name": "CD4+/CD56+ hematodermal neoplasia",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:70573",
+        "name": "Small cell lung cancer",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:42",
+        "name": "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "items": [
+            {
+                "name": "Reducing the frequency of metabolic crises"
+            },
+            {
+                "name": "Improving muscle strength and endurance"
+            },
+            {
+                "name": "Preventing hypoglycemia"
+            },
+            {
+                "name": "Managing body weight and growth"
+            },
+            {
+                "name": "Reducing fatigue and increasing energy levels"
+            },
+            {
+                "name": "Improving cognitive function and developmental milestones"
+            },
+            {
+                "name": "Reducing hospitalizations and emergency room visits"
+            },
+            {
+                "name": "Improving quality of life and daily functioning"
+            },
+            {
+                "name": "Preventing long-term complications such as liver disease"
+            },
+            {
+                "name": "Improving dietary management and nutritional status"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:399",
+        "name": "Huntington's disease",
+        "items": [
+            {
+                "name": "Reducing involuntary movements (chorea)"
+            },
+            {
+                "name": "Improving cognitive function"
+            },
+            {
+                "name": "Slowing down the progression of the disease"
+            },
+            {
+                "name": "Managing depression and anxiety"
+            },
+            {
+                "name": "Improving speech and swallowing difficulties"
+            },
+            {
+                "name": "Enhancing quality of sleep"
+            },
+            {
+                "name": "Managing weight loss and nutritional issues"
+            },
+            {
+                "name": "Improving mobility and physical function"
+            },
+            {
+                "name": "Reducing irritability and aggressive behavior"
+            },
+            {
+                "name": "Managing other psychiatric symptoms like hallucinations and delusions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:29073",
+        "name": "Multiple myeloma",
+        "items": [
+            {
+                "name": "Pain management"
+            },
+            {
+                "name": "Fatigue reduction"
+            },
+            {
+                "name": "Improvement in bone health"
+            },
+            {
+                "name": "Reduction in kidney complications"
+            },
+            {
+                "name": "Enhancement of immune system function"
+            },
+            {
+                "name": "Management of anemia"
+            },
+            {
+                "name": "Reduction in frequency of infections"
+            },
+            {
+                "name": "Improvement in mental health"
+            },
+            {
+                "name": "Improvement in quality of life"
+            },
+            {
+                "name": "Reduction in side effects of chemotherapy"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:660",
+        "name": "Omphalocele",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:1866",
+        "name": "Focal, segmental or multifocal dystonia",
+        "items": [
+            {
+                "name": "Reducing muscle spasms and involuntary movements"
+            },
+            {
+                "name": "Improving speech difficulties"
+            },
+            {
+                "name": "Alleviating pain associated with muscle contractions"
+            },
+            {
+                "name": "Enhancing mobility and motor function"
+            },
+            {
+                "name": "Improving sleep quality disrupted by muscle spasms"
+            },
+            {
+                "name": "Reducing anxiety and depression associated with the condition"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the frequency of muscle contractions"
+            },
+            {
+                "name": "Improving ability to perform daily activities"
+            },
+            {
+                "name": "Reducing the need for assistive devices or caregiver assistance"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2032",
+        "name": "Idiopathic pulmonary fibrosis",
+        "items": [
+            {
+                "name": "Improvement in breathlessness"
+            },
+            {
+                "name": "Reduction in chronic cough"
+            },
+            {
+                "name": "Enhancement in exercise tolerance"
+            },
+            {
+                "name": "Improvement in overall lung function"
+            },
+            {
+                "name": "Reduction in fatigue and weakness"
+            },
+            {
+                "name": "Improvement in sleep quality"
+            },
+            {
+                "name": "Reduction in anxiety and depression related to disease"
+            },
+            {
+                "name": "Improvement in quality of life"
+            },
+            {
+                "name": "Reduction in frequency of acute exacerbations"
+            },
+            {
+                "name": "Slowing the progression of the disease"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:2467",
+        "name": "Systemic mastocytosis",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of anaphylactic reactions"
+            },
+            {
+                "name": "Managing chronic pain associated with mastocytosis"
+            },
+            {
+                "name": "Improving gastrointestinal symptoms such as diarrhea and abdominal pain"
+            },
+            {
+                "name": "Controlling skin symptoms like itching and flushing"
+            },
+            {
+                "name": "Reducing fatigue and improving energy levels"
+            },
+            {
+                "name": "Improving cognitive function and reducing brain fog"
+            },
+            {
+                "name": "Managing anxiety and depression associated with the disease"
+            },
+            {
+                "name": "Improving bone health and reducing risk of fractures"
+            },
+            {
+                "name": "Reducing the risk of organ damage due to mast cell infiltration"
+            },
+            {
+                "name": "Improving overall quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:98878",
+        "name": "Hemophilia A",
+        "items": [
+            {
+                "name": "Reducing frequency of bleeding episodes"
+            },
+            {
+                "name": "Preventing joint damage"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing pain and discomfort"
+            },
+            {
+                "name": "Improving physical functioning"
+            },
+            {
+                "name": "Reducing the need for hospitalization"
+            },
+            {
+                "name": "Preventing long-term complications"
+            },
+            {
+                "name": "Improving psychosocial well-being"
+            },
+            {
+                "name": "Reducing the burden of treatment"
+            },
+            {
+                "name": "Improving life expectancy"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:98878",
+        "name": "Hemophilia A",
+        "items": [
+            {
+                "name": "Reducing frequency of bleeding episodes"
+            },
+            {
+                "name": "Minimizing joint damage and pain"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Preventing long-term complications"
+            },
+            {
+                "name": "Reducing the need for blood transfusions"
+            },
+            {
+                "name": "Improving physical functioning"
+            },
+            {
+                "name": "Reducing hospitalization rates"
+            },
+            {
+                "name": "Improving emotional well-being"
+            },
+            {
+                "name": "Reducing the risk of developing inhibitors"
+            },
+            {
+                "name": "Improving adherence to prophylactic treatment"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:586",
+        "name": "Cystic fibrosis",
+        "items": [
+            {
+                "name": "Reducing the frequency of lung infections"
+            },
+            {
+                "name": "Improving lung function"
+            },
+            {
+                "name": "Managing digestive problems"
+            },
+            {
+                "name": "Preventing and treating diabetes"
+            },
+            {
+                "name": "Improving nutritional status"
+            },
+            {
+                "name": "Reducing the impact of physical symptoms on daily life"
+            },
+            {
+                "name": "Improving mental health and coping strategies"
+            },
+            {
+                "name": "Reducing hospitalizations"
+            },
+            {
+                "name": "Improving life expectancy"
+            },
+            {
+                "name": "Enhancing quality of life"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:635",
+        "name": "Neuroblastoma",
+        "items": "Error in conversion: invalid syntax (<unknown>, line 1)"
+    },
+    {
+        "id": "ORPHA:513",
+        "name": "Acute lymphoblastic leukemia",
+        "items": [
+            {
+                "name": "Reducing the frequency and severity of infections"
+            },
+            {
+                "name": "Minimizing the side effects of chemotherapy"
+            },
+            {
+                "name": "Improving the patient’s energy levels and reducing fatigue"
+            },
+            {
+                "name": "Managing pain effectively"
+            },
+            {
+                "name": "Preventing or managing complications such as anemia"
+            },
+            {
+                "name": "Improving the patient’s appetite and managing weight loss"
+            },
+            {
+                "name": "Reducing the risk of relapse"
+            },
+            {
+                "name": "Improving the patient’s mental health and coping mechanisms"
+            },
+            {
+                "name": "Improving the patient’s quality of life"
+            },
+            {
+                "name": "Increasing the patient’s lifespan"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:3109",
+        "name": "Síndrome de Mayer-Rokitansky-KüsterHauser",
+        "items": [
+            {
+                "name": "Reducing physical discomfort associated with underdeveloped or absent uterus and vagina."
+            },
+            {
+                "name": "Improving sexual function and satisfaction."
+            },
+            {
+                "name": "Addressing psychological distress and mental health issues such as depression and anxiety."
+            },
+            {
+                "name": "Improving self-esteem and body image."
+            },
+            {
+                "name": "Facilitating successful pregnancy and childbirth."
+            },
+            {
+                "name": "Reducing the risk of associated renal anomalies."
+            },
+            {
+                "name": "Improving fertility outcomes."
+            },
+            {
+                "name": "Reducing the risk of osteoporosis due to low estrogen levels."
+            },
+            {
+                "name": "Addressing associated hearing loss."
+            },
+            {
+                "name": "Improving quality of life and social functioning."
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:904",
+        "name": "Williams syndrome",
+        "items": [
+            {
+                "name": "Reducing cardiovascular problems"
+            },
+            {
+                "name": "Improving cognitive abilities"
+            },
+            {
+                "name": "Managing anxiety and attention disorders"
+            },
+            {
+                "name": "Improving speech and language skills"
+            },
+            {
+                "name": "Reducing hypersensitivity to sounds"
+            },
+            {
+                "name": "Improving motor skills"
+            },
+            {
+                "name": "Managing high calcium levels"
+            },
+            {
+                "name": "Improving social interaction skills"
+            },
+            {
+                "name": "Reducing gastrointestinal problems"
+            },
+            {
+                "name": "Improving growth and development"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:700",
+        "name": "Total alopecia",
+        "items": [
+            {
+                "name": "Reducing hair loss"
+            },
+            {
+                "name": "Promoting hair growth"
+            },
+            {
+                "name": "Managing psychological distress"
+            },
+            {
+                "name": "Improving self-esteem"
+            },
+            {
+                "name": "Reducing itchiness or discomfort"
+            },
+            {
+                "name": "Preventing further hair loss"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Managing associated autoimmune conditions"
+            },
+            {
+                "name": "Reducing the risk of sunburn on the scalp"
+            },
+            {
+                "name": "Improving social interactions"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:90065",
+        "name": "Acquired aneurysmal aneurysmal subarachnoid hemorrhage",
+        "items": [
+            {
+                "name": "Reducing the risk of rupture of the aneurysm"
+            },
+            {
+                "name": "Minimizing the severity of headaches"
+            },
+            {
+                "name": "Improving cognitive function post-rupture"
+            },
+            {
+                "name": "Decreasing the risk of stroke"
+            },
+            {
+                "name": "Managing symptoms of hydrocephalus"
+            },
+            {
+                "name": "Reducing the risk of rebleeding"
+            },
+            {
+                "name": "Improving overall quality of life"
+            },
+            {
+                "name": "Decreasing the risk of vasospasm"
+            },
+            {
+                "name": "Reducing the need for surgical intervention"
+            },
+            {
+                "name": "Improving emotional well-being and reducing anxiety"
+            }
+        ]
+    },
+    {
+        "id": "ORPHA:33069",
+        "name": "Dravet syndrome",
+        "items": [
+            {
+                "name": "Reducing the frequency of seizures"
+            },
+            {
+                "name": "Improving cognitive development"
+            },
+            {
+                "name": "Managing behavioral issues"
+            },
+            {
+                "name": "Improving motor skills"
+            },
+            {
+                "name": "Reducing sleep disturbances"
+            },
+            {
+                "name": "Managing feeding difficulties"
+            },
+            {
+                "name": "Reducing the risk of sudden unexpected death in epilepsy (SUDEP)"
+            },
+            {
+                "name": "Improving quality of life"
+            },
+            {
+                "name": "Reducing the side effects of medication"
+            },
+            {
+                "name": "Improving communication skills"
+            }
+        ]
+    }
+]

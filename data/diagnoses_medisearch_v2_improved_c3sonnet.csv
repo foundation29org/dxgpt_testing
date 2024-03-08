@@ -1,0 +1,1765 @@
+GT,Diagnosis 1
+Down syndrome,"+1. Down syndrome: Consistent with the distinct physical features (flattened facial appearance, small ears, upward slanting eyes, white spots on iris), developmental delays (slower speech, lower IQ), growth delays (shorter height), and increased risk of sleep apnea, ear infections, and potential immune disorders.
+
++2. Other genetic syndromes or chromosomal abnormalities: May explain the physical features, developmental delays, and increased infection risk, but the specific combination of symptoms may not align perfectly.
+
++3. Congenital hypothyroidism: Could contribute to growth delays and developmental issues, but may not account for all the observed symptoms.
+
++4. Immune deficiency disorders: Could explain the increased susceptibility to infections, but may not fully explain the other symptoms.
+
++5. Metabolic disorders or storage diseases: Potentially could cause some of the symptoms, but the overall presentation may not be a perfect match."
+Neural tube defect,"+1. Spina bifida: Consistent with visible abnormalities on the back/spine, paralysis, incontinence, and other neurological symptoms. Key symptom not reported: skeletal deformities.
+
++2. Cauda equina syndrome: Consistent with leg weakness/paralysis, incontinence, sensory disturbances, and abnormalities of hips/knees/feet. Key symptom not reported: severe low back pain.
+
++3. Spinal cord injury: Consistent with paralysis, incontinence, and loss of sensation/anesthesia. Key symptom not reported: history of trauma or injury to the spine.
+
++4. Transverse myelitis: Consistent with paralysis, incontinence, and sensory disturbances. Key symptom not reported: acute or subacute onset of symptoms.
+
++5. Spinal tumor: Consistent with neurological symptoms and abnormalities. Key symptom not reported: back pain or radicular pain."
+Cleft lip/palate,"+1. Cleft lip and/or cleft palate: Consistent with the visible opening or split in the lip and roof of the mouth, feeding difficulties, speech issues, and recurrent ear infections. Key symptoms present.
+
++2. Craniofacial syndromes (e.g., Treacher Collins syndrome, Pierre Robin sequence): Consistent with facial malformations and feeding/speech difficulties, but the specific symptoms described are more indicative of an isolated cleft lip/palate.
+
++3. Neurological disorders affecting swallowing and speech: Consistent with feeding and speech issues, but the presence of physical malformations suggests a structural cause.
+
++4. Genetic disorders affecting craniofacial development: Some of these conditions can include cleft lip/palate as a feature, but the symptoms described are most consistent with an isolated cleft lip/palate.
+
++5. Congenital anomalies of the oral cavity and pharynx: This broad category includes cleft lip/palate and other malformations that could potentially explain the patient's symptoms."
+Tumor of endocrine glands,"+1. Pituitary adenoma: Headaches, vision loss, weight gain, menstrual irregularities, sexual dysfunction, high blood pressure, elevated blood sugar levels. Key symptom not reported: Galactorrhea (milk production).
+
++2. Cushing's syndrome: Weight gain, easy bruising, mood changes, high blood pressure, elevated blood sugar levels. Key symptom not reported: Central obesity, facial rounding, thin skin.
+
++3. Hypothyroidism: Weight gain, fatigue, muscle cramps, menstrual irregularities. Key symptom not reported: Cold intolerance, dry skin, constipation.
+
++4. Diabetes mellitus: High blood sugar levels, frequent urination, recurrent hypoglycemia episodes. Key symptom not reported: Polydipsia (excessive thirst), blurred vision.
+
++5. Hyperparathyroidism: Recurrent nephrolithiasis, muscle cramps, mood changes. Key symptom not reported: Bone pain, fractures, hypercalcemia."
+Cleft palate,"+1. Cleft palate: Consistent with difficulty feeding, hypernasal speech, and abnormal palatal anatomy. Key symptom not reported: potential nasal regurgitation of liquids.
+
++2. Submucous cleft palate: Consistent with hypernasal speech and feeding difficulties. Key symptom not reported: visually intact palate with a palpable defect.
+
++3. Velopharyngeal insufficiency: Consistent with hypernasal speech and potential feeding/swallowing issues. Key symptom not reported: nasal air emission during speech.
+
++4. Craniosynostosis syndromes (e.g., Apert syndrome, Crouzon syndrome): Consistent with feeding difficulties, speech problems, hearing loss, and potential palatal/craniofacial abnormalities.
+
++5. Neurological disorders (e.g., cerebral palsy, genetic disorders): Consistent with feeding difficulties and abnormal speech patterns. Key symptom not reported: associated motor or cognitive impairments."
+"Renal agenesis, unilateral","+1. Chronic kidney disease (CKD): Consistent with hypertension, proteinuria, hematuria, and poorly functioning kidney.
++2. Polycystic kidney disease (PKD): Consistent with hypertension, proteinuria, hematuria, and progressive kidney dysfunction.
++3. Congenital anomalies of the kidney and urinary tract (CAKUT): Consistent with potential congenital cardiac malformations, müllerian abnormalities, and vesicoureteral reflux.
++4. Glomerulonephritis: Consistent with hypertension, proteinuria, hematuria, and kidney dysfunction. Key symptoms like edema or specific urine findings may be missing.
++5. Renal artery stenosis: Consistent with hypertension and progressive kidney dysfunction. Other symptoms like flank pain or abdominal bruit may be missing."
+Pneumonia caused by Pseudomonas aeruginosa infection,"+1. Pneumonia: Consistent with fever, productive cough, shortness of breath, chest discomfort, increased respiratory rate, sweating, and chills. May also explain fatigue, headaches, and muscle aches.
+
++2. Influenza (flu): Consistent with fever, cough, body aches, headache, and fatigue. Shortness of breath and chest discomfort may indicate a more severe case or a complication.
+
++3. COVID-19: Consistent with respiratory symptoms, fever, and fatigue. Age-related differences in symptom presentation (confusion in elderly, irritability in younger patients) are also observed.
+
++4. Bronchitis: Consistent with productive cough and chest discomfort. However, the presence of fever and shortness of breath may suggest a more severe condition.
+
++5. Asthma exacerbation: Consistent with shortness of breath, cough, and wheezing. However, the presence of fever and other systemic symptoms makes this diagnosis less likely."
+"47,XYY syndrome","+1. Fragile X syndrome: Consistent with large head size, low muscle tone, autistic features, intellectual disability, and macroorchidism. May not fully explain the wide-set eyes or curved finger.
+
++2. Klinefelter syndrome (47,XXY): Consistent with tall stature, macroorchidism, and cognitive/behavioral issues. May not account for all physical features like wide-set eyes or curved finger.
+
++3. Down syndrome (trisomy 21): Consistent with intellectual disability, hypotonia, wide-set eyes, and clinodactyly. Does not typically cause macroorchidism or the specific combination of symptoms.
+
++4. Sotos syndrome: Consistent with macrocephaly, tall stature, and intellectual disability. May not explain the macroorchidism or the full range of physical and neurological symptoms.
+
++5. Marfan syndrome: Consistent with tall stature and some physical features like curved finger. Does not typically cause intellectual disability, macroorchidism, or the neurological symptoms described."
+Iniencephaly ,"+1. Iniencephaly: Consistent with the dramatic retroflexion of the head, vertebral fusions, enlarged foramen magnum, and potential for various other malformations. Key symptoms not reported: specific details of brain malformations.
+
++2. Klippel-Feil syndrome: Consistent with the irregular fusion of cervical vertebrae. Key symptoms not reported: webbed neck, low hairline, and restricted neck mobility.
+
++3. Encephalocele: Consistent with potential for various malformations. Key symptoms not reported: protrusion of brain tissue through a skull defect.
+
++4. Craniosynostosis: Consistent with potential for skull malformations. Key symptoms not reported: premature fusion of specific skull sutures and associated head shape abnormalities.
+
++5. Congenital muscular torticollis: Consistent with the tilted head position. Key symptoms not reported: palpable neck mass or tightness, and limited neck mobility."
+Rare cutaneous lupus erythematosus,"+1. Lupus erythematosus: Consistent with skin rashes, photosensitivity, discoid lesions, hair loss, and mouth ulcers. May also present with joint pain, fatigue, and fever (not reported).
+
++2. Psoriasis: Consistent with skin rashes and thick, scaly patches. Does not typically cause photosensitivity or mouth ulcers.
+
++3. Lichen planus: Consistent with coin-shaped rashes and mouth ulcers. Does not typically cause discoid lesions or hair loss.
+
++4. Dermatomyositis: Consistent with skin rashes and photosensitivity. Does not typically cause discoid lesions or hair loss. May also present with muscle weakness (not reported).
+
++5. Sarcoidosis: Consistent with skin lesions and mouth ulcers. Does not typically cause discoid lesions or hair loss."
+Congenital bilateral absence of vas deferens,"+1. Infertility: Difficulty conceiving despite frequent unprotected intercourse. No other key symptoms mentioned.
+
++2. Cystic fibrosis: Mild respiratory and digestive issues, which are consistent with cystic fibrosis. However, the patient generally feels fit and healthy, which is atypical for cystic fibrosis patients.
+
++3. Endometriosis: Difficulty conceiving and mild digestive issues are consistent with endometriosis. No respiratory symptoms reported, which are not typically associated with this condition.
+
++4. Polycystic ovary syndrome (PCOS): Difficulty conceiving and mild digestive issues could be related to PCOS. No specific symptoms mentioned that would point to this diagnosis.
+
++5. Male factor infertility: Difficulty conceiving could be due to an underlying condition in the male partner, such as varicocele, low sperm count, or poor sperm motility. No specific information provided about the male partner's health."
+Ovarian cancer,"+1. Ovarian cyst or tumor: Consistent with abdominal bloating, pelvic pain, and menstrual irregularities. May not explain fatigue or urinary frequency.
+
++2. Uterine fibroids: Consistent with abdominal bloating, pelvic pain, heavy bleeding, and increased urinary frequency. May not explain fatigue or discomfort during intercourse.
+
++3. Endometriosis: Consistent with pelvic pain, heavy periods, fatigue, and discomfort during intercourse. May not explain abdominal bloating or increased urinary frequency.
+
++4. Ovarian cancer: Consistent with abdominal bloating, pelvic pain, and fatigue. Typically presents with other symptoms like weight loss or abnormal vaginal bleeding, which the patient did not report.
+
++5. Irritable bowel syndrome (IBS): Consistent with abdominal bloating, pain, and feeling of fullness. Does not explain gynecological symptoms like menstrual changes or discomfort during intercourse."
+Primary Sjögren syndrome,"+1. Sjögren's syndrome: Consistent with dry mouth, dry eyes, fatigue, joint pain, and potential neurological involvement. May not exhibit all symptoms.
+
++2. Rheumatoid arthritis: Consistent with fatigue, muscular and joint pain. Does not typically cause dry mouth, dry eyes, or parotid gland enlargement.
+
++3. Sarcoidosis: Consistent with fatigue, muscular and joint pain, and potential neurological involvement. May or may not cause dry mouth, dry eyes, or parotid gland enlargement.
+
++4. Systemic lupus erythematosus (SLE): Consistent with fatigue, muscular and joint pain, and potential neurological involvement. Dry mouth, dry eyes, and parotid gland enlargement are less common.
+
++5. Lymphoma: Consistent with potential parotid gland enlargement and dry mouth/eyes. Other symptoms like fatigue, joint pain, and neurological involvement are less typical."
+B-cell chronic lymphocytic leukemia,"+1. Lymphoma: Consistent with fatigue, weight loss, swollen lymph nodes, and potential splenomegaly. Key symptom not reported: Night sweats.
+
++2. Leukemia: Consistent with fatigue, weight loss, swollen lymph nodes, and potential splenomegaly. Key symptom not reported: Frequent infections or bleeding.
+
++3. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Consistent with fatigue, weight loss, swollen lymph nodes, and potential splenomegaly. Key symptoms not reported: Joint pain, rashes, dry eyes/mouth.
+
++4. Infectious disease (e.g., HIV, tuberculosis, mononucleosis): Consistent with fatigue, weight loss, swollen lymph nodes, and potential splenomegaly. Additional information needed on travel history, exposures, and specific symptoms.
+
++5. Cancer (e.g., lung, breast, colon): Consistent with fatigue, weight loss, and swollen lymph nodes (if cancer has spread). Additional information needed on primary site and specific symptoms."
+Congenital hydrocephalus,"+1. Hydrocephalus: Consistent with large head size, bulging soft spot, downward eye deviation, irritability, vomiting, and developmental delays. Key symptom not reported: Headaches (in older children).
+
++2. Brain tumor: Consistent with large head size, vomiting, irritability, and developmental delays. Key symptoms not reported: Headaches, vision problems, or focal neurological deficits.
+
++3. Craniosynostosis: Consistent with abnormal head shape and size. Key symptoms not reported: Ridging along skull sutures, facial deformities.
+
++4. Amino acid disorders (metabolic disorder): Consistent with developmental delays, seizures, and irritability. Key symptoms not reported: Specific metabolic abnormalities on laboratory tests.
+
++5. Congenital infections (e.g., cytomegalovirus, toxoplasmosis): Consistent with developmental delays and seizures. Key symptoms not reported: Rash, hearing loss, or other congenital abnormalities."
+Necrotizing enterocolitis,"+1. Respiratory failure: Consistent with changes in respiratory status, decreased oxygenation, and elevated PCO2. Key symptoms not reported: specific respiratory distress signs (e.g., use of accessory muscles, nasal flaring).
+
++2. Bowel obstruction: Consistent with abdominal distension, increased gastric residual, and increased abdominal signs. Key symptoms not reported: vomiting, constipation, or absence of bowel movements.
+
++3. Sepsis: Consistent with respiratory distress, abdominal signs, and altered vital signs (heart rate and breathing patterns). Key symptoms not reported: fever, chills, or known source of infection.
+
++4. Congestive heart failure: Consistent with respiratory symptoms and abdominal distension. Key symptoms not reported: peripheral edema, jugular venous distension, or specific cardiac history.
+
++5. Metabolic disorder (e.g., diabetic ketoacidosis, liver failure): Consistent with respiratory and gastrointestinal symptoms. Key symptoms not reported: polyuria, polydipsia, or specific metabolic history."
+Preeclampsia,"+1. Preeclampsia: Hypertension, proteinuria, edema, headaches, vision changes. (If not pregnant, this diagnosis is less likely.)
++2. Chronic kidney disease: Hypertension, proteinuria, edema, nausea, low blood protein levels.
++3. Liver disease: Hypertension, abdominal discomfort, edema, low blood protein levels. (Proteinuria is not a typical symptom.)
++4. Nephrotic syndrome: Proteinuria, edema, low blood protein levels. (Hypertension is not always present.)
++5. Congestive heart failure: Shortness of breath, edema, abdominal discomfort. (Hypertension and proteinuria are not typical symptoms.)"
+Asherman syndrome,"+1. Endometriosis: Cyclic pelvic pain, difficulty conceiving, and history of spontaneous abortions are consistent with this condition.
+
++2. Polycystic Ovary Syndrome (PCOS): Amenorrhea, hypomenorrhea, and difficulty conceiving are common symptoms of PCOS.
+
++3. Uterine fibroids: Cyclic pelvic pain and history of spontaneous abortions could be caused by uterine fibroids.
+
++4. Premature ovarian failure: Amenorrhea and difficulty conceiving are key symptoms of this condition.
+
++5. Pelvic inflammatory disease (PID): Cyclic pelvic pain, irregular bleeding, and history of spontaneous abortions can be seen in PID."
+Renal dysplasia,"+1. Nephronophthisis: Consistent with abnormal kidney development (large, bright kidneys with cystic spaces) and early onset of symptoms. Key symptom not reported: progressive kidney failure.
+
++2. Failure to thrive: Consistent with decreased appetite and unusual thinness despite adequate food intake from an early age. Key symptom not reported: poor growth and development.
+
++3. Metabolic disorder: Consistent with decreased appetite, unusual thinness, and abnormal kidney development. Key symptoms may vary depending on the specific metabolic disorder.
+
++4. Chronic kidney disease: Consistent with abnormal kidney development (cystic spaces). Key symptoms not reported: hypertension, edema, fatigue.
+
++5. Polycystic kidney disease: Consistent with cystic spaces seen in the kidneys on ultrasound. Key symptoms not reported: flank pain, hematuria, hypertension."
+Diffuse large B-cell lymphoma,"+1. Lymphoma: Consistent with rapidly growing mass, systemic symptoms (weight loss, fevers, night sweats), chin numbness (potential jawbone involvement), and elevated lactate dehydrogenase levels. Key symptom not reported: Lymphadenopathy (swollen lymph nodes).
+
++2. Metastatic cancer: Consistent with rapidly growing mass, systemic symptoms (weight loss), and elevated lactate dehydrogenase levels. Key symptom not reported: Primary cancer site.
+
++3. Sarcoma: Consistent with rapidly growing mass, systemic symptoms (weight loss), and elevated lactate dehydrogenase levels. Key symptoms not reported: Specific location of the mass (soft tissue or bone involvement).
+
++4. Bacterial or fungal abscess: Consistent with rapidly growing mass. Key symptoms not reported: Localized pain, redness, warmth, or drainage from the mass.
+
++5. Sarcoidosis or vasculitis: Consistent with systemic symptoms (weight loss, fevers, night sweats). Key symptoms not reported: Specific organ involvement or autoimmune manifestations."
+Trisomy X,"+1. Marfan syndrome: Consistent with tall stature, long limbs, and potential heart problems. Does not typically involve developmental delays or small head size.
+
++2. Fragile X syndrome: Matches symptoms of intellectual disability, speech/language delays, anxiety, and autism-like behaviors. Physical abnormalities are not commonly seen.
+
++3. Neurofibromatosis type 1 (NF1): Aligns with learning disabilities, developmental delays, and potential seizures. Physical abnormalities and behavioral issues are less common.
+
++4. Sotos syndrome: Characterized by excessive growth, developmental delays, and learning disabilities. The smaller head size does not fit the typical presentation.
+
++5. Noonan syndrome: Can involve developmental delays, learning disabilities, and heart defects. The tall stature and small head size make this less likely."
+Scleroderma,"+1. Systemic sclerosis (scleroderma): Consistent with Raynaud's phenomenon, skin thickening and hardening, contractures, potential organ involvement, and change in fingerpad contour. May not exhibit all reported symptoms.
+
++2. Mixed connective tissue disease: Consistent with Raynaud's phenomenon, skin changes, and potential organ involvement. May not exhibit all reported symptoms.
+
++3. Undifferentiated connective tissue disease: Consistent with a combination of symptoms that do not fully meet criteria for a specific connective tissue disorder.
+
++4. Raynaud's disease: Consistent with sensitivity to cold and puffiness in extremities, but does not account for other reported symptoms.
+
++5. Peripheral artery disease: Consistent with sensitivity to cold and puffiness in extremities, but less likely to cause other reported skin changes and organ involvement."
+Non-immune hydrops fetalis,"+1. Non-immune hydrops fetalis: Consistent with excess amniotic fluid, enlarged fetal organs, fluid accumulation around fetal heart and lungs, and severe swelling.
+
++2. Congenital infection (e.g., CMV, toxoplasmosis, parvovirus B19): Can cause fetal abnormalities, hydrops, and enlarged organs. Additional testing for specific infections may be needed.
+
++3. Chromosomal abnormality or genetic disorder: Trisomies or other genetic conditions could lead to fetal hydrops, organ enlargement, and structural abnormalities.
+
++4. Congenital heart defect: Severe heart defects can cause fetal hydrops and fluid accumulation around the heart and lungs.
+
++5. Twin-twin transfusion syndrome (in case of multiple pregnancy): Unequal blood flow between twins can lead to hydrops in the recipient twin and polyhydramnios."
+Renal cell carcinoma,"+1. Kidney cancer: Consistent with blood in urine, abdominal lump, weight loss, and fatigue. May not present with diminished appetite.
+
++2. Bladder cancer: Consistent with blood in urine and weight loss. Abdominal lump and diminished appetite are less common symptoms.
+
++3. Urinary tract infection (UTI): Consistent with blood in urine. Abdominal lump, weight loss, diminished appetite, and fatigue are not typical symptoms.
+
++4. Renal colic (kidney stones): Consistent with blood in urine and potential abdominal pain (lump). Weight loss, diminished appetite, and fatigue are not common symptoms.
+
++5. Gastrointestinal cancers (e.g., colon, stomach): Consistent with weight loss, diminished appetite, and fatigue. Blood in urine and abdominal lump are less common presentations."
+Genetic peripheral neuropathy,"+1. Hereditary sensory and autonomic neuropathy (HSAN): Consistent with sensory disturbances, autonomic dysfunction, potential early onset. May not explain skeletal deformities.
+
++2. Charcot-Marie-Tooth disease (CMT): Consistent with progressive sensory changes, muscle weakness/atrophy, skeletal deformities. May not explain autonomic symptoms.
+
++3. Friedreich's ataxia: Consistent with balance issues, sensory changes, skeletal abnormalities like scoliosis. May not explain autonomic dysfunction.
+
++4. Diabetic neuropathy: Consistent with sensory and autonomic symptoms. Less likely given potential early onset.
+
++5. Amyloidosis: Consistent with autonomic and sensory symptoms. Skeletal deformities less common."
+Cardiogenic shock,"+1. Shock: Rapid weak pulse, low blood pressure, cool moist skin, decreased urine output, chest discomfort. Key missing symptom: fever.
+
++2. Diabetic ketoacidosis: Low blood sugar, increased thirst, dry mouth. Key missing symptoms: abdominal pain, nausea/vomiting, fruity breath odor.
+
++3. Myocardial infarction (heart attack): Chest discomfort, irregular heartbeat, low blood pressure. Key missing symptoms: radiation of pain, nausea/vomiting, diaphoresis.
+
++4. Severe dehydration: Increased thirst, dry mouth, low urine output, lightheadedness. Key missing symptoms: significant weight loss, orthostatic hypotension.
+
++5. Poisoning or drug overdose: Neurological symptoms (confusion, anxiety, dilated pupils), cardiovascular symptoms (irregular heartbeat, low blood pressure), metabolic symptoms (low blood sugar). Key missing information: exposure history, specific toxidrome."
+Acute sensorineural hearing loss by acute acoustic trauma or sudden deafness or surgery induced acoustic trauma,"+1. Noise-induced hearing loss: Consistent with gradual or sudden decrease in hearing ability, muffled sounds, and difficulty hearing speech, especially if the patient has a history of exposure to loud noises.
+
++2. Age-related hearing loss (presbycusis): Consistent with gradual decrease in hearing ability, but patient's age is unknown.
+
++3. Cerumen impaction (ear wax buildup): Consistent with muffled sounds and difficulty hearing, but symptoms suggest a more significant hearing impairment.
+
++4. Otosclerosis: Consistent with gradual hearing loss, but patient's symptoms are not specific enough to strongly suggest this diagnosis.
+
++5. Acoustic neuroma (vestibular schwannoma): Consistent with gradual or sudden hearing loss, but the lack of other symptoms (e.g., tinnitus, vertigo) makes this diagnosis less likely."
+AL amyloidosis,"+1. Lysosomal storage disorder: Muscle weakness, enlarged tongue (macroglossia), periorbital purpura, potential kidney and heart involvement. Key symptom not reported: Organomegaly (enlarged organs).
+
++2. Amyloidosis: Periorbital purpura, macroglossia, potential kidney and heart involvement. Key symptom not reported: Neuropathy or autonomic dysfunction.
+
++3. Metabolic disorder (e.g., Gaucher disease, Niemann-Pick disease): Mixed hyperlipoproteinemia, potential organ involvement. Key symptom not reported: Hepatosplenomegaly (enlarged liver and spleen).
+
++4. Inflammatory myopathy (e.g., polymyositis, dermatomyositis): Muscle weakness, muscle lesions, potential carpal tunnel syndrome. Key symptom not reported: Skin rash or calcinosis.
+
++5. Myopathy (e.g., muscular dystrophy, metabolic myopathy): Muscle weakness, muscle lesions, potential carpal tunnel syndrome. Key symptom not reported: Specific pattern of muscle involvement or family history."
+Hepatitis delta,"+1. Viral hepatitis: Consistent with fatigue, fever, nausea, jaundice, and changes in urine/stool color. May not exhibit joint pain.
+
++2. Autoimmune hepatitis: Consistent with fatigue, nausea, jaundice, and abdominal discomfort. May not exhibit fever or joint pain.
+
++3. Gallbladder disease: Consistent with abdominal discomfort, nausea, and jaundice. May not exhibit fatigue, fever, or joint pain.
+
++4. Pancreatic disease: Consistent with abdominal discomfort, nausea, and jaundice. May not exhibit fatigue, fever, or joint pain.
+
++5. Liver cancer or metastatic cancer: Consistent with fatigue, jaundice, and abdominal discomfort. May not exhibit fever, nausea, or joint pain. Typically presents with more advanced symptoms."
+Fetal cytomegalovirus syndrome,"+1. Congenital infection (e.g., toxoplasmosis, rubella, CMV, HSV): Consistent with low birth weight, jaundice, hepatosplenomegaly, rash, petechiae, microcephaly, and chorioretinitis.
+
++2. Metabolic disorder (e.g., galactosemia, tyrosinemia): Consistent with jaundice, hepatosplenomegaly, and petechiae. May not explain microcephaly or chorioretinitis.
+
++3. Hematological disorder (e.g., thalassemia, sickle cell disease): Consistent with jaundice, hepatosplenomegaly, and petechiae. Microcephaly and chorioretinitis are less common.
+
++4. Congenital malformation or syndrome (e.g., trisomy 21, fetal alcohol syndrome): Consistent with microcephaly and other birth defects. May not explain the specific combination of symptoms.
+
++5. Neonatal hepatitis (viral or autoimmune): Consistent with jaundice, hepatosplenomegaly, and petechiae. Microcephaly and chorioretinitis are less likely."
+Romano-Ward syndrome,"+1. Long QT syndrome (LQTS): Consistent with episodes of fainting/syncope during exercise or stress, prolonged QT interval on EKG. May not exhibit slower heart rates in older patients.
+
++2. Ventricular arrhythmia: Consistent with episodes of fainting/syncope, which could be due to ventricular tachycardia or other arrhythmias. Prolonged QT interval increases risk.
+
++3. Bradyarrhythmia: Consistent with slower heart rates (in newborns/young children) and episodes of fainting/syncope. May not exhibit prolonged QT interval.
+
++4. Vasovagal syncope: Consistent with episodes of fainting/syncope during exercise or stress. However, the prolonged QT interval suggests an underlying cardiac condition.
+
++5. Seizure disorder: While not mentioned as a symptom, seizures could potentially cause episodes of fainting/syncope. However, the cardiac symptoms make this less likely."
+Autosomal dominant polycystic kidney disease,"+1. Kidney stones: Consistent with abdominal/back pain, hematuria, and increased urinary frequency. May not fully explain elevated blood pressure.
+
++2. Urinary tract infection (UTI): Consistent with hematuria, increased urinary frequency, and abdominal/back discomfort. Less likely to cause persistent elevated blood pressure.
+
++3. Glomerulonephritis (kidney disease): Consistent with hematuria, increased urinary frequency, and elevated blood pressure. No reported history of kidney diseases.
+
++4. Bladder cancer: Consistent with hematuria and increased urinary frequency. Abdominal/back pain and elevated blood pressure are less common symptoms.
+
++5. Prostate issues (in males): Consistent with hematuria and increased urinary frequency. Less likely to cause abdominal/back pain or elevated blood pressure."
+Congenital pulmonary valvar stenosis,"+1. Heart failure: Consistent with fatigue, shortness of breath, and heart murmur. Additional symptoms like swelling in the legs or abdomen may also be present.
+
++2. Valvular heart disease: Consistent with the heart murmur. Symptoms may vary depending on the specific valve affected and the severity of the condition.
+
++3. Anemia: Consistent with fatigue and shortness of breath. Lack of symptoms like pale skin or easy bruising.
+
++4. Lung disease (e.g., asthma, COPD): Consistent with shortness of breath during activity. Lack of symptoms like chronic cough or wheezing.
+
++5. Deconditioning: Consistent with fatigue and shortness of breath during physical exertion. Lack of other symptoms suggesting an underlying medical condition."
+Uveitis,"+1. Uveitis: Consistent with anterior chamber inflammation, vitreitis, vasculitis, cystoid macular edema, and other ocular findings. Key symptoms not reported: eye pain, photophobia, and vision loss.
+
++2. Sarcoidosis: Consistent with vitreitis, vasculitis, optic neuritis, ""snowballs,"" and ""snowbanking."" Key symptoms not reported: systemic manifestations (e.g., pulmonary, skin, or joint involvement).
+
++3. Intraocular lymphoma: Consistent with vitreitis and ""snowballs."" Key symptoms not reported: vision loss, eye pain, and systemic symptoms of lymphoma.
+
++4. Autoimmune disorder (e.g., Behcet's disease, systemic lupus erythematosus): Consistent with uveitis, vasculitis, and retinal inflammation. Key symptoms not reported: systemic manifestations specific to the autoimmune condition.
+
++5. Infectious etiology (e.g., tuberculosis, viral retinitis): Consistent with vitreitis, vasculitis, and retinal inflammation. Key symptoms not reported: systemic symptoms or risk factors for specific infectious diseases."
+Congenital hypothyroidism,"+1. Congenital hypothyroidism: Consistent with prolonged gestation, large size, lethargy, poor feeding, constipation, and jaundice. Key symptoms not reported: goiter, hoarse cry.
+
++2. Trisomy 21 (Down syndrome): Consistent with large posterior fontanel, hypotonia, poor feeding, and constipation. Key symptoms not reported: characteristic facial features, intellectual disability.
+
++3. Inborn errors of metabolism: Consistent with lethargy, poor feeding, vomiting, and distended abdomen. Key symptoms not reported: specific metabolic abnormalities, developmental delays.
+
++4. Congenital diaphragmatic hernia: Consistent with respiratory distress, cyanosis, and distended abdomen. Key symptoms not reported: bowel sounds in the chest, scaphoid abdomen.
+
++5. Congenital adrenal hyperplasia: Consistent with prolonged gestation, large size, vomiting, and ambiguous genitalia (if present). Key symptoms not reported: virilization in females, salt-wasting crisis."
+Moderate and severe traumatic brain injury,"+1. Traumatic Brain Injury (TBI): Consistent with loss of consciousness, disorientation, functional impairment, headaches, dizziness, nausea, changes in coordination, balance, vision, hearing, fatigue, anxiety, depression, irritability, and problems with memory, concentration, and decision-making.
+
++2. Stroke: Consistent with sudden onset of neurological symptoms like loss of consciousness, disorientation, functional impairment, headaches, dizziness, nausea, changes in coordination, balance, vision, and hearing. May not explain cognitive and behavioral symptoms as prominently.
+
++3. Brain Tumor or Other Neurological Condition: Consistent with the wide range of physical, cognitive, and behavioral symptoms. Additional tests like imaging would be needed to identify the specific condition.
+
++4. Mental Health Condition (e.g., Depression, Anxiety Disorder, PTSD): Consistent with cognitive and behavioral symptoms like fatigue, anxiety, depression, irritability, and problems with memory, concentration, and decision-making. Physical symptoms may not be as prominent.
+
++5. Side Effects of Medication or Substance Use: Consistent with the range of physical, cognitive, and behavioral symptoms, depending on the specific medication or substance involved. A thorough review of medical history and current medications/substances would be necessary."
+22q11.2 deletion syndrome,"+1. Tuberous sclerosis complex (TSC): Consistent with developmental delays, seizures, neuroanatomical abnormalities, gastrointestinal issues, and cognitive/behavioral symptoms. Key symptoms not reported: skin lesions (hypomelanotic macules, angiofibromas, shagreen patches).
+
++2. Lissencephaly or other neuronal migration disorders: Consistent with developmental delays, seizures, neuroanatomical abnormalities (polymicrogyria, cortical dysplasia), and cognitive/behavioral symptoms.
+
++3. Mitochondrial disorders: Consistent with developmental delays, seizures, neuroanatomical abnormalities, gastrointestinal issues, and cognitive/behavioral symptoms. Key symptoms not reported: muscle weakness, vision or hearing problems, lactic acidosis.
+
++4. Leukodystrophies: Consistent with developmental delays, seizures, neuroanatomical abnormalities, and cognitive/behavioral symptoms. Key symptoms not reported: progressive deterioration, vision or hearing problems, muscle weakness or spasticity.
+
++5. Metabolic disorders (e.g., amino acid disorders, organic acidemias): Consistent with developmental delays, seizures, neuroanatomical abnormalities, gastrointestinal issues, and cognitive/behavioral symptoms. Key symptoms not reported: specific metabolic abnormalities or laboratory findings."
+Primary congenital hypothyroidism,"+1. Hypothyroidism: Consistent with low body temperature, hoarse cry, constipation, and other symptoms. Key symptom not reported: goiter or thyroid enlargement.
+
++2. Cystic fibrosis: Consistent with poor feeding, gastrointestinal issues, and respiratory symptoms (hoarse cry). Key symptoms not reported: chronic cough, wheezing, or recurrent respiratory infections.
+
++3. Mucopolysaccharidosis (MPS) or lysosomal storage disorder: Consistent with macroglossia, short stature, abdominal distension, and other physical characteristics. Key symptoms not reported: skeletal abnormalities, corneal clouding, or neurological issues.
+
++4. Congenital hepatic fibrosis or biliary atresia: Consistent with jaundice and gastrointestinal symptoms. Key symptoms not reported: dark urine, pale stools, or signs of liver failure.
+
++5. Prader-Willi syndrome: Consistent with poor feeding, short stature, hypotonia (decreased activity), and other symptoms. Key symptoms not reported: characteristic facial features or behavioral issues."
+Follicular lymphoma,"+1. Lymphoma: Consistent with fatigue, night sweats, weight loss, fever, and itchiness. May not have other symptoms like enlarged lymph nodes or bone pain.
+
++2. Tuberculosis: Consistent with fatigue, night sweats, weight loss, and fever. Patient did not report cough, which is a common symptom.
+
++3. HIV/AIDS: Consistent with fatigue, night sweats, weight loss, fever, and itchiness. Patient did not report other common symptoms like sore throat or rash.
+
++4. Hyperthyroidism: Consistent with fatigue, weight loss, and excessive sweating. Patient did not report other symptoms like palpitations or heat intolerance.
+
++5. Lupus: Consistent with fatigue, fever, and itchiness. Patient did not report joint pain or rash, which are common symptoms."
+Hemorrhagic fever-renal syndrome,"+1. Viral hemorrhagic fever (VHF): Consistent with fever, hemorrhagic complications, multi-organ failure. Key symptom not reported: known exposure risk.
+
++2. Severe malaria: Consistent with fever, kidney failure, bleeding issues. Key symptom not reported: travel to endemic areas.
+
++3. Sepsis: Consistent with fever, multi-organ dysfunction, coagulation abnormalities. No clear source of infection identified.
+
++4. Thrombotic thrombocytopenic purpura (TTP): Consistent with kidney injury, increased vascular permeability, coagulation issues. Key symptom not reported: microangiopathic hemolytic anemia.
+
++5. Autoimmune disorder (e.g., lupus): Consistent with multi-organ involvement, fever, coagulation issues. Symptoms seem more acute than typical lupus presentation."
+Non-papillary transitional cell carcinoma of the bladder,"+1. Bladder cancer: Consistent with the symptom of macroscopic hematuria. No other key symptoms were mentioned.
+
++2. Urinary tract infection (UTI): Consistent with the symptom of macroscopic hematuria. However, the patient did not report other typical UTI symptoms like dysuria or urinary frequency/urgency.
+
++3. Kidney stones: Consistent with the symptom of macroscopic hematuria. However, the patient did not report flank pain or other symptoms suggestive of kidney stones.
+
++4. Benign prostatic hyperplasia (BPH) in men: Consistent with the symptom of macroscopic hematuria. However, this condition is more common in older men and typically presents with other urinary symptoms like hesitancy, weak stream, or incomplete emptying.
+
++5. Trauma or injury: Consistent with the symptom of macroscopic hematuria. However, the patient did not report any recent trauma or injury."
+High-grade dysplasia in patients with Barrett esophagus,"+1. Peptic ulcer disease: Consistent with heartburn, chest pain, difficulty swallowing, vomiting blood/coffee-ground material, and passing black/tarry/bloody stools.
+
++2. Esophageal or gastric cancer: Consistent with difficulty swallowing, vomiting blood, and gastrointestinal bleeding. The presence of abnormal cells that could become cancerous is a key finding.
+
++3. Esophageal varices: Consistent with vomiting blood and passing bloody stools. Often associated with liver disease or portal hypertension.
+
++4. Mallory-Weiss tear: Consistent with vomiting blood or coffee-ground material. Caused by severe vomiting or retching.
+
++5. Gastroesophageal reflux disease (GERD): Consistent with frequent heartburn and chest pain. However, the bleeding symptoms are not typical of GERD alone."
+Aorta coarctation,"+1. Aortic coarctation: Consistent with chest discomfort, fatigue, breathing difficulties, cardiac murmur, blood pressure gradient between arms and legs, decreased lower-extremity pulses, and hypertension in upper extremities.
+
++2. Aortic stenosis: Consistent with chest discomfort, fatigue, breathing difficulties, and cardiac murmur. May not fully explain blood pressure gradient and decreased lower extremity pulses.
+
++3. Hypertrophic cardiomyopathy: Consistent with chest discomfort, fatigue, breathing difficulties, and cardiac murmur. May not explain blood pressure gradient and decreased lower extremity pulses.
+
++4. Pulmonary hypertension: Consistent with breathing difficulties, fatigue, and cardiac murmur. May not explain chest discomfort, blood pressure gradient, and decreased lower extremity pulses.
+
++5. Congenital heart disease with shunt: Potentially consistent with the combination of symptoms, but more specific details would be needed to identify the exact type of defect."
+Uremic pruritus,"+1. Atopic dermatitis (eczema): Consistent with daily or near-daily itching, symmetric distribution of affected areas, and varying severity of pruritus. Key symptoms not reported: dry, inflamed skin, and potential triggers (e.g., allergens, irritants).
+
++2. Chronic idiopathic urticaria: Consistent with daily or near-daily itching, varying severity of pruritus, and lack of a clear pathogenic mechanism. Key symptoms not reported: recurrent episodes of wheals or hives.
+
++3. Prurigo: Consistent with daily or near-daily itching, varying severity of pruritus, and lack of a clear pathogenic mechanism. Key symptoms not reported: formation of itchy, raised bumps or nodules.
+
++4. Urticaria (hives): Consistent with daily or near-daily itching and varying severity of pruritus. Key symptoms not reported: raised welts or wheals, and potential triggers (e.g., allergens, medications).
+
++5. Psoriasis: Consistent with daily or near-daily itching. Key symptoms not reported: red, scaly patches, and potential triggers (e.g., stress, injury, medications)."
+Radiation proctitis,"+1. Inflammatory bowel disease (IBD) like Crohn's disease or ulcerative colitis: Consistent with rectal bleeding, diarrhea, mucous discharge, rectal pain, and weight loss. May not explain nausea and vomiting.
+
++2. Colorectal cancer: Consistent with rectal bleeding, changes in bowel habits, and weight loss. Typically presents with constipation rather than diarrhea in early stages.
+
++3. Intestinal infection or food poisoning: Consistent with diarrhea, nausea, vomiting, and stomach cramping. Less likely to cause rectal bleeding, mucous discharge, or rectal pain.
+
++4. Diverticular disease: Consistent with rectal bleeding, changes in bowel habits, and abdominal cramping. Less likely to cause mucous discharge or significant weight loss.
+
++5. Irritable bowel syndrome (IBS): Consistent with changes in bowel habits, abdominal cramping, and mucous discharge. Atypical for rectal bleeding and weight loss."
+Osteochondritis dissecans,"+1. Meniscus tear: Consistent with joint pain, swelling, locking/catching sensations, and worsening with high-impact activities. Key symptom not reported: Clicking or popping sound in the joint.
+
++2. Osteoarthritis: Consistent with progressive joint pain, swelling, and decreased range of motion. Key symptom not reported: Morning stiffness or joint deformity.
+
++3. Loose body in the joint: Consistent with locking/catching sensations, swelling, and pain with movement. Key symptom not reported: Specific traumatic event or injury.
+
++4. Ligament injury: Consistent with joint pain, instability sensations, and worsening with high-impact activities. Key symptom not reported: Specific traumatic event or injury.
+
++5. Rheumatoid arthritis: Consistent with joint pain, swelling, and tenderness. Key symptoms not reported: Morning stiffness, fatigue, or systemic symptoms."
+Isolated anencephaly/exencephaly,"+1. Neural tube defects: Consistent with developmental delays, abnormalities in physical growth, and unusual prenatal findings. Key symptoms may include spinal cord abnormalities, paralysis, or hydrocephalus.
+
++2. Chromosomal abnormalities: Consistent with developmental delays, abnormalities in physical growth, and unusual prenatal findings. Key symptoms may include characteristic facial features, intellectual disability, and congenital malformations.
+
++3. Congenital brain malformations: Consistent with developmental delays, abnormalities in physical growth, and unusual prenatal findings. Key symptoms may include seizures, motor deficits, and cognitive impairments.
+
++4. Genetic syndromes: Consistent with developmental delays, abnormalities in physical growth, and unusual prenatal findings. Key symptoms may include specific physical features, behavioral characteristics, and associated medical conditions.
+
++5. Metabolic disorders: Consistent with developmental delays and abnormalities in physical growth. Key symptoms may include seizures, lethargy, and specific metabolic markers in laboratory tests."
+Eosinophilic esophagitis,"+1. Gastroesophageal Reflux Disease (GERD): Consistent with persistent heartburn, vomiting, and feeding difficulties. May not fully explain difficulty swallowing and food impaction.
+
++2. Esophageal stricture or narrowing: Consistent with difficulty swallowing, food getting stuck in the throat, and feeding problems. May not explain persistent heartburn.
+
++3. Eosinophilic esophagitis: Consistent with difficulty swallowing, food impaction, vomiting, abdominal pain, and feeding problems across age groups.
+
++4. Achalasia: Consistent with difficulty swallowing, regurgitation, and chest pain, particularly in adults. May not explain feeding problems in infants/children.
+
++5. Esophageal motility disorders: Consistent with difficulty swallowing, heartburn, and vomiting across age groups. Specific disorder would need further evaluation."
+Tetralogy of Fallot,"+1. Tetralogy of Fallot: Consistent with the overriding aorta, right ventricular hypertrophy, right ventricular outflow tract obstruction, ventricular septal defect, and cyanosis. The large aortic root is also a common finding.
+
++2. Transposition of the great arteries: Consistent with the large aortic root and small pulmonary artery. However, the right ventricular hypertrophy and right ventricular outflow tract obstruction are less typical.
+
++3. Truncus arteriosus: Consistent with the overriding aorta and ventricular septal defect. However, the right ventricular outflow tract obstruction and right ventricular hypertrophy are less common in this condition.
+
++4. Pulmonary atresia with ventricular septal defect: Consistent with the small pulmonary artery and right ventricular hypertrophy. However, the overriding aorta and large aortic root are not typical features.
+
++5. Total anomalous pulmonary venous return: Consistent with the hydrops fetalis and polyhydramnios, which can be associated with this condition. However, the other cardiac findings are not typical of this diagnosis."
+Neurofibromatosis type 1,"+1. Neurofibromatosis type 1 (NF1): Consistent with café-au-lait macules, benign skin tumors, freckling, macrocephaly, cognitive/behavioral issues, vision problems, and skeletal abnormalities. May not exhibit all symptoms.
+
++2. Tuberous sclerosis complex (TSC): Consistent with benign tumors, cognitive impairment, and vision problems. Does not typically present with café-au-lait macules, freckling, or skeletal abnormalities.
+
++3. Von Hippel-Lindau syndrome: Consistent with benign tumors, including brain and eye tumors. Does not typically present with café-au-lait macules, freckling, macrocephaly, or skeletal abnormalities.
+
++4. Sotos syndrome: Consistent with macrocephaly, cognitive impairment, and some skeletal abnormalities. Does not typically present with café-au-lait macules, benign tumors, or freckling.
+
++5. Melanoma: Consistent with multiple skin lesions. However, the benign nature of the tumors and the presence of other systemic symptoms make this less likely."
+Permanent congenital hypothyroidism,"+1. Mucopolysaccharidosis (MPS): Consistent with unusual facial features, enlarged tongue, distended abdomen, and potential skeletal abnormalities. May not exhibit all reported symptoms.
+
++2. Inborn error of metabolism: Consistent with lethargy, feeding troubles, constipation, enlarged abdomen, and prolonged jaundice. Specific type would need further testing.
+
++3. Down syndrome: Consistent with unusual facial features, larger fontanels, and decreased muscle tone. May not fully explain other symptoms.
+
++4. Congenital hypothyroidism: Consistent with lethargy, constipation, and prolonged jaundice. May not account for all reported symptoms.
+
++5. Hypothyroidism (acquired): Consistent with lethargy, constipation, and enlarged tongue. Less likely given the constellation of other symptoms."
+Congenital toxoplasmosis,"+1. Congenital Toxoplasmosis: Consistent with cerebral calcifications, hydrocephalus, neurological deficits, and placental findings. Key symptom not reported: chorioretinitis.
+
++2. Cytomegalovirus (CMV) Infection: Consistent with intracranial calcifications, ventriculomegaly, neurological impairment, and placental findings.
+
++3. Congenital Rubella Syndrome: Consistent with intracranial calcifications, eye defects, neurological abnormalities, and placental findings.
+
++4. Congenital Zika Virus Infection: Consistent with microcephaly, intracranial calcifications, neurological deficits, and placental findings.
+
++5. Congenital Lymphocytic Choriomeningitis Virus (LCMV) Infection: Consistent with hydrocephalus, intracranial calcifications, neurological deficits, and placental findings."
+Placental insufficiency,"+1. Intrauterine growth restriction (IUGR): Consistent with small size for gestational age, decreased fetal movement, and abnormal umbilical artery Doppler findings.
+
++2. Placental insufficiency: Consistent with decreased fetal growth, decreased fetal movement, and abnormal umbilical artery Doppler findings.
+
++3. Congenital anomalies: Consistent with small size for gestational age and decreased fetal movement. Additional details about specific anomalies are not provided.
+
++4. Maternal factors (e.g., preeclampsia, diabetes, smoking): Consistent with decreased fetal growth and movement. Specific maternal risk factors are not provided.
+
++5. Multiple gestation (twins/triplets): Consistent with decreased fetal growth and movement in one or more fetuses due to competition for resources."
+Fragile X syndrome,"+1. Fragile X syndrome: Consistent with cognitive impairment, social/behavioral issues, speech delays, and physical features (elongated face, prominent ears, enlarged testicles in males). Key symptom not reported: hand-flapping or repetitive behaviors.
+
++2. Autism spectrum disorder: Consistent with social and communication difficulties. Key symptoms not reported: restricted interests, repetitive behaviors, sensory sensitivities.
+
++3. Developmental delay: Consistent with learning disabilities and speech issues. Key symptoms not reported: delays in reaching developmental milestones.
+
++4. Chromosomal abnormality: Consistent with the combination of cognitive, behavioral, and physical symptoms. Key symptoms not reported: specific dysmorphic features associated with particular chromosomal disorders.
+
++5. Attention deficit hyperactivity disorder: Consistent with aggressive behavior in boys. Key symptoms not reported: inattention, hyperactivity, impulsivity."
+Spinal cord injury,"+1. Traumatic brain injury (TBI): Consistent with altered mental state, potential intoxication, neurological symptoms/signs, and severe pain (e.g., from associated injuries).
+
++2. Spinal cord injury: Consistent with midline spinal pain/tenderness, neurological symptoms, and signs of spasticity/spasms. Key symptom not reported: bowel/bladder dysfunction.
+
++3. Stroke: Consistent with altered mental state, neurological deficits, and potential intoxication. Key symptom not reported: sudden onset of symptoms.
+
++4. Meningitis/encephalitis: Consistent with altered consciousness, neurological symptoms, and potential intoxication. Key symptom not reported: fever or headache.
+
++5. Neonatal hypoxic-ischemic encephalopathy (HIE): Consistent with hypotonia, respiratory compromise, and altered consciousness in neonates. Key symptom not reported: perinatal complications or low Apgar scores."
+Sepsis in premature infants,"+1. Neonatal sepsis: Consistent with respiratory distress, poor perfusion, neurological symptoms, feeding intolerance, and need for intensive care. Key symptom not reported: fever or hypothermia.
+
++2. Congenital heart disease: Consistent with respiratory distress, poor perfusion, and desaturations. Key symptoms not reported: murmur, cyanosis, or edema.
+
++3. Necrotizing enterocolitis (NEC): Consistent with feeding intolerance, increased gastric residuals, and abdominal distension. Key symptoms not reported: abdominal tenderness, bloody stools, or abdominal mass.
+
++4. Intraventricular hemorrhage (IVH): Consistent with neurological symptoms, respiratory distress, and feeding difficulties. Key symptoms not reported: seizures or abnormal head circumference.
+
++5. Persistent pulmonary hypertension of the newborn (PPHN): Consistent with respiratory distress, poor perfusion, and desaturations. Key symptoms not reported: differential cyanosis or hypoxemia."
+Vernal keratoconjunctivitis,"+1. Vernal keratoconjunctivitis: Intense eye itching, sensitivity to light, giant papillae, superficial keratitis, and a foreign body sensation are consistent with this chronic allergic eye condition. Key symptoms not reported: Stringy mucus discharge.
+
++2. Allergic conjunctivitis: Eye itching, sensitivity to light, and conjunctival hyperaemia are indicative of an allergic reaction affecting the eyes. However, the presence of superficial keratitis and giant papillae may suggest a more severe form.
+
++3. Dry eye syndrome: The burning sensation, increased tear production, and photophobia could be signs of dry eye disease. However, the intense itching and giant papillae are not typical symptoms.
+
++4. Blepharitis: This inflammation of the eyelids can cause burning, itching, and a foreign body sensation, but does not typically present with conjunctival hyperaemia or superficial keratitis.
+
++5. Corneal abrasion or foreign body: The feeling of a foreign body in the eye and photophobia could suggest a corneal abrasion or the presence of a foreign object. However, this would not explain the other allergic-type symptoms."
+Transposition of the great arteries,"+1. Congenital heart defect: Consistent with cyanosis and potential signs of heart failure. Key symptoms not mentioned: murmurs, feeding difficulties, poor weight gain.
+
++2. Persistent pulmonary hypertension of the newborn (PPHN): Consistent with cyanosis. Key symptoms not mentioned: respiratory distress, low oxygen levels.
+
++3. Methemoglobinemia: Consistent with cyanosis. Key symptoms not mentioned: brownish blood color, headache, fatigue.
+
++4. Severe respiratory condition (e.g., pneumonia, lung malformation): Consistent with potential cyanosis. Key symptoms not mentioned: respiratory distress, fever, cough.
+
++5. Congestive heart failure (unspecified cause): Consistent with potential signs of heart failure. Key symptoms not mentioned: edema, rapid breathing, poor feeding."
+Retinitis pigmentosa,"+1. Retinitis Pigmentosa: Consistent with night blindness, gradual loss of peripheral vision (tunnel vision), and altered color perception. May not exhibit light flashes or headaches.
+
++2. Glaucoma: Consistent with tunnel vision and headaches. Night blindness and altered color perception are less common symptoms.
+
++3. Optic Neuritis: Consistent with loss of peripheral vision and altered color perception. Night blindness and light flashes are not typical symptoms.
+
++4. Macular Degeneration: Consistent with changes in visual field and altered color perception. Night blindness and tunnel vision are not common symptoms.
+
++5. Brain Tumor: Consistent with loss of peripheral vision and changes in visual field. Night blindness and altered color perception are less common symptoms."
+Polycythemia vera,"+1. Leukemia or lymphoma: Consistent with fatigue, itching, breathing issues, weight loss, and easy bruising/bleeding. May not explain all symptoms like abdominal pain or visual disturbances.
+
++2. Iron deficiency anemia: Consistent with fatigue, weakness, dizziness, and shortness of breath when lying down. May not account for other symptoms like itching or abdominal pain.
+
++3. Liver disease: Consistent with early satiety, abdominal pain, visual disturbances, and easy bruising/bleeding. May not explain symptoms like fatigue or excessive sweating.
+
++4. Bleeding disorder: Consistent with easy bruising and excessive bleeding. May not explain other symptoms like fatigue, weight loss, or abdominal pain.
+
++5. Thyroid disorder: Consistent with fatigue, weight changes, and excessive sweating. May not account for symptoms like itching, breathing issues, or visual disturbances."
+Peripartum cardiomyopathy,"+1. Heart failure: Consistent with fatigue, shortness of breath, edema, nocturia, and echocardiogram findings. Key symptom not reported: cough.
+
++2. Pulmonary hypertension: Consistent with shortness of breath and thromboembolism. Key symptoms not reported: chest pain, syncope.
+
++3. Chronic kidney disease: Consistent with edema and nocturia. Key symptoms not reported: decreased urine output, flank pain.
+
++4. Liver cirrhosis: Consistent with edema and thromboembolism. Key symptoms not reported: jaundice, ascites, spider angiomas.
+
++5. Hypothyroidism: Consistent with fatigue and edema. Key symptoms not reported: cold intolerance, weight gain, constipation."
+Soft tissue sarcoma,"+1. Soft tissue sarcoma: Consistent with the painless lump or mass under the skin, as well as the potential for causing pain, breathing difficulties, abdominal pain, vomiting, and bloody/black stools as the tumor grows and exerts pressure on nearby structures.
+
++2. Lymphoma: Consistent with the painless lump or mass under the skin (potentially an enlarged lymph node), as well as the potential for causing abdominal pain, vomiting, and bloody/black stools as the cancer progresses.
+
++3. Lipoma: Consistent with the painless lump or mass under the skin, but less likely to cause the additional symptoms mentioned unless the lipoma grows very large.
+
++4. Abscess: Consistent with the initial presentation of a painless lump or mass under the skin, but less likely to cause systemic symptoms like breathing difficulties or bloody stools.
+
++5. Hematoma: Consistent with the painless lump or mass under the skin, especially if there was a history of trauma or injury. However, hematomas are less likely to cause the additional symptoms mentioned unless they are very large or in a specific location."
+Idiopathic hypersomnia,"+1. Narcolepsy: Consistent with persistent daytime sleepiness, lack of rejuvenation from naps, and prolonged duration. Key symptom not reported: cataplexy (sudden loss of muscle control).
+
++2. Idiopathic hypersomnia: Consistent with excessive daytime sleepiness and lack of rejuvenation from naps. Key symptom not reported: prolonged nighttime sleep.
+
++3. Obstructive sleep apnea: Consistent with excessive daytime sleepiness. Key symptoms not reported: snoring, gasping for air, morning headaches.
+
++4. Side effects of medication: Consistent with excessive daytime sleepiness. Additional information needed on patient's medication history.
+
++5. Depression: Consistent with excessive daytime sleepiness. Key symptoms not reported: low mood, loss of interest, changes in appetite/weight."
+Primary systemic amyloidosis,"+1. Amyloidosis: Unexplained heart failure, enlarged liver, kidney damage (proteinuria), nerve damage symptoms (weakness, numbness, tingling, burning sensations), skin changes (bruising, purple patches around eyes, thickened skin, hair loss), gastrointestinal symptoms (diarrhea, constipation).
+
++2. Sarcoidosis: Breathing difficulty, skin changes (bruising, purple patches around eyes, thickened skin, hair loss), nerve damage symptoms (weakness, numbness, tingling, burning sensations), potential lung involvement.
+
++3. Systemic lupus erythematosus (SLE): Kidney damage (proteinuria), skin changes (bruising, purple patches around eyes, thickened skin, hair loss), potential nerve involvement (weakness, numbness, tingling, burning sensations).
+
++4. Paraneoplastic syndrome: Nerve damage symptoms (weakness, numbness, tingling, burning sensations), skin changes (bruising, purple patches around eyes, thickened skin, hair loss), gastrointestinal symptoms (diarrhea, constipation), potential underlying malignancy.
+
++5. Vasculitis: Multi-organ involvement (heart failure, enlarged liver, kidney damage, nerve damage symptoms, skin changes), potential vascular inflammation."
+Congenital diaphragmatic hernia,"+1. Diaphragmatic hernia: Consistent with respiratory distress, scaphoid abdomen, and decreased breath sounds on one side. May not present with bluish skin coloration.
+
++2. Pneumothorax: Consistent with respiratory distress and decreased breath sounds on one side. Scaphoid abdomen is not a typical symptom.
+
++3. Chronic obstructive pulmonary disease (COPD): Consistent with respiratory distress and decreased breath sounds. Scaphoid abdomen is not a common feature.
+
++4. Lung cancer: Consistent with respiratory distress, decreased breath sounds, and scaphoid abdomen (due to cachexia). Lack of specific risk factor information makes this less likely.
+
++5. Abdominal malignancy: Consistent with scaphoid abdomen and potentially respiratory distress if impinging on diaphragm/lungs. Lack of specific gastrointestinal symptoms makes this less likely."
+Partial atrioventricular septal defect,"+1. Congenital heart defect: Consistent with difficulty breathing, excessive sweating during activity, fatigue, and failure to gain weight. May not exhibit frequent lung infections.
+
++2. Asthma: Consistent with difficulty breathing and frequent lung infections. May not cause excessive sweating, fatigue, or weight issues.
+
++3. Cystic fibrosis: Consistent with difficulty breathing, failure to gain weight, and frequent lung infections. Excessive sweating is not a typical symptom.
+
++4. Chronic lung disease or infection: Consistent with difficulty breathing and frequent lung infections. May not explain excessive sweating, fatigue, or weight issues.
+
++5. Metabolic disorder: Consistent with fatigue, weight loss or failure to gain weight, and possibly breathing difficulties. May not account for excessive sweating or frequent lung infections."
+Non-acquired combined pituitary hormone deficiency,"+1. Hypogonadism: Consistent with growth failure, lack of muscle development, voice not deepening, sparse body hair growth, and impaired genital development.
+
++2. Androgen insensitivity syndrome: Consistent with impaired male sexual development, including growth of penis and testes. May not exhibit all symptoms in females.
+
++3. Kallmann syndrome: Consistent with delayed or absent puberty, growth failure, and lack of sexual development. Key symptom not reported: anosmia (lack of sense of smell).
+
++4. Constitutional delay of growth and puberty: Consistent with the reported symptoms, but eventual normal pubertal development is expected.
+
++5. Chronic illness or nutritional deficiency: Consistent with growth failure and delayed puberty, but specific symptoms may vary depending on the underlying condition or deficiency."
+Central retinal vein occlusion,"+1. Retinal vein occlusion (RVO): Consistent with retinal hemorrhages, dilated retinal veins, cotton wool spots, unilateral vision loss, and relative afferent pupillary defect.
+
++2. Diabetic retinopathy: Consistent with retinal hemorrhages, dilated retinal veins, and cotton wool spots. However, unilateral vision loss and relative afferent pupillary defect are less common.
+
++3. Ocular ischemic syndrome: Consistent with retinal hemorrhages, dilated retinal veins, cotton wool spots, unilateral vision loss, and relative afferent pupillary defect.
+
++4. Hypertensive retinopathy: Consistent with retinal hemorrhages, dilated retinal veins, and cotton wool spots. However, unilateral vision loss and relative afferent pupillary defect are less typical.
+
++5. Retinal artery occlusion: Consistent with cotton wool spots and unilateral vision loss. However, retinal hemorrhages and dilated retinal veins are less common."
+Dermatitis herpetiformis,"+1. Bullous pemphigoid: Intense itching, urticarial plaques, and tense blisters on extensor surfaces. Key symptom not reported: Typically affects the elderly.
+
++2. Dermatitis herpetiformis: Intense itching, urticarial plaques, grouped vesicles on extensor surfaces. Key symptom not reported: Gastrointestinal symptoms or history of celiac disease.
+
++3. Eczema herpeticum: Intense itching, erythematous papules, grouped vesicles. Key symptoms not reported: History of atopic dermatitis or exposure to herpes simplex virus.
+
++4. Pemphigus foliaceus: Intense itching, potential for superficial blisters. Key symptom not reported: Crusted erosions.
+
++5. Contact dermatitis: Intense itching, erythematous papules, urticarial plaques. Key symptom not typical: Grouped vesicles and excoriations."
+Post-transplant lymphoproliferative disease,"+1. Lymphoma: Consistent with B symptoms (fever, night sweats, weight loss), lymphadenopathy, potential organ involvement, and abnormal blood counts. Key symptoms not reported: specific lymph node locations, pruritus.
+
++2. Post-transplant lymphoproliferative disorder (PTLD): Consistent with nonspecific symptoms, potential lymphoid involvement, and the context of a transplant recipient. Key symptoms not reported: specific details about the transplant and immunosuppression.
+
++3. Leukemia: Consistent with abnormal blood counts, anemia, and potential bone marrow involvement. Key symptoms not reported: fatigue, easy bruising, petechiae.
+
++4. Infection: Consistent with fever, sore throat, and frequent infections. Key symptoms not reported: specific details about the type of infection or potential sources.
+
++5. Autoimmune disorder: Consistent with fever, rashes, and potential joint/bone pain. Key symptoms not reported: specific musculoskeletal symptoms or autoantibody profiles."
+Glial tumor,"+1. Brain tumor: Consistent with headaches, seizures, personality changes, vision/hearing problems, speech difficulties, cognitive changes, nausea/vomiting. Key symptom not reported: focal neurological deficits.
+
++2. Meningitis: Consistent with headaches, seizures, personality changes, nausea/vomiting. Key symptoms not reported: fever, neck stiffness, photophobia.
+
++3. Multiple sclerosis (MS): Consistent with vision problems, cognitive changes, speech difficulties, muscle weakness. Key symptoms not reported: numbness, tingling, fatigue.
+
++4. Stroke: Consistent with speech difficulties, cognitive changes, muscle weakness. Key symptoms not reported: sudden onset, focal neurological deficits.
+
++5. Metabolic or endocrine disorder: Consistent with cognitive changes, mood swings, muscle weakness. Key symptoms not reported: specific metabolic or hormonal imbalances."
+Cytomegalovirus disease in patients with impaired cell mediated immunity deemed at risk,"+1. Autoimmune disorder: Consistent with fever, fatigue, muscle aches, impaired immunity, and potential organ involvement. Key symptoms like joint pain or rash may not be present.
+
++2. Hematological malignancy: Aligns with fever, fatigue, impaired immunity, and potential organ involvement as the disease progresses. Specific symptoms like abnormal bleeding or lymphadenopathy may be absent.
+
++3. Viral infection: Matches fever, fatigue, sore throat, and muscle aches. However, the impaired immunity and potential organ involvement are less typical of viral illnesses.
+
++4. HIV/AIDS: Consistent with impaired immunity, increased susceptibility to infections, and potential opportunistic infections causing the reported symptoms. Specific HIV-related symptoms may not be present.
+
++5. Chronic fatigue syndrome: Fits the persistent fatigue, muscle aches, and impaired immunity. However, fever and potential organ involvement are less common in this condition."
+Thyroid hemiagenesis,"+1. Asymptomatic thyroid nodule or incidental finding: No reported symptoms, but potential for an incidental finding during screening or examination.
+
++2. Hypothyroidism: Consistent with symptoms like fatigue, sensitivity to cold, and weight gain. Key symptoms not reported: constipation, dry skin, and menstrual irregularities.
+
++3. Hyperthyroidism: Consistent with symptoms like fatigue, sensitivity to heat, and weight loss. Key symptoms not reported: palpitations, tremors, and increased appetite.
+
++4. Nodular goiter: Consistent with an enlarged thyroid gland. Additional symptoms may or may not be present, depending on the underlying cause.
+
++5. Other endocrine disorders: Non-specific symptoms could potentially be related to other endocrine conditions, such as adrenal or pituitary disorders, but further evaluation would be needed."
+Syndactyly type 1,"+1. Syndactyly: Webbing or joining of fingers and/or toes, with varying severity from slight connection to complete fusion. No mention of other syndromic features.
+
++2. Apert syndrome: Fusion of fingers and toes, with bones potentially connected in rare cases. May involve other craniofacial abnormalities not mentioned.
+
++3. Poland syndrome: Webbing or fusion of fingers and toes, along with underdeveloped chest muscles (not mentioned).
+
++4. Amniotic band syndrome: Webbing or fusion of digits due to constriction by amniotic bands during fetal development. Other congenital abnormalities may be present but not mentioned.
+
++5. Congenital hand/foot deformities: Various conditions involving webbing or fusion of digits as a secondary feature, such as polydactyly or ectrodactyly. Specific details not provided."
+Bullous pemphigoid,"+1. Pemphigus vulgaris: Consistent with mucosal lesions, blisters, and skin rashes. Key symptom not reported: Painful oral erosions.
+
++2. Bullous pemphigoid: Consistent with tense blisters and itchy rashes. Key symptom not reported: Absence of significant mucosal involvement.
+
++3. Dermatitis herpetiformis: Consistent with intensely itchy rashes and blisters. Key symptom not reported: Typically no mucosal lesions.
+
++4. Urticaria (chronic hives): Consistent with itchy, red skin and hives-like plaques. Key symptoms not reported: Absence of tense blisters and mucosal involvement.
+
++5. Erythema multiforme: Consistent with potential rashes, blisters, and mucosal lesions. Key symptom not reported: Typically more widespread and severe skin involvement."
+Alopecia universalis,"+1. Alopecia universalis: Complete loss of hair from the entire body, including eyebrows, eyelashes, and inside the nose, with an itching or burning sensation in the affected areas. No reported signs of atopic dermatitis or nail pitting.
+
++2. Severe nutritional deficiency: Complete loss of hair from the entire body, including eyebrows, eyelashes, and inside the nose, with an itching or burning sensation in the affected areas. No specific deficiencies mentioned by the patient.
+
++3. Chemotherapy-induced alopecia: Complete loss of hair from the entire body, including eyebrows, eyelashes, and inside the nose. However, the patient did not report undergoing chemotherapy, and the itching/burning sensation is not a common side effect.
+
++4. Radiation therapy side effects: Complete loss of hair from the entire body, including eyebrows, eyelashes, and inside the nose. However, it is unlikely for radiation therapy to cause complete body hair loss or the reported sensations.
+
++5. Autoimmune condition (other than alopecia universalis): Complete loss of hair from the entire body, including eyebrows, eyelashes, and inside the nose, with an itching or burning sensation in the affected areas. No specific autoimmune condition mentioned by the patient."
+Immune thrombocytopenia,"+1. Immune thrombocytopenic purpura (ITP): Consistent with easy bruising, petechiae, and abnormal bleeding. No key symptoms missing.
+
++2. Leukemia: Consistent with easy bruising, petechiae, and abnormal bleeding. Key symptoms may include fever, fatigue, and bone/joint pain.
+
++3. Vitamin K deficiency: Consistent with easy bruising and abnormal bleeding. Key symptoms may include excessive bleeding from wounds or injuries.
+
++4. Liver disease: Consistent with easy bruising and abnormal bleeding. Key symptoms may include jaundice, abdominal pain, and fatigue.
+
++5. Von Willebrand disease: Consistent with easy bruising and abnormal bleeding, especially heavy menstrual bleeding. No key symptoms missing."
+Narcolepsy type 1,"+1. Narcolepsy: Consistent with excessive daytime sleepiness, fragmented sleep, sleep attacks, and cataplexy episodes. May also experience sleep paralysis and hypnagogic hallucinations, which were not reported.
+
++2. Obstructive Sleep Apnea: Consistent with excessive daytime sleepiness and fragmented sleep. However, cataplexy is not a typical symptom of sleep apnea.
+
++3. Idiopathic Hypersomnia: Consistent with excessive daytime sleepiness and fragmented sleep. Cataplexy is not a common feature of this condition.
+
++4. Kleine-Levin Syndrome: Consistent with excessive daytime sleepiness and sleep attacks. However, this rare condition typically involves recurrent episodes of hypersomnia lasting days to weeks, which was not reported.
+
++5. Neurological Disorder (e.g., multiple sclerosis, brain tumor): Excessive daytime sleepiness and cataplexy could potentially be caused by certain neurological conditions affecting the brain regions involved in sleep-wake regulation. Additional neurological symptoms would be expected."
+Primary biliary cholangitis,"+1. Liver disease: Consistent with fatigue and upper abdominal discomfort. Itchiness is not a typical symptom.
+
++2. Skin conditions (e.g., eczema, psoriasis): Consistent with persistent itchiness across the body and fatigue. Abdominal discomfort is not a common symptom.
+
++3. Allergic reactions: Consistent with itchiness and fatigue. Abdominal discomfort is not a typical symptom unless the reaction is severe or involves a food allergy.
+
++4. Anemia: Consistent with fatigue. Itchiness and abdominal discomfort are not typical symptoms.
+
++5. Thyroid disorders: Consistent with fatigue and sometimes itchiness. Abdominal discomfort is not a common symptom."
+Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy,"+1. Peripheral neuropathy: Consistent with weakness, numbness, loss of sensation, and nerve pain. May not explain muscle wasting or curvature of the spine.
+
++2. Muscular dystrophy: Consistent with progressive muscle weakness, cramping, and loss of muscle mass. May not explain sensory symptoms like numbness or nerve pain.
+
++3. Charcot-Marie-Tooth disease: Consistent with muscle weakness, atrophy in lower legs and feet, and inherited nature. May not explain symptoms like stiffened joints or curvature of the spine.
+
++4. Amyotrophic lateral sclerosis (ALS): Consistent with progressive muscle weakness, stiffness, and difficulty with movement. May not explain sensory symptoms like numbness or nerve pain in early stages.
+
++5. Spinal muscular atrophy: Consistent with progressive muscle weakness and atrophy, particularly in proximal muscles. May not explain sensory symptoms or joint stiffness."
+Hereditary breast and ovarian cancer syndrome,"+1. Hereditary breast and ovarian cancer syndrome (HBOC): Consistent with breast lump, breast changes, and abdominal symptoms. May have a family history of breast and ovarian cancers.
+
++2. Breast cancer: Consistent with breast lump, breast changes, and underarm lump. Abdominal symptoms are not typical.
+
++3. Ovarian cancer: Consistent with abdominal bloating, pressure, feeling full, difficulty eating, and urinary symptoms. Breast changes are not common presenting symptoms.
+
++4. Fibroids or other benign gynecological condition: Consistent with abdominal symptoms, but breast changes are not typical.
+
++5. Gastrointestinal disorder: Consistent with abdominal symptoms, but breast changes are not typical."
+Neovascular glaucoma,"+1. Neovascular glaucoma: Consistent with high intraocular pressure, rubeosis iridis, and retinal ischemia.
++2. Proliferative diabetic retinopathy: Consistent with retinal ischemia, vaso-occlusive retinopathy, and potentially high intraocular pressure and rubeosis iridis in advanced stages.
++3. Central retinal vein occlusion (CRVO): Consistent with retinal ischemia and vaso-occlusive retinopathy, but decreased visual acuity is more common than eye pain.
++4. Ocular ischemic syndrome: Consistent with retinal ischemia, neovascularization, and potentially high intraocular pressure. May also present with orbital pain and headache.
++5. Uveitis: Consistent with eye pain and decreased visual acuity, but retinal ischemia and vaso-occlusive retinopathy are less common."
+Craniosynostosis,"+1. Craniosynostosis: Unusual head shape, bulge at the top of the skull, irritability, delayed development (gross motor skills), possible visual disturbances.
++2. Hydrocephalus: Bulge at the top of the skull, irritability, delayed development. No reported visual disturbances.
++3. Brain tumor: Unusual head shape, bulge at the top of the skull, irritability, delayed development, possible visual disturbances.
++4. Metabolic disorder: Unusual head shape, delayed development. No specific mention of irritability or visual disturbances.
++5. Congenital malformation: Unusual head shape, possible developmental delays. No specific mention of irritability or visual disturbances."
+Esophageal atresia,"+1. Aspiration pneumonia: Consistent with breathing difficulties, coughing, choking, and swallowing issues. Key symptom not reported: fever.
+
++2. Tracheoesophageal fistula: Consistent with swallowing difficulties, breathing issues, and frothy bubbles in the mouth. Key symptom not reported: failure to thrive or poor weight gain.
+
++3. Neurological disorder (e.g., cerebral palsy, stroke): Consistent with swallowing difficulties and breathing issues. Additional symptoms may vary depending on the specific condition.
+
++4. Foreign body obstruction: Consistent with sudden onset of breathing difficulties, coughing, and gagging. Key symptom not reported: history of putting objects in the mouth.
+
++5. Cystic fibrosis: Consistent with breathing difficulties and coughing. Key symptoms not reported: salty-tasting skin, poor weight gain, and frequent respiratory infections."
+Congenitally uncorrected transposition of the great arteries,"+1. Tetralogy of Fallot: Cyanosis, symptoms present from birth. Key symptoms not mentioned: murmur, difficulty breathing, poor weight gain.
+
++2. Transposition of the Great Arteries: Cyanosis, symptoms present from birth. Key symptoms not mentioned: rapid breathing, poor feeding.
+
++3. Truncus Arteriosus: Cyanosis, symptoms present from birth. Key symptoms not mentioned: heart murmur, respiratory distress.
+
++4. Pulmonary Atresia: Cyanosis, symptoms present from birth. Key symptoms not mentioned: heart murmur, difficulty breathing.
+
++5. Severe Pulmonary Stenosis: Cyanosis, symptoms present from birth. Key symptoms not mentioned: heart murmur, fatigue, poor weight gain."
+Non-syndromic anorectal malformation,"+1. Anorectal malformations (ARMs): Consistent with absence/abnormal position of anal opening, issues with defecation, swollen abdomen, and presence of fistulas. Key symptom not reported: Associated anomalies (e.g., spinal, cardiac, renal).
+
++2. Imperforate anus: Consistent with absence of anal opening, issues with defecation, and swollen abdomen. Key symptom not reported: Meconium staining or bulging of perineum.
+
++3. Rectovaginal fistula: Consistent with abnormal connection between rectum and reproductive system, and issues with defecation. Key symptom not reported: Passage of stool or gas through vagina.
+
++4. Rectourethral fistula: Consistent with abnormal connection between rectum and urinary tract, and issues with defecation. Key symptom not reported: Passage of stool or gas through urethra.
+
++5. Persistent cloaca: Consistent with absence/abnormal position of anal opening, issues with defecation, swollen abdomen, and presence of fistulas. Key symptom not reported: Associated anomalies (e.g., ambiguous genitalia, vertebral defects)."
+Primary cutaneous T-cell lymphoma,"+1. Psoriasis: Scaly patches, redness, and lesions on non-sun-exposed areas are consistent with psoriasis. However, the patient did not report silvery scales or nail changes.
+
++2. Cutaneous T-cell lymphoma (CTCL): Red to brown or purple lesions, along with scaly patches on non-sun-exposed areas, could suggest CTCL, a type of non-Hodgkin's lymphoma affecting the skin.
+
++3. Pityriasis rosea: Scaly, reddish-brown patches and lesions could indicate pityriasis rosea, a skin condition often starting with a larger ""herald patch"" followed by smaller lesions.
+
++4. Eczema: Rashes and skin irritation could be signs of eczema, but the description of lesions and specific color patterns is not typical.
+
++5. Tinea versicolor: The presence of white, light brown, or tan spots could point towards tinea versicolor, a fungal skin infection. However, other symptoms like lesions and scaly patches are not typical."
+Autoimmune hepatitis,"+1. Viral hepatitis: Consistent with fatigue, jaundice, and elevated liver enzymes. Key symptoms like nausea, vomiting, or abdominal pain may or may not be present.
+
++2. Autoimmune hepatitis: Consistent with fatigue, jaundice, and elevated liver enzymes. Additional symptoms like joint pain, rashes, or abdominal discomfort may or may not be reported.
+
++3. Bile duct obstruction: Consistent with fatigue, jaundice, and elevated liver enzymes. Symptoms like abdominal pain, fever, or dark urine may or may not be present.
+
++4. Drug-induced liver injury: Consistent with fatigue, jaundice, and elevated liver enzymes. Specific symptoms may vary depending on the offending agent.
+
++5. Hemochromatosis: Consistent with fatigue and elevated liver enzymes. Jaundice may or may not be present, and additional symptoms like joint pain, diabetes, or skin discoloration may or may not be reported."
+Multicystic dysplastic kidney,"+1. Abdominal aortic aneurysm: Consistent with abdominal mass and high blood pressure. Key symptom not reported: back pain or pulsating mass.
+
++2. Ovarian cyst/tumor (if patient is female): Consistent with abdominal mass. Key symptoms not reported: menstrual irregularities, pelvic pain.
+
++3. Kidney tumor/cyst: Consistent with abdominal mass and potentially high blood pressure. Key symptoms not reported: blood in urine, flank pain.
+
++4. Gastrointestinal stromal tumor (GIST): Consistent with abdominal mass. Key symptoms not reported: weight loss, gastrointestinal bleeding.
+
++5. Abdominal hernia: Consistent with abdominal mass. Key symptom not reported: bulge or protrusion in the abdomen."
+Unilateral multicystic dysplastic kidney,"+1. Polycystic kidney disease (PKD): Consistent with recurrent urinary tract infections, severe abdominal pain, hypertension, and possible prenatal ultrasound anomalies.
+
++2. Chronic pyelonephritis: Consistent with recurrent urinary tract infections and severe abdominal pain. No history of hypertension or prenatal ultrasound anomalies reported.
+
++3. Kidney stones: Consistent with severe abdominal pain and recurrent urinary tract infections. No history of hypertension or prenatal ultrasound anomalies reported.
+
++4. Urinary tract obstruction: Consistent with recurrent urinary tract infections and severe abdominal pain. No history of hypertension or prenatal ultrasound anomalies reported.
+
++5. Endometriosis: Consistent with severe abdominal pain. No other reported symptoms are typical of endometriosis."
+Scarring in glaucoma filtration surgical procedures,"+1. Glaucoma complications: Vision changes, potential increased intraocular pressure, history of glaucoma filtration surgery.
++2. Surgical site scarring/fibrosis: Vision changes, potential issues with antiproliferative agents used during surgery.
++3. Medication side effects: Vision changes could be a side effect of medications the patient is taking.
++4. Cataract: Vision changes, but no other specific symptoms mentioned.
++5. Macular degeneration: Vision changes, but no other specific symptoms mentioned."
+Pulmonary fungal infections in patients deemed at risk,"+1. Bacterial pneumonia: Consistent with fever, cough, chest pain, and difficulty breathing. May lack specific risk factors or underlying conditions.
+
++2. Viral pneumonia: Matches respiratory symptoms and recent history of acute viral infections like influenza or COVID-19.
+
++3. Fungal pneumonia: Respiratory symptoms, along with immunocompromised state or exposure to fungal environments, increase the risk.
+
++4. Tuberculosis: Chronic cough, weight loss, fatigue, and potential exposure or immunocompromised state fit this diagnosis. Lack of specific risk factors may make it less likely.
+
++5. Lung cancer: Persistent cough, chest pain, weight loss, and fatigue could potentially indicate lung cancer, but less common in a primary care setting without additional risk factors."
+Pouchitis,"+1. Inflammatory bowel disease (IBD): Frequent bowel movements, urgency, incomplete evacuation, rectal bleeding, abdominal cramps (consistent with reported symptoms).
+
++2. Irritable bowel syndrome (IBS): Abdominal cramps, altered bowel habits, incomplete evacuation (consistent with reported symptoms). Rectal bleeding (not typical of IBS).
+
++3. Pouchitis: Frequent bowel movements, urgency, incontinence, pelvic discomfort (consistent with reported symptoms in patients with ileal pouch-anal anastomosis).
+
++4. Colorectal cancer: Rectal bleeding, altered bowel habits, abdominal discomfort (consistent with reported symptoms). Additional information about age, family history, and risk factors would be needed.
+
++5. Infectious colitis: Frequent bowel movements, urgency, abdominal cramps, rectal bleeding (consistent with reported symptoms). Additional information about travel history, exposure risks, and other factors would be needed."
+Congenital hypothyroidism due to developmental anomaly,"+1. Inborn errors of metabolism: Feeding difficulties, constipation, distended abdomen, enlarged fontanels, umbilical hernia. Key symptoms not reported: specific metabolic abnormalities.
+
++2. Congenital disorders (e.g., Down syndrome): Puffy face, enlarged fontanels, large tongue, decreased muscle tone, feeding difficulties. Key symptoms not reported: characteristic facial features, developmental delays.
+
++3. Hypothyroidism: Sluggishness, constipation, prolonged jaundice. Key symptoms not reported: poor growth, dry skin, bradycardia.
+
++4. Liver disease (e.g., biliary atresia): Prolonged jaundice, distended abdomen. Key symptoms not reported: dark urine, pale stools, itching.
+
++5. Congenital heart disease: Feeding difficulties, sluggishness, decreased muscle tone. Key symptoms not reported: cyanosis, respiratory distress, murmurs."
+Partial chromosome Y deletion,"+1. Partial chromosome Y deletion: Consistent with reported male infertility/difficulty conceiving. No distinct early symptoms mentioned.
+
++2. Hormonal imbalances (e.g., hypogonadism, hyperprolactinemia): Could contribute to male infertility. Specific hormone levels not provided.
+
++3. Anatomical issues (e.g., varicocele, blocked vas deferens): Potential causes of male infertility. No specific anatomical abnormalities reported.
+
++4. Environmental/lifestyle factors: Exposure to certain chemicals, radiation, smoking, or alcohol use can impact fertility. No specific exposures mentioned.
+
++5. Idiopathic male infertility: In some cases, the cause of male infertility remains unexplained despite thorough evaluation. Additional testing may be needed to identify the underlying cause."
+Juvenile idiopathic arthritis,"+1. Juvenile Idiopathic Arthritis (JIA): Persistent joint pain, stiffness, reduced range of motion, warmth, swelling, redness, occasional limping, and potential eye involvement. Key symptoms not reported: specific joint involvement pattern.
+
++2. Systemic Lupus Erythematosus (SLE): Joint pain, potential rash, fever, and swollen lymph nodes. Key symptoms not reported: specific organ involvement (e.g., kidney, skin, neurological).
+
++3. Rheumatic Fever: Joint pain, fever, and potential rash. Key symptoms not reported: preceding streptococcal infection, carditis, and other systemic manifestations.
+
++4. Reactive Arthritis: Joint pain, swelling, and fever. Key symptoms not reported: preceding infection, specific joint involvement pattern, and other systemic manifestations.
+
++5. Juvenile Dermatomyositis: Joint pain, potential rash, and muscle weakness (not reported). Key symptoms not reported: specific muscle involvement and skin manifestations."
+Oligoarticular juvenile idiopathic arthritis,"+1. Juvenile Idiopathic Arthritis (JIA): Persistent joint pain, stiffness, reduced range of motion (knees and ankles), warm and swollen joints, redness, limp, swollen lymph nodes, recurrent fevers, symptoms present for more than 6 months.
+
++2. Reactive Arthritis: Joint pain, stiffness, reduced range of motion (knees and ankles), warm and swollen joints. Key symptoms not reported: swollen lymph nodes, recurrent fevers.
+
++3. Rheumatic Fever: Joint pain and swelling. Key symptoms not reported: fever, carditis, skin rashes.
+
++4. Lyme Disease: Joint pain and swelling. Key symptoms not reported: involvement of multiple joints, swollen lymph nodes, recurrent fevers.
+
++5. Septic Arthritis: Joint pain, swelling, warmth. Key symptoms not reported: single joint involvement, fever, systemic illness."
+Non-syndromic posterior hypospadias,"+1. Hypospadias: Abnormal location of urethral opening on underside of penis, partial foreskin development, potential penile curvature. Key symptom not reported: None.
+
++2. Chordee: Potential penile curvature, often associated with hypospadias. Key symptoms not reported: Degree and direction of curvature.
+
++3. Congenital penile curvature: Potential penile curvature, more evident during erection. Key symptoms not reported: Specific details about the curvature.
+
++4. Urethral stricture: Spraying or difficulty in directing urine stream. Key symptoms not reported: Cause of stricture (congenital or acquired).
+
++5. Congenital penile anomaly: Combination of abnormal urination, urethral opening displacement, partial foreskin development, and potential penile curvature. Key symptoms not reported: None."
+AIDS wasting syndrome,"+1. Tuberculosis (TB): Cough, night sweats, fever, weight loss, and muscle wasting are consistent with this diagnosis. Key symptom not reported: hemoptysis (coughing up blood).
+
++2. HIV/AIDS: Weight loss, muscle wasting, diarrhea, and fever are consistent with this diagnosis. Key symptom not reported: opportunistic infections or malignancies.
+
++3. Lung cancer: Cough, weight loss, and night sweats are consistent with this diagnosis. Key symptoms not reported: chest pain, hemoptysis, and specific respiratory symptoms.
+
++4. Lymphoma: Weight loss, night sweats, and fever are consistent with this diagnosis. Key symptoms not reported: lymphadenopathy (swollen lymph nodes) and specific symptoms related to the site of involvement.
+
++5. Inflammatory bowel disease (IBD): Chronic diarrhea, weight loss, and fever are consistent with this diagnosis. Key symptoms not reported: abdominal pain, rectal bleeding, and specific gastrointestinal symptoms."
+Acute liver failure,"+1. Liver disease (e.g., cirrhosis, hepatitis): Consistent with abdominal pain, jaundice, fatigue, weight loss, confusion, and coagulation abnormalities. Key symptoms not reported: ascites, edema, spider angiomas.
+
++2. Gallbladder disease (e.g., gallstones, cholecystitis): Consistent with right upper quadrant abdominal pain. Key symptoms not reported: nausea, vomiting, fever.
+
++3. Pancreatic disease (e.g., pancreatitis, pancreatic cancer): Consistent with abdominal pain and weight loss. Key symptoms not reported: nausea, vomiting, back pain.
+
++4. Malignancy (e.g., liver cancer, bile duct cancer): Consistent with abdominal pain, jaundice, weight loss, and coagulation abnormalities. Key symptoms not reported: palpable mass, ascites, bone pain (if metastatic).
+
++5. Autoimmune or metabolic disorders (e.g., autoimmune hepatitis, Wilson's disease): Consistent with liver dysfunction, fatigue, and potential neurological involvement. Key symptoms not reported: rash, joint pain, Kayser-Fleischer rings (in Wilson's disease)."
+Sarcoidosis,"+1. Sarcoidosis: Consistent with respiratory symptoms (cough, shortness of breath), fatigue, lymphadenopathy, eye inflammation, and skin lesions. Weight loss is less common.
+
++2. Lung cancer: Consistent with respiratory symptoms, fatigue, and weight loss. Eye inflammation and skin lesions are not typical presentations.
+
++3. Lymphoma: Consistent with lymphadenopathy, fatigue, weight loss, and potentially respiratory symptoms. Eye inflammation and skin lesions are less common.
+
++4. Tuberculosis: Consistent with respiratory symptoms, fatigue, and weight loss. Eye inflammation and skin lesions are not typical presentations.
+
++5. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Consistent with eye inflammation, skin lesions, fatigue, and respiratory symptoms. Weight loss and lymphadenopathy are possible but less common."
+Infant acute respiratory distress syndrome,"+1. Respiratory distress syndrome (RDS): Tachypnea, grunting, nasal flaring, retractions, cyanosis, and lethargy are consistent with RDS in infants.
+
++2. Pneumonia: Tachypnea, cyanosis, and lethargy could be present, but fever and other signs of infection are typically seen.
+
++3. Congenital heart defects: Cyanosis, respiratory distress, and lethargy may be present, but additional tests like an echocardiogram would be needed for confirmation.
+
++4. Airway obstruction: Tachypnea, retractions, and respiratory distress could occur, but choking or coughing episodes are often seen.
+
++5. Metabolic disorders: Lethargy and respiratory distress may be present, but more information about medical history and laboratory tests would be needed."
+Proximal spinal muscular atrophy,"+1. Myasthenia gravis: Consistent with difficulty in motor movements, swallowing and breathing issues, and varying severity of symptoms over time. Key symptom not reported: Ptosis (drooping eyelids) or diplopia (double vision).
+
++2. Muscular dystrophy: Consistent with progressive weakness and difficulty with motor functions. Key symptom not reported: Muscle wasting or hypertrophy.
+
++3. Motor neuron disease (e.g., amyotrophic lateral sclerosis): Consistent with progressive weakness, swallowing and breathing difficulties. Key symptom not reported: Muscle fasciculations or spasticity.
+
++4. Spinal cord disorder (e.g., myelopathy): Consistent with motor and respiratory issues. Key symptom not reported: Sensory disturbances or bladder/bowel dysfunction.
+
++5. Guillain-Barré syndrome: Consistent with progressive weakness and respiratory involvement. Key symptom not reported: Areflexia (absence of reflexes)."
+Tenosynovial giant cell tumor,"+1. Osteoarthritis: Joint pain, swelling, stiffness, reduced range of motion, warmth, popping/catching sounds. Key symptom not reported: Bony enlargement or deformity of the affected joint(s).
+
++2. Rheumatoid arthritis: Joint pain, swelling, stiffness, reduced range of motion, warmth. Key symptoms not reported: Fatigue, fever, systemic inflammation.
+
++3. Gout: Joint pain, swelling, warmth. Key symptoms not reported: Specific involvement of the big toe or other characteristic joint(s).
+
++4. Psoriatic arthritis: Joint pain, swelling, stiffness, reduced range of motion. Key symptom not reported: Presence of psoriasis or other skin manifestations.
+
++5. Joint injury or trauma: Joint pain, swelling, instability, reduced range of motion, warmth, popping/catching sounds. Key information needed: History of recent injury or trauma to the affected joint(s)."
+Alpha-1-antitrypsin deficiency,"+1. Cystic fibrosis: Consistent with respiratory symptoms (bronchitis, wheezing, cough, pneumonia), digestive issues (neonatal cholestasis, cirrhosis), and congenital malformations. Key symptom not reported: pancreatic insufficiency.
+
++2. Primary ciliary dyskinesia: Consistent with recurrent respiratory infections and congenital malformations. Key symptom not reported: situs inversus (abnormal organ positioning).
+
++3. Alpha-1 antitrypsin deficiency: Consistent with liver disease (cholestasis, cirrhosis) and lung disease (COPD-like symptoms). Key symptom not reported: emphysema.
+
++4. Biliary atresia: Consistent with neonatal cholestasis and potential cirrhosis by age 2. Key symptom not reported: jaundice.
+
++5. Primary immunodeficiency disorders: Consistent with recurrent infections (respiratory, urinary tract) and eczema. Key symptom not reported: recurrent or severe infections."
+Myasthenia gravis,"+1. Myasthenia gravis: Consistent with ocular symptoms (drooping eyelids, blurry/double vision, eye/eyelid movement issues), facial muscle involvement (changes in facial expressions, difficulties chewing), throat muscle involvement (hoarse voice, difficulties speaking/swallowing), and generalized muscle weakness.
+
++2. Polymyositis/Dermatomyositis: Consistent with widespread muscle weakness, fatigue, and difficulties with activities like walking up stairs or lifting objects. May not fully explain the ocular and bulbar symptoms.
+
++3. Oculopharyngeal muscular dystrophy: Consistent with ocular symptoms (drooping eyelids, blurry/double vision, eye/eyelid movement issues), facial muscle involvement (changes in facial expressions, difficulties chewing), and throat muscle involvement (hoarse voice, difficulties speaking/swallowing). May not fully explain the generalized muscle weakness.
+
++4. Mitochondrial myopathy: Consistent with muscle weakness, fatigue, and difficulties with activities like walking up stairs or lifting objects. Ocular and bulbar symptoms are less common.
+
++5. Guillain-Barré syndrome: Consistent with generalized muscle weakness and difficulties with activities like walking up stairs or lifting objects. Typically presents with a more symmetric and ascending pattern of weakness."
+Marfan syndrome,"+1. Marfan syndrome: Consistent with skeletal (arachnodactyly, high arched palate, flatfoot), cardiovascular (aortic aneurysm, mitral valve prolapse, aortic root dilatation), and ocular (lens dislocation) symptoms. May also have dural ectasia, lung issues.
+
++2. Loeys-Dietz syndrome: Similar to Marfan syndrome, with skeletal, cardiovascular, and ocular manifestations. May have more aggressive vascular complications.
+
++3. Ehlers-Danlos syndrome (vascular type): Consistent with aortic aneurysm, arachnodactyly, and joint hypermobility (not reported). May have thin, translucent skin and easy bruising.
+
++4. Congenital contractural arachnodactyly: Consistent with arachnodactyly, skeletal abnormalities, and cardiovascular issues. May have contractures (permanent flexion of joints) and muscle weakness.
+
++5. Stickler syndrome: Consistent with ocular (lens dislocation), skeletal (high arched palate, flatfoot), and cardiovascular (mitral valve prolapse) symptoms. May have hearing loss and cleft palate."
+Congenital sucrase-isomaltase deficiency,"+1. Fructose malabsorption: Symptoms worsen after consuming high-fructose foods like fruit. Key symptom not reported: excessive flatulence.
+
++2. Irritable bowel syndrome (IBS): Abdominal pain, bloating, and diarrhea are consistent with IBS. Key symptom not reported: alternating constipation and diarrhea.
+
++3. Celiac disease: Abdominal pain, bloating, and diarrhea could be caused by gluten intolerance. Key symptom not reported: weight loss or malnutrition.
+
++4. Small intestinal bacterial overgrowth (SIBO): Bloating, abdominal pain, and diarrhea after consuming carbohydrates are consistent with SIBO. Key symptom not reported: excessive flatulence.
+
++5. Food intolerance or sensitivity: The patient's symptoms may be caused by an intolerance or sensitivity to specific foods or food components. Key symptom not reported: other potential reactions like rash or headache."
+Proximal 16p11.2 microdeletion syndrome,"+1. Fragile X syndrome: Consistent with developmental delays (especially speech), behavioral issues (hyperactivity, attention deficits), long thin fingers, and high-arched palate. Key symptoms not reported: large, prominent ears and macroorchidism (enlarged testicles) in postpubertal males.
+
++2. Velocardiofacial syndrome (22q11.2 deletion syndrome): Consistent with developmental delays, distinctive facial features (flat profile, low-set ears), feeding difficulties, and sacral dimple. Key symptoms not reported: congenital heart defects, cleft palate, and immune deficiencies.
+
++3. Fetal alcohol spectrum disorders (FASD): Consistent with developmental delays, distinctive facial features (flat profile, low-set ears), and behavioral issues. Key symptoms not reported: prenatal alcohol exposure history.
+
++4. Craniofacial microsomia: Consistent with distinctive facial features (low-set, posteriorly rotated ears) and feeding difficulties. Key symptoms not reported: facial asymmetry and underdevelopment of the jaw and facial bones.
+
++5. Down syndrome: Consistent with developmental delays, hypotonia, and feeding difficulties. Key symptoms not reported: upward slanting eyes, single palmar crease, and other distinctive facial features."
+Arrhythmogenic right ventricular cardiomyopathy,"+1. Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC): Consistent with palpitations, syncope, ECG changes (prolonged QRS, epsilon wave, inverted T wave), and right ventricular dilation.
+
++2. Hypertrophic Cardiomyopathy (HCM): Consistent with palpitations, syncope, and some ECG changes, but right ventricular dilation is atypical.
+
++3. Brugada Syndrome: Consistent with palpitations, syncope, and ECG changes (epsilon wave, ST-segment elevation in right precordial leads).
+
++4. Long QT Syndrome: Consistent with palpitations, syncope, and prolonged QRS duration, but other ECG changes and right ventricular dilation are not typical.
+
++5. Myocarditis: Potentially consistent with some ECG changes and symptoms, but less likely based on the provided information."
+Limbal stem cell deficiency,"+1. Limbal stem cell deficiency (LSCD): Consistent with photophobia, ocular surface breakdown, and conjunctivalization of the cornea. May or may not have a history of causative factors (e.g., chemical/thermal burns, radiation, genetic disorders).
+
++2. Neurotrophic keratopathy: Consistent with ocular surface breakdown and abnormal corneal repair. Photophobia is not a typical symptom.
+
++3. Sjögren's syndrome: Consistent with photophobia and ocular surface breakdown. Conjunctivalization of the cornea is not a common finding.
+
++4. Stevens-Johnson syndrome/Toxic epidermal necrolysis: Consistent with conjunctivalization of the cornea and abnormal corneal repair. Photophobia is not a typical symptom.
+
++5. Ocular cicatricial pemphigoid: Consistent with conjunctivalization of the cornea, ocular surface breakdown, and possibly photophobia (depending on corneal involvement)."
+Vulvar intraepithelial neoplasia,"+1. Lichen sclerosus: Consistent with vulvar discomfort, itching, and visible white patches or thinning of the skin. Key symptom not reported: potential scarring or fusion of the labia.
+
++2. Vulvar intraepithelial neoplasia (VIN): Consistent with visible skin changes, discoloration, and raised or flat lesions in the vulvar area. Key symptom not reported: potential bleeding or discharge.
+
++3. Lichen planus: Consistent with vulvar discomfort, itching, and visible raised, flat, or discolored lesions. Key symptom not reported: potential erosions or lacy white lesions.
+
++4. Lichen simplex chronicus: Consistent with vulvar itching, discomfort, and potential skin thickening or discoloration. Key symptom not reported: potential excoriations or lichenification.
+
++5. Vulvovaginal candidiasis: Consistent with vulvar itching and discomfort. Key symptoms not reported: potential thick, white discharge or burning sensation."
+Complete atrioventricular septal defect,"+1. Congenital heart defect: Consistent with failure to thrive, signs of congestive heart failure, and potential pulmonary hypertension. Key symptoms not reported: cyanosis, murmurs, or other specific signs of heart defects.
+
++2. Chronic lung disease/bronchopulmonary dysplasia: Consistent with rapid breathing, fatigue, and potential strain on the cardiovascular system. Key symptoms not reported: chronic cough, wheezing, or history of premature birth/respiratory distress.
+
++3. Inborn error of metabolism: Consistent with failure to thrive and potential cardiac complications. Key symptoms not reported: specific metabolic abnormalities, developmental delays, or other associated features.
+
++4. Genetic syndrome (e.g., Down syndrome, Turner syndrome): Consistent with failure to thrive, potential congenital heart defects, and developmental issues. Key symptoms not reported: specific physical features or other associated symptoms of the syndrome.
+
++5. Feeding difficulties/malabsorption: Consistent with failure to thrive despite reported sufficient nutritional intake. Key symptoms not reported: specific feeding problems, gastrointestinal symptoms, or evidence of malabsorption."
+Brugada syndrome,"+1. Cardiac arrhythmia: Consistent with fainting episodes, seizures, and abnormal breathing during sleep.
++2. Long QT syndrome: Consistent with fainting episodes, seizures, and family history of sudden, unexplained death at a young age.
++3. Obstructive sleep apnea: Consistent with abnormal breathing during sleep, which can increase the risk of arrhythmias.
++4. Epilepsy: Consistent with reported seizures, but other symptoms do not strongly suggest this diagnosis.
++5. Syncope (fainting) of unknown cause: If no clear underlying condition is identified, the fainting episodes may be classified as unexplained syncope."
+Cystic fibrosis,"+1. Cystic fibrosis: Consistent with respiratory symptoms (lung infections, coughing, wheezing, shortness of breath), gastrointestinal issues (meconium ileus, greasy stools), and salty-tasting skin. Key symptom not reported: clubbing of fingers and toes.
+
++2. Biliary atresia: Consistent with prolonged jaundice and difficulty passing first stool (meconium). Key symptoms not reported: dark urine, pale stools, abdominal distension.
+
++3. Celiac disease: Consistent with poor weight gain, diarrhea, and anemia. Key symptoms not reported: abdominal pain, bloating, fatigue.
+
++4. Chronic pancreatitis: Consistent with greasy, foul-smelling stools and poor weight gain. Key symptoms not reported: abdominal pain, nausea, vomiting.
+
++5. Congenital heart disease: Consistent with severe anemia and shortness of breath. Key symptoms not reported: cyanosis, heart murmur, fatigue."
+Isolated spina bifida,"+1. Spina bifida: Consistent with back pain, leg weakness/numbness, bladder/bowel issues, abnormal spinal curvature, physical abnormalities like hairy patches or dimples along the spine, and misshapen legs/feet.
+
++2. Tethered cord syndrome: Consistent with back pain, leg weakness/numbness, bladder/bowel issues, and physical abnormalities like hairy patches or dimples along the spine. May not fully explain misshapen legs/feet.
+
++3. Spinal cord tumor: Consistent with back pain, leg weakness/numbness, and potential bladder/bowel dysfunction. Physical abnormalities like hairy patches or dimples are less common.
+
++4. Spinal stenosis: Consistent with back pain, leg weakness/numbness, and potential bladder/bowel dysfunction. May not fully explain physical abnormalities.
+
++5. Cauda equina syndrome: Consistent with back pain, leg weakness/numbness, and bladder/bowel dysfunction. Physical abnormalities are less typical."
+Isolated biliary atresia,"+1. Biliary atresia: Persistent jaundice, pale stools, and dark urine since birth, consistent with obstruction of bile flow.
+
++2. Neonatal hepatitis: Jaundice, pale stools, and dark urine could be caused by liver inflammation and cholestasis. Additional symptoms like fever, poor feeding, or hepatomegaly may be present.
+
++3. Crigler-Najjar syndrome: Jaundice and yellowing of skin/eyes due to impaired bilirubin metabolism, but may not fully explain pale stools and dark urine.
+
++4. Bile duct paucity: Congenital malformation with fewer bile ducts, leading to cholestasis and jaundice, pale stools, and dark urine.
+
++5. Choledochal cyst: Rare congenital dilation of bile ducts, causing obstruction and jaundice, but less likely given the absence of abdominal mass or pain."
+Anal fistula,"+1. Hemorrhoids: Anal pain, swelling, bleeding, and a palpable lump are consistent with hemorrhoids. Key symptoms not reported: Prolapsed hemorrhoid tissue.
+
++2. Anal abscess or fistula: Anal pain, swelling, a palpable tender lump, and possible fever or chills could indicate an anal abscess or fistula. Key symptoms not reported: Purulent drainage.
+
++3. Anal fissure: Anal pain, bleeding, and constipation are consistent with an anal fissure. Key symptoms not reported: Visible tear or crack in the anal canal.
+
++4. Inflammatory bowel disease (IBD): Anal discomfort, rectal bleeding, fatigue, and fever could suggest IBD like Crohn's disease or ulcerative colitis. Key symptoms not reported: Diarrhea, abdominal pain, weight loss.
+
++5. Colorectal cancer: Persistent anal pain, rectal bleeding, and a palpable mass could potentially indicate colorectal cancer. Key symptoms not reported: Weight loss, changes in bowel habits, anemia."
+Adenovirus infection in immunocompromised patients,"+1. Tuberculosis: Consistent with fever, night sweats, fatigue, cough, rapid breathing, and elevated liver enzymes. May not explain gastrointestinal disturbances.
+
++2. Systemic infection or sepsis: Consistent with fever, malaise, fatigue, multi-organ involvement (respiratory, gastrointestinal, and liver). Further testing needed to identify the causative organism.
+
++3. Viral hepatitis: Consistent with fever, gastrointestinal disturbances, and elevated liver enzymes. May not explain respiratory symptoms and night sweats.
+
++4. Mononucleosis: Consistent with fever, fatigue, and elevated liver enzymes. May not explain gastrointestinal disturbances and respiratory symptoms.
+
++5. Pneumonia: Consistent with fever, cough, and rapid breathing. May not explain gastrointestinal disturbances and elevated liver enzymes."
+Non-infectious posterior uveitis,"+1. Uveitis: Consistent with eye pain, light sensitivity, blurred vision, floaters, redness, and potential involvement of both eyes. Key symptom not reported: none.
+
++2. Retinal detachment: Consistent with floaters, blurred vision, and potential involvement of both eyes. Key symptoms not reported: flashes of light, curtain-like shadow in vision.
+
++3. Corneal ulcer: Consistent with eye pain, light sensitivity, blurred vision, and redness. Key symptom not reported: none.
+
++4. Acute angle-closure glaucoma: Consistent with blurred vision and redness. Key symptoms not reported: severe eye pain, halos around lights.
+
++5. Posterior vitreous detachment (PVD): Consistent with floaters. Key symptoms not reported: flashes of light."
+Pemphigus vulgaris,"+1. Pemphigus vulgaris: Consistent with oral mucosal blisters and skin blisters/erosions. Key symptom not reported: Nikolsky sign (separation of the epidermis with gentle pressure).
+
++2. Mucous membrane pemphigoid: Consistent with oral mucosal blisters and potential skin lesions. Key symptom not reported: Scarring of the mucous membranes.
+
++3. Stevens-Johnson syndrome/Toxic epidermal necrolysis: Consistent with widespread blisters and erosions affecting the oral mucosa and skin. Key symptom not reported: Recent medication or infection as a potential trigger.
+
++4. Bullous pemphigoid: Consistent with skin blisters and potential oral lesions. Key symptom not reported: Tense, large blisters on the skin.
+
++5. Erythema multiforme: Consistent with oral and skin lesions, including blisters and erosions. Key symptom not reported: Targetoid or iris lesions on the skin."
+Hypoplastic left heart syndrome,"+1. Aortic atresia: Consistent with decreased systemic perfusion, hypoxemia, acidosis, shock, enlarged liver, and loud/single second heart sound. Key symptom not reported: cyanosis (bluish discoloration of the skin due to low oxygen levels).
+
++2. Hypoplastic left heart syndrome: Consistent with decreased systemic perfusion, hypoxemia, acidosis, shock, enlarged liver, and possible heart murmur. Key symptom not reported: cyanosis.
+
++3. Coarctation of the aorta: Consistent with decreased systemic perfusion, hypoxemia, acidosis, shock, enlarged liver, and possible heart murmur. Key symptom not reported: hypertension in the upper body.
+
++4. Transposition of the great arteries: Consistent with hypoxemia, acidosis, and possible heart murmur. Key symptoms not reported: cyanosis and respiratory distress.
+
++5. Tetralogy of Fallot: Consistent with hypoxemia, acidosis, and possible heart murmur. Key symptoms not reported: cyanosis and ""tet spells"" (episodes of severe cyanosis and hypoxemia)."
+Charcot-Marie-Tooth disease type 1,"+1. Charcot-Marie-Tooth disease (HSMN): Symmetrical muscle weakness, atrophy, foot deformities, reduced reflexes, possible nerve pain, and family history consistent with this inherited neuropathy. Key symptom not reported: sensory disturbances.
+
++2. Spinal muscular atrophy (SMA): Symmetrical muscle weakness, atrophy, and reduced reflexes consistent with this genetic disorder affecting motor neurons. Key symptoms not reported: respiratory muscle involvement, fasciculations.
+
++3. Amyotrophic lateral sclerosis (ALS): Symmetrical muscle weakness and atrophy consistent with this neurodegenerative disorder. Key symptoms not reported: upper motor neuron signs like spasticity, bulbar involvement.
+
++4. Friedreich's ataxia: Gait abnormalities, balance issues, and family history consistent with this inherited ataxia. Key symptoms not reported: dysarthria, vision problems, scoliosis.
+
++5. Peripheral neuropathy: Symmetrical muscle weakness, possible nerve pain, and balance issues consistent with damage to peripheral nerves. Additional information needed to identify specific type of neuropathy."
+Familial isolated dilated cardiomyopathy,"+1. Heart failure: Consistent with shortness of breath, fatigue, swelling, potential heart abnormalities, and family history of heart issues.
+
++2. Cardiomyopathy: Consistent with shortness of breath, fatigue, swelling, and potential heart abnormalities. Key symptom not reported: chest pain or palpitations.
+
++3. Valvular heart disease: Consistent with shortness of breath, fatigue, swelling, and potential heart abnormalities. Key symptom not reported: heart murmur.
+
++4. Pulmonary hypertension: Consistent with shortness of breath, fatigue, and swelling. Key symptom not reported: chest pain or dizziness.
+
++5. Anemia: Consistent with fatigue and shortness of breath. Key symptoms not reported: pallor, dizziness, or weakness."
+Gastroschisis,"+1. Celiac disease: Consistent with gastrointestinal symptoms and potential malnutrition. Key symptom not reported: diarrhea.
+
++2. Inflammatory bowel disease (Crohn's disease or ulcerative colitis): Consistent with abdominal pain, gastrointestinal symptoms, and potential malnutrition. Key symptom not reported: bloody stools.
+
++3. Intestinal obstruction: Consistent with vomiting, constipation, abdominal swelling, and severe pain.
+
++4. Intestinal infection: Consistent with abdominal pain, fever, vomiting, and potential rapid heart rate.
+
++5. Malabsorption syndromes: Consistent with malnutrition and gastrointestinal symptoms. Key symptom not reported: specific details on nutrient deficiencies or underlying conditions."
+Trisomy 18,"+1. Down syndrome: Consistent with lower birth weight, distinctive facial features, low muscle tone, congenital heart defects, gastrointestinal issues. May not exhibit all physical anomalies described.
+
++2. Trisomy 18 (Edwards syndrome): Aligns with low birth weight, distinctive facial features, physical anomalies, feeding difficulties, congenital heart defects. Severe intellectual disability and life-threatening complications are common.
+
++3. Trisomy 13 (Patau syndrome): Matches low birth weight, distinctive facial features, physical anomalies, congenital heart defects, brain and neural tube defects. Often associated with severe intellectual disability and early death.
+
++4. Congenital heart defect: Could explain potential heart issues, but may not account for the full range of symptoms described.
+
++5. Fetal alcohol spectrum disorder: Prenatal alcohol exposure can lead to distinctive facial features, growth deficiency, and developmental delays. However, other physical anomalies may not be present."
+Recessive X-linked ichthyosis,"+1. Ichthyosis: Consistent with generalized skin dryness, scaling, polygonal scales, corneal opacities, undescended testes, and neurodevelopmental/psychiatric traits. May also explain cardiac arrhythmias and fibrotic/bleeding conditions in some types.
+
++2. Psoriasis: Consistent with skin dryness and scaling, but the polygonal shape and distribution of scales are less typical.
+
++3. Atopic dermatitis: Consistent with skin dryness and scaling, but the specific scale morphology and extracutaneous manifestations are less characteristic.
+
++4. Metabolic disorder: Consistent with neurodevelopmental, psychiatric, and cardiac manifestations, but the skin findings are more prominent and suggestive of a primary skin condition.
+
++5. Genetic syndrome: The combination of skin, ocular, genital, neurological, cardiac, and bleeding manifestations could potentially be due to a rare genetic syndrome, but ichthyosis remains the most likely diagnosis based on the skin findings."
+Acute peripheral arterial occlusion,"+1. Acute limb ischemia: Sudden onset of limb pain, coldness, numbness, muscle weakness, pale/bluish discoloration, and weak/absent pulse in the affected limb. No key symptoms missing.
+
++2. Compartment syndrome: Limb pain, numbness, and muscle weakness are consistent with this condition. However, coldness and discoloration are not typical symptoms.
+
++3. Peripheral artery disease (PAD): Limb pain, coldness, and weak pulse could be present in PAD. However, the symptoms are usually more gradual and chronic rather than sudden in onset.
+
++4. Frostbite: Pain, numbness, and discoloration of the affected limb are consistent with frostbite. However, the sudden onset and lack of exposure to extreme cold make this diagnosis less likely.
+
++5. Peripheral neuropathy: Limb pain, numbness, and muscle weakness could be present in various forms of neuropathy. However, the vascular symptoms like coldness and discoloration are not typical."
+Hereditary hemorrhagic telangiectasia,"+1. Hereditary hemorrhagic telangiectasia (HHT) or Osler-Weber-Rendu syndrome: Consistent with recurrent nosebleeds, telangiectases on the lips, tongue, oral mucosa, face, and fingers, and potential for abnormal blood vessel formations in various organs.
+
++2. Coagulopathy or bleeding disorder: Consistent with recurrent nosebleeds, but does not explain the presence of telangiectases.
+
++3. Autoimmune disorder or connective tissue disease: Consistent with telangiectases, but less likely given the recurrent nosebleeds and potential for internal vascular malformations.
+
++4. Vascular tumor or malformation: Consistent with potential for abnormal blood vessel formations, but less likely given the recurrent nosebleeds and telangiectases in multiple areas.
+
++5. Idiopathic (unknown cause): If all other potential diagnoses are ruled out, the symptoms may be idiopathic or of unknown cause."
+Primary membranoproliferative glomerulonephritis,"+1. Nephrotic syndrome: Consistent with edema, foamy urine, and potential kidney impairment. May not explain all symptoms like fatigue and weight gain.
+
++2. Chronic kidney disease (CKD): Consistent with hematuria, potential kidney impairment, and some non-specific symptoms like fatigue. May not fully account for edema or weight gain.
+
++3. Congestive heart failure (CHF): Consistent with edema, fatigue, and weight gain. May not explain changes in urination patterns or hematuria.
+
++4. Liver disease: Consistent with edema, fatigue, poor appetite, and weight gain. May not explain changes in urination patterns or hematuria.
+
++5. Hypothyroidism: Consistent with fatigue, weight gain, and edema. May not explain changes in urination patterns, hematuria, or high cholesterol and blood pressure."
+Buerger disease,"+1. Raynaud's phenomenon/disease: Episodic pain and coldness in the fingers, potential progression to skin ulcers/gangrene. Key symptom not reported: Color changes in the fingers (pallor, cyanosis, redness).
+
++2. Buerger's disease (thromboangiitis obliterans): Episodic pain and coldness in the fingers, potential progression to gangrene. Key symptoms not reported: Smoking history, claudication (pain with walking).
+
++3. Vasculitis: Episodic pain and coldness in the fingers, potential progression to skin ulcers/gangrene. Key symptoms not reported: Systemic symptoms (e.g., fever, weight loss, joint pain), specific patterns of involvement.
+
++4. Peripheral artery disease (PAD): Episodic pain and coldness in the fingers, potential progression to tissue ischemia. Key symptom not reported: Claudication (pain with walking).
+
++5. Connective tissue disorder (e.g., lupus, scleroderma): Episodic pain and coldness in the fingers, potential progression to skin ulcers/gangrene. Key symptoms not reported: Systemic symptoms (e.g., joint pain, rash, fatigue), specific autoantibodies."
+Tuberculosis,"+1. Viral infection: Consistent with fever, fatigue, malaise, cough (in children), and potential respiratory symptoms. May not fully explain neurological symptoms like confusion and altered consciousness.
+
++2. Bacterial infection (e.g., meningitis, sepsis): Consistent with fever, fatigue, malaise, confusion, lethargy, potential loss of consciousness, and severe illness in children. Respiratory symptoms may or may not be present.
+
++3. Autoimmune disorder (e.g., lupus, multiple sclerosis): Consistent with fatigue, fever, and neurological symptoms like confusion and lethargy. Less typical for severe illness in children and respiratory symptoms.
+
++4. Metabolic or endocrine disorder (e.g., diabetes, thyroid disorders): Consistent with fatigue, fever, and potential neurological symptoms. Less typical for the specific symptom pattern described.
+
++5. Neurological condition (e.g., encephalitis, brain tumor): Consistent with fever, confusion, and altered consciousness. Less typical for respiratory symptoms and severe illness in children."
+Herpes simplex virus stromal keratitis,"+1. Keratitis: Consistent with eye redness, discomfort, tearing, light sensitivity, corneal inflammation, and opacification.
++2. Corneal ulcer: Consistent with corneal inflammation, opacification, and potential vision impairment if left untreated.
++3. Uveitis: Consistent with eye redness, discomfort, and light sensitivity, but corneal involvement is not specifically mentioned.
++4. Dry eye syndrome: Consistent with eye redness and discomfort, but less likely to cause significant corneal inflammation or opacification.
++5. Allergic conjunctivitis: Consistent with eye redness, discomfort, and tearing, but corneal involvement is not typical."
+Microtia,"+1. Microtia: Underdeveloped or malformed external ears, consistent with the reported symptom.
++2. Anotia: Absent external ears, consistent with the reported symptom.
++3. Craniofacial syndromes: Malformed external ears along with other potential facial abnormalities, as mentioned in the symptoms.
++4. Chromosomal abnormalities: Ear malformations and other congenital issues, which may be present based on the reported symptoms.
++5. Teratogenic effects: Exposure to teratogens during pregnancy can lead to ear malformations and other congenital anomalies, consistent with the reported symptoms."
+Rare carcinoma of pancreas,"+1. Pancreatic cancer: Consistent with abdominal/back pain, unintentional weight loss, jaundice, nausea/vomiting, and pain related to eating. Recent diabetes diagnosis could be a potential symptom.
+
++2. Gallbladder disease (e.g., gallstones, cholecystitis): Consistent with abdominal pain, nausea/vomiting, and jaundice. Weight loss is not a typical symptom.
+
++3. Bile duct obstruction (e.g., bile duct cancer, stricture): Consistent with abdominal pain, unintentional weight loss, and jaundice. Nausea/vomiting and recent diabetes diagnosis are less common symptoms.
+
++4. Hepatitis or liver disease: Consistent with jaundice and digestive issues. Abdominal pain and unintentional weight loss are less common symptoms.
+
++5. Peptic ulcer disease: Consistent with abdominal pain, nausea/vomiting, and unintentional weight loss. Jaundice is not a typical symptom."
+Systemic sclerosis,"+1. Systemic sclerosis (scleroderma): Consistent with Raynaud's phenomenon, swollen digits, presence of anticentromere and antitopoisomerase-I antibodies, and abnormal capillaroscopy findings. May also present with skin thickening and internal organ involvement.
+
++2. Mixed connective tissue disease (MCTD): Consistent with Raynaud's phenomenon, swollen digits, and presence of specific antibodies. May also involve arthritis, muscle weakness, and other systemic manifestations.
+
++3. Undifferentiated connective tissue disease (UCTD): Consistent with Raynaud's phenomenon, swollen digits, and presence of specific antibodies, but symptoms may not fit into a defined connective tissue disease.
+
++4. Rheumatoid arthritis: Consistent with swollen digits, but Raynaud's phenomenon and specific antibodies are less common.
+
++5. Lupus: Consistent with Raynaud's phenomenon, but specific antibodies and capillaroscopy findings are less characteristic."
+Hepatocellular carcinoma,"+1. Liver disease: Jaundice, ascites, easy bruising/bleeding, and right upper quadrant pain are consistent with liver disease. However, the specific type (e.g., hepatitis, cirrhosis) and cause would need further investigation.
+
++2. Pancreatic disease: Right upper quadrant pain, nausea, weight loss, and jaundice (if bile duct is obstructed) could indicate a pancreatic disorder such as pancreatitis or pancreatic cancer. Additional tests would be required for confirmation.
+
++3. Gastrointestinal disorder: Nausea, weight loss, and fatigue could be present in conditions like Crohn's disease, ulcerative colitis, or celiac disease. However, other symptoms like diarrhea or abdominal pain may also be expected.
+
++4. Blood disorder: Easy bruising/bleeding could suggest a blood disorder like leukemia or lymphoma, but other symptoms like fever, night sweats, or lymph node enlargement would be more typical and were not reported.
+
++5. Metabolic disorder: Fatigue, weight changes, and nausea could be present in conditions like diabetes or thyroid disorders, but other symptoms like increased thirst, frequent urination, or heat/cold intolerance were not reported."
+Mucopolysaccharidosis type 4A,"+1. Mucopolysaccharidosis (MPS) disorder: Consistent with skeletal dysplasia, coarse facial features, growth impairment, limited joint motion, corneal clouding, hernias, and recurrent respiratory infections. May or may not have neurological involvement depending on the specific type of MPS.
+
++2. Connective tissue disorder (e.g., Ehlers-Danlos syndrome): Could explain joint hypermobility, hernias, and potential skeletal abnormalities. However, the reported growth impairment and corneal clouding are less typical.
+
++3. Skeletal dysplasia (e.g., achondroplasia): Consistent with skeletal abnormalities, growth impairment, and potentially limited joint motion. However, the other reported symptoms, such as hernias and corneal clouding, are less common.
+
++4. Lysosomal storage disorder (other than MPS): Could potentially explain some of the skeletal, ocular, and organ manifestations, but the specific combination of symptoms may vary depending on the disorder.
+
++5. Congenital disorder of glycosylation: A group of inherited metabolic disorders that can affect multiple organ systems, including the skeletal system, nervous system, and connective tissues. The specific symptoms may vary depending on the type of disorder."
+Young-onset Parkinson disease,"+1. Parkinson's disease: Consistent with tremor, bradykinesia, rigidity, postural instability, constipation, REM behavior disorder, depression/anxiety. Anosmia and dystonia are not typical.
+
++2. Multiple system atrophy (MSA): Consistent with parkinsonism (tremor, rigidity, bradykinesia), constipation, REM behavior disorder. Anosmia and dystonia are not common.
+
++3. Lewy body dementia: Consistent with parkinsonism, REM behavior disorder, depression/anxiety, vivid dreams. Anosmia and dystonia are not typical.
+
++4. Idiopathic REM behavior disorder: Consistent with REM behavior disorder, but does not explain other motor and non-motor symptoms.
+
++5. Dystonia: Consistent with involuntary muscle contractions and repetitive/twisting movements, but does not account for other symptoms."
+Lennox-Gastaut syndrome,"+1. Lennox-Gastaut syndrome (LGS): Multiple seizure types (tonic, atypical absence, status epilepticus), cognitive decline, behavioral disturbances, gradual onset after first seizure, specific EEG patterns. Key symptom not reported: Drop attacks.
+
++2. Dravet syndrome: Multiple seizure types, cognitive impairment, behavioral issues. Key symptoms not reported: Prolonged febrile seizures in infancy, myoclonic seizures.
+
++3. Structural brain lesion or tumor: Seizures, cognitive decline, behavioral changes could potentially result from a structural abnormality. Additional neuroimaging tests needed for diagnosis.
+
++4. Metabolic or genetic disorder: Seizures, cognitive impairment, behavioral issues may be caused by an inherited metabolic or genetic condition. Further genetic/metabolic testing required.
+
++5. Childhood absence epilepsy: Atypical absence seizures present, but other symptoms (multiple seizure types, cognitive decline, behavioral disturbances) are not typical for this condition."
+Familial cerebral cavernous malformation,"+1. Sturge-Weber Syndrome: Consistent with seizures, focal neurological symptoms, brain lesions, and cutaneous vascular malformations. No key symptoms missing.
+
++2. Cerebral Cavernous Malformations: Consistent with seizures, focal neurological symptoms, and brain lesions. Cutaneous vascular malformations are not typically seen.
+
++3. Brain Tumor: Consistent with seizures, focal neurological symptoms, and brain lesions. Cutaneous vascular malformations are not commonly associated.
+
++4. Vasculitis: Consistent with seizures, focal neurological symptoms, and brain lesions. Cutaneous vascular malformations are not a typical feature.
+
++5. Multiple Sclerosis: Consistent with seizures, focal neurological symptoms, and brain lesions. Cutaneous vascular malformations and rapid formation of new brain lesions are not typical."
+Atopic keratoconjunctivitis,"+1. Allergic conjunctivitis: Consistent with itching, burning, tearing, and mucous discharge. May not fully explain eyelid inflammation and corneal abrasions.
+
++2. Blepharitis: Consistent with eyelid inflammation, chronic eyelid margin inflammation, burning, tearing, and foreign body sensation. May not fully explain intense itching and corneal abrasions.
+
++3. Dry eye syndrome: Consistent with burning, foreign body sensation, and excessive tearing. May not fully explain itching, mucous discharge, eyelid inflammation, and corneal abrasions.
+
++4. Keratitis: Consistent with corneal abrasions and foreign body sensation. May not fully explain itching, mucous discharge, and eyelid inflammation.
+
++5. Contact lens complications: Consistent with eye irritation, corneal abrasions, and foreign body sensation (for contact lens wearers). May not fully explain itching, mucous discharge, and eyelid inflammation if not a contact lens wearer."
+Dentinogenesis imperfecta type 2,"+1. Dentinogenesis imperfecta (DI): Discolored, translucent teeth; weak and prone to breakage; missing teeth. Key symptom not reported: opalescent hue of teeth.
+
++2. Amelogenesis imperfecta (AI): Discolored teeth; weak and prone to breakage; structural changes in tooth morphology. Key symptom not reported: pitted or grooved enamel.
+
++3. Dental fluorosis: Discolored teeth (chalky or brownish appearance); structural changes in tooth morphology. Key symptoms not reported: excessive fluoride exposure during tooth development.
+
++4. Congenital erythropoietic porphyria (CEP): Discolored teeth; potential missing teeth. Key symptoms not reported: photosensitivity, anemia, skin discoloration.
+
++5. Trauma or injury: Discolored teeth; structural changes; missing teeth. Key symptom not reported: history of severe dental trauma or injury during tooth development."
+Dentinogenesis imperfecta,"+1. Dental fluorosis: Discolored (bluish-gray or yellow-brown) teeth, prone to wear and breakage. May not have malformed or missing teeth.
+
++2. Amelogenesis imperfecta: Discolored, malformed, and easily damaged teeth, consistent with reported symptoms. Genetic disorder affecting enamel formation.
+
++3. Dentinogenesis imperfecta: Discolored, worn, and malformed teeth, with potential sensitivity. Genetic disorder affecting dentin formation.
+
++4. Dental trauma or injury: Discoloration, breakage, and malformation of teeth, as well as potential gum or jaw issues. May not have congenital or developmental abnormalities.
+
++5. Developmental or congenital abnormalities: Various conditions affecting tooth formation, leading to the reported dental abnormalities. Specific diagnosis would depend on the underlying disorder."
+Thyroid ectopia,"+1. Hypothyroidism: Consistent with fatigue, weight gain, cold intolerance, constipation, dry skin, and potential mood alterations. May not exhibit delayed growth/development or behavioral problems in adults.
+
++2. Congenital hypothyroidism: Consistent with fatigue, weight gain, cold intolerance, constipation, dry skin, potential mood alterations, delayed growth and development, and poor school performance or behavioral problems in children.
+
++3. Thyroid cancer: Consistent with the absence of a palpable thyroid gland. May not exhibit other reported symptoms, and additional symptoms like a neck mass or lymphadenopathy might be expected.
+
++4. Pituitary or hypothalamic disorders: Consistent with fatigue, weight gain, cold intolerance, constipation, dry skin, and potential mood alterations. Additional symptoms related to other pituitary or hypothalamic hormone imbalances might be present.
+
++5. Autoimmune disorders (e.g., Hashimoto's thyroiditis): Consistent with fatigue, weight gain, cold intolerance, constipation, dry skin, and potential mood alterations. Other autoimmune manifestations or a family history of autoimmune diseases might be present."
+Progressive supranuclear palsy,"+1. Progressive supranuclear palsy (PSP): Consistent with postural instability, downward gaze palsy, cognitive changes (frontal dementia), parkinsonism, and speech/swallowing difficulties.
+
++2. Parkinson's disease (PD): Consistent with parkinsonism and cognitive changes. May not fully explain postural instability, gaze palsy, and frontal dementia.
+
++3. Normal pressure hydrocephalus (NPH): Consistent with gait disturbances and cognitive impairment. Visual and speech/swallowing issues are less common.
+
++4. Lewy body dementia (LBD): Consistent with parkinsonism and cognitive changes. Visual hallucinations not reported. Postural instability and gaze palsy are less typical.
+
++5. Multiple system atrophy (MSA): Consistent with parkinsonism, postural instability, and speech/swallowing difficulties. Cognitive changes and gaze palsy are less typical."
+Idiopathic intracranial hypertension,"+1. Idiopathic intracranial hypertension (IIH): Consistent with headaches, visual disturbances, pulsatile tinnitus, nausea, and progressive worsening of symptoms.
+
++2. Brain tumor: Consistent with headaches, visual disturbances, tinnitus, nausea, and dizziness. May not explain the gradual onset and progression of symptoms.
+
++3. Cerebrovascular disorder (e.g., AVM, DAVF): Consistent with pulsatile tinnitus, visual disturbances, and headaches. Absence of focal neurological deficits or seizures makes this less likely.
+
++4. Migraine with aura: Consistent with visual disturbances (aura), pulsatile tinnitus, and headaches. However, the persistent and progressively worsening nature of symptoms is atypical for migraine attacks.
+
++5. Temporal arteritis (giant cell arteritis): Consistent with headaches, visual disturbances, and pulsatile tinnitus. Absence of other symptoms like jaw claudication, scalp tenderness, or constitutional symptoms makes this less likely."
+Cystinuria,"+1. Kidney stones (nephrolithiasis): Consistent with recurrent episodes of back/abdominal pain, frequent urination, and blood in the urine. May not have a history of urinary tract infections.
+
++2. Urinary tract infection (UTI): Consistent with frequent urination, blood in the urine, and history of urinary tract infections. Back/abdominal pain is not a typical symptom.
+
++3. Bladder cancer: Consistent with frequent urination and blood in the urine. Back/abdominal pain and history of UTIs are not typical symptoms.
+
++4. Interstitial cystitis: Consistent with frequent urination, pelvic pain, and blood in the urine. Recurrent episodes and history of UTIs are not characteristic.
+
++5. Prostatitis (in males): Consistent with frequent urination, blood in the urine, and pelvic/abdominal pain. Recurrent episodes are not typical."
+Chronic primary adrenal insufficiency,"+1. Addison's disease (primary adrenal insufficiency): Consistent with fatigue, weight loss, gastrointestinal symptoms, electrolyte imbalances, hyperpigmentation, and salt cravings. May not fully explain menstrual irregularities or decreased libido.
+
++2. Hypothyroidism (underactive thyroid): Consistent with fatigue, weight changes, menstrual irregularities, and decreased libido. Does not typically cause gastrointestinal symptoms, electrolyte imbalances, or hyperpigmentation.
+
++3. Celiac disease (autoimmune disorder affecting the small intestine): Consistent with gastrointestinal symptoms, weight loss, and potential nutrient deficiencies. May not fully explain endocrine-related symptoms or hyperpigmentation.
+
++4. Pituitary or other endocrine tumor: Could potentially disrupt hormone production and lead to a combination of symptoms affecting multiple organ systems. Additional testing may be needed to confirm this diagnosis.
+
++5. Cushing's syndrome (excess cortisol production): Consistent with muscle weakness, irregular periods, and mood changes like irritability. Weight loss and hyperpigmentation are atypical for this condition."
+Holoprosencephaly,"+1. Holoprosencephaly: Developmental delay, distinct facial features (unusual eye placement, single central tooth, cleft lip/palate), feeding difficulties, seizures, potential endocrine disorders.
+
++2. Trisomy 13 (Patau syndrome): Developmental delay, distinct facial features (cleft lip/palate, unusual eye placement), seizures, feeding difficulties. No instability of vital signs reported.
+
++3. Fetal alcohol spectrum disorders (FASD): Developmental delay, distinct facial features, feeding difficulties. No seizures or endocrine disorders reported.
+
++4. Craniofacial syndromes (e.g., Treacher Collins syndrome, Goldenhar syndrome): Distinct facial features. No developmental delay, seizures, or endocrine disorders reported.
+
++5. Cerebral palsy: Developmental delay, feeding difficulties. No distinct facial features, seizures, or endocrine disorders reported."
+Supravalvular aortic stenosis,"+1. Heart valve disease (e.g., aortic stenosis or mitral regurgitation): Consistent with fatigue, shortness of breath, chest discomfort, potential heart murmur, and symptoms worsening with exertion.
+
++2. Arrhythmia (e.g., atrial fibrillation or supraventricular tachycardia): Consistent with sensation of a racing or fluttering heart, fatigue, shortness of breath, and difficulties sleeping.
+
++3. Coronary artery disease: Consistent with chest discomfort or angina during physical exertion, fatigue, and shortness of breath.
+
++4. Heart failure: Consistent with fatigue, shortness of breath, and potential valve dysfunction contributing to the condition.
+
++5. Anemia: Consistent with fatigue and shortness of breath, but other symptoms like chest discomfort or heart murmur are not typical of anemia alone."
+Hirschsprung disease,"+1. Hirschsprung's disease: Consistent with severe constipation, abdominal distention, and inability to pass meconium in newborns. May also explain poor feeding and weight gain.
+
++2. Intestinal atresia/stenosis: Consistent with abdominal distention, constipation, and feeding difficulties. Congenital narrowing or obstruction of the intestine.
+
++3. Cystic fibrosis: Consistent with intestinal obstruction, malnutrition (poor weight gain), and feeding issues. Respiratory symptoms not reported.
+
++4. Intussusception: Consistent with intestinal obstruction and constipation. May not fully explain poor feeding and weight gain.
+
++5. Functional constipation: Consistent with severe constipation, but less likely given the severity of symptoms and presence of other findings."
+Stargardt disease,"+1. Stargardt disease (juvenile macular degeneration): Progressive vision loss, bull's eye maculopathy, yellowish flecks, changes in fleck appearance over time (hyperautofluorescent to hypoautofluorescent).
+
++2. Best vitelliform macular dystrophy: Bull's eye maculopathy resembling an egg-yolk lesion, but yellowish flecks and changes in fleck appearance are less typical.
+
++3. Pattern dystrophy: Bull's eye maculopathy and yellowish flecks, but changes in fleck appearance over time are less commonly reported.
+
++4. Cone-rod dystrophy: Progressive vision loss and macular changes, but bull's eye pattern and yellowish flecks are less specific.
+
++5. Choroideremia: Progressive vision loss and retinal pigment epithelium (RPE) changes, but bull's eye pattern and yellowish flecks are not typical features."
+Bronchopulmonary dysplasia,"+1. Asthma: Consistent with noisy, labored respiration, reactive airway disease, and exercise intolerance. May not explain retraction of soft tissues during inspiration.
+
++2. Chronic obstructive pulmonary disease (COPD): Consistent with labored respiration, impaired pulmonary function, and exercise intolerance. Does not typically involve reactive airway disease or retraction of soft tissues during inspiration.
+
++3. Tracheal stenosis: Consistent with noisy, labored respiration and retraction of soft tissues during inspiration. Does not typically involve reactive airway disease or exercise intolerance.
+
++4. Vocal cord dysfunction: Consistent with noisy, labored respiration and retraction of soft tissues during inspiration. Does not typically involve impaired pulmonary function or exercise intolerance.
+
++5. Laryngomalacia: Consistent with noisy, labored respiration and retraction of soft tissues during inspiration. More commonly seen in infants and young children. Other reported symptoms are not typical."
+Pleural empyema,"+1. Pleural effusion: Consistent with chest pain, diminished chest expansion, and dull percussion note. May or may not have fever or cough depending on the underlying cause.
+
++2. Pneumonia: Consistent with fever, cough, and chest pain. However, the diminished chest expansion and dull percussion note are less typical for pneumonia alone.
+
++3. Pleurisy: Consistent with chest pain that worsens with breathing or coughing. May or may not have fever or cough depending on the underlying cause.
+
++4. Lung cancer or metastatic disease: Consistent with pleural effusion or pleural thickening causing chest pain, diminished chest expansion, and dull percussion note. Fever and cough are less common unless there is a superimposed infection.
+
++5. Pneumothorax: Consistent with diminished chest expansion and dull percussion note on the affected side. However, the presence of fever and cough makes this less likely."
+Gastrointestinal stromal tumor,"+1. Gastrointestinal malignancy (e.g., stomach or colon cancer): Consistent with gastrointestinal bleeding, unexplained weight loss, abdominal mass, and early satiety. Key symptoms not reported: changes in bowel habits, melena (black, tarry stools).
+
++2. Bowel obstruction: Consistent with abdominal discomfort, nausea, vomiting, and episodes of bowel obstruction. Key symptoms not reported: constipation, abdominal distension.
+
++3. Inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis): Consistent with gastrointestinal bleeding, abdominal discomfort, nausea, and vomiting. Key symptoms not reported: diarrhea, rectal bleeding, fever.
+
++4. Peptic ulcer disease: Consistent with gastrointestinal bleeding, abdominal discomfort, nausea, and vomiting. Key symptoms not reported: heartburn, dyspepsia.
+
++5. Functional gastrointestinal disorder (e.g., gastroparesis, irritable bowel syndrome): Consistent with abdominal discomfort, nausea, vomiting, early satiety, and fatigue. Key symptoms not reported: bloating, changes in bowel habits."
+Mucolipidosis type III alpha/beta,"+1. Rheumatoid arthritis: Consistent with stiffness in finger joints and progressive osteoarthritis. May not explain cognitive impairment.
+
++2. Osteoarthritis: Consistent with knee pain, waddling gait, and progressive osteoarthritis. Does not typically cause cognitive impairment or skeletal abnormalities.
+
++3. Ankylosing spondylitis: Consistent with skeletal abnormalities and waddling gait. Does not typically cause cognitive impairment or finger joint stiffness.
+
++4. Parkinson's disease: Consistent with mild cognitive impairment and waddling gait. Does not typically cause joint stiffness or osteoarthritis.
+
++5. Alkaptonuria: Consistent with progressive arthritis, skeletal abnormalities, cognitive impairment, and early surgical interventions. A rare genetic disorder."
+Thyroid carcinoma,"+1. Thyroid nodule or goiter: Consistent with neck lump, swelling, voice changes, and swallowing difficulties. May not exhibit unexplained cough.
+
++2. Laryngeal or pharyngeal cancer: Consistent with persistent hoarseness, difficulty swallowing, neck lump, and unexplained cough. May not present with neck swelling or discomfort.
+
++3. Vocal cord polyp or nodule: Consistent with persistent hoarseness and voice changes. May not cause neck lump, swelling, swallowing difficulties, or cough.
+
++4. Gastroesophageal reflux disease (GERD): Consistent with persistent hoarseness, sensation of throat obstruction, and unexplained cough. May not cause neck lump or swelling.
+
++5. Cervical lymphadenopathy: Consistent with palpable neck lump and swelling or discomfort in the neck area. May not explain voice changes, swallowing difficulties, or cough."
+Triploidy,"+1. Trisomy 18 (Edwards syndrome): Consistent with severe growth retardation, enlarged head size, fusion of fingers, defects in the central nervous system, heart, and kidneys, as well as potential facial and kidney abnormalities. May not exhibit all reported symptoms.
+
++2. Trisomy 13 (Patau syndrome): Consistent with central nervous system, heart, and kidney defects, as well as limb and facial abnormalities. May not exhibit all reported symptoms.
+
++3. Congenital rubella syndrome: Consistent with growth retardation, heart defects, and various congenital anomalies. May not exhibit all reported symptoms.
+
++4. Fetal alcohol spectrum disorders: Consistent with growth deficiencies, facial abnormalities, and central nervous system problems. May not exhibit all reported symptoms.
+
++5. Congenital diaphragmatic hernia: Consistent with umbilical hernia and potential heart and lung abnormalities. May not exhibit all reported symptoms."
+Von Willebrand disease,"+1. Von Willebrand disease (VWD): Consistent with easy bruising, prolonged bleeding episodes, heavy menstrual bleeding (if female), and mucocutaneous bleeding. Key symptom not reported: joint bleeding.
+
++2. Idiopathic thrombocytopenic purpura (ITP): Consistent with easy bruising, mucocutaneous bleeding, and unexplained nature of symptoms. Key symptom not reported: petechiae (small red or purple spots on the skin).
+
++3. Hemophilia: Consistent with prolonged bleeding episodes and easy bruising. Key symptom not reported: joint bleeding (more common in severe cases).
+
++4. Vitamin K deficiency: Consistent with easy bruising and prolonged bleeding episodes. Key symptom not reported: bleeding from injection sites or other specific sites.
+
++5. Liver disease: Consistent with unexplained bleeding episodes and easy bruising. Key symptoms not reported: jaundice, ascites, or other signs of liver dysfunction."
+Addison disease,"+1. Addison's disease (primary adrenal insufficiency): Consistent with fatigue, weight loss, nausea, salt craving, darkening of skin, and orthostatic hypotension. Key symptom not reported: abdominal pain.
+
++2. Anemia: Consistent with fatigue, malaise, and weight loss. Key symptoms not reported: pallor, shortness of breath, and palpitations.
+
++3. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Consistent with fatigue, malaise, weight loss, and joint pain. Key symptoms not reported: rash, fever, and specific joint involvement patterns.
+
++4. Depression: Consistent with fatigue, weight loss, and decreased appetite. Key symptoms not reported: low mood, anhedonia, and sleep disturbances.
+
++5. Malignancy: Consistent with unexplained weight loss and fatigue. Key symptoms not reported: specific signs and symptoms related to the type and location of the cancer."
+Hypermobile Ehlers-Danlos syndrome,"+1. Ehlers-Danlos syndrome (EDS): Consistent with joint pain, dislocations, hypermobility, soft/stretchy skin, and easy bruising. May lack some specific genetic or systemic manifestations of EDS subtypes.
+
++2. Hypermobility spectrum disorder (HSD): Consistent with joint pain, dislocations, and hypermobility. Lacks distinct genetic cause and some severe manifestations of EDS.
+
++3. Marfan syndrome: Consistent with joint hypermobility and skin changes. Typically involves cardiovascular and skeletal abnormalities not mentioned.
+
++4. Rheumatoid arthritis (RA): Consistent with joint pain. Lacks joint hypermobility, dislocations, skin changes, and easy bruising.
+
++5. Fibromyalgia: Consistent with pervasive joint pain. Lacks joint hypermobility, dislocations, skin changes, and easy bruising."
+Steinert myotonic dystrophy,"+1. Myotonic dystrophy: Consistent with muscle weakness, difficulty relaxing muscles, cataracts, conduction abnormalities in the heart, and excessive daytime sleepiness. May not explain fertility issues or insulin resistance.
+
++2. Diabetes mellitus: Consistent with insulin resistance and fertility issues. Does not typically cause muscle weakness, difficulty relaxing muscles, cataracts, or conduction abnormalities.
+
++3. Sleep apnea: Consistent with excessive daytime sleepiness. Does not explain other symptoms.
+
++4. Hypothyroidism: Consistent with muscle weakness, fertility issues, and insulin resistance. Does not typically cause difficulty relaxing muscles, cataracts, or conduction abnormalities.
+
++5. Muscular dystrophy: Consistent with muscle weakness and difficulty relaxing muscles. Does not explain cataracts, conduction abnormalities, fertility issues, insulin resistance, or excessive daytime sleepiness."
+Rare lymphatic malformation,"+1. Kaposi's sarcoma: Consistent with the appearance of reddish-purple lesions that progress to larger masses. Key symptoms not reported: Immunosuppression or HIV/AIDS.
+
++2. Hemangioma: Consistent with the presence of reddish-blue lesions or swellings on the skin. Key symptoms not reported: Often present at birth or in early childhood.
+
++3. Lymphoma: Consistent with the development of skin lesions that progress to larger masses or tumors. Key symptoms not reported: Lymph node enlargement, fever, night sweats.
+
++4. Sarcoidosis: Consistent with the appearance of skin lesions and potential swellings or masses in various organs. Key symptoms not reported: Lung involvement, eye inflammation.
+
++5. Vascular malformations: Consistent with the presence of reddish-blue lesions or swellings on the skin or internal organs. Key symptoms not reported: Often present at birth or in early childhood."
+Stickler syndrome,"+1. Stickler syndrome: Consistent with skeletal abnormalities, orofacial features, severe myopia, and sensorineural hearing loss. No major symptoms are missing.
+
++2. Marfan syndrome: Consistent with skeletal abnormalities, orofacial features, and severe myopia. However, hearing impairment is not a typical symptom.
+
++3. Osteogenesis imperfecta: Consistent with skeletal abnormalities and premature arthritis. However, other reported symptoms are not characteristic of this condition.
+
++4. Alport syndrome: Consistent with sensorineural hearing loss and potential eye abnormalities. However, skeletal and orofacial symptoms are not typical.
+
++5. Ehlers-Danlos syndrome: Consistent with some skeletal deformities. However, the reported symptoms do not fully align with this diagnosis."
+CD4+/CD56+ hematodermic neoplasm,"+1. Blastic Plasmacytoid Dendritic Cell Neoplasm (BPDCN): Consistent with skin lesions, cytopenias, potential lymph node/organ involvement, and expression of CD4, CD56, and CD123.
+
++2. Leukemia Cutis: Consistent with skin lesions and cytopenias, but the specific immunophenotype (CD4, CD56, CD123) is not typical.
+
++3. Cutaneous Lymphoma: Consistent with skin lesions and potential lymph node involvement, but cytopenias and the specific immunophenotype are not typical features.
+
++4. Metastatic Solid Tumor: Consistent with skin lesions and cytopenias, but the specific immunophenotype and lack of information about a primary tumor make this less likely.
+
++5. Autoimmune or Inflammatory Condition: Consistent with skin lesions and cytopenias, but the specific immunophenotype and potential lymph node/organ involvement are not typical features."
+Small cell lung cancer,"+1. Lung cancer: Persistent cough, shortness of breath, coughing up blood, fatigue, weight loss, decreased appetite, chest discomfort. Key symptoms not reported: Bone pain, neurological symptoms.
+
++2. Lymphoma: Swelling (facial/neck), cough, shortness of breath, fatigue, weight loss, decreased appetite, difficulty swallowing. Key symptoms not reported: Night sweats, fever, itching.
+
++3. Tuberculosis or chronic lung infection: Cough, shortness of breath, fatigue, weight loss, coughing up phlegm/blood. Key symptoms not reported: Fever, night sweats.
+
++4. Sarcoidosis: Shortness of breath, fatigue, swelling (facial/neck), cough, difficulty swallowing, possible immune dysregulation. Key symptoms not reported: Skin rashes, eye inflammation.
+
++5. Thyroid or endocrine disorder: Fatigue, weight changes, possible immune dysregulation, voice changes. Key symptoms not reported: Heat/cold intolerance, hair/skin changes, menstrual irregularities."
+Medium chain acyl-CoA dehydrogenase deficiency,"+1. Organic acidemia: Consistent with episodes of hypoglycemia, hyperammonemia, seizures, and elevated medium-chain acylcarnitines. Key symptoms not reported: metabolic acidosis, lethargy, vomiting.
+
++2. Fatty acid oxidation disorder (e.g., MCADD, LCHADD): Consistent with episodes of hypoglycemia, seizures, and elevated medium-chain acylcarnitines. Key symptoms not reported: lethargy, vomiting, liver dysfunction.
+
++3. Urea cycle disorder (e.g., OTC, CPS1): Consistent with hyperammonemia and seizures. Key symptoms not reported: lethargy, vomiting, respiratory distress.
+
++4. Hyperinsulinism: Consistent with episodes of hypoglycemia. Key symptoms not reported: failure to thrive, seizures (in some cases).
+
++5. Neonatal seizure disorder (e.g., pyridoxine-dependent epilepsy): Consistent with seizures. Key symptoms not reported: specific seizure patterns, developmental delays."
+Huntington disease,"+1. Huntington's disease: Consistent with involuntary movements, behavioral changes, and cognitive difficulties. May not fully explain psychiatric disturbances.
+
++2. Lewy body dementia: Consistent with movement abnormalities, cognitive impairment, behavioral changes, and psychiatric symptoms.
+
++3. Tardive dyskinesia: Consistent with involuntary movements, but may not fully explain other symptoms.
+
++4. Parkinson's disease: Consistent with movement disorder, but cognitive and psychiatric symptoms are less common.
+
++5. Tourette syndrome: Consistent with involuntary movements, but cognitive and psychiatric disturbances are not typical features."
+Multiple myeloma,"+1. Multiple myeloma: Consistent with bone pain, fatigue, weight loss, frequent infections, and jaw/oral symptoms. May not exhibit excessive thirst or increased urination.
+
++2. Diabetes mellitus: Consistent with excessive thirst, increased urination, fatigue, and weight loss. May not typically cause bone pain or frequent infections.
+
++3. Chronic kidney disease: Consistent with increased urination, fatigue, and bone pain. May not cause weight loss or frequent infections.
+
++4. Lymphoma: Consistent with weight loss, fatigue, and frequent infections. May not cause bone pain, urinary symptoms, or jaw/oral symptoms.
+
++5. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Consistent with fatigue, weight loss, bone pain, and frequent infections. May not cause excessive thirst or increased urination."
+Omphalocele,"+1. Omphalocele: Protrusion of abdominal organs (intestines, liver, or others) from the belly button area, encased in a thin, transparent sac. Consistent with the reported symptoms.
+
++2. Gastroschisis: Protrusion of intestines through an abdominal wall defect, without a covering sac. The presence of a sac suggests omphalocele over gastroschisis.
+
++3. Abdominal wall defect: A general term encompassing various congenital abnormalities affecting the abdominal wall. The specific symptoms point more towards omphalocele or gastroschisis.
+
++4. Umbilical hernia: Protrusion of abdominal contents through the umbilical opening, typically involving a small portion of the intestine. The description suggests a more significant defect involving multiple organs.
+
++5. Congenital diaphragmatic hernia: Defect in the diaphragm allowing abdominal organs to protrude into the chest cavity. The description suggests an abdominal wall defect rather than a diaphragmatic hernia."
+"Focal, segmental or multifocal dystonia","+1. Dystonia: Sustained or intermittent muscle contractions causing abnormal postures or movements, varying in speed and involving different body segments. Sensory tricks provide temporary relief. Key symptom not mentioned: specific types of dystonia (e.g., cervical, blepharospasm).
+
++2. Tourette's syndrome: Involuntary movements and postures, worsening with anxiety and fatigue, and presence of sensory tricks. Key symptom not mentioned: vocal tics.
+
++3. Huntington's disease: Involuntary movements (chorea), but no mention of cognitive or psychiatric symptoms.
+
++4. Parkinson's disease: Involuntary movements (dyskinesias) as a side effect of levodopa treatment, but no mention of other Parkinson's symptoms like tremor, rigidity, or bradykinesia.
+
++5. Myoclonus: Involuntary muscle twitches or jerks, but description suggests more sustained and complex movements."
+Idiopathic pulmonary fibrosis,"+1. Lung cancer: Consistent with cough, breathlessness, fatigue, and clubbing of fingers and toes. Key symptom not reported: hemoptysis (coughing up blood).
+
++2. Interstitial lung disease (e.g., pulmonary fibrosis): Consistent with breathlessness, dry cough, and clubbing of fingers and toes. Key symptom not reported: crackles or dry sounds on lung auscultation.
+
++3. Chronic obstructive pulmonary disease (COPD): Consistent with breathlessness, cough, and fatigue. Key symptom not reported: wheezing or sputum production.
+
++4. Pulmonary hypertension: Consistent with breathlessness, fatigue, and clubbing of fingers and toes. Key symptom not reported: chest pain or syncope (fainting).
+
++5. Congestive heart failure: Consistent with breathlessness and fatigue. Key symptoms not reported: edema (swelling) and irregular heartbeat."
+Systemic mastocytosis,"+1. Mast Cell Activation Disorder (MCAD): Consistent with rashes, allergic reactions, gastrointestinal symptoms, and anaphylaxis episodes. May not exhibit all symptoms of mast cell degranulation.
+
++2. Chronic Urticaria: Consistent with rashes and pruritis (itching). Does not typically involve gastrointestinal symptoms or anaphylaxis.
+
++3. Eosinophilic Gastrointestinal Disorder: Consistent with diarrhea and allergic manifestations. Rashes and anaphylaxis episodes are not typical.
+
++4. Systemic Lupus Erythematosus (SLE): Consistent with rashes, gastrointestinal issues, and inflammatory responses. The specific combination of reported symptoms is not entirely consistent with SLE.
+
++5. Hereditary Angioedema: Consistent with episodes of swelling and rashes. Diarrhea and pruritis are not commonly associated with this condition."
+Hemophilia A,"+1. Hemophilia or von Willebrand disease: Consistent with significant bleeding following minor injuries, nosebleeds, blood in urine/stools. May not fully explain joint/muscle pain.
+
++2. Coagulation disorder or platelet function defect: Consistent with abnormal bleeding, but may not account for joint/muscle pain and avoidance of physical activity in children.
+
++3. Leukemia or other blood cancers: Consistent with bleeding due to low platelet counts, joint/muscle pain from bone marrow involvement. Bleeding symptoms seem more prominent than typical for leukemia.
+
++4. Vitamin K deficiency or liver disease: Consistent with impaired blood clotting and bleeding, but less likely to cause joint/muscle pain or avoidance of physical activity in children.
+
++5. Ehlers-Danlos syndrome (connective tissue disorder): Could potentially explain bleeding, joint/muscle pain, and bruising, but is a rare condition and may not fully account for all symptoms."
+Neuroblastoma,"+1. Lymphoma: Consistent with neck mass, weight loss, neurological symptoms (myoclonic encephalopathy, Horner's syndrome). Key symptom not reported: Lymphadenopathy.
+
++2. Lung cancer: Consistent with Horner's syndrome, weight loss, bone pain. Key symptoms not reported: Cough, hemoptysis.
+
++3. Tuberculosis: Consistent with fever, diarrhea, weight loss, neurological symptoms (myoclonic encephalopathy). Key symptom not reported: Chronic cough.
+
++4. Paraneoplastic syndrome: Consistent with neurological symptoms (myoclonic encephalopathy, Horner's syndrome), weight loss. Key symptom not reported: Specific antibodies associated with the syndrome.
+
++5. Vasculitis: Consistent with hypertension, neurological symptoms (myoclonic encephalopathy, Horner's syndrome), periorbital ecchymosis. Key symptoms not reported: Specific autoantibodies, other organ involvement (e.g., renal, pulmonary)."
+Acute lymphoblastic leukemia,"+1. Lymphoma: Consistent with enlarged lymph nodes, weight loss, night sweats, frequent infections. May not explain all neurological symptoms.
+
++2. Leukemia: Aligns with easy bruising/bleeding, enlarged spleen, frequent infections, neurological symptoms. Weight loss and night sweats less common.
+
++3. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Matches joint pain, fatigue, enlarged lymph nodes, neurological symptoms. May not account for weight loss, night sweats.
+
++4. Chronic infection (e.g., HIV/AIDS, tuberculosis): Could explain weight loss, night sweats, frequent infections, neurological issues. Enlarged lymph nodes and musculoskeletal symptoms less typical.
+
++5. Metastatic cancer: Potentially consistent with many of the reported symptoms, but primary site and type of cancer would need further investigation."
+Mayer-Rokitansky-Küster-Hauser syndrome,"+1. Müllerian agenesis/Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: Primary amenorrhea, normal secondary sexual characteristics, normal female karyotype, possible absent or underdeveloped uterus and upper vagina.
+
++2. Androgen insensitivity syndrome (AIS): Primary amenorrhea, normal breast development, female phenotype, possible underdeveloped uterus and vagina. However, normal female karyotype makes this less likely.
+
++3. Gonadal dysgenesis: Primary amenorrhea, possible underdeveloped reproductive organs. However, normal secondary sexual characteristics and 46,XX karyotype make this less probable.
+
++4. Anatomical abnormalities (e.g., imperforate hymen, transverse vaginal septum): Primary amenorrhea, possible absent or underdeveloped upper vagina. However, normal external genitalia makes this less likely.
+
++5. Hypothalamic or pituitary disorders: Primary amenorrhea. However, normal secondary sexual characteristics make this less likely in this case."
+Williams syndrome,"+1. Williams syndrome: Consistent with intellectual disability, distinctive facial features, cardiovascular irregularities, and unique personality. May not explain all symptoms, such as connective tissue irregularities or endocrine abnormalities.
+
++2. Prader-Willi syndrome: Consistent with hypotonia, feeding difficulties, failure to thrive, and developmental delays. Does not typically present with distinctive personality or connective tissue irregularities.
+
++3. Down syndrome: Consistent with intellectual disability, distinctive facial features, and hypotonia. Cardiovascular and connective tissue irregularities are not typical.
+
++4. Marfan syndrome: Consistent with connective tissue irregularities and hyperextensible joints. Does not typically present with intellectual disability or distinctive facial features.
+
++5. Chromosomal disorder or genetic syndrome: The combination of developmental, physical, and behavioral abnormalities suggests an underlying genetic condition, but further testing is needed for a specific diagnosis."
+Alopecia totalis,"+1. Alopecia areata: Small, round, and random bald patches on the scalp, no other significant symptoms reported.
++2. Tinea capitis (scalp ringworm): Round bald patches, but no mention of scaling or itching.
++3. Trichotillomania: Patchy hair loss, but no psychological or behavioral factors mentioned.
++4. Telogen effluvium: Excessive hair shedding, but less likely to present with distinct round bald patches.
++5. Scarring alopecia: Patchy hair loss, but no mention of scarring or inflammation."
+Mastocytosis,"+1. Food allergy or intolerance: Consistent with skin reactions, GI issues, and potential anaphylaxis episodes. Key symptoms not reported: specific food triggers.
+
++2. Inflammatory bowel disease (IBD) like Crohn's disease or ulcerative colitis: Aligns with GI symptoms like abdominal pain, diarrhea, and nausea/vomiting. Key symptoms not reported: bloody stools, weight loss, fever.
+
++3. Systemic mastocytosis: Rare disorder involving excessive mast cells, which can cause skin lesions, GI issues, anaphylaxis, and cardiovascular symptoms like low blood pressure and rapid heart rate.
+
++4. Hereditary angioedema: Genetic condition causing episodes of severe swelling, which could explain the anaphylaxis-like symptoms and potential GI issues. Key symptoms not reported: specific swelling patterns or triggers.
+
++5. Carcinoid syndrome: Rare condition caused by hormone-producing tumors, which can lead to flushing, diarrhea, and cardiovascular symptoms like low blood pressure and rapid heart rate. Key symptoms not reported: wheezing, weight loss, or evidence of a tumor."
+Partial deep dermal and full thickness burns,"+1. Pyoderma gangrenosum: Consistent with pain, skin redness, weeping wounds, and development of scab-like tissue. Key symptom not reported: underlying systemic conditions.
+
++2. Bullous pemphigoid: Consistent with blisters and weeping wounds. Key symptom not reported: intense pruritus.
+
++3. Calciphylaxis: Consistent with painful skin lesions, areas of skin appearing unusually white and waxy, and development of scab-like tissue. Key symptom not reported: end-stage renal disease or secondary hyperparathyroidism.
+
++4. Necrobiosis lipoidica: Consistent with areas of skin appearing unusually white and waxy. Key symptom not reported: underlying diabetes mellitus or other associated conditions.
+
++5. Necrotizing fasciitis: Consistent with pain, skin redness, and weeping wounds. Key symptoms not reported: fever, chills, or malaise."
+Acquired aneurysmal subarachnoid hemorrhage,"+1. Subarachnoid hemorrhage (SAH): Consistent with sudden, severe ""thunderclap"" headache, neck pain, confusion, nausea/vomiting, and neurological deficits.
+
++2. Ischemic stroke: Consistent with sudden onset of neurological deficits like speech difficulties, vision changes, and loss of balance/coordination.
+
++3. Intracerebral hemorrhage: Consistent with sudden, severe headache, altered consciousness, and neurological deficits.
+
++4. Reversible cerebral vasoconstriction syndrome (RCVS): Consistent with severe ""thunderclap"" headaches and neurological deficits. Rare condition.
+
++5. Meningitis: Consistent with severe headache, neck pain, and altered mental status. Acute onset and severity of symptoms make this less likely."
+Rett syndrome,"+1. Autism Spectrum Disorder (ASD): Consistent with regression of skills, social/communication deficits, repetitive behaviors. May not fully account for early subtle signs and motor delays.
+
++2. Childhood Disintegrative Disorder (CDD): Matches the pattern of normal development followed by significant regression in multiple areas after 2-4 years of age.
+
++3. Rett Syndrome: Genetic disorder primarily affecting girls, characterized by normal early development, followed by regression, loss of hand skills, and development of repetitive hand movements.
+
++4. Intellectual Disability or Global Developmental Delay: Consistent with delays in multiple areas of development, but may not fully explain the specific pattern of regression and motor symptoms.
+
++5. Seizure Disorder or Neurological Condition: The involuntary movements and subtle early signs could potentially indicate an underlying seizure disorder or other neurological condition affecting brain development and function."
+Phenylketonuria,"+1. Homocystinuria: Musty odor, fair complexion, eczema, seizures, neurological symptoms. Key symptom not reported: developmental delays.
+
++2. Phenylketonuria (PKU): Musty odor, fair complexion, neurological symptoms, hyperactivity. Key symptom not reported: intellectual disability.
+
++3. Maple syrup urine disease: Distinct sweet, maple syrup-like odor, fair complexion, seizures, tremors. Key symptom not reported: lethargy.
+
++4. Trimethylaminuria: Musty, fishy odor. Key symptoms not reported: no major symptoms other than the odor.
+
++5. Autism spectrum disorder: Hyperactivity, potential neurological symptoms. Key symptoms not reported: social communication deficits, restricted interests/behaviors."
+Nephroblastoma,"+1. Kidney cancer: Blood in urine, abdominal swelling, uneven growth on one side of the body, high blood pressure, general malaise. Key symptom not reported: Flank pain.
+
++2. Colorectal cancer: Constipation, abdominal discomfort, nausea, vomiting, blood in urine, abdominal swelling. Key symptoms not reported: Rectal bleeding, change in bowel habits.
+
++3. Ovarian cancer: Abdominal swelling, general malaise, gastrointestinal symptoms (constipation, abdominal discomfort, nausea, vomiting). Key symptoms not reported: Pelvic pain, irregular menstrual cycles.
+
++4. Lymphoma: Fever, general malaise, uneven growth on one side of the body. Key symptoms not reported: Swollen lymph nodes, night sweats, unexplained weight loss.
+
++5. Chronic kidney disease: High blood pressure, general malaise, blood in urine. Key symptoms not reported: Edema (swelling), fatigue, loss of appetite."
+Familial or sporadic hemiplegic migraine,"+1. Migraine with aura: Consistent with auras affecting vision, sensitivity to light/sound, and severe one-sided headaches. However, the patient did not report typical migraine symptoms like nausea, vomiting, or sensitivity to movement.
+
++2. Transient ischemic attack (TIA) or stroke: Consistent with weakness affecting one side of the body, numbness/tingling, difficulty with speech, and confusion. The patient did not report any sudden onset of these symptoms, which is more typical of a TIA or stroke.
+
++3. Seizure disorder: Consistent with auras, numbness/tingling, confusion, speech difficulties, and post-ictal weakness on one side. The patient did not report any loss of consciousness or convulsions, which are common in seizures.
+
++4. Meningitis or encephalitis: Consistent with fever, chills, nausea, vomiting, headaches, and sensitivity to light/sound. The patient did not report any neck stiffness or altered mental status, which are often seen in these conditions.
+
++5. Hemiplegic migraine: Consistent with auras, sensitivity to light/sound, severe headaches, and temporary weakness on one side of the body. The patient did not report any family history of this rare condition."
+Acute myeloid leukemia,"+1. Leukemia: Consistent with fatigue, weakness, weight loss, pale skin, frequent infections, fever, night sweats, shortness of breath, nosebleeds, and red/purple spots. Key symptoms not reported: bone pain, swollen lymph nodes.
+
++2. Iron deficiency anemia: Consistent with fatigue, weakness, pale skin, dizziness, and shortness of breath. Key symptoms not reported: heavy menstrual bleeding (in women), dark stools.
+
++3. Autoimmune disorder (e.g., lupus): Consistent with fatigue, fever, skin rashes (red/purple spots), and increased susceptibility to infections. Key symptoms not reported: joint pain, photosensitivity, mouth sores.
+
++4. Bleeding disorder (e.g., von Willebrand disease, hemophilia): Consistent with nosebleeds and red/purple spots on the skin. Key symptoms not reported: excessive bleeding during injury or surgery, prolonged bleeding from cuts.
+
++5. Chronic infection (e.g., HIV, tuberculosis): Consistent with fatigue, weight loss, fever, night sweats, and frequent infections. Key symptoms not reported: cough, lymph node swelling, diarrhea."
+Aicardi-Goutières syndrome,"+1. Neonatal-onset multisystem inflammatory disease (NOMID): Consistent with recurring fevers, neurological abnormalities, enlarged organs, skin rash, and laboratory abnormalities. Key symptom not reported: deforming arthropathy.
+
++2. Meningitis: Consistent with recurring fevers and neurological symptoms. Key symptoms not reported: headache, neck stiffness, photophobia.
+
++3. Leukemia: Consistent with enlarged spleen, reduced platelets, and elevated liver enzymes. Key symptoms not reported: bruising, bleeding, bone pain.
+
++4. Metabolic disorder: Consistent with loss of skills and slowed head growth. Key symptoms not reported: specific metabolic abnormalities or dysmorphic features.
+
++5. Autoimmune disorder: Consistent with neurological, organ, and skin manifestations. Key symptoms not reported: specific autoantibodies or organ-specific involvement."
+Congenital adrenal hyperplasia,"+1. Congenital adrenal hyperplasia (CAH): Consistent with premature signs of androgen action, hirsutism, irregular menses, and hypertension. May not explain hypokalemia.
+
++2. Precocious puberty: Consistent with premature signs of androgen action, accelerated growth. Does not typically cause hypertension or hypokalemia.
+
++3. Cushing's syndrome: Consistent with hypertension, hypokalemia, and some androgen-related symptoms like hirsutism and acne. Does not typically cause premature puberty or accelerated growth.
+
++4. Androgen-secreting tumor: Consistent with premature signs of androgen action. May not explain hypertension or hypokalemia.
+
++5. Polycystic ovary syndrome (PCOS) in females: Consistent with hirsutism, irregular menses, and some androgen-related symptoms. Does not typically cause premature puberty, hypertension, or hypokalemia."
+Dysbetalipoproteinemia,"+1. Familial hypercholesterolemia: High cholesterol levels, family history of heart disease. Key symptom not reported: Xanthomas (cholesterol deposits under the skin).
+
++2. Atherosclerotic cardiovascular disease: High cholesterol levels, potential mild chest discomfort or shortness of breath. Key symptom not reported: Angina (chest pain during exertion).
+
++3. Metabolic syndrome: High cholesterol levels. Key symptoms not reported: Abdominal obesity, high blood pressure, high blood sugar.
+
++4. Diet-related hypercholesterolemia: High cholesterol levels. Key symptom not reported: Obesity or overweight.
+
++5. Hypothyroidism: High cholesterol levels. Key symptoms not reported: Fatigue, weight gain, cold intolerance."
+Catecholaminergic polymorphic ventricular tachycardia,"+1. Arrhythmogenic right ventricular cardiomyopathy (ARVC): Consistent with episodic syncope, palpitations, and exercise-induced symptoms. May not have reported structural heart abnormalities.
+
++2. Long QT syndrome: Consistent with syncope, palpitations, and potential for sudden cardiac death. May not have reported specific ECG abnormalities.
+
++3. Vasovagal syncope: Consistent with episodic syncope, dizziness, and presyncope triggered by exercise or emotional stress.
+
++4. Cardiac arrhythmia: Consistent with palpitations and syncope. Specific type of arrhythmia not reported.
+
++5. Orthostatic hypotension: Consistent with dizziness and syncope, but less typical for episodic nature and exercise/stress triggers."
+Septo-optic dysplasia spectrum,"+1. Tuberous sclerosis complex (TSC): Consistent with visual impairments, developmental delays, endocrine dysfunctions, seizures, sleep disturbances, intellectual disability, and autism-like behaviors. May also present with skin abnormalities.
+
++2. Fragile X syndrome: Consistent with developmental delays, intellectual disability, autism-like behaviors, and seizures. Physical features like a long face and large ears may also be present.
+
++3. Neurofibromatosis type 1 (NF1): Consistent with learning disabilities, developmental delays, seizures, and visual impairments due to optic nerve tumors. Endocrine dysfunctions and autism-like behaviors are less common.
+
++4. Congenital hypothyroidism: Consistent with developmental delays, intellectual disability, short stature, and delayed puberty. Visual impairments, seizures, and autism-like behaviors are less typical.
+
++5. Phenylketonuria (PKU): Consistent with intellectual disability, developmental delays, and seizures if left untreated. Visual impairments, endocrine dysfunctions, and autism-like behaviors are not commonly associated with PKU."
+Dermatofibrosarcoma protuberans,"+1. Dermatofibroma: Firm, slowly growing plaque or ""rubbery lump"" on the trunk, may change color and enlarge over time, painless.
+
++2. Basal cell carcinoma: Pearly or waxy bump, or flat, flesh-colored or brown scar-like lesion on the trunk, may grow slowly and develop a depressed area, painless.
+
++3. Squamous cell carcinoma: Firm, rough, or scaly growth on the trunk, may bleed or develop a depressed area, painless, slow growth.
+
++4. Melanoma: New or changing mole or lesion on the trunk, may have irregular shape, color, or border, but typically not painless or slow-growing.
+
++5. Lipoma: Slow-growing, soft, movable lump under the skin on the trunk, painless, but typically not firm or changing color."
+Duane retraction syndrome,"+1. Cranial nerve palsy: Consistent with difficulty moving eyes horizontally, abnormal vertical movements, inward/outward turning of the eye. May not exhibit signs of amblyopia or abnormal head position.
+
++2. Strabismus: Consistent with inward/outward turning of the eye, abnormal head position as a compensatory mechanism. May or may not have amblyopia or eye movement difficulties.
+
++3. Nystagmus: Consistent with abnormal eye movements, both horizontal and vertical. May not have inward/outward turning or abnormal head position.
+
++4. Myasthenia gravis: Consistent with ptosis (narrowing of eye opening), diplopia (double vision), and eye movement difficulties. May not have inward/outward turning or abnormal head position.
+
++5. Neurological condition (e.g., stroke, brain injury): Consistent with a wide range of eye movement and alignment issues, depending on the location and extent of the neurological damage. May or may not have amblyopia or abnormal head position."
+Sickle cell anemia,"+1. Sickle Cell Disease: Consistent with fatigue, pain episodes, respiratory issues, delayed growth, increased infections, dactylitis, and acute splenic sequestration.
+
++2. Autoimmune disorder (e.g., lupus, rheumatoid arthritis): Consistent with fatigue, pain, respiratory issues, and increased infections. May not explain dactylitis or acute splenic sequestration.
+
++3. Chronic infection (e.g., HIV, tuberculosis): Consistent with fatigue, respiratory problems, growth delays, and increased infections. Does not typically cause dactylitis or acute splenic sequestration.
+
++4. Nutritional deficiency (e.g., iron, vitamin B12, protein): Consistent with fatigue, growth delays, and increased infections. Less likely to cause pain episodes, respiratory issues, dactylitis, or acute splenic sequestration.
+
++5. Hematological malignancy (e.g., leukemia, lymphoma): Consistent with fatigue, pain, respiratory problems, growth delays, and increased infections. Dactylitis and acute splenic sequestration are not common symptoms."
+Polymalformative genetic syndrome with increased risk of developing cancer,"+1. Familial Adenomatous Polyposis (FAP): Benign growths that could potentially become cancerous, most commonly in the colon; fibromas, desmoid tumors, or sebaceous cysts. Key symptom not reported: Hundreds to thousands of precancerous polyps in the colon and rectum.
+
++2. Multiple Endocrine Neoplasia Type 1 (MEN1): Benign growths that could potentially become cancerous, most commonly in the colon; fibromas, desmoid tumors, or sebaceous cysts; eye lesions on the retina; increased risk of developing tumors in certain parts of the body, like the liver or kidneys.
+
++3. Cowden Syndrome: Fibromas, desmoid tumors, or sebaceous cysts (fluid-filled growths under the skin); benign growths that could potentially become cancerous, most commonly in the colon. Key symptom not reported: Macrocephaly (enlarged head circumference).
+
++4. Neurofibromatosis Type 1 (NF1): Benign growths that could potentially become cancerous; increased risk of developing tumors in certain parts of the body. Key symptoms not reported: Café-au-lait spots, neurofibromas, and Lisch nodules (iris hamartomas).
+
++5. Overgrowth Syndrome (e.g., Sotos syndrome, Weaver syndrome): Growth disorder causing overgrowth, increased height and weight starting from birth; increased risk of developing tumors in certain parts of the body. Key symptoms not reported: Distinctive facial features, developmental delays, and intellectual disability (depending on the specific syndrome)."
+Aplasia cutis congenita,"+1. Aplasia cutis congenita (ACC): Absence of skin, primarily on the scalp but potentially elsewhere, scarring, hair collar sign, and potential congenital defects/malformations.
+
++2. Vascular malformations: Vascular stains, nodules, and potential underlying skull or cerebrovascular involvement.
+
++3. Ectodermal dysplasias: Absence of skin, potential limb anomalies, and congenital defects.
+
++4. Congenital skin disorders (e.g., epidermolysis bullosa, ichthyosis): Absence of skin and potential congenital defects.
+
++5. Autoimmune or inflammatory skin disorders (e.g., pemphigus, pyoderma gangrenosum): Skin lesions and scarring, although less likely given the congenital nature of the symptoms."
+Duchenne muscular dystrophy,"+1. Duchenne muscular dystrophy (DMD): Delayed motor milestones, enlarged calf muscles, Gowers' maneuver, waddling gait. Speech delay is not a typical symptom.
+
++2. Congenital myopathy (e.g., nemaline myopathy): Delayed motor development, muscle weakness, hypertrophic calf muscles, Gowers' maneuver. Speech delay may or may not be present.
+
++3. Cerebral palsy (spastic diplegia): Delayed motor milestones, gait abnormalities, speech delays. Hypertrophic calf muscles and Gowers' maneuver are not typical.
+
++4. Spinal muscular atrophy (SMA): Delayed motor development, muscle weakness. Hypertrophic calf muscles and Gowers' maneuver are not typical features.
+
++5. Metabolic disorder (e.g., Pompe disease, glycogen storage diseases): Muscle weakness, delayed motor development. Specific symptoms may vary depending on the disorder."
+Dravet syndrome,"+1. Dravet syndrome: Consistent with fever-triggered seizures in infancy, multiple seizure types (hemiclonic, generalized clonic, myoclonic, absence, focal, generalized tonic-clonic), cognitive decline, and epileptic encephalopathy. Key symptom not reported: Frequent prolonged seizures triggered by hot temperatures.
+
++2. Febrile infection-related epilepsy syndrome (FIRES): Consistent with acute onset of refractory seizures triggered by fever, leading to epileptic encephalopathy. Key symptoms not reported: Preceding febrile illness, acute onset of refractory status epilepticus.
+
++3. Infantile spasms (West syndrome): Consistent with seizures in infancy, including myoclonic and generalized tonic-clonic seizures, and developmental delays. Key symptoms not reported: Specific mention of spasms or hypsarrhythmia on EEG.
+
++4. Lennox-Gastaut syndrome: Consistent with multiple seizure types (myoclonic, absence, focal, generalized tonic-clonic) and cognitive/behavioral issues. Key symptom not reported: Typically presents later than infancy.
+
++5. Genetic generalized epilepsy: Consistent with multiple generalized seizure types (myoclonic, absence, generalized tonic-clonic). Key symptoms not reported: Lack of specific details on age of onset and developmental delays."

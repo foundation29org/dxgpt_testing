@@ -2,7 +2,9 @@ import os
 import pandas as pd
 
 # Load the scores data
-df = pd.read_csv('data/scores_medisearch_turbo_v2.csv')
+df = pd.read_csv('data/scores_medisearch_v2_improved_c3sonnet.csv')
+
+df2 = pd.read_csv('data/scores_medisearch_v2_improved_gpt4.csv')
 
 # Summarize the data
 print(df.describe())
@@ -12,77 +14,40 @@ print(df.shape)
 # Give me the stats for P1, P5 and P0
 print(df['Score'].value_counts())
 # Give me the stats for P1, P5 and P0 for the first 50 rows
-print(df['Score'].iloc[:50].value_counts())
+# print(df['Score'].iloc[:50].value_counts())
 
-# GPT4 Code Interpreter:
-"""
-# Check for missing values
-missing_values = data.isnull().sum()
+# Give me the stats for P1, P5 and P0
+print(df2['Score'].value_counts())
+# Give me the stats for P1, P5 and P0 for the first 50 rows
+# print(df2['Score'].iloc[:50].value_counts())
 
-# Count the frequency of each score type
-score_counts = data['Score'].value_counts()
+# To calculate the overlapping errors between the two models, we will compare the 'Score' columns from both dataframes (df and df2) to identify common mispredictions.
+# First, filter out correct predictions (P1) as we are only interested in errors (P5 and P0).
+errors_df = df[df['Score'] != 'P1']
+errors_df2 = df2[df2['Score'] != 'P1']
 
-missing_values, score_counts
-"""
-"""
-import matplotlib.pyplot as plt
-import seaborn as sns
+# Now, find the intersection of GT (Ground Truth) values in both error dataframes to identify overlapping errors.
+overlapping_errors = pd.merge(errors_df, errors_df2, on='GT', how='inner', suffixes=('_df', '_df2'))
 
-# Set style for the plots
-sns.set_style("whitegrid")
+# Display the count of overlapping errors
+print(f"Number of overlapping errors: {len(overlapping_errors)}")
 
-# Plot the distribution of prediction scores
-plt.figure(figsize=(10, 6))
-sns.countplot(data=data, x='Score', order=['P0', 'P1', 'P5'])
-plt.title('Distribution of Prediction Scores')
-plt.xlabel('Prediction Scores')
-plt.ylabel('Frequency')
-plt.show()
+# But also for !P5
+errors_df = df[df['Score'] == 'P0']
+errors_df2 = df2[df2['Score'] == 'P0']
 
-# Plot the distribution of prediction scores for each disease
-plt.figure(figsize=(15, 30))
-sns.countplot(data=data, y='GT', hue='Score', hue_order=['P0', 'P1', 'P5'])
-plt.title('Distribution of Prediction Scores by Disease')
-plt.xlabel('Frequency')
-plt.ylabel('Disease (GT)')
-plt.show()
-"""
+# Now, find the intersection of GT (Ground Truth) values in both error dataframes to identify overlapping errors.
+overlapping_errors = pd.merge(errors_df, errors_df2, on='GT', how='inner', suffixes=('_df', '_df2'))
 
-"""
-# Calculate Strict Accuracy (only P1 is considered correct)
-strict_accuracy = (data['Score'] == 'P1').sum() / len(data) * 100
+# Display the count of overlapping errors
+print(f"Number of overlapping errors: {len(overlapping_errors)}")
 
-# Calculate Lenient Accuracy (both P1 and P5 are considered correct)
-lenient_accuracy = ((data['Score'] == 'P1') | (data['Score'] == 'P5')).sum() / len(data) * 100
-
-# Calculate accuracy for each disease
-disease_accuracy = data.groupby('GT')['Score'].apply(lambda x: (x == 'P1').sum() / len(x) * 100).reset_index()
-disease_accuracy.columns = ['GT', 'Strict_Accuracy']
-disease_accuracy['Lenient_Accuracy'] = data.groupby('GT')['Score'].apply(lambda x: ((x == 'P1') | (x == 'P5')).sum() / len(x) * 100).reset_index()['Score']
-
-strict_accuracy, lenient_accuracy, disease_accuracy.sort_values(by='Strict_Accuracy', ascending=False).head()
-"""
-"""
-# Given counts for P1, P5, and P0
-count_p1 = 121
-count_p5 = 58
-count_p0 = 21
-
-# Calculate total number of predictions
-total_predictions = count_p1 + count_p5 + count_p0
-
-# Calculate Strict Accuracy
-strict_accuracy_new = (count_p1 / total_predictions) * 100
-
-# Calculate Lenient Accuracy
-lenient_accuracy_new = ((count_p1 + count_p5) / total_predictions) * 100
-
-strict_accuracy_new, lenient_accuracy_new
-"""
 #Score
-count_p1 = 116
-count_p5 = 47
-count_p0 = 37
+count_p1 = df['Score'].value_counts()['P1']
+count_p5 = df[df['Score'].isin(['P2', 'P3', 'P4', 'P5'])].shape[0]
+count_p0 = df['Score'].value_counts()['P0']
+
+print(f"Overlapping errors 14 of 23 errors in the 200 predictions: {len(overlapping_errors)/count_p0*100}%")
 
 # Calculate total number of predictions
 total_predictions = count_p1 + count_p5 + count_p0
