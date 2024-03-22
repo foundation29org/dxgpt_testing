@@ -10,10 +10,28 @@ from langchain.schema import HumanMessage
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from tqdm import tqdm
+import anthropic
+
+from open_models import initialize_mistralmoe, initialize_mistral7b
 
 
 # Load the environment variables from the .env file
 load_dotenv()
+
+def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
+    client = anthropic.Anthropic(
+        # defaults to os.environ.get("ANTHROPIC_API_KEY")
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
+    )
+    message = client.messages.create(
+        model="claude-3-opus-20240229",
+        max_tokens=max_tokens,
+        temperature=temperature,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    # print(message.content)
+    return message
+
 
 def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
     aws_access_key_id = os.getenv("BEDROCK_USER_KEY")
@@ -68,6 +86,14 @@ gpt4 = AzureChatOpenAI(
     model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
 )
 
+gpt4turbo = AzureChatOpenAI(
+    openai_api_version=os.getenv("OPENAI_API_VERSION"),
+    azure_deployment="nav29turbo",
+    temperature=0,
+    max_tokens=800,
+    model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
+)
+
 # Initialize the ChatOpenAI model turbo
 # model_name = "gpt-4-1106-preview"
 # openai_api_key=os.getenv("OPENAI_API_KEY")
@@ -103,10 +129,18 @@ Patient Symptoms:
 </prompt>
 """
 
+
 def get_diagnosis(prompt, dataframe, output_file, model):
+    HM = False
     # Load the synthetic data
     input_path = f'data/{dataframe}'
-    df = pd.read_csv(input_path, sep=',')
+    if input_path.endswith('.csv'):
+        df = pd.read_csv(input_path, sep=',')
+    elif input_path.endswith('.xlsx'):
+        df = pd.read_excel(input_path)
+        HM = True
+    else:
+        raise ValueError("Unsupported file extension. Please provide a .csv or .xlsx file.")
     # Create a new DataFrame to store the diagnoses
     diagnoses_df = pd.DataFrame(columns=['GT', 'Diagnosis 1'])
 
@@ -115,10 +149,13 @@ def get_diagnosis(prompt, dataframe, output_file, model):
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
     # Iterate over the rows in the synthetic data
-    for index, row in tqdm(df.iterrows(), total=df.shape[0]):
+    for index, row in tqdm(df[:200].iterrows(), total=df[:200].shape[0]):
         # Get the ground truth (GT) and the description
-        gt = row[0]
-        description = row[1]
+        if HM:
+            description = row[0]
+        else:
+            gt = row[0]
+            description = row[1]
         # Generate a diagnosis
         diagnoses = []
         # Generate the diagnosis using the GPT-4 model
@@ -128,8 +165,15 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         while attempts < 2:
             try:
                 if model == "claude":
-                    diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
+                    # diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
+                    diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
                     # print(diagnosis)
+                elif model == "mistralmoe":
+                    diagnosis = initialize_mistralmoe(formatted_prompt[0].content)["outputs"][0]["text"]
+                    # print(diagnosis)
+                elif model == "mistral7b":
+                    diagnosis = initialize_mistral7b(formatted_prompt[0].content)["outputs"][0]["text"]
+                    print(diagnosis)
                 else:
                     diagnosis = model(formatted_prompt).content  # Call the model instance directly
                 break
@@ -149,9 +193,13 @@ def get_diagnosis(prompt, dataframe, output_file, model):
             print("ERROR: <top5> tags not found in the response.")
 
         diagnoses.append(diagnosis)
+        # print(diagnosis)
 
         # Add the diagnoses to the new DataFrame
-        diagnoses_df.loc[index] = [gt] + diagnoses
+        if HM:
+            diagnoses_df.loc[index] = [description] + diagnoses
+        else:
+            diagnoses_df.loc[index] = [gt] + diagnoses
 
     # Save the diagnoses to a new CSV file
     output_path = f'data/{output_file}'
@@ -159,4 +207,4 @@ def get_diagnosis(prompt, dataframe, output_file, model):
 
 
 # Call the get_diagnosis function
-get_diagnosis(PROMPT_TEMPLATE_V2, 'synthetic_medisearch_data_v2.csv', 'diagnoses_medisearch_v2_improved_c3sonnet.csv', "claude")
+get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mistral7b.csv', "mistral7b")

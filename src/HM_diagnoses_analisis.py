@@ -19,15 +19,13 @@ model = AzureChatOpenAI(
     max_tokens=800
 )
 
-def get_scores(model, dataframe, output_file):
+def get_scores(model, dataframe, gt, output_file):
     # Load the diagnoses data
     input_path = f'data/{dataframe}'
-    df = pd.read_csv(input_path)
+    df_dx = pd.read_csv(input_path)
+    gt_path = f'data/{gt}'
+    df_gt = pd.read_excel(gt_path)
 
-    # Summarize the data
-    # print(df.describe())
-    # print(df.head())
-    # print(df.shape)
 
     # Now we will analyze the data to see if the GT is in the column 1 of diagnoses (each column has between 3 to 6 diagnoses), between P1 and P5 predictions.
     # Then we will create a new DataFrame to store the scores of the predictions.
@@ -58,9 +56,9 @@ def get_scores(model, dataframe, output_file):
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
     # Iterate over the rows in the diagnoses data
-    for index, row in tqdm(df.iterrows(), total=df.shape[0]):
+    for index, row in tqdm(df_dx.iterrows(), total=df_dx.shape[0]):
         # Get the ground truth (GT) and the first prediction
-        gt = row[0]
+        gt = df_gt.loc[index, 'Juicio Diagnóstico']
         predictions = row[1]
 
         # Generate a score for the prediction
@@ -86,5 +84,5 @@ def get_scores(model, dataframe, output_file):
     scores_df.to_csv(output_path, index=False)
 
 # get_scores(model, 'diagnoses_medisearch_turbo_v2.csv', 'scores_medisearch_turbo_v2.csv')
-get_scores(model, 'diagnoses_v2_mistral7b.csv', 'scores_mistral7b_v2.csv')
+get_scores(model, 'diagnoses_URG_Torre_Dic_200_mistralmoe.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_mistralmoe.csv')
 

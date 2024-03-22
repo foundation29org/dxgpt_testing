@@ -2,9 +2,9 @@ import os
 import pandas as pd
 
 # Load the scores data
-df = pd.read_csv('data/scores_medisearch_v2_improved_c3sonnet.csv')
+df = pd.read_csv('data/scores_v2_genprom_c3sonnet.csv')
 
-df2 = pd.read_csv('data/scores_medisearch_v2_improved_gpt4.csv')
+df2 = pd.read_csv('data/scores_mistralmoe_v2.csv')
 
 # Summarize the data
 print(df.describe())

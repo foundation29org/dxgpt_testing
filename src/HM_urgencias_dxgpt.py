@@ -32,8 +32,8 @@ PROMPT_TEMPLATE = "Behave like a hypotethical doctor who has to do a diagnosis f
 human_message_prompt = HumanMessagePromptTemplate.from_template(PROMPT_TEMPLATE)
 chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
-# Iterate over the rows with indices 1, 14, 15, 20, 21, 22, 24, 77, 79, 98 in the synthetic data
-for index, row in tqdm(dataset.loc[[0, 13, 14, 19, 20, 21, 23, 76, 78, 97]].iterrows(), total=10):
+# Iterate over the rows in the synthetic data
+for index, row in tqdm(dataset[:200].iterrows(), total=dataset[:200].shape[0]):
     # Get the ground truth (GT) and the description
     description = row[0]
     # Generate a diagnosis
@@ -56,5 +56,5 @@ for index, row in tqdm(dataset.loc[[0, 13, 14, 19, 20, 21, 23, 76, 78, 97]].iter
     diagnoses_df.loc[index] = [description] + diagnoses
 
 # Save the diagnoses to a new CSV file
-diagnoses_df.to_csv('data/diagnoses_URG_Torre_Dic_2022_IA_GEN.csv', index=False)
+diagnoses_df.to_csv('data/diagnoses_URG_Torre_Dic_200.csv', index=False)
 

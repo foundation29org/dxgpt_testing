@@ -10,3 +10,5 @@ tqdm
 medisearch_client
 openpyxl
 boto3
+anthropic
+plotly
