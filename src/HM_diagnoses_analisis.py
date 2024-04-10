@@ -84,5 +84,5 @@ def get_scores(model, dataframe, gt, output_file):
     scores_df.to_csv(output_path, index=False)
 
 # get_scores(model, 'diagnoses_medisearch_turbo_v2.csv', 'scores_medisearch_turbo_v2.csv')
-get_scores(model, 'diagnoses_URG_Torre_Dic_200_mistralmoe.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_mistralmoe.csv')
+get_scores(model, 'diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_gpt4turbo0409.csv')
 

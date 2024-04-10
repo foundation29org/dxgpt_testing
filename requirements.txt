@@ -12,3 +12,7 @@ openpyxl
 boto3
 anthropic
 plotly
+datasets
+hpo3
+ipykernel
+nbformat

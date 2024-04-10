@@ -1,0 +1,76 @@
+GT,Score
+['Prader-Willi syndrome'],P1
+['Prader-Willi syndrome'],P5
+['Prader-Willi syndrome'],P1
+['Prader-Willi syndrome'],P1
+['Prader-Willi syndrome'],P0
+['Wilson disease'],P1
+['Wilson disease'],P1
+['Wilson disease'],P1
+['Wilson disease'],P1
+['Wilson disease'],P1
+['McCune-Albright syndrome'],P1
+['McCune-Albright syndrome'],P1
+['McCune-Albright syndrome'],P1
+['McCune-Albright syndrome'],P1
+['McCune-Albright syndrome'],P1
+"['Neonatal Marfan syndrome', 'Marfan syndrome']",P5
+"['Neonatal Marfan syndrome', 'Marfan syndrome']",P1
+"['Neonatal Marfan syndrome', 'Marfan syndrome']",P1
+"['Neonatal Marfan syndrome', 'Marfan syndrome']",P1
+"['Neonatal Marfan syndrome', 'Marfan syndrome']",P0
+['Desminopathy'],P0
+['Desminopathy'],P5
+['Desminopathy'],P0
+['Desminopathy'],P0
+['Brugada syndrome'],P0
+['Brugada syndrome'],P5
+['Brugada syndrome'],P0
+[],P0
+[],P0
+[],P0
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']",P0
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']",P0
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']",P1
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']",P0
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']",P1
+['Myasthenia gravis'],P1
+['Myasthenia gravis'],P1
+['Myasthenia gravis'],P1
+['Myasthenia gravis'],P1
+['Myasthenia gravis'],P1
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']",P1
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']",P0
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']",P0
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']",P0
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']",P5
+['Alport syndrome'],P0
+['Alport syndrome'],P1
+['Alport syndrome'],P1
+['Alport syndrome'],P0
+['Alport syndrome'],P1
+['Alport syndrome'],P0
+['Alport syndrome'],P1
+['Alport syndrome'],P0
+['Fabry disease'],P0
+['Fabry disease'],P0
+['Fabry disease'],P0
+['Gitelman syndrome'],P1
+['Gitelman syndrome'],P5
+['Gitelman syndrome'],P5
+['Gitelman syndrome'],P1
+['Paroxysmal nocturnal hemoglobinuria'],P0
+['Paroxysmal nocturnal hemoglobinuria'],P0
+['Paroxysmal nocturnal hemoglobinuria'],P1
+['Paroxysmal nocturnal hemoglobinuria'],P1
+['Paroxysmal nocturnal hemoglobinuria'],P1
+['POEMS syndrome'],P0
+['POEMS syndrome'],P0
+['POEMS syndrome'],P0
+['POEMS syndrome'],P0
+['POEMS syndrome'],P0
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']",P0
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']",P0
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']",P0
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']",P0
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']",P0

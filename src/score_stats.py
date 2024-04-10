@@ -2,14 +2,14 @@ import os
 import pandas as pd
 
 # Load the scores data
-df = pd.read_csv('data/scores_v2_genprom_c3sonnet.csv')
+df2 = pd.read_csv('data/scores_RAMEDIS_c3sonnet.csv')
 
-df2 = pd.read_csv('data/scores_mistralmoe_v2.csv')
+df = pd.read_csv('data/scores_URG_Torre_Dic_200_gpt4turbo0409.csv')
 
 # Summarize the data
-print(df.describe())
-print(df.head())
-print(df.shape)
+# print(df.describe())
+# print(df.head())
+# print(df.shape)
 
 # Give me the stats for P1, P5 and P0
 print(df['Score'].value_counts())

@@ -1,22 +1,68 @@
 import os
 import re
 import json
+import logging
+from datasets import load_dataset
+import requests
+import pyhpo
 import pandas as pd
 import boto3
 from dotenv import load_dotenv
 from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
 from langchain_community.chat_models import BedrockChat
-from langchain.schema import HumanMessage
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain_community.chat_models.azureml_endpoint import AzureMLChatOnlineEndpoint
+from langchain_community.chat_models.azureml_endpoint import (
+    AzureMLEndpointApiType,
+    CustomOpenAIChatContentFormatter,
+)
+from langchain_core.messages import HumanMessage
 from tqdm import tqdm
 import anthropic
 
 from open_models import initialize_mistralmoe, initialize_mistral7b
 
+logging.basicConfig(level=logging.INFO)
 
 # Load the environment variables from the .env file
 load_dotenv()
+
+def orpha_api_get_disease_name(disease_code):
+    """
+    Get disease name from Orpha API
+    """
+    api_key = "f29dev"
+    int_code = disease_code.split(":")[1]
+    url = f"https://api.orphacode.org/EN/ClinicalEntity/orphacode/{int_code}/Name"
+    headers = {
+        "accept": "application/json",
+        "apiKey": api_key
+    }
+    
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code == 200:
+        data = response.json()
+        return data["Preferred term"]
+    else:
+        return None
+
+def mapping_fn_with_hpo3_plus_orpha_api(data):
+    """
+    Same as mapping_fn but with HPO3
+    This function takes in the dataset and returns the mapped dataset
+    Input is a list of Example objects. Output should be another list of Example objects
+    Change Phenotype object list to list of texts mapped.
+    """
+    pyhpo.Ontology()
+    mapped_data = []
+    for example in data:
+        example["Phenotype"] = [pyhpo.Ontology.get_hpo_object(phenotype).name for phenotype in example["Phenotype"]]
+        example["RareDisease"] = [orpha_api_get_disease_name(disease) for disease in example["RareDisease"] if disease.startswith("ORPHA:")]
+        mapped_data.append(example)
+
+    return mapped_data
 
 def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
     client = anthropic.Anthropic(
@@ -31,7 +77,6 @@ def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
     )
     # print(message.content)
     return message
-
 
 def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
     aws_access_key_id = os.getenv("BEDROCK_USER_KEY")
@@ -52,6 +97,7 @@ def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
     #     "top_p": 1,
     #     "temperature": temperature,
     # })
+
     body = json.dumps({
         "max_tokens": max_tokens,
         "temperature": temperature,
@@ -76,8 +122,42 @@ def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
 
     return json.loads(response.get('body').read())
 
+def initialize_azure_llama2(prompt, temperature=0, max_tokens=800):
+    llm = AzureMLChatOnlineEndpoint(
+        endpoint_url=os.getenv("AZURE_ML_ENDPOINT"),
+        endpoint_api_type="serverless",
+        endpoint_api_key=os.getenv("AZURE_ML_API_KEY"),
+        content_formatter=CustomOpenAIChatContentFormatter(),
+        deployment_name="Llama-2-7b-chat-dxgpt",
+        model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens},
+    )
+
+    response = llm.invoke(
+        [HumanMessage(content=prompt)]
+    )
+
+    # logging.warning(response.content)
+    return response.content
+
+def initialize_azure_cohere_cplus(prompt, temperature=0, max_tokens=800):
+    llm = AzureMLChatOnlineEndpoint(
+        endpoint_url=os.getenv("AZURE_ML_ENDPOINT_2"),
+        endpoint_api_type="serverless",
+        endpoint_api_key=os.getenv("AZURE_ML_API_KEY_2"),
+        content_formatter=CustomOpenAIChatContentFormatter(),
+        deployment_name="Cohere-command-r-plus-dxgpt",
+        model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens},
+    )
+
+    response = llm.invoke(
+        [HumanMessage(content=prompt)]
+    )
+
+    # logging.warning(response.content)
+    return response.content
 
 # Initialize the AzureChatOpenAI model
+# This is gpt4-0613
 gpt4 = AzureChatOpenAI(
     openai_api_version=os.getenv("OPENAI_API_VERSION"),
     azure_deployment=os.getenv("DEPLOYMENT_NAME"),
@@ -86,6 +166,8 @@ gpt4 = AzureChatOpenAI(
     model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
 )
 
+# Initialize the AzureChatOpenAI model
+# This is gpt4-turbo-1106
 gpt4turbo = AzureChatOpenAI(
     openai_api_version=os.getenv("OPENAI_API_VERSION"),
     azure_deployment="nav29turbo",
@@ -94,17 +176,16 @@ gpt4turbo = AzureChatOpenAI(
     model_kwargs={"top_p": 1, "frequency_penalty": 0, "presence_penalty": 0}
 )
 
-# Initialize the ChatOpenAI model turbo
-# model_name = "gpt-4-1106-preview"
-# openai_api_key=os.getenv("OPENAI_API_KEY")
-# gpt4turbo = ChatOpenAI(
-#         openai_api_key = openai_api_key,
-#         model_name = model_name,
-#         temperature = 0,
-#     )
-
-# Initialize the Claude 3 Sonnet model
-# claude3s = initialize_bedrock_claude(temperature=0, max_tokens=4096)
+# Initialize the last ChatOpenAI model turbo
+# This is gpt4-turbo-0409
+model_name = "gpt-4-turbo-2024-04-09"
+openai_api_key=os.getenv("OPENAI_API_KEY")
+newgpt4turbo = ChatOpenAI(
+        openai_api_key = openai_api_key,
+        model_name = model_name,
+        temperature = 0,
+        max_tokens = 800,
+    )
 
 
 PROMPT_TEMPLATE_RARE = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Give me a list of potential rare diseases with a short description. Shows for each potential rare diseases always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the disease and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common. The text is \n Symptoms:{description}"
@@ -131,16 +212,23 @@ Patient Symptoms:
 
 
 def get_diagnosis(prompt, dataframe, output_file, model):
-    HM = False
-    # Load the synthetic data
+    HM = False # HM Hospitals
+    HF = False # Hugging Face Datasets
+    if isinstance(dataframe, list):
+        HF = True
+
+    # Load the data
     input_path = f'data/{dataframe}'
-    if input_path.endswith('.csv'):
+    if HF:
+        df = pd.DataFrame(dataframe)
+    elif input_path.endswith('.csv'):
         df = pd.read_csv(input_path, sep=',')
     elif input_path.endswith('.xlsx'):
         df = pd.read_excel(input_path)
         HM = True
     else:
         raise ValueError("Unsupported file extension. Please provide a .csv or .xlsx file.")
+        
     # Create a new DataFrame to store the diagnoses
     diagnoses_df = pd.DataFrame(columns=['GT', 'Diagnosis 1'])
 
@@ -153,6 +241,9 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         # Get the ground truth (GT) and the description
         if HM:
             description = row[0]
+        elif HF:
+            description = row["Phenotype"]
+            gt = row["RareDisease"]
         else:
             gt = row[0]
             description = row[1]
@@ -165,8 +256,8 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         while attempts < 2:
             try:
                 if model == "claude":
-                    # diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
-                    diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
+                    diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
+                    # diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
                     # print(diagnosis)
                 elif model == "mistralmoe":
                     diagnosis = initialize_mistralmoe(formatted_prompt[0].content)["outputs"][0]["text"]
@@ -174,6 +265,10 @@ def get_diagnosis(prompt, dataframe, output_file, model):
                 elif model == "mistral7b":
                     diagnosis = initialize_mistral7b(formatted_prompt[0].content)["outputs"][0]["text"]
                     print(diagnosis)
+                elif model == "llama2_7b":
+                    diagnosis = initialize_azure_llama2(formatted_prompt[0].content)
+                elif model == "cohere_cplus":
+                    diagnosis = initialize_azure_cohere_cplus(formatted_prompt[0].content)
                 else:
                     diagnosis = model(formatted_prompt).content  # Call the model instance directly
                 break
@@ -201,10 +296,23 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         else:
             diagnoses_df.loc[index] = [gt] + diagnoses
 
+        # print(diagnoses_df.loc[index])
+        # break
+
     # Save the diagnoses to a new CSV file
     output_path = f'data/{output_file}'
     diagnoses_df.to_csv(output_path, index=False)
 
 
+# datasets = ["RAMEDIS", "MME", "HMS", "LIRICAL", "PUMCH_ADM"]
+# data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
+
+# mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
+# print(type(mapped_data))
+
+# print(mapped_data[:5])
+
 # Call the get_diagnosis function
-get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mistral7b.csv', "mistral7b")
+# get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mistral7b.csv', "mistral7b")
+# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_gpt4turbo040.csv', newgpt4turbo)
+get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv', newgpt4turbo)
