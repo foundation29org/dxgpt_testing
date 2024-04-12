@@ -20,13 +20,16 @@ from langchain_community.chat_models.azureml_endpoint import (
 from langchain_core.messages import HumanMessage
 from tqdm import tqdm
 import anthropic
-
+import vertexai
+from vertexai.preview.generative_models import GenerativeModel
+from google.oauth2 import service_account
 from open_models import initialize_mistralmoe, initialize_mistral7b
 
 logging.basicConfig(level=logging.INFO)
 
 # Load the environment variables from the .env file
 load_dotenv()
+
 
 def orpha_api_get_disease_name(disease_code):
     """
@@ -156,6 +159,33 @@ def initialize_azure_cohere_cplus(prompt, temperature=0, max_tokens=800):
     # logging.warning(response.content)
     return response.content
 
+def initialize_gcp_geminipro(prompt, temperature=0, max_tokens=800):
+    PROJECT_ID = "nav29-21389"
+    REGION = "us-central1"
+    credentials = service_account.Credentials.from_service_account_file(
+    './nav29-21389-c1a94e300dcb.json')
+    vertexai.init(project=PROJECT_ID, location=REGION, credentials=credentials)
+
+    geminipro_model = GenerativeModel("gemini-1.5-pro-preview-0409")
+    response = geminipro_model.generate_content([prompt],
+                                                generation_config={
+            "max_output_tokens": max_tokens,
+            "temperature": temperature,
+            "top_p": 1,
+            "top_k": 32
+        },
+        safety_settings = {
+        },
+        stream=False)
+    response_text = ""
+    if response.to_dict()["candidates"] == []:
+        response_text = "No response available due to inappropriate content, request error or safety settings."
+    else:
+        response_text = response.to_dict()["candidates"][0]["content"]["parts"][0]["text"]
+    print(response_text)
+
+    return response_text
+
 # Initialize the AzureChatOpenAI model
 # This is gpt4-0613
 gpt4 = AzureChatOpenAI(
@@ -269,6 +299,8 @@ def get_diagnosis(prompt, dataframe, output_file, model):
                     diagnosis = initialize_azure_llama2(formatted_prompt[0].content)
                 elif model == "cohere_cplus":
                     diagnosis = initialize_azure_cohere_cplus(formatted_prompt[0].content)
+                elif model == "geminipro":
+                    diagnosis = initialize_gcp_geminipro(formatted_prompt[0].content)
                 else:
                     diagnosis = model(formatted_prompt).content  # Call the model instance directly
                 break
@@ -304,15 +336,15 @@ def get_diagnosis(prompt, dataframe, output_file, model):
     diagnoses_df.to_csv(output_path, index=False)
 
 
-# datasets = ["RAMEDIS", "MME", "HMS", "LIRICAL", "PUMCH_ADM"]
-# data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
+datasets = ["RAMEDIS", "MME", "HMS", "LIRICAL", "PUMCH_ADM"]
+data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
 
-# mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
-# print(type(mapped_data))
+mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
+print(type(mapped_data))
 
-# print(mapped_data[:5])
+print(mapped_data[:5])
 
 # Call the get_diagnosis function
 # get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mistral7b.csv', "mistral7b")
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_gpt4turbo040.csv', newgpt4turbo)
-get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv', newgpt4turbo)
+get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_geminipro15.csv', "geminipro")
+# get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_geminipro15.csv', "geminipro")

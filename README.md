@@ -44,6 +44,7 @@ process. `diagnoses_` prefix is used for the files that contain the actual diagn
    - `_llama`: Data evaluated using the LLaMA model.
    - `_c3`: Data evaluated using the Claude 3 model.
    - `_mistral`: Data evaluated using the Mistral model.
+   - `_geminipro15`: Data evaluated using the Gemini Pro 1.5 model.
 
 ### Modifiers
 

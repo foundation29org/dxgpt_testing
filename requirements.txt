@@ -16,3 +16,4 @@ datasets
 hpo3
 ipykernel
 nbformat
+google-cloud-aiplatform
