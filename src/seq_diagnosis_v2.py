@@ -23,7 +23,7 @@ import anthropic
 import vertexai
 from vertexai.preview.generative_models import GenerativeModel
 from google.oauth2 import service_account
-from open_models import initialize_mistralmoe, initialize_mistral7b, initialize_mixtral_moe_big
+from open_models import initialize_mistralmoe, initialize_mistral7b
 
 from translate import deepl_translate
 
@@ -286,8 +286,59 @@ Patient Symptoms:
 </prompt>
 """
 
+PROMPT_TEMPLATE_V2_STEP1 = """
+Act as a hypothetical doctor tasked with diagnosing a patient based on the provided symptoms. Provide a detailed analysis of one potential disease. Includes the disease name, a brief description with the probability of diagnosis, and a list of key identifier symptoms indicating their presence based on the patient's description.
+        Disease Name: {{name of the disease}}
+        Brief Description: {{short description of the disease with a probability of diagnosis (high, moderate, or low) and the reasoning}}
+        Non-common Symptoms: {{list of symptom names without descriptions, that are key identifiers for the disease. If possible, give me the 12 most important key symptoms of the disease. For each symptom, indicate if it is present in the patient or not by adding a checkmark or an X}}
+        Do not include any additional explanations or disclaimers beyond the requested information. Begin with the patient's description as follows.
+        Please format the response in JSON:
+        {{
+        "diseaseName": "{{name of the disease}}",
+        "briefDescription": "{{brief description with probability of diagnosis}}",
+        "nonCommonSymptoms": [
+            {{"name": "Symptom 1", "checked": true/false}},
+            {{"name": "Symptom 2", "checked": true/false}},
+            ...
+            {{"name": "Symptom 12", "checked": true/false}}
+        ]
+        }}
 
-def get_diagnosis(prompt, dataframe, output_file, model):
+        The patient's description is: \n
+        {description}
+"""
+
+PROMPT_TEMPLATE_V2_STEP2 = """
+Behave like a hypothetical doctor who has to diagnose a patient based on the provided symptoms. Continue analyzing and suggest another potential disease, ensuring not to repeat any from the provided list. Includes the disease name, a brief description with the probability of diagnosis, and a list of key identifier symptoms indicating their presence based on the patient's description.
+            Previously diagnosed diseases: `{diseases}`
+            Disease Name: {{name of the disease}}
+            Brief Description: {{short description of the disease with a probability of diagnosis (high, moderate, or low) and the reasoning}}
+            Non-common Symptoms: {{list of symptom names without descriptions, that are key identifiers for the disease. If possible, give me the 12 most important key symptoms of the disease. For each symptom, indicate if it is present in the patient or not by adding a checkmark or an X}}
+            Do not include any additional explanations or disclaimers beyond the requested information. Begin with the patient's description as follows.
+            Please format the response in JSON:
+            {{
+            "diseaseName": "{{name of the disease}}",
+            "briefDescription": "{{brief description with probability of diagnosis}}",
+            "nonCommonSymptoms": [
+                {{"name": "Symptom 1", "checked": true/false}},
+                {{"name": "Symptom 2", "checked": true/false}},
+                ...
+                {{"name": "Symptom 12", "checked": true/false}}
+            ]
+            }}
+   
+            The patient's description is: \n
+            {description}
+"""
+
+def step_2(prompt, disease_name, description):
+    # Define the chat prompt template
+    human_message_prompt = HumanMessagePromptTemplate.from_template(prompt)
+    chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
+    formatted_prompt = chat_prompt.format_messages(diseases=disease_name, description=description)
+    return formatted_prompt
+
+def get_diagnosis(prompt, dataframe, output_file, model, seq=False):
     HM = False # HM Hospitals
     HF = False # Hugging Face Datasets
     if isinstance(dataframe, list):
@@ -326,7 +377,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         # Generate a diagnosis
         diagnoses = []
         # Generate the diagnosis using the GPT-4 model
-        if model == "llama3_70b_ENG":
+        if model == "llama3_70b":
             english_description = deepl_translate(description)
             formatted_prompt = chat_prompt.format_messages(description=english_description)
         else:
@@ -340,8 +391,6 @@ def get_diagnosis(prompt, dataframe, output_file, model):
                 elif model == "c3sonnet":
                     diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
                     # print(diagnosis)
-                elif model == "mistralmoebig":
-                    diagnosis = initialize_mixtral_moe_big(formatted_prompt[0].content)
                 elif model == "mistralmoe":
                     diagnosis = initialize_mistralmoe(formatted_prompt[0].content)["outputs"][0]["text"]
                     # print(diagnosis)
@@ -360,6 +409,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
                     diagnosis = initialize_gcp_geminipro(formatted_prompt[0].content)
                 else:
                     diagnosis = model(formatted_prompt).content  # Call the model instance directly
+                    # print(diagnosis)
                 break
             except Exception as e:
                 attempts += 1
@@ -367,6 +417,31 @@ def get_diagnosis(prompt, dataframe, output_file, model):
                 if attempts == 2:
                     diagnosis = "ERROR"
         
+        if seq:
+            final_diagnoses = ""
+            # final_diagnoses += "\n" + diagnosis
+            data = json.loads(diagnosis)  # Changed from json.load to json.loads to handle string input directly
+        
+            # Extract the disease name
+            disease_name = data['diseaseName']
+            brief_description = data['briefDescription']
+            final_diagnoses += "Top 1: " + disease_name + " - " + brief_description
+            disease_list = [disease_name]
+            # Sequentially call step 2, 4 times more
+            for _ in range(4):
+                # print(f"Step: {_}")
+                formatted_prompt = step_2(PROMPT_TEMPLATE_V2_STEP2, disease_list, description)
+                # print(formatted_prompt)
+                diagnosis = model(formatted_prompt).content
+                # final_diagnoses += "\n" + diagnosis
+                # print(final_diagnoses)
+                data = json.loads(diagnosis)  # Changed from json.load to json.loads to handle string input directly
+                disease_name = data['diseaseName']
+                brief_description = data['briefDescription']
+                final_diagnoses += f"\n Top {_+2}: " + disease_name + " - " + brief_description
+                # print(final_diagnoses)
+                disease_list.append(disease_name)
+
         # Extract the content within the <top5> tags using regular expressions
         # print(diagnosis)
         match = re.search(r"<top5>(.*?)</top5>", diagnosis, re.DOTALL)
@@ -374,9 +449,13 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         if match:
             diagnosis = match.group(1).strip()
         else:
-            print("ERROR: <top5> tags not found in the response.")
+            # print("ERROR: <top5> tags not found in the response.")
+            pass
 
-        diagnoses.append(diagnosis)
+        if seq:
+            diagnoses.append(final_diagnoses)
+        else:
+            diagnoses.append(diagnosis)
         # print(diagnosis)
 
         # Add the diagnoses to the new DataFrame
@@ -397,14 +476,13 @@ def get_diagnosis(prompt, dataframe, output_file, model):
 # data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
 
 # mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
-# print(type(mapped_data))
 
-# print(mapped_data[:5])
+# get_diagnosis(PROMPT_TEMPLATE_V2_STEP1, 'synthetic_data_v2.csv', 'seq_diagnoses_v2_gpt4_0613.csv', gpt4_0613azure, seq=True)
 
-# get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mixtralmoe_big.csv', "mistralmoebig")
+# get_diagnosis(PROMPT_TEMPLATE_V2_STEP1, mapped_data, 'seq_diagnoses_RAMEDIS_gpt4turbo0409.csv', gpt4turbo0409, seq=True)
 
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', "mistralmoebig")
+# get_diagnosis(PROMPT_TEMPLATE_V2_STEP1, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'seq_diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv', gpt4turbo0409, seq=True)
 
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_mixtralmoe_big.csv', "mistralmoebig")
+get_diagnosis(PROMPT_TEMPLATE_V2_STEP1, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'seq_diagnoses_URG_Torre_Dic_200_gpt4_0613.csv', gpt4_0613azure, seq=True)
 
-get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_mixtralmoe_big.csv', "mistralmoebig")
+

@@ -1,0 +1,1052 @@
+GT,Diagnosis 1
+['Prader-Willi syndrome']," +1. Cerebral Palsy: Compulsive behaviors, Delayed speech and language development, Neonatal hypotonia, Slurred speech, Decreased fetal movement, Weak cry, Poor suck, + (Abnormal stomach morphology is not a common symptom of Cerebral Palsy)
++2. Down Syndrome: Delayed speech and language development, Mild postnatal growth retardation, Decreased fetal movement, Weak cry, + (Compulsive behaviors, Neonatal hypotonia, Slurred speech, Abnormal stomach morphology, Increased body weight, Aspiration pneumonia, Grade I preterm intraventricular hemorrhage, Elevated hemoglobin A1c are not common symptoms of Down Syndrome)
++3. Hypotonia: Neonatal hypotonia, + (Compulsive behaviors, Delayed speech and language development, Slurred speech, Mild postnatal growth retardation, Decreased fetal movement, Weak cry, Abnormal stomach morphology, Increased body weight, Aspiration pneumonia, Grade I preterm intraventricular hemorrhage, Elevated hemoglobin A1c are not directly related to Hypotonia)
++4. Gastrointestinal Disorder: Abnormal stomach morphology, + (Compulsive behaviors, Delayed speech and language development, Neonatal hypotonia, Slurred speech, Mild postnatal growth retardation, Decreased fetal movement, Weak cry, Poor suck, Grade I preterm intraventricular hemorrhage, Elevated hemoglobin A1c are not directly related to Gastrointestinal Disorder)
++5. Diabetes Mellitus: Elevated hemoglobin A1c, + (Compulsive behaviors, Delayed speech and language development, Neonatal hypotonia, Slurred speech, Mild postnatal growth retardation, Decreased fetal movement, Weak cry, Poor suck, Abnormal stomach morphology, Aspiration pneumonia, Grade I preterm intraventricular hemorrhage are not directly related to Diabetes Mellitus)
++6. Pneumonia: Aspiration pneumonia, + (Compulsive behaviors, Delayed speech and language development, Neonatal hypotonia, Slurred speech, Mild postnatal growth retardation, Decreased fetal movement, Weak cry, Poor suck, Abnormal stomach morphology, Grade I preterm intraventricular hemorrhage, Elevated hemoglobin A1c are not directly related to Pneumonia)"
+['Prader-Willi syndrome']," +1. Down Syndrome: Cryptorchidism, Dysphonia, Infantile muscular hypotonia, Meconium stained amniotic fluid. The patient does not have carious teeth or excessive daytime somnolence associated with this condition.
+
++2. Cystic Fibrosis: Cryptorchidism, Meconium stained amniotic fluid. The patient does not have carious teeth, excessive daytime somnolence, dysphonia, infantile muscular hypotonia, or feeding difficulties associated with this condition.
+
++3. Hypothyroidism: Infantile muscular hypotonia, Excessive daytime somnolence. The patient does not have cryptorchidism, carious teeth, dysphonia, or feeding difficulties associated with this condition.
+
++4. Gastroesophageal Reflux Disease (GERD): Feeding difficulties. The patient does not have cryptorchidism, carious teeth, dysphonia, infantile muscular hypotonia, or meconium stained amniotic fluid associated with this condition.
+
++5. Spinal Muscular Atrophy: Infantile muscular hypotonia, Dysphonia. The patient does not have cryptorchidism, carious teeth, excessive daytime somnolence, or feeding difficulties associated with this condition.
+
++6. Meningitis: Dysphonia, Fever (not mentioned in the symptoms). The patient does not have cryptorchidism, carious teeth, excessive daytime somnolence, infantile muscular hypotonia, or feeding difficulties associated with this condition.
+
++7. Hypopituitarism: Infantile muscular hypotonia, Dysphonia, Excessive daytime somnolence. The patient does not have cryptorchidism, carious teeth, or feeding difficulties associated with this condition.
+
++8. Hypoglycemia: Feeding difficulties. The patient does not have cryptorchidism, carious teeth, dysphonia, infantile muscular hypotonia, or meconium stained amniotic fluid associated with this condition.
+
++9. Congenital Adrenal Hyperplasia: Dysphonia, Salt craving. The patient does not have cryptorchidism, carious teeth, excessive daytime somnolence, infantile muscular hypotonia, or feeding difficulties associated with this condition.
+
++10. Neurological Disorders: Dysphonia, Muscle weakness. The patient does not have cryptorchidism, carious teeth, excessive daytime somnolence, infantile muscular hypotonia, or feeding difficulties associated with this condition.
+
++11. Hearing Impairment: Dysphonia (if related to voice production). The patient does not have cryptorchidism, carious teeth, excessive daytime somnolence, infantile muscular hypotonia, or feeding difficulties associated with this condition.
+
++12. Celiac Disease: Feeding difficulties, Failure to thrive. The patient does not have cryptorchidism, carious teeth, dysphonia, infantile muscular hypotonia, or meconium stained amniotic fluid associated with this condition.
+
++13. Hepatitis: Jaundice (not mentioned in the symptoms), Feeding difficulties. The patient does not have cryptorchidism, carious teeth, dysphonia, infantile muscular hypotonia, or meconium stained amniotic fluid associated with this condition.
+
+"
+['Prader-Willi syndrome']," +1. Down syndrome: High palate, Neonatal hypotonia, Intrauterine growth retardation, Abnormality of the palmar creases. +2. Treacher Collins syndrome: Abnormal mandible morphology, Abnormality of the palmar creases. +3. Marfan syndrome: High palate, Lacticaciduria (in severe cases). +4. Fetal alcohol spectrum disorders: Neonatal hypotonia, Poor appetite, Poor suck. +5. Cri du Chat syndrome: High palate, Neonatal hypotonia, Lacticaciduria. +6. Beckwith-Wiedemann syndrome: Neonatal hypotonia, Intrauterine growth retardation, Abnormal mandible morphology. +7. Ehlers-Danlos syndrome: Joint hypermobility (not mentioned in symptoms), Abnormality of the palmar creases. +8. Prader-Willi syndrome: Neonatal hypotonia, Poor appetite, Lacticaciduria. +9. Turner syndrome: Intrauterine growth retardation, Poor appetite, Short stature (not mentioned in symptoms). +10. Cornelia de Lange syndrome: Neonatal hypotonia, Abnormality of the palmar creases, Growth retardation (not mentioned in symptoms). +11. Moebius syndrome: Poor suck, Abnormal facial movements (not mentioned in symptoms). +12. Hypothyroidism: Poor appetite, Lethargy (not mentioned in symptoms), Constipation (not mentioned in symptoms). +13. Cystic fibrosis: Poor appetite, Lacticaciduria, Chronic lung infections (not mentioned in symptoms). +14. Sickle cell disease: Anemia (not mentioned in symptoms), Jaundice (not mentioned in symptoms), Delayed growth (not mentioned in symptoms). +15. Fanconi syndrome: Lacticaciduria, Polydipsia (not mentioned in symptoms), Polyuria (not mentioned in symptoms). +16. Congenital adrenal hyperplasia: Salt craving (not mentioned in symptoms), Vomiting (not mentioned in symptoms), Failure to thrive (not mentioned in symptoms). +17. Wilson disease: Jaundice, Kayser-Fleischer rings (not mentioned in symptoms), Speech difficulties (not mentioned in symptoms). +18. Tuberous sclerosis: Epilepsy (not mentioned in symptoms), Skin rash (not mentioned in symptoms), Intellectual disability (not mentioned in symptoms). +19. Fragile X syndrome: Neonatal hypotonia, Intellectual disability (not mentioned in symptoms), Macroorchidism (not mentioned in symptoms). +20. Huntington disease: Chorea (not mentioned in symptoms), Intellectual disability (not mentioned in symptoms), Psychiatric symptoms (not mentioned in symptoms)."
+['Prader-Willi syndrome']," +1. Down Syndrome: Compulsive behaviors, Delayed speech and language development, Poor suck, Postnatal growth retardation, Infantile muscular hypotonia.
++2. Cerebral Palsy: Compulsive behaviors (rare), Delayed speech and language development, Poor suck (feeding difficulties common), Postnatal growth retardation, Infantile muscular hypotonia (characteristic).
++3. Fetal Alcohol Spectrum Disorders: Compulsive behaviors (rare), Delayed speech and language development, Poor suck (possible), Postnatal growth retardation, Infantile muscular hypotonia (rare).
++4. Rett Syndrome: Compulsive behaviors (possible), Delayed speech and language development, Poor suck (possible), Postnatal growth retardation, Infantile muscular hypotonia (characteristic, but not the only symptom).
++5. Prader-Willi Syndrome: Compulsive behaviors, Delayed speech and language development, Poor suck (possible), Postnatal growth retardation, Infantile muscular hypotonia (characteristic).
++6. Hypothyroidism: Compulsive behaviors (rare), Delayed speech and language development, Poor suck (rare), Postnatal growth retardation, Infantile muscular hypotonia (rare).
++7. Muscular Dystrophies: Compulsive behaviors (rare), Delayed speech and language development (rare), Poor suck (rare), Postnatal growth retardation, Infantile muscular hypotonia (characteristic).
++8. Fragile X Syndrome: Compulsive behaviors (possible), Delayed speech and language development, Poor suck (rare), Postnatal growth retardation (possible), Infantile muscular hypotonia (possible).
++9. Tuberous Sclerosis Complex: Compulsive behaviors (rare), Delayed speech and language development, Poor suck (rare), Postnatal growth retardation (possible), Infantile muscular hypotonia (rare).
++10. Arnold-Chiari Malformation: Compulsive behaviors (rare), Delayed speech and language development (rare), Poor suck (rare), Postnatal growth retardation (possible), Infantile muscular hypotonia (rare).
+
+Please note that this list is not exhaustive and a proper diagnosis should be made by a healthcare professional based on a thorough evaluation of the patient's medical history, physical examination, and diagnostic tests."
+['Prader-Willi syndrome']," +1. Micropenis: A condition where the penis is abnormally small in size at birth. Symptoms: Micropenis.
++2. Myopia: A refractive error causing difficulty in seeing distant objects clearly. Symptoms: Myopia, not related to other symptoms.
++3. Amblyopia: A condition of reduced visual acuity in one or both eyes, not due to any refractive error or other eye disease. Symptoms: Amblyopia, not related to other symptoms.
++4. Encephalopathy: A general term for any disorder of the brain. Symptoms: Encephalopathy, Slurred speech, Decreased fetal movement, Cerebral ischemia, Intracranial hemorrhage, Hypocalcemia, Methylmalonic acidemia, Dicarboxylic aciduria, Propionic acidemia, Lacticaciduria, Abnormal circulating acylcarnitine concentration, Appendicular hypotonia, Meconium stained amniotic fluid, Neonatal asphyxia, Microphallus, Decreased circulating vitamin B12 concentration, Reduced blood folate concentration.
++5. Pneumonia: An infection that causes inflammation in the lungs. Symptoms: Pneumonia, not related to other symptoms.
++6. Intracranial hemorrhage: Bleeding within the skull, which can cause various neurological symptoms. Symptoms: Intracranial hemorrhage, Encephalopathy, Slurred speech, Cerebral ischemia.
++7. Obesity: A condition of excessive body weight, usually defined as a body mass index (BMI) of 30 or higher. Symptoms: Obesity, not related to other symptoms.
++8. Decreased fetal movement: Reduced or absent fetal movements during pregnancy. Symptoms: Decreased fetal movement, Meconium stained amniotic fluid, Neonatal asphyxia.
++9. Cerebral ischemia: A condition caused by reduced blood flow to the brain, which can lead to various neurological symptoms. Symptoms: Cerebral ischemia, Encephalopathy, Intracranial hemorrhage, Slurred speech.
++10. Hypocalcemia: A condition of low calcium levels in the blood. Symptoms: Hypocalcemia, Encephalopathy, Decreased fetal movement, Methylmalonic acidemia, Dicarboxylic aciduria, Propionic acidemia, Lacticaciduria, Abnormal circulating acylcarnitine concentration, Appendicular hypotonia, Microphallus, Decreased circulating vitamin B12 concentration, Reduced blood folate concentration.
++11. Methylmalonic acidemia: A metabolic disorder caused by a deficiency of methylmalonic acid metabolism. Symptoms: Methylmalonic acidemia, Hypocalcemia, Decreased fetal movement, Dicarboxylic aciduria, Propionic acidemia, Lacticaciduria, Abnormal circulating acylcarnitine concentration, Appendicular hypotonia, Microphallus, Decreased circulating vitamin B12 concentration, Reduced blood folate concentration.
++12. Dicarboxy"
+['Wilson disease']," +1. Hepatitis B or C: The patient presents with several symptoms suggestive of liver disease, including jaundice, elevated liver enzymes (ALT, AST), and abnormal urinary color (hematuria). Hepatitis B and C are viral infections that can cause liver damage and cirrhosis. The patient does not report a history of alcohol consumption, which is a common cause of cirrhosis, but does have an abnormality of hepatobiliary system physiology.
+
++2. Hemolytic Anemia: The patient presents with hematuria and a skin rash, which could be indicative of a hemolytic process. Hemolytic anemia is a condition characterized by the destruction of red blood cells, leading to anemia, jaundice, and hemoglobinuria. The patient does not report any symptoms of liver disease, such as jaundice or abnormal liver enzymes.
+
++3. Wilson's Disease: The patient presents with Kayser-Fleischer rings, which are characteristic of Wilson's disease. Wilson's disease is a rare genetic disorder that causes copper accumulation in the liver, brain, and other organs. The patient also reports decreased circulating ceruloplasmin concentration, which is a protein that helps transport copper in the blood. The patient does not report any symptoms of liver failure, such as ascites or encephalopathy.
+
++4. Porphyria: The patient presents with increased urinary porphobilinogen, which is a marker of porphyria. Porphyria is a group of metabolic disorders that affect the production of heme, a component of hemoglobin. The patient does not report any symptoms of liver failure or hemolysis.
+
++5. Cirrhosis with Hepatic Encephalopathy: The patient presents with several symptoms of liver disease, including jaundice, ascites, encephalopathy, and decreased circulating albumin. Cirrhosis is a chronic liver disease characterized by the replacement of functional liver tissue with scar tissue. The patient does not report any symptoms of hemolysis or porphyria.
+
++6. Acute Liver Failure: The patient presents with several symptoms of liver failure, including jaundice, abdominal distention, decreased circulating albumin, and prolonged prothrombin time. Acute liver failure can be caused by various conditions, including viral hepatitis, drug toxicity, and metabolic disorders. The patient does not report any symptoms of hemolysis or porphyria.
+
++7. Budd-Chiari Syndrome: The patient presents with abdominal distention, ascites, and decreased circulating albumin, which are symptoms of portal hypertension. Budd-Chiari syndrome is a condition caused by the obstruction of the hepatic veins, leading to portal hypertension and liver congestion. The patient does not report any symptoms of hemolysis or porphyria.
+
++8. Acute Renal Failure: The patient presents with decreased circulating creatinine kinase concentration and increased urinary porphobilinogen, which are not typical symptoms of liver disease. However, the patient also reports increased circulating aspartate aminotransferase and alanine aminotransferase concentrations, which can be seen in both liver and renal disease. The patient does not report any symptoms of hemolysis or porphyria.
+
++9. Sepsis: The patient presents with several nonspecific symptoms"
+['Wilson disease']," +1. Wilson's Disease: Irritability, Personality changes, Tremor, Nausea, Abdominal pain, Hepatomegaly, Sleep abnormality, Poor appetite, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration, Elevated circulating aspartate aminotranstransferase concentration, Elevated circulating alanine aminotransferase concentration, Kayser-Fleischer ring.
++2. Huntington's Disease: Irritability, Personality changes, Tremor, Mania (opposite: Depression in later stages).
++3. Parkinson's Disease: Tremor, Rigidity, Bradykinesia, Postural instability.
++4. Hepatitis: Abdominal pain, Nausea, Decreased appetite, Elevated circulating aspartate aminotransferase concentration, Elevated circulating alanine aminotransferase concentration.
++5. Bipolar Disorder: Irritability, Personality changes, Mania, Sleep abnormality.
++6. Cirrhosis: Abdominal pain, Hepatomegaly, Poor appetite, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration.
++7. Hemochromatosis: Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration, Elevated circulating aspartate aminotransferase concentration, Elevated circulating alanine aminotransferase concentration.
++8. Alcoholic Liver Disease: Abdominal pain, Poor appetite, Decreased circulating ceruloplasmin concentration, Elevated circulating aspartate aminotransferase concentration, Elevated circulating alanine aminotransferase concentration.
++9. Thyroid Disease: Irritability, Personality changes, Sleep abnormality, Poor appetite.
++10. Anemia: Decreased circulating ceruloplasmin concentration, Decreased appetite.
++11. Celiac Disease: Poor appetite, Abdominal pain.
++12. Pancreatitis: Abdominal pain, Nausea, Decreased appetite.
++13. Multiple Sclerosis: Personality changes, Sleep abnormality.
++14. Depression: Irritability, Personality changes, Poor appetite, Sleep abnormality.
++15. Anxiety Disorder: Irritability, Personality changes, Anxiety, Sleep abnormality.
++16. Chronic Fatigue Syndrome: Fatigue, Sleep abnormality, Poor appetite.
++17. Fibromyalgia: Fatigue, Widespread pain, Sleep abnormality.
++18. Lupus: Irritability, Personality changes, Fatigue, Abdominal pain, Joint pain.
++19. Sjogren's Syndrome: Fatigue, Dry mouth, Dry eyes.
++20. Rheumatoid Arthritis: Joint pain, Fatigue, Poor appetite.
+
+Please note that this list is not exhaustive and further diagnostic tests are required to confirm the diagnosis. The patient's medical history, physical examination, and laboratory tests should be considered in conjunction with the symptoms presented."
+['Wilson disease']," +1. Wilson's Disease: This is a rare inherited disorder caused by a defect in the copper metabolism. Patients with Wilson's Disease may experience symptoms such as Kayser-Fleischer rings, liver abnormality, decreased circulating ceruloplasmin concentration, increased urinary copper concentration, and neurological symptoms like tremors, slurred speech, and dysphagia. The patient in question exhibits most of these symptoms, making Wilson's Disease a strong possibility.
+
++2. Hepatic Encephalopathy: This condition is characterized by the deterioration of brain function due to liver disease. Patients may experience symptoms such as confusion, slurred speech, and decreased appetite. The patient in question presents with symptoms of both liver abnormality and decreased appetite, making Hepatic Encephalopathy a potential diagnosis. However, the presence of Hematuria and abnormal caudate nucleus morphology are not typical symptoms of Hepatic Encephalopathy.
+
++3. Parkinson's Disease: This is a progressive neurological disorder that affects movement. Patients with Parkinson's Disease may experience symptoms such as tremors, rigidity, and bradykinesia. The patient in question presents with hand tremor, making Parkinson's Disease a potential diagnosis. However, the presence of Hematuria, abnormality of the liver, and decreased circulating ceruloplasmin concentration are not typical symptoms of Parkinson's Disease.
+
++4. Wilson-Mikulicz Syndrome: This is a rare condition characterized by both Wilson's Disease and Mikulicz Syndrome (swelling of the salivary and lacrimal glands). Patients with Wilson-Mikulicz Syndrome may experience symptoms such as Kayser-Fleischer rings, liver abnormality, decreased circulating ceruloplasmin concentration, increased urinary copper concentration, and swelling of the salivary and lacrimal glands. The patient in question exhibits most of these symptoms, making Wilson-Mikulicz Syndrome a strong possibility.
+
++5. Hemorrhagic Cystitis: This condition is characterized by bleeding in the bladder or urinary tract. Patients may experience symptoms such as Hematuria and poor appetite. The patient in question presents with both Hematuria and poor appetite, making Hemorrhagic Cystitis a potential diagnosis. However, the presence of neurological symptoms and abnormalities of the liver and caudate nucleus are not typical symptoms of Hemorrhagic Cystitis."
+['Wilson disease']," +1. Wilson's Disease: Muscle weakness, Slurred speech, Abnormality of the liver, Splenomegaly, Abnormal caudate nucleus morphology, Involuntary movements, Kayser-Fleischer ring, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration, Hand muscle weakness.
++2. Hemochromatosis: Abnormality of the liver, Splenomegaly, Increased body weight, Increased circulating ferritin concentration.
++3. Parkinson's Disease: Muscle weakness, Incoordination, Involuntary movements, Abnormality of the caudate nucleus morphology.
++4. Hepatitis: Abnormality of the liver, Elevated circulating alkaline phosphatase concentration.
++5. Hemolytic Anemia: Microscopic hematuria, Splenomegaly, Abnormality of vitamin B12 metabolism.
++6. Wilson-Kinsbourne Syndrome: Muscle weakness, Slurred speech, Abnormality of the liver, Involuntary movements, Abnormal caudate nucleus morphology, Microscopic hematuria, Elevated circulating alkaline phosphatase concentration.
++7. Neurodegenerative Disease: Muscle weakness, Slurred speech, Involuntary movements, Incoordination, Abnormality of the caudate nucleus morphology.
++8. Cirrhosis: Abnormality of the liver, Splenomegaly, Elevated circulating alkaline phosphatase concentration, Increased circulating ferritin concentration.
++9. Vitamin B12 Deficiency: Abnormality of vitamin B12 metabolism, Hand muscle weakness, Drooling, Incoordination.
++10. Hemolytic Uremic Syndrome: Microscopic hematuria, Splenomegaly, Abnormality of vitamin B12 metabolism.
++11. Wilson's Disease with Hemolysis: Muscle weakness, Slurred speech, Abnormality of the liver, Splenomegaly, Involuntary movements, Kayser-Fleischer ring, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration, Hand muscle weakness, Microscopic hematuria, Elevated circulating alkaline phosphatase concentration.
++12. Niemann-Pick Disease: Splenomegaly, Involuntary movements, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration.
++13. Fahr's Disease: Muscle weakness, Slurred speech, Involuntary movements, Abnormality of the caudate nucleus morphology, Abnormality of vitamin B12 metabolism.
++14. Wilson's Disease with Fahr's Syndrome: Muscle weakness, Slurred speech, Involuntary movements, Abnormality of the caudate nucleus morphology, Involuntary movements, Abnormality of vitamin B12 metabolism, Kayser-Fleischer ring, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration, Hand muscle weakness.
++15. Sjogren's Syndrome: Drooling, Involuntary movements.
++16. Wilson's Disease with Sjogren'"
+['Wilson disease']," +1. Wilson's Disease: Proteinuria, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration : Slurred speech, Drooling, Hand tremor, Hand muscle weakness are not typical symptoms. Wilson's Disease is a rare inherited disorder causing copper accumulation in the liver, brain, and other organs.
+
++2. Parkinson's Disease: Hand tremor, Slurred speech : Proteinuria, Drooling, Decreased circulating ceruloplasmin concentration, Hand muscle weakness, Increased urinary copper concentration are not typical symptoms. Parkinson's Disease is a progressive neurological disorder characterized by motor symptoms, including tremors, rigidity, and difficulty with balance and coordination.
+
++3. Multiple Sclerosis: Hand muscle weakness, Slurred speech : Proteinuria, Drooling, Hand tremor, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration are not typical symptoms. Multiple Sclerosis is an autoimmune disorder that affects the central nervous system, causing symptoms such as muscle weakness, numbness, and difficulty with coordination and speech.
+
++4. Nephrotic Syndrome: Proteinuria, Hand muscle weakness : Slurred speech, Drooling, Hand tremor, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration are not typical symptoms. Nephrotic Syndrome is a group of symptoms caused by various kidney disorders, including heavy proteinuria, edema, and hypoalbuminemia.
+
++5. Hepatitis: Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration : Proteinuria, Slurred speech, Drooling, Hand tremor, Hand muscle weakness are not typical symptoms. Hepatitis is an inflammation of the liver, often caused by viral infections, and can result in symptoms such as jaundice, abdominal pain, and fatigue.
+
++6. Guillain-Barré Syndrome: Hand muscle weakness : Proteinuria, Slurred speech, Drooling, Hand tremor, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration are not typical symptoms. Guillain-Barré Syndrome is a neurological disorder characterized by muscle weakness and paralysis, often following a respiratory or gastrointestinal infection.
+
++7. Myasthenia Gravis: Hand muscle weakness : Proteinuria, Slurred speech, Drooling, Hand tremor, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration are not typical symptoms. Myasthenia Gravis is an autoimmune disorder that causes muscle weakness and fatigue, often affecting the eyes, face, and limbs.
+
++8. Diabetic Nephropathy: Proteinuria, Hand muscle weakness : Slurred speech, Drooling, Hand tremor, Decreased circulating ceruloplasmin concentration, Increased urinary copper concentration are not typical symptoms. Diabetic Nephropathy is a kidney disorder that develops as a complication of diabetes, causing damage to the blood vessels in the kidneys and leading to proteinuria and other symptoms.
+
++9. Amyotrophic Lateral Sclerosis (ALS): Hand muscle weakness : Proteinuria, Slurred speech, Drooling, Hand tremor, Decreased circul"
+['McCune-Albright syndrome']," +1. McCune-Albright Syndrome: Abnormal vagina morphology, Cafe-au-lait spots, Skin rash, Accelerated skeletal maturation, Precocious puberty in females, Fibrous dysplasia of the bones, Increased serum estradiol, Decreased circulating follicle stimulating hormone concentration, Decreased circulating luteinizing hormone level, Bone pain, Fractures of the long bones, Elevated circulating alkaline phosphatase concentration, Abnormal femoral neck morphology, Large cafe-au-lait macules with irregular margins. The patient does not have symptoms of Abnormal mandible morphology, Hearing impairment, Conjunctivitis, Abnormality of the breast, Gait disturbance, Hip pain, Increased size of nasopharyngeal adenoids, Metrorrhagia, Ear pain.
+
++2. Marfan Syndrome: Abnormalities in body proportions, Long and slender fingers, Joint hypermobility, Chest deformity, Scoliosis, Pectus excavatum, Pectus carinatum, Dilated aortic root, Mitral valve prolapse, Dislocated lens, Myopia, Nystagmus, Hearing impairment, Gait disturbance, Back pain, Thoracic pain, Abdominal pain, Dyspnea. The patient does not have symptoms of Abnormal vagina morphology, Cafe-au-lait spots, Skin rash, Accelerated skeletal maturation, Precocious puberty in females, Fibrous dysplasia of the bones, Increased serum estradiol, Decreased circulating follicle stimulating hormone concentration, Decreased circulating luteinizing hormone level, Bone pain, Fractures of the long bones, Elevated circulating alkaline phosphatase concentration, Abnormal femoral neck morphology, Large cafe-au-lait macules with irregular margins, Metrorrhagia, Ear pain.
+
++3. Cushing's Syndrome: Central obesity, Moon face, Buffalo hump, Thinning of the arms and legs, Hirsutism, Acne, Hypertension, Diabetes mellitus, Osteoporosis, Mood swings, Anxiety, Depression, Elevated circulating cortisol levels. The patient does not have symptoms of Abnormal vagina morphology, Cafe-au-lait spots, Skin rash, Accelerated skeletal maturation, Precocious puberty in females, Fibrous dysplasia of the bones, Increased serum estradiol, Decreased circulating follicle stimulating hormone concentration, Decreased circulating luteinizing hormone level, Bone pain, Fractures of the long bones, Elevated circulating alkaline phosphatase concentration, Abnormal femoral neck morphology, Large cafe-au-lait macules with irregular margins, Metrorrhagia, Ear pain, Hearing impairment, Conjunctivitis, Abnormality of the breast.
+
++4. Osteogenesis Imperfecta: Blue sclerae, Dentinogenesis imperfecta, Wormian bones, Short stature, Bone pain, Fractures, Joint hypermobility, Dentin hypoplasia, Hearing impairment"
+['McCune-Albright syndrome']," +1. Polyostotic fibrous dysplasia: This is a bone disorder characterized by the replacement of normal bone with fibrous tissue. The patient presents with ""Accelerated skeletal maturation"" and ""Polyostotic"" (multiple bones affected), but does not have ""Ovarian cyst"", ""Abnormal vagina morphology"", ""Abnormality of the breast"", ""Cafe-au-lait spot"", ""Premature thelarche"", ""Monostotic fibrous dysplasia"", ""Pain"", ""Increased serum estradiol"", ""Decreased circulating follicle stimulating hormone concentration"", ""Decreased circulating luteinizing hormone level"", ""Enlarged tonsils"", ""Increased size of nasopharyngeal adenoids"", ""Metrorrhagia"", and ""Enlarged uterus"".
+
++2. Premature thelarche: This condition is characterized by the premature development of breast tissue in young girls. The patient presents with ""Abnormality of the breast"" and ""Premature thelarche"", but does not have ""Ovarian cyst"", ""Abnormal vagina morphology"", ""Cafe-au-lait spot"", ""Accelerated skeletal maturation"", ""Polyostotic fibrous dysplasia"", ""Monostotic fibrous dysplasia"", ""Pain"", ""Increased serum estradiol"", ""Decreased circulating follicle stimulating hormone concentration"", ""Decreased circulating luteinizing hormone level"", ""Enlarged tonsils"", ""Increased size of nasopharyngeal adenoids"", ""Metrorrhagia"", and ""Enlarged uterus"".
+
++3. Ovarian cyst: This condition refers to the presence of a fluid-filled sac in the ovary. The patient presents with ""Ovarian cyst"", but does not have ""Abnormal vagina morphology"", ""Abnormality of the breast"", ""Cafe-au-lait spot"", ""Accelerated skeletal maturation"", ""Polyostotic fibrous dysplasia"", ""Monostotic fibrous dysplasia"", ""Premature thelarche"", ""Pain"", ""Increased serum estradiol"", ""Decreased circulating follicle stimulating hormone concentration"", ""Decreased circulating luteinizing hormone level"", ""Enlarged tonsils"", ""Increased size of nasopharyngeal adenoids"", ""Metrorrhagia"", and ""Enlarged uterus"".
+
++4. Fibroids: This condition refers to the growth of benign tumors in the uterus. The patient does not present with ""Ovarian cyst"", ""Abnormal vagina morphology"", ""Abnormality of the breast"", ""Cafe-au-lait spot"", ""Accelerated skeletal maturation"", ""Polyostotic fibrous dysplasia"", ""Monostotic fibrous dysplasia"", ""Premature thelarche"", ""Pain"", ""Increased serum estradiol"", ""Decreased circulating follicle stimulating hormone concentration"", ""Decreased circulating luteinizing hormone level"", ""Enlarged tonsils"", ""Increased size of nasopharyngeal adenoids"", ""Metrorrhagia"", but does have ""Enlarged uterus"".
+
++5. Endometriosis: This condition is characterized by the growth of endometrial tissue outside the uterus. The patient presents with ""Pain"
+['McCune-Albright syndrome']," +1. Acromegaly: A condition caused by excessive growth hormone production, leading to enlargement of bones and soft tissues. Symptoms: Elevated circulating growth hormone concentration, Elevated circulating alkaline phosphatase concentration, Accelerated skeletal maturation, Thickened cortex of bones.
+
++2. Cushing's Syndrome: A hormonal disorder caused by prolonged exposure to high levels of cortisol. Symptoms: Elevated circulating alkaline phosphatase concentration, Premature pubarche, Increased serum testosterone level.
+
++3. McCune-Albright Syndrome: A rare disorder characterized by the triad of polyostotic fibrous dysplasia, café-au-lait spots, and precocious puberty. Symptoms: Cafe-au-lait spot, Fibrous dysplasia of the bones, Premature pubarche.
+
++4. Hyperparathyroidism: A condition characterized by overactive parathyroid glands, leading to high levels of parathyroid hormone. Symptoms: Elevated circulating alkaline phosphatase concentration, Abnormality of the testis size.
+
++5. Hypothyroidism: A condition characterized by an underactive thyroid gland, leading to a decrease in thyroid hormone production. Symptoms: Elevated circulating alkaline phosphatase concentration.
+
++6. Hyperthyroidism: A condition characterized by an overactive thyroid gland, leading to an increase in thyroid hormone production. Symptoms: Elevated circulating growth hormone concentration, Elevated circulating alkaline phosphatase concentration, Accelerated skeletal maturation.
+
++7. Prolactinoma: A benign tumor of the pituitary gland that produces excessive prolactin. Symptoms: Increased circulating prolactin concentration.
+
++8. Osteogenesis Imperfecta: A group of disorders that affect the production, quality, and quantity of collagen, leading to brittle bones. Symptoms: Abnormality of the testis size.
+
++9. Osteopetrosis: A rare bone disorder characterized by the thickening and hardening of bones due to an impaired bone resorption process. Symptoms: Thickened cortex of bones.
+
++10. Paget's Disease: A chronic bone disorder characterized by the abnormal growth and remodeling of bone tissue. Symptoms: Thickened cortex of bones.
+
++11. Vitamin D Deficiency: A condition characterized by a deficiency in vitamin D, leading to impaired calcium absorption and metabolism. Symptoms: Elevated circulating alkaline phosphatase concentration.
+
++12. Hypercalcemia: A condition characterized by high levels of calcium in the blood. Symptoms: Elevated circulating alkaline phosphatase concentration.
+
++13. Hyperphosphatemia: A condition characterized by high levels of phosphate in the blood. Symptoms: Elevated circulating alkaline phosphatase concentration.
+
++14. Osteosarcoma: A type of bone cancer that arises from the cells that make new bone tissue. Symptoms: Fibrous dysplasia of the bones.
+
++15. Ewing's Sarcoma: A type of bone cancer that arises"
+['McCune-Albright syndrome']," +1. Neurofibromatosis Type 1 (NF1): This is a genetic disorder causing spots on the skin called cafe-au-lait macules, freckling in the axillary and inguinal regions, and Lisch nods in the iris. Patients may also develop tumors of the nervous system. + Symptoms: Cafe-au-lait spots, Lisch nods, freckling, abnormalities of the nervous system (not refraction or visual loss).
+
++2. McCune-Albright Syndrome: This is a rare disorder characterized by the triad of cafe-au-lait spots, polyostotic fibrous dysplasia, and precocious puberty. + Symptoms: Cafe-au-lait spots, polyostotic fibrous dysplasia (not refraction or visual loss).
+
++3. Paget's Disease of Bone: This is a chronic bone disorder characterized by bone enlargement and deformity due to excessive bone turnover. Cranial involvement can lead to thickening of the skull (cranial hyperostosis). + Symptoms: Cranial hyperostosis, bone pain, bone deformity (not refraction or visual loss).
+
++4. Marfan Syndrome: This is a genetic disorder of connective tissue that affects the eyes, cardiovascular system, and skeleton. It can cause disproportionate long limbs, scoliosis, and an abnormal shape of the chest or face. + Symptoms: Visual loss (due to dislocation of the lens), long limbs, scoliosis, disproportionate body features (not cafe-au-lait spots or refraction abnormalities).
+
++5. Achromatopsia: This is a rare, inherited disorder of the retina that affects color vision and daylight vision. + Symptoms: Visual loss, photophobia, nystagmus, and complete color blindness (not cafe-au-lait spots, cranial hyperostosis, or refraction abnormalities).
+
++6. Fuchs' Dystrophy: This is a corneal disorder characterized by the progressive thickening and swelling of the corneal stroma, leading to visual loss. + Symptoms: Visual loss, blurred vision, sensitivity to light, and corneal swelling (not cafe-au-lait spots, cranial hyperostosis, or refraction abnormalities).
+
++7. Refractive Errors: This is a common condition where the shape of the eye prevents light from focusing correctly on the retina. + Symptoms: Refraction abnormalities, blurred vision, and difficulty seeing at a distance or up close (not cafe-au-lait spots, cranial hyperostosis, or visual loss).
+
++8. Osteogenesis Imperfecta: This is a group of disorders that affect the production and quality of collagen, leading to brittle bones and other symptoms. + Symptoms: Bone fractures, blue sclerae, joint laxity, and short stature (not cafe-au-lait spots, cranial hyperostosis, or refraction abnormalities).
+
++9. Scoliosis: This is a condition characterized by an abnormal lateral curvature of the spine. + Symptoms: Scoliosis, back pain, uneven shoulders, and uneven waistline (not cafe-au-lait spots, cranial hyperostosis, or refraction abnormalities"
+['McCune-Albright syndrome']," +1. Neonatal Adrenocorticotropic Hormone (ACTH) Deficiency: Abnormal vagina morphology, Delayed speech and language development, Cafe-au-lait spots, Elevated circulating alkaline phosphatase concentration, Decreased thyroid-stimulating hormone level.
++2. McCune-Albright Syndrome: Abnormal vagina morphology, Cafe-au-lait spots with irregular margins, Elevated circulating alkaline phosphatase concentration, Increased circulating free T3, Premature pubarche, Increased serum estradiol, Abnormal eating behavior.
++3. Turner Syndrome: Abnormal vagina morphology, Delayed speech and language development, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No increased circulating alkaline phosphatase concentration, No increased circulating free T3, No metrorrhagia.
++4. Prader-Willi Syndrome: Delayed speech and language development, Abnormality of the breast, No abnormal vagina morphology, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No Elevated circulating alkaline phosphatase concentration, No increased circulating free T3, No premature pubarche, No increased serum estradiol, No decreased thyroid-stimulating hormone level, No increased circulating progesterone, No metrorrhagia, Abnormal eating behavior.
++5. Hypothyroidism: Delayed speech and language development, No abnormal vagina morphology, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No Elevated circulating alkaline phosphatase concentration, No increased circulating free T3, Decreased thyroid-stimulating hormone level, No premature pubarche, No increased serum estradiol, No metrorrhagia, No abnormal eating behavior.
++6. Cushing's Syndrome: Abnormal vagina morphology, No delayed speech and language development, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No Elevated circulating alkaline phosphatase concentration, No increased circulating free T3, No premature pubarche, Increased serum estradiol, No decreased thyroid-stimulating hormone level, No increased circulating progesterone, No metrorrhagia, No abnormal eating behavior.
++7. Polycystic Ovary Syndrome (PCOS): Abnormal vagina morphology, No delayed speech and language development, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No Elevated circulating alkaline phosphatase concentration, No increased circulating free T3, No premature pubarche, No decreased thyroid-stimulating hormone level, Increased circulating androgens (progesterone is one of them), Metrorrhagia, No abnormal eating behavior.
++8. Galactosemia: No abnormal vagina morphology, No delayed speech and language development, No Cafe-au-lait spots, No large cafe-au-lait macules with irregular margins, No Elevated circul"
+"['Neonatal Marfan syndrome', 'Marfan syndrome']"," +1. Abdominal Aortic Aneurysm: A bulge in the wall of the abdominal aorta, often asymptomatic but can cause pain, pulsating sensation, or rupture. No common symptoms with hoarse voice, hypertension, or bronchiectasis.
+
++2. Chronic Obstructive Pulmonary Disease (COPD): Obstructed airflow from the lungs, often caused by smoking. Common symptoms include productive cough, dyspnea, and decreased body weight. No common symptoms with Inguinal hernia, hypertension, or cardiomegaly.
+
++3. Thyroid Disease: Can cause various symptoms including hoarse voice, weight loss, and palpitations. No common symptoms with aortic valve morphology abnormalities or bronchiectasis.
+
++4. Chronic Kidney Disease: Can cause decreased body weight, hypertension, and abnormal B-type natriuretic peptide concentration. No common symptoms with Inguinal hernia or hoarse voice.
+
++5. Rheumatic Heart Disease: Can cause mitral regurgitation, aortic regurgitation, and abnormal left ventricle morphology. No common symptoms with bronchiectasis or hoarse voice.
+
++6. Pulmonary Embolism: Can cause dyspnea, palpitations, and hemoptysis. No common symptoms with Inguinal hernia or hypertension.
+
++7. Sepsis: Can cause fever, dyspnea, and decreased body weight. No common symptoms with hoarse voice or aortic valve morphology abnormalities.
+
++8. Anemia: Can cause fatigue, decreased body weight, and dyspnea. No common symptoms with Inguinal hernia or hoarse voice.
+
++9. Tuberculosis: Can cause cough, fever, and weight loss. No common symptoms with hypertension or aortic valve morphology abnormalities.
+
++10. Sarcoidosis: Can cause hoarse voice, dyspnea, and cardiomegaly. No common symptoms with Inguinal hernia or hemoptysis.
+
++11. Amiodarone Toxicity: Can cause hoarse voice, dyspnea, and decreased body weight. No common symptoms with aortic valve morphology abnormalities or bronchiectasis.
+
++12. Pulmonary Hypertension: Can cause dyspnea, palpitations, and decreased body weight. No common symptoms with Inguinal hernia or hoarse voice.
+
++13. Endocarditis: Can cause fever, dyspnea, and abnormal aortic valve morphology. No common symptoms with bronchiectasis or hoarse voice.
+
++14. Pericarditis: Can cause dyspnea, chest pain, and fever. No common symptoms with Inguinal hernia or hoarse voice.
+
++15. Pulmonary Fibrosis: Can cause dyspnea, cough, and decreased body weight. No common symptoms with hypertension or hoarse voice.
+
++16. Scleroderma: Can cause dyspnea, decreased body weight, and cardiomegaly. No common symptoms with Inguinal hernia or hoarse voice.
+
++17. Lupus: Can cause dyspnea, decreased body weight, and hoarse voice. No common symptoms with aortic valve morphology abnormalities or bronchiectasis.
+
++18. Ankyl"
+"['Neonatal Marfan syndrome', 'Marfan syndrome']"," +1. Scheuermann's Disease: A condition that causes the vertebrae in the spine to become wedged-shaped, leading to a hunchback appearance and back pain. Kyphosis is a common symptom in Scheuermann's disease.
++2. Ankylosing Spondylitis: A chronic inflammatory arthritis that primarily affects the spine and sacroiliac joints. Kyphosis, back pain, and stiffness are common symptoms.
++3. Osteoporosis: A condition characterized by weakened bones, leading to an increased risk of fractures. Kyphosis can be a result of osteoporosis, but it is not the only symptom.
++4. Scoliosis: A condition characterized by a sideways curvature of the spine. Kyphosis is a common symptom in scoliosis, but not all cases involve both curvatures.
++5. Marfan Syndrome: A genetic disorder that affects the connective tissue, leading to tall stature, long limbs, and a curved spine (kyphosis or lordosis). Other symptoms include chest deformities, joint hypermobility, and vision problems.
++6. Duchenne Muscular Dystrophy: A genetic disorder that causes progressive muscle weakness and wasting, leading to difficulty walking, breathing, and swallowing. Kyphosis is a common symptom due to muscle weakness in the spine.
++7. Poliomyelitis: A viral infection that can cause paralysis, muscle weakness, and deformities, including kyphosis. Other symptoms include fever, difficulty swallowing, and respiratory problems.
++8. Spinal Tuberculosis: A bacterial infection that can cause spine pain, kyphosis, and other symptoms such as fever, weight loss, and night sweats.
++9. Spinal Cord Injury: An injury to the spinal cord can cause various symptoms, including kyphosis due to muscle weakness and paralysis. Other symptoms depend on the location and severity of the injury.
++10. Spinal Tumors: Tumors in the spine can cause various symptoms, including kyphosis due to bone destruction or compression of the spinal cord. Other symptoms include pain, weakness, and numbness."
+"['Neonatal Marfan syndrome', 'Marfan syndrome']"," +1. Marfan Syndrome: A genetic disorder that affects the connective tissue, leading to tall stature, mitral valve prolapse, aortic root aneurysm, and aortic root dilatation. +2. Ehlers-Danlos Syndrome: A group of genetic disorders that affect connective tissue, leading to joint hypermobility, skin that bruises easily, and possible cardiovascular involvement, such as mitral valve prolapse and aortic root dilatation. +3. Hypertension: A common condition characterized by high blood pressure, which can lead to left ventricular hypertrophy, mitral valve prolapse, and heart murmur. +4. Rheumatic Heart Disease: A condition caused by rheumatic fever, leading to mitral regurgitation, aortic regurgitation, and heart murmur. +5. Aortic Stenosis: A narrowing of the aortic valve opening, leading to aortic stenosis, aortic regurgitation, and chest pain. +6. Mitral Stenosis: A narrowing of the mitral valve opening, leading to mitral stenosis, mitral regurgitation, and dyspnea. +7. Trisomy 21 (Down Syndrome): A genetic disorder causing developmental delays and physical growth problems, including short stature in adulthood, and possible heart conditions such as mitral valve prolapse and endocardiosis. +8. Ankylosing Spondylitis: A chronic inflammatory disease primarily affecting the spine, leading to kyphoscoliosis, back pain, and possible heart involvement, such as aortic root dilatation and aortic regurgitation. +9. Chronic Obstructive Pulmonary Disease (COPD): A progressive lung disease leading to dyspnea, tachypnea, and exercise intolerance. +10. Anemia: A condition characterized by a decrease in the number of red blood cells or the amount of hemoglobin in the blood, leading to fatigue, dyspnea, and tachypnea. +11. Pulmonary Embolism: A blockage of an artery in the lungs, leading to dyspnea, chest pain, and tachypnea. +12. Chronic Thromboembolic Pulmonary Hypertension: A rare form of pulmonary hypertension caused by chronic blood clots in the lungs, leading to dyspnea, chest pain, and tachypnea. +13. Sarcoidosis: An inflammatory disease that can affect various organs, including the heart, leading to heart murmur, dyspnea, and tachypnea. +14. Amyloidosis: A group of diseases caused by the buildup of an abnormal protein called amyloid in various organs, including the heart, leading to heart failure, dyspnea, and tachypnea. +15. Thyrotoxicosis: A condition caused by an overactive thyroid gland, leading to palpitations, tachycardia, and dyspnea."
+"['Neonatal Marfan syndrome', 'Marfan syndrome']"," +1. Cataract: A clouding of the lens in the eye, causing vision loss and leading to blindness if left untreated. The patient presents with Lens subluxation and Lens luxation.
++2. Marfan Syndrome: A genetic disorder that affects connective tissue, leading to various symptoms including tall stature, long and thin limbs, chest deformities, and eye problems such as dislocated lenses. The patient presents with Lens subluxation and Lens luxation.
++3. Ehlers-Danlos Syndrome: A group of disorders that affect connective tissue, leading to joint hypermobility, skin elasticity, and various other symptoms. The patient presents with Lens subluxation and Joint hypermobility (instead of Scoliosis and Low back pain).
++4. Retinitis Pigmentosa: A group of rare, genetic disorders that involve a progressive degeneration of the retina, leading to vision loss and blindness. The patient does not present with Scoliosis or Low back pain.
++5. Ankylosing Spondylitis: A chronic inflammatory disease that primarily affects the spine and sacroiliac joints, leading to pain and stiffness. The patient does not present with High myopia or Lens luxation.
++6. Vitreous Detachment: A condition where the vitreous gel in the eye separates from the retina, causing floaters and sometimes flashes of light. The patient presents with Lens subluxation and Floaters (instead of Scoliosis and Low back pain).
++7. Glaucoma: A group of eye conditions that damage the optic nerve and can lead to vision loss and blindness. The patient does not present with Scoliosis or Lens luxation.
++8. Macular Hole: A small break in the macula, the part of the retina responsible for sharp, central vision. The patient does not present with Scoliosis or Low back pain.
++9. Diabetic Retinopathy: A complication of diabetes that damages the blood vessels in the retina, leading to vision loss and blindness. The patient does not present with Scoliosis or High myopia."
+"['Neonatal Marfan syndrome', 'Marfan syndrome']"," +1. Heart Failure: Characterized by the inability of the heart to pump blood effectively, leading to symptoms such as cardiomegaly, dyspnea, and exercise intolerance. Abdominal distention and poor appetite are not typical symptoms. +2. Chronic Obstructive Pulmonary Disease (COPD): A progressive lung disease that makes it hard to breathe. Dyspnea and exercise intolerance are common symptoms, while cardiomegaly and abdominal distention are not. +3. Liver Cirrhosis: A condition where the liver becomes damaged and scarred, leading to poor appetite, abdominal distention, and sometimes dyspnea due to fluid accumulation in the lungs. Cardiomegaly is not a typical symptom. +4. Anemia: A condition where the body lacks enough healthy red blood cells to carry adequate oxygen to the body's tissues. Dyspnea, exercise intolerance, and poor appetite can be symptoms, while cardiomegaly and abdominal distention are not. +5. Thyroid Disease: Disorders of the thyroid gland can cause a range of symptoms, including fatigue, poor appetite, and dyspnea in some cases. Cardiomegaly and abdominal distention are not typical symptoms. +6. Pancreatitis: Inflammation of the pancreas can cause abdominal pain, abdominal distention, and poor appetite. Dyspnea and cardiomegaly are not typical symptoms. +7. Kidney Disease: Chronic kidney disease can cause symptoms such as poor appetite, fatigue, and dyspnea due to fluid accumulation in the lungs. Cardiomegaly is not a typical symptom. +8. Cancer: Depending on the type and location, cancer can cause a range of symptoms, including dyspnea, poor appetite, and weight loss. Cardiomegaly and abdominal distention can be symptoms in some types of cancer, such as liver or heart cancer."
+['Desminopathy']," +1. Uterine leiomyoma: This condition is characterized by the growth of benign smooth muscle tumors in the uterus. The patient does not present symptoms such as syncope, muscle weakness, cardiomegaly, dilated cardiomyopathy, abnormal tricuspid valve morphology, right ventricular failure, weight loss, palpitations, nausea, exertional dyspnea, hyperlipidemia, poor appetite, paroxysmal ventricular tachycardia, elevated pulmonary artery pressure, right ventricular dilatation, abnormal left ventricular function, paroxysmal atrial tachycardia, reduced systolic function, premature ventricular contraction, loss of consciousness, pedal edema, decreased urine output, right atrial enlargement, or increased circulating NT-proBNP concentration.
+
++2. Syncope: This is a temporary loss of consciousness and posture due to inadequate blood flow to the brain. The patient does not present symptoms such as uterine leiomyoma, muscle weakness, cardiomegaly, dilated cardiomyopathy, abnormal tricuspid valve morphology, right ventricular failure, weight loss, palpitations, nausea, exertional dyspnea, hyperlipidemia, poor appetite, paroxysmal ventricular tachycardia, elevated pulmonary artery pressure, right ventricular dilatation, abnormal left ventricular function, paroxysmal atrial tachycardia, reduced systolic function, premature ventricular contraction, loss of consciousness, pedal edema, decreased urine output, right atrial enlargement, or increased circulating NT-proBNP concentration.
+
++3. Muscle weakness: This is a condition characterized by a decrease in muscle strength and endurance. The patient does not present symptoms such as uterine leiomyoma, syncope, cardiomegaly, dilated cardiomyopathy, abnormal tricuspid valve morphology, right ventricular failure, weight loss, palpitations, nausea, exertional dyspnea, hyperlipidemia, poor appetite, paroxysmal ventricular tachycardia, elevated pulmonary artery pressure, right ventricular dilatation, abnormal left ventricular function, paroxysmal atrial tachycardia, reduced systolic function, premature ventricular contraction, loss of consciousness, pedal edema, decreased urine output, right atrial enlargement, or increased circulating NT-proBNP concentration.
+
++4. Cardiomegaly: This is an enlargement of the heart, which can be a sign of various heart conditions. The patient does not present symptoms such as uterine leiomyoma, syncope, muscle weakness, dilated cardiomyopathy, abnormal tricuspid valve morphology, right ventricular failure, weight loss, palpitations, nausea, exertional dyspnea, hyperlipidemia, poor appetite, paroxysmal ventricular tachycardia, elevated pulmonary artery pressure, right ventricular dilatation, abnormal left ventricular function, paroxysmal atrial tachycardia, reduced systolic function, premature ventricular contraction, loss of consciousness, pedal edema, decreased urine output, or increased circulating NT-proBNP concentration.
+
++5. Dilated"
+['Desminopathy']," +1. Myocardial Infarction: Chest pain, Cardiomegaly, ST segment depression, T-wave inversion, Regional left ventricular wall motion abnormality, Left ventricular systolic dysfunction : Palpitations, Vomiting, Hyperkalemia, Falls, Sinus bradycardia, Sinus tachycardia, Mitral regurgitation, Tricuspid regurgitation, Premature ventricular contraction, Ventricular tachycardia, Right bundle branch block, Elevated circulating creatinine concentration, Lower limb muscle weakness
+
++2. Congestive Heart Failure: Cardiomegaly, Right ventricular dilatation, Pulmonary edema, Lower limb muscle weakness : Palpitations, Vomiting, Hyperkalemia, Falls, Sinus bradycardia, Sinus tachycardia, Mitral regurgitation, Tricuspid regurgitation, Premature ventricular contraction, Ventricular tachycardia, T-wave inversion, Elevated circulating creatinine concentration
+
++3. Atrial Fibrillation: Palpitations, Irregular heartbeat, T-wave inversion : Cardiomegaly, Mitral regurgitation, Sinus bradycardia, Sinus tachycardia, Ventricular tachycardia, Premature ventricular contraction, Lower limb muscle weakness, Elevated circulating creatinine concentration, Vomiting, Hyperkalemia, Falls, Right ventricular dilatation, Tricuspid regurgitation, Regional left ventricular wall motion abnormality, Left ventricular systolic dysfunction, Right bundle branch block, ST segment depression
+
++4. Hypokalemia: Vomiting, Muscle weakness : Palpitations, Cardiomegaly, Mitral regurgitation, Sinus bradycardia, Sinus tachycardia, Hyperkalemia, Falls, Elevated circulating creatinine concentration, Ventricular tachycardia, Right ventricular dilatation, Tricuspid regurgitation, Premature ventricular contraction, T-wave inversion, Lower limb muscle weakness, Right bundle branch block, ST segment depression, Left ventricular systolic dysfunction
+
++5. Hypertension: Headache, Shortness of breath : Palpitations, Cardiomegaly, Mitral regurgitation, Sinus bradycardia, Sinus tachycardia, Vomiting, Hyperkalemia, Falls, Elevated circulating creatinine concentration, Ventricular tachycardia, Right ventricular dilatation, Tricuspid regurgitation, Premature ventricular contraction, T-wave inversion, Lower limb muscle weakness, Right bundle branch block, ST segment depression, Left ventricular systolic dysfunction
+
+Note: This is not an exhaustive list and other conditions may also be possible based on the given symptoms. A proper diagnosis would require a thorough clinical evaluation, including a detailed history, physical examination, and diagnostic tests."
+['Desminopathy']," +1. Liver cirrhosis: Hepatic cysts, Conjugated hyperbilirubinemia, Hypoalbuminemia, Increased total bilirubin, Poor appetite, Episodic vomiting, Increased body weight, Pedal edema, Decreased urine output, Fatigable weakness, Orthopnea, Ascites, + (Syncope may be a symptom but not a defining feature of cirrhosis)
+
++2. Congestive heart failure: Syncope, Fatigable weakness, Exercise intolerance, Orthopnea, Pedal edema, Decreased urine output, Right ventricular failure, Pericardial effusion, Pleural effusion, Tachycardia, Third degree atrioventricular block, Mitral regurgitation, Tricuspid regurgitation, Cardiomegaly, Abnormal left ventricle morphology, Abnormal right atrial morphology, Left ventricular diastolic dysfunction, + (Hepatic cysts, Abnormal mitral valve morphology, Abnormal aortic valve morphology, Abnormal pulmonary valve morphology, Abnormal tricuspid valve morphology, Abnormal ventricular septum morphology, Elevated circulating creatine kinase concentration, Sleep abnormality, Increased body weight, Poor appetite, Conjugated hyperbilirubinemia, Hypoalbuminemia, Elevated circulating creatine kinase MB isoform are not typical symptoms of heart failure)
+
++3. Cirrhosis with heart failure: Hepatic cysts, Conjugated hyperbilirubinemia, Hypoalbuminemia, Increased total bilirubin, Poor appetite, Episodic vomiting, Increased body weight, Pedal edema, Decreased urine output, Fatigable weakness, Orthopnea, Syncope, Pericardial effusion, Pleural effusion, Tachycardia, Third degree atrioventricular block, Mitral regurgitation, Tricuspid regurgitation, Cardiomegaly, Abnormal left ventricle morphology, Abnormal right atrial morphology, Left ventricular diastolic dysfunction, Right ventricular failure, + (Abnormal mitral valve morphology, Abnormal aortic valve morphology, Abnormal pulmonary valve morphology, Abnormal tricuspid valve morphology, Abnormal ventricular septum morphology, Elevated circulating creatine kinase concentration, Sleep abnormality are not typical symptoms of cirrhosis or heart failure alone but can occur in both conditions)
+
++4. Liver cancer: Hepatic cysts, Conjugated hyperbilirubinemia, Increased total bilirubin, Poor appetite, Weight loss, Abdominal pain, + (Syncope, Ascites, Tachycardia, Mitral regurgitation, Pericardial effusion, Pleural effusion, Cardiomegaly, Abnormal left ventricle morphology, Abnormal right atrial morphology, Left ventricular diastolic dysfunction, Right ventricular failure, Tricuspid regurgitation, Third degree atrioventricular block, Abnormal aortic valve morphology, Abnormal pulmonary valve morphology, Abnormal tricuspid valve morphology, Abnormal ventricular septum morphology, Elevated circulating creatine kinase concentration, Sleep abnormality, Episodic vomiting, Hypoalbuminemia,"
+['Desminopathy']," +1. Nephrolithiasis: Renal stones causing pain in the side or back, often accompanied by nausea and vomiting. No skin rash or cardiovascular symptoms.
++2. Hemangioma: Benign tumors of the blood vessels, usually harmless but can cause symptoms if large or in critical areas. No syncope, muscle weakness, or dyspnea.
++3. Syncope: Fainting or temporary loss of consciousness due to insufficient blood flow to the brain. No nephrolithiasis, skin rash, or cardiomegaly.
++4. Muscle weakness: Reduced muscle strength or endurance. No palpitations, dyspnea, or abnormal thrombosis.
++5. Cardiomegaly: Enlarged heart, often due to heart failure or other cardiac conditions. No nephrolithiasis, skin rash, or hemangioma.
++6. Abnormal right ventricle morphology: Structural or functional abnormalities of the right ventricle. No syncope, muscle weakness, or amaurosis fugax.
++7. Right ventricular failure: Weakened pumping ability of the right ventricle, leading to fluid buildup and symptoms such as dyspnea and edema. No nephrolithiasis, skin rash, or hemangioma.
++8. Abnormal left ventricle morphology: Structural or functional abnormalities of the left ventricle. No syncope, muscle weakness, or dyspnea.
++9. Palpitations: Feelings of a rapid, fluttering heartbeat or skipped beats. No nephrolithiasis, skin rash, or hemangioma.
++10. Abnormal thrombosis: Formation of blood clots in the veins or arteries. No syncope, muscle weakness, or dyspnea.
++11. Dyspnea: Shortness of breath or difficulty breathing. No nephrolithiasis, skin rash, or hemangioma.
++12. Ischemic stroke: Damage to the brain caused by a lack of blood flow. No syncope, muscle weakness, or dyspnea.
++13. Ventricular tachycardia: Rapid, potentially life-threatening heart rhythm disturbance. No nephrolithiasis, skin rash, or hemangioma.
++14. Elevated pulmonary artery pressure: Increased pressure in the pulmonary artery, often due to heart or lung conditions. No syncope, muscle weakness, or dyspnea.
++15. Abnormal T-wave: Alterations in the shape of the T-wave on an electrocardiogram. No nephrolithiasis, skin rash, or hemangioma.
++16. Tricuspid regurgitation: Leaking of the tricuspid valve, leading to backflow of blood into the right atrium. No syncope, muscle weakness, or dyspnea.
++17. Premature ventricular contraction: Early heartbeats originating in the ventricles. No nephrolithiasis, skin rash, or hemangioma.
++18. Loss of consciousness: Temporary or prolonged loss of consciousness. No nephrolithiasis, skin rash, or hemangioma.
++19. Right ventricular cardiomyopathy: Dilated and weakened right ventricle, often due to long-term pressure overload. No syn"
+['Brugada syndrome']," +1. Myocardial Infarction: Chest pain, ST segment elevation, Exercise intolerance, Ventricular fibrillation (severe case) : Dyspnea, Pneumonia, Cough
++2. Chronic Obstructive Pulmonary Disease (COPD): Dyspnea, Cough, Exercise intolerance : Ventricular fibrillation, Pneumonia, Viral hepatitis
++3. Pneumonic Edema: Dyspnea, Pulmonary edema (can present with cough and exercise intolerance) : Ventricular fibrillation, Pneumonia, Viral hepatitis, ST segment elevation
++4. Septicemia: Fever, Chills, Dyspnea, Exercise intolerance, Cough (in later stages) : Ventricular fibrillation, Pneumonia, Viral hepatitis, ST segment elevation
++5. Pericarditis: Chest pain, Dyspnea, Exercise intolerance : Ventricular fibrillation, Pneumonia, Viral hepatitis, ST segment elevation, Cough (rare)
++6. Pulmonary Embolism: Dyspnea, Chest pain, Exercise intolerance : Ventricular fibrillation, Pneumonia, Viral hepatitis, Cough, ST segment elevation (can present with)
++7. Acute Respiratory Distress Syndrome (ARDS): Dyspnea, Cough, Exercise intolerance : Ventricular fibrillation, Pneumonia, Viral hepatitis, ST segment elevation
++8. Anemia: Fatigue, Exercise intolerance : Ventricular fibrillation, Pneumonia, Dyspnea, Cough, Viral hepatitis, ST segment elevation
++9. Asthma: Dyspnea, Cough, Exercise intolerance : Ventricular fibrillation, Pneumonia, Viral hepatitis, ST segment elevation
+
+Please note that the above list is not exhaustive and a proper diagnosis should be made by a healthcare professional based on a thorough examination and investigation. The symptoms listed here are just possibilities and may not necessarily indicate the presence of the diseases mentioned."
+['Brugada syndrome']," +1. Myocardial Infarction (Chest pain, ST segment elevation, Syncope, Vomiting, Loss of consciousness): Trismus and Hyperhidrosis are not common symptoms of Myocardial Infarction.
++2. Panic Disorder (Syncope, Hyperhidrosis, Vomiting): Trismus and ST segment elevation are not common symptoms of Panic Disorder.
++3. Parkinson's Disease (Trismus, Syncope, Hyperhidrosis): Myocardial Infarction, Vomiting, and ST segment elevation are not common symptoms of Parkinson's Disease.
++4. Anxiety Attack (Syncope, Hyperhidrosis, Vomiting): Trismus and ST segment elevation are not common symptoms of Anxiety Attack.
++5. Epilepsy (Trismus, Syncope, Hyperhidrosis, Vomiting): Myocardial Infarction and ST segment elevation are not common symptoms of Epilepsy.
++6. Gastroesophageal Reflux Disease (Trismus, Hyperhidrosis, Vomiting): Myocardial Infarction, Syncope, and ST segment elevation are not common symptoms of Gastroesophageal Reflux Disease.
++7. Hyperthyroidism (Trismus, Hyperhidrosis, Syncope, Vomiting): Myocardial Infarction and ST segment elevation are not common symptoms of Hyperthyroidism.
++8. Migraine (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Migraine.
++9. Brain Tumor (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Brain Tumor.
++10. Guillain-Barré Syndrome (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Guillain-Barré Syndrome.
++11. Multiple Sclerosis (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Multiple Sclerosis.
++12. Diabetic Ketoacidosis (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Diabetic Ketoacidosis.
++13. Pheochromocytoma (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Pheochromocytoma.
++14. Thyrotoxic Crisis (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Thyrotoxic Crisis.
++15. Subarachnoid Hemorrhage (Trismus, Hyperhidrosis, Syncope, Vomiting, ST segment elevation): Myocardial Infarction is not a common symptom of Subarachnoid Hemorrhage.
++16. Aortic Dissection (Trismus,"
+['Brugada syndrome']," +1. Benign Prostatic Hypertrophy (BPH): Urinary hesitancy, urinary incontinence, and dysuria are common symptoms. Prostatitis, syncope, muscle weakness, exercise intolerance, loss of consciousness, pedal edema, amaurosis fugax, and ST segment elevation are not typical. +
+
++2. Myocardial Infarction (MI): Chest pain, shortness of breath, syncope, loss of consciousness, ST segment elevation, and increased circulating creatine kinase concentration are common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, muscle weakness, exercise intolerance, pedal edema, and amaurosis fugax are not typical. +
+
++3. Guillain-Barré Syndrome: Muscle weakness, loss of consciousness, and amaurosis fugax are common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, exercise intolerance, pedal edema, and ST segment elevation are not typical. +
+
++4. Chronic Kidney Disease (CKD): Urinary hesitancy, loss of consciousness, muscle weakness, pedal edema, and increased circulating creatine kinase concentration are common symptoms. Prostatitis, syncope, urinary incontinence, exercise intolerance, amaurosis fugax, and ST segment elevation are not typical. +
+
++5. Multiple Sclerosis (MS): Muscle weakness, loss of consciousness, and amaurosis fugax are common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, exercise intolerance, pedal edema, and ST segment elevation are not typical. +
+
++6. Parkinson's Disease: Muscle weakness, loss of consciousness, and amaurosis fugax are not common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, exercise intolerance, pedal edema, and ST segment elevation are not typical. However, Elevated circulating creatine kinase concentration may be seen in some cases. +
+
++7. Diabetic Neuropathy: Muscle weakness, loss of consciousness, and amaurosis fugax are not common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, exercise intolerance, pedal edema, and ST segment elevation are not typical. However, patients with Diabetic Neuropathy may experience peripheral neuropathy symptoms such as numbness, tingling, or pain in the feet or hands. +
+
++8. Chronic Fatigue Syndrome: Muscle weakness, exercise intolerance, and loss of consciousness are common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, pedal edema, and amaurosis fugax are not typical. +
+
++9. Congestive Heart Failure (CHF): Muscle weakness, pedal edema, and loss of consciousness are common symptoms. Urinary hesitancy, urinary incontinence, prostatitis, syncope, amaurosis fugax, and ST segment elevation are not typical. +
+
++10. Renal Artery Stenosis: Urinary hesitancy, pedal edema, and loss of consciousness are common symptoms. Prostatitis, syncope, urinary incontinence, amaurosis fugax, and ST segment elevation are not typical. +"
+[]," +1. Chronic Thromboembolic Disease (CTED): This condition is characterized by the formation of blood clots in the deep veins, leading to muscle weakness, dyspnea, and exercise intolerance. Pericardial effusion, palpitations, vomiting, abdominal pain, and atrial fibrillation are not typical symptoms. +
+
++2. Congestive Heart Failure (CHF): This condition is characterized by the heart's inability to pump blood effectively, leading to symptoms such as dyspnea, exercise intolerance, poor appetite, pedal edema, and increased circulating NT-proBNP concentration. Muscle weakness, pericardial effusion, abnormal tricuspid valve morphology, right bundle branch block, abnormal ST segment, left ventricular systolic dysfunction, right atrial enlargement, and left atrial enlargement are common findings in CHF. +
+
++3. Liver Cirrhosis: This condition is characterized by the scarring of liver tissue, leading to muscle weakness, abdominal pain, poor appetite, and vascular tortuosity. Pericardial effusion, palpitations, vomiting, dyspnea, exercise intolerance, pedal edema, atrial fibrillation, tricuspid regurgitation, right bundle branch block, abnormal ST segment, left ventricular systolic dysfunction, right atrial enlargement, and increased circulating NT-proBNP concentration are not typical symptoms. +
+
++4. Pulmonary Embolism (PE): This condition is characterized by the blockage of an artery in the lungs by a blood clot, leading to symptoms such as dyspnea, chest pain, and palpitations. Pericardial effusion, muscle weakness, vomiting, abdominal pain, exercise intolerance, poor appetite, pedal edema, atrial fibrillation, tricuspid regurgitation, right bundle branch block, abnormal ST segment, left ventricular systolic dysfunction, right atrial enlargement, and increased circulating NT-proBNP concentration are not typical symptoms. +
+
++5. Amiodarone Toxicity: This condition is characterized by the side effects of the medication Amiodarone, leading to symptoms such as muscle weakness, palpitations, and vascular tortuosity. Pericardial effusion, vomiting, abdominal pain, dyspnea, exercise intolerance, poor appetite, pedal edema, atrial fibrillation, tricuspid regurgitation, right bundle branch block, abnormal ST segment, left ventricular systolic dysfunction, right atrial enlargement, and increased circulating NT-proBNP concentration are not typical symptoms. +
+
++6. Anemia: This condition is characterized by a decrease in the number of red blood cells or hemoglobin in the blood, leading to symptoms such as fatigue, weakness, and poor appetite. Pericardial effusion, palpitations, vomiting, abdominal pain, dyspnea, exercise intolerance, pedal edema, atrial fibrillation, tricuspid regurgitation, right bundle branch block, abnormal ST segment, left ventricular systolic dysfunction, right atrial enlargement, and increased circulating NT-proBNP concentration are not typical symptoms. +
+
++7. Thyroid Disease: This condition can lead to symptoms such as muscle weakness, fatigue, and poor appetite. Pericardial effusion, palpitations, vomiting, abdominal pain, dyspnea, exercise intolerance"
+[]," +1. Nephrolithiasis: Patient presents with urinary hesitancy and no history of kidney stones.
++2. Hypertrophic cardiomyopathy: Patient exhibits left ventricular hypertrophy, atrial fibration, and reduced left ventricular ejection fraction.
++3. Pericardial effusion: Patient reports dyspnea and pericardial effusion is present.
++4. Pulmonary arterial hypertension: Patient displays dyspnea, right ventricular dilatation, and pulmonary arterial hypertension.
++5. Pneumonia: Patient presents with productive cough and dyspnea.
++6. Hepatobiliary disease: Patient shows conjugated hyperbilirubinemia, increased total bilirubin, and right atrial enlargement.
++7. Thromboembolic disease: Patient has a history of abnormal thrombosis and atrial fibration.
++8. Chronic obstructive pulmonary disease (COPD): Patient experiences dyspnea, exercise intolerance, and productive cough.
++9. Heart failure: Patient displays dyspnea, pedal edema, reduced left ventricular ejection fraction, and left ventricular diastolic dysfunction.
++10. Myocardial infarction: Patient reports chest pain, dyspnea, and reduced left ventricular ejection fraction.
++11. Atrial septal defect: Patient exhibits right atrial enlargement and tricuspid regurgitation.
++12. Ventricular septal defect: Patient presents with a history of premature ventricular contraction and ventricular septal hypertrophy.
++13. Diabetes mellitus: Patient shows hypokalemia and increased total bilirubin.
++14. Anemia: Patient reports dyspnea and reduced left ventricular ejection fraction.
++15. Valvular heart disease: Patient displays tricuspid regurgitation and atrial fibrillation.
++16. Sepsis: Patient presents with dyspnea, fever, and reduced left ventricular ejection fraction.
++17. Chronic kidney disease: Patient shows urinary hesitancy, nephrolithiasis, and reduced left ventricular ejection fraction.
++18. Anxiety: Patient reports dyspnea and exercise intolerance, but no other symptoms are present.
++19. Asthma: Patient displays dyspnea, exercise intolerance, and productive cough.
++20. Chronic obstructive uropathy: Patient reports dysuria and urinary hesitancy.
++21. Anemia with chronic disease: Patient shows dyspnea, reduced left ventricular ejection fraction, and anemia.
++22. Chronic obstructive pulmonary disease with heart failure: Patient displays dyspnea, exercise intolerance, productive cough, pedal edema, and reduced left ventricular ejection fraction.
++23. Chronic kidney disease with heart failure: Patient reports urinary hesitancy, nephrolithiasis, dyspnea, pedal edema, and reduced left ventricular ejection fraction."
+[]," +1. Cholecystitis: Inflammation of the gallbladder. Common symptoms: Abdominal pain. Not common symptoms: Cerebral hemorrhage, Ascites, Abnormal mitral valve morphology, Cardiomegaly, Pericardial effusion, Abnormal tricuspid valve morphology, Right ventricular failure, Accessory spleen, Pulmonary arterial hypertension, Dyspnea, Pleural effusion, Sparse scalp hair, Hepatomegaly, Conjugated hyperbilirubinemia, Generalized muscle weakness, Exercise intolerance, Increased total bilirubin, Permanent atrial fibrillation, Pulmonary artery dilatation, Abnormal vena cava morphology, Reduced systolic function, Pedal edema, Decreased urine output, Reduced left ventricular ejection fraction, Left ventricular diastolic dysfunction, Right atrial enlargement, Increased circulating NT-proBNP concentration, Left atrial enlargement.
+
++2. Cerebral hemorrhage: Bleeding in the brain. Common symptoms: None of the listed symptoms. Not common symptoms: Cholecystitis, Ascites, Abnormal mitral valve morphology, Cardiomegaly, Pericardial effusion, Abnormal tricuspid valve morphology, Right ventricular failure, Accessory spleen, Abdominal pain, Pulmonary arterial hypertension, Dyspnea, Pleural effusion, Sparse scalp hair, Hepatomegaly, Conjugated hyperbilirubinemia, Generalized muscle weakness, Exercise intolerance, Increased total bilirubin, Permanent atrial fibrillation, Pulmonary artery dilatation, Abnormal vena cava morphology, Reduced systolic function, Pedal edema, Decreased urine output, Reduced left ventricular ejection fraction, Left ventricular diastolic dysfunction, Right atrial enlargement, Increased circulating NT-proBNP concentration, Left atrial enlargement.
+
++3. Ascites: Abnormal accumulation of fluid in the abdominal cavity. Common symptoms: Abdominal pain, Ascites. Not common symptoms: Cholecystitis, Cerebral hemorrhage, Abnormal mitral valve morphology, Cardiomegaly, Pericardial effusion, Abnormal tricuspid valve morphology, Right ventricular failure, Accessory spleen, Pulmonary arterial hypertension, Dyspnea, Pleural effusion, Sparse scalp hair, Hepatomegaly, Conjugated hyperbilirubinemia, Generalized muscle weakness, Exercise intolerance, Increased total bilirubin, Permanent atrial fibrillation, Pulmonary artery dilatation, Abnormal vena cava morphology, Reduced systolic function, Pedal edema, Decreased urine output, Reduced left ventricular ejection fraction, Left ventricular diastolic dysfunction, Right atrial enlargement, Increased circulating NT-proBNP concentration, Left atrial enlargement.
+
++4. Abnormal mitral valve morphology: Anatomical or functional abnormality of the mitral valve. Common symptoms: None of the listed symptoms. Not common symptoms: Cholecystitis, Cerebral hemorrhage, Ascites, Cardi"
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']"," +1. Multiple Sclerosis: This is a chronic autoimmune disease affecting the central nervous system. Symptoms include muscle weakness, difficulty walking, decreased finger mobility, and hyperactive deep tendon reflexes. Patients may also experience abnormal thoracic spine morphology and Babinski sign. Hemangioma and spastic paraplegia are not typically associated with this condition.
+
++2. Peripheral Neuropathy: This condition is characterized by damage to the peripheral nerves, leading to muscle weakness, decreased finger mobility, and abnormal reflexes. Patients may also experience difficulty walking and standing. Hemangioma and spastic paraplegia are not related to this condition.
+
++3. Parkinson's Disease: This is a progressive neurological disorder that affects movement. Symptoms include muscle rigidity, tremors, difficulty walking, and decreased finger mobility. Patients may also exhibit hyperactive deep tendon reflexes and lower limb muscle weakness. Hemangioma and spastic paraplegia are not associated with this condition.
+
++4. Spinal Muscular Atrophy: This is a motor neuron disorder that causes muscle weakness and atrophy. Symptoms include difficulty walking, standing, and using the hands. Patients may also exhibit lower limb muscle weakness and hyperactive deep tendon reflexes. Hemangioma and spastic paraplegia are not related to this condition.
+
++5. Polio: This is a viral infection that can cause muscle weakness, paralysis, and difficulty walking. Patients may also exhibit decreased finger mobility and hyperactive deep tendon reflexes. Hemangioma and spastic paraplegia are not associated with this condition.
+
++6. Guillain-Barré Syndrome: This is an autoimmune disorder that causes muscle weakness and paralysis. Symptoms include difficulty walking, standing, and using the hands. Patients may also exhibit lower limb muscle weakness and hyperactive deep tendon reflexes. Hemangioma and spastic paraplegia are not related to this condition.
+
++7. Myasthenia Gravis: This is an autoimmune disorder that causes muscle weakness and fatigue. Symptoms include difficulty walking, standing, and using the hands. Patients may also exhibit lower limb muscle weakness and decreased finger mobility. Hemangioma and spastic paraplegia are not associated with this condition.
+
++8. Hereditary Spastic Paraplegia: This is a group of inherited disorders that cause progressive muscle weakness and stiffness in the legs. Symptoms include difficulty walking, standing, and decreased finger mobility. Patients may also exhibit lower limb muscle weakness and hyperactive deep tendon reflexes. Hemangioma and difficulty walking are common symptoms for this condition.
+
++9. Hemorrhagic Stroke: This is a type of stroke caused by bleeding in the brain. Symptoms include difficulty walking, standing, and using the hands. Patients may also exhibit lower limb muscle weakness and decreased finger mobility. Hemangioma is not related to this condition, but spastic paraplegia can be a complication of a stroke.
+
++10. Transverse Myelitis: This is an inflammatory condition that affects the spinal cord, causing muscle weakness, paralysis, and difficulty walking. Patients may also exhibit decreased finger mobility and hyperactive deep tendon reflexes. Hemangioma is not related to this condition, but spastic paraplegia can be a complication of transverse myelitis."
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']"," +1. Multiple Sclerosis: Slurred speech, Abnormal cerebral white matter morphology, Upper limb muscle weakness, Upper limb pain, EMG: neuropathic changes (+)
+- Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++2. Amyotrophic Lateral Sclerosis: Upper limb muscle weakness, Upper limb pain, EMG: neuropathic changes (+)
+- Slurred speech, Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++3. Parkinson's Disease: Slurred speech (mild), Upper limb muscle weakness, Upper limb pain, EMG: neuropathic changes (+)
+- Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++4. Cervical Spondylosis: Abnormality of the cervical spine, Spinal canal stenosis, Upper limb muscle weakness, Upper limb pain (+)
+- Slurred speech, Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++5. Myasthenia Gravis: Upper limb muscle weakness, EMG: neuropathic changes (+)
+- Slurred speech, Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++6. Guillain-Barré Syndrome: Upper limb muscle weakness, EMG: neuropathic changes (+)
+- Slurred speech, Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++7. Myelopathy: Abnormality of the cervical spine, Spinal canal stenosis, Upper limb muscle weakness, Upper limb pain (+)
+- Slurred speech, Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormal intervertebral disk morphology, Cough, Tongue pain (-)
+
++8. Myelitis: Slurred speech, Upper limb muscle weakness, Upper limb pain (+)
+- Abnormal cerebral white matter morphology, Cerebral ischemia, Abnormal sella turcica morphology, Abnormality of the cervical spine, Spinal canal stenosis, Abnormal inter"
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']"," +1. Multiple Sclerosis: Characterized by an immune-mediated demyelination of the central nervous system. Common symptoms include: Dysarthria, Spastic gait, Difficulty walking, Leg muscle stiffness, Hyperactive deep tendon reflexes, Lower limb muscle weakness, Ankle clonus, Babinski sign, and Upper limb muscle weakness. The patient does not have symptoms of Coma, Hypertension, Constipation, Sleep abnormality, Anarthria, Upper limb amyotrophy, or Palmomental reflex.
+
++2. Parkinson's Disease: A progressive neurodegenerative disorder characterized by motor symptoms. Common symptoms include: Dysarthria, Spastic gait, Difficulty walking, Resting tremors, Rigidity, Bradykinesia, and Postural instability. The patient does not have symptoms of Coma, Hypertension, Constipation, Sleep abnormality, Anarthria, Abnormal pyramidal tract morphology, Exercise intolerance, Difficulty climbing stairs, or Palmomental reflex.
+
++3. Amyotrophic Lateral Sclerosis (ALS): A progressive neurodegenerative disorder that affects motor neurons. Common symptoms include: Upper limb muscle weakness, Lower limb muscle weakness, Spasticity, and Hyperactive deep tendon reflexes. The patient does not have symptoms of Coma, Hypertension, Constipation, Dysarthria, Sleep abnormality, Anarthria, Babinski sign, Ankle clonus, or Palmomental reflex.
+
++4. Cerebral Palsy: A group of disorders that affect muscle tone, movement, and coordination. Common symptoms include: Spastic gait, Difficulty walking, Lower limb muscle weakness, Leg muscle stiffness, and Hyperactive deep tendon reflexes. The patient does not have symptoms of Coma, Hypertension, Constipation, Dysarthria, Sleep abnormality, Anarthria, Ankle clonus, Babinski sign, or Palmomental reflex.
+
++5. Myasthenia Gravis: An autoimmune disorder that causes muscle weakness and fatigability. Common symptoms include: Upper limb muscle weakness, Difficulty climbing stairs, and Exercise intolerance. The patient does not have symptoms of Coma, Hypertension, Constipation, Dysarthria, Sleep abnormality, Anarthria, Spastic gait, Lower limb muscle weakness, Leg muscle stiffness, Ankle clonus, Babinski sign, or Palmomental reflex.
+
++6. Guillain-Barré Syndrome: A neurological disorder characterized by muscle weakness and paralysis due to damage to the peripheral nerves. Common symptoms include: Upper limb muscle weakness, Lower limb muscle weakness, and Difficulty walking. The patient does not have symptoms of Coma, Hypertension, Constipation, Dysarthria, Sleep abnormality, Anarthria, Spastic gait, Leg muscle stiffness, Ankle clonus, Babinski sign, or Palmomental reflex.
+
++7. Spinal Cord Injury: Damage to the spinal cord resulting in loss of motor and sensory function. Common symptoms include: Lower limb muscle weakness, Difficulty walking, and Leg muscle stiffness. The patient does not have symptoms of Coma, Hypertension, Constipation, Dysarthria, Sleep abnormality, Anarthria, Spastic gait, Upper"
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']"," +1. Charcot-Marie-Tooth Disease: This is a group of inherited disorders that damage the peripheral nerves, leading to muscle weakness and wasting, particularly in the legs. Symptoms: Pes cavus, distal upper limb muscle weakness, distal lower limb muscle weakness, decreased finger mobility, decreased Achilles reflex, hand muscle atrophy, hyporeflexia of upper limbs, abnormal tendon morphology.
+
++2. Muscular Dystrophies: A group of genetic disorders that cause progressive muscle weakness and wasting. Symptoms: Distal upper limb muscle weakness, distal lower limb muscle weakness, proximal muscle weakness in lower limbs, proximal muscle weakness in upper limbs, hand muscle atrophy, hyporeflexia of upper limbs.
+
++3. Vitamin B12 Deficiency: A condition caused by a lack of vitamin B12, leading to neurological symptoms such as numbness, tingling, and muscle weakness. Symptoms: Decreased circulating vitamin B12 concentration, distal upper limb muscle weakness, proximal muscle weakness in lower limbs, proximal muscle weakness in upper limbs, hyporeflexia of upper limbs.
+
++4. Spinal Muscular Atrophy: A genetic disorder that causes progressive muscle weakness and wasting, particularly in the limbs and respiratory muscles. Symptoms: Decreased body weight, proximal muscle weakness in lower limbs, proximal muscle weakness in upper limbs, distal lower limb muscle weakness, decreased Achilles reflex, hand muscle atrophy, hyporeflexia of upper limbs.
+
++5. Hereditary Sensory and Motor Neuropathy: A group of inherited disorders that damage the sensory and motor nerves, leading to muscle weakness, numbness, and wasting. Symptoms: Pes cavus, distal upper limb muscle weakness, distal lower limb muscle weakness, decreased finger mobility, decreased Achilles reflex, hand muscle atrophy, hyporeflexia of upper limbs, abnormal tendon morphology.
+
++6. Homocystinuria: A metabolic disorder caused by a deficiency of the enzyme cystathionine beta-synthase, leading to the accumulation of homocysteine in the body. Symptoms: Hyperhomocystinemia, decreased body weight, abnormal intervertebral disk morphology, distal upper limb muscle weakness, proximal muscle weakness in lower limbs, proximal muscle weakness in upper limbs, distal lower limb muscle weakness, decreased Achilles reflex, hand muscle atrophy.
+
++7. Creatine Deficiency: A metabolic disorder that affects the production or utilization of creatine, leading to muscle weakness and wasting. Symptoms: Elevated circulating creatine kinase concentration, distal upper limb muscle weakness, distal lower limb muscle weakness, decreased finger mobility, decreased Achilles reflex, hand muscle atrophy.
+
++8. Myotonic Dystrophy: A genetic disorder that causes muscle weakness, wasting, and myotonia (delayed muscle relaxation). Symptoms: Decreased body weight, distal upper limb muscle weakness, distal lower limb muscle weakness, decreased finger mobility, decreased Achilles reflex, hand muscle atrophy, hyporeflexia of upper limbs, distal upper limb muscle weakness, distal lower limb muscle weakness.
+"
+"['Amyotrophic lateral sclerosis type 4', 'Juvenile amyotrophic lateral sclerosis', 'Amyotrophic lateral sclerosis']"," +1. Charcot-Marie-Tooth Disease: A group of hereditary disorders that damage the peripheral nerves, causing muscle weakness, especially in the legs and feet, and abnormalities in the shape and size of the affected limbs. +Symptoms: Abnormal joint morphology, Abnormal corticospinal tract morphology, EMG: neuropathic changes, Upper limb muscle weakness, Abnormal muscle tone, Interosseus muscle atrophy, Lower limb muscle weakness.
+
++2. Muscular Dystrophies: A group of genetic disorders that cause progressive muscle weakness and wasting. +Symptoms: Upper limb muscle weakness, Lower limb muscle weakness, Interosseus muscle atrophy, Exercise-induced leg cramps.
+
++3. Spinal Muscular Atrophy: A motor neuron disorder that causes muscle weakness and atrophy, often starting in the legs and progressing to the arms and respiratory muscles. +Symptoms: Lower limb muscle weakness, Poor fine motor coordination.
+
++4. Polio: A viral infection that can cause muscle weakness, paralysis, and even death. +Symptoms: Upper limb muscle weakness, Lower limb muscle weakness, Exercise-induced leg cramps.
+
++5. Myasthenia Gravis: An autoimmune disease that causes muscle weakness and fatigue. +Symptoms: Upper limb muscle weakness, Difficulty walking, Exercise-induced leg cramps.
+
++6. Peripheral Neuropathy: Damage to the peripheral nerves, causing muscle weakness, numbness, and pain. +Symptoms: Abnormal joint morphology, Upper limb muscle weakness, Abnormal muscle tone, Interosseus muscle atrophy, Lower limb muscle weakness, Exercise-induced leg cramps.
+
++7. Cerebral Palsy: A group of disorders that affect muscle tone, movement, and coordination, often caused by damage to the developing brain. +Symptoms: Abnormal joint morphology, Difficulty walking, Abnormal muscle tone, Poor fine motor coordination.
+
++8. Duchenne Muscular Dystrophy: A severe form of muscular dystrophy that primarily affects boys, causing progressive muscle weakness and wasting. +Symptoms: Upper limb muscle weakness, Lower limb muscle weakness, Interosseus muscle atrophy.
+
++9. Friedreich's Ataxia: A genetic disorder that causes progressive damage to the nervous system, leading to muscle weakness, coordination problems, and balance issues. +Symptoms: Difficulty walking, Poor fine motor coordination.
+
++10. Guillain-Barré Syndrome: An autoimmune disorder that causes muscle weakness and paralysis, often following a respiratory or gastrointestinal infection. +Symptoms: Upper limb muscle weakness, Lower limb muscle weakness, Exercise-induced leg cramps.
+
++11. Hereditary Spastic Paraplegia: A group of genetic disorders that cause progressive muscle stiffness and weakness, primarily in the legs. +Symptoms: Lower limb muscle weakness, Abnormal muscle tone.
+
++12. Multiple Sclerosis: An autoimmune disease that damages the protective covering of the nerves, leading to muscle weakness, numbness, and other symptoms. +Symptoms: Upper limb muscle weakness, Lower limb muscle weakness, Exercise-induced leg cramps, Poor fine motor coordination.
+
++13. Parkinson'"
+['Myasthenia gravis']," +1. Myasthenia Gravis: Bilateral ptosis, Fatigable weakness, Decremental response of compound muscle action potential to repetitive nerve stimulation, Repetitive nerve stimulation abnormality, Favorable response of weakness to acetylcholine esterase inhibitors (Common symptoms).
++2. Lambert-Eaton Myasthenic Syndrome: Upper limb muscle weakness, Decremental response of compound muscle action potential to repetitive nerve stimulation, Repetitive nerve stimulation abnormality, Favorable response of weakness to acetylcholine esterase inhibitors (Common symptoms).
++3. Parkinson's Disease: Difficulty climbing stairs, Difficulty standing (Not common symptoms).
++4. Multiple Sclerosis: Fatigable weakness, Difficulty climbing stairs, Difficulty standing (Some symptoms in common but not all).
++5. Guillain-Barré Syndrome: Bilateral ptosis, Upper limb muscle weakness, Decremental response of compound muscle action potential to repetitive nerve stimulation, Repetitive nerve stimulation abnormality (Common symptoms).
++6. ALS (Amyotrophic Lateral Sclerosis): Upper limb muscle weakness, Difficulty climbing stairs, Difficulty standing, Fatigable weakness (Some symptoms in common but not all).
++7. Myopathy: Upper limb muscle weakness, Difficulty climbing stairs, Difficulty standing, Fatigable weakness (Some symptoms in common but not all).
++8. Mitochondrial Myopathy: Fatigable weakness, Difficulty climbing stairs, Difficulty standing (Some symptoms in common but not all).
++9. Hereditary Motor and Sensory Neuropathy: Upper limb muscle weakness, Decremental response of compound muscle action potential to repetitive nerve stimulation, Repetitive nerve stimulation abnormality (Common symptoms).
++10. Spinal Muscular Atrophy: Upper limb muscle weakness, Difficulty climbing stairs, Difficulty standing, Fatigable weakness (Some symptoms in common but not all)."
+['Myasthenia gravis']," +1. Myasthenia Gravis: This is an autoimmune neuromuscular disorder characterized by muscle weakness and fatigability. The patient presents with symptoms such as diplopia, ptosis (bilateral in this case), and oculomotor apraxia. The EMG findings of decremental response and repetitive nerve stimulation abnormality are consistent with this diagnosis. +
+
++2. Amyotrophic Lateral Sclerosis (ALS): This is a progressive neurodegenerative disorder that affects motor neurons. The patient presents with symptoms such as generalized muscle weakness, easy fatigability, and dysphagia. The presence of dyspnea and weakness of muscles of respiration raises suspicion for this condition. +
+
++3. Guillain-Barré Syndrome: This is an acute inflammatory demyelinating polyneuropathy. The patient presents with symptoms such as muscle weakness (upper and lower limbs), fatigability, and impaired ocular motility (abduction in this case). The presence of dyspnea and dysphagia may indicate involvement of the autonomic nervous system. +
+
++4. Myasthenia Gravis with thymoma: This is a variant of Myasthenia Gravis where the patient also has a thymoma (a tumor of the thymus gland). The patient presents with symptoms such as diplopia, ptosis, oculomotor apraxia, dysphagia, dyspnea, and generalized muscle weakness. The EMG findings of decremental response and repetitive nerve stimulation abnormality are consistent with Myasthenia Gravis. +
+
++5. Multiple Sclerosis: This is a chronic demyelinating disease of the central nervous system. The patient presents with symptoms such as fatigability, muscle weakness (upper and lower limbs), and dysphagia. The presence of impaired ocular motility (oculomotor apraxia and impaired abduction) raises suspicion for this condition. +
+
++6. Parkinson's Disease: This is a progressive neurodegenerative disorder characterized by motor symptoms such as tremors, rigidity, and bradykinesia. The patient does not present with symptoms such as diplopia, ptosis, or oculomotor apraxia. +
+
++7. Myopathy: This is a group of disorders characterized by muscle weakness and wasting. The patient presents with symptoms such as generalized muscle weakness, easy fatigability, and dysphagia. The absence of symptoms such as diplopia, ptosis, and oculomotor apraxia suggests this diagnosis. +
+
++8. Polymyositis: This is an inflammatory myopathy characterized by muscle weakness and inflammation. The patient presents with symptoms such as generalized muscle weakness, easy fatigability, and dysphagia. The absence of symptoms such as diplopia, ptosis, and oculomotor apraxia suggests this diagnosis. +
+
++9. Dysphagia due to stroke: This is a condition where dysphagia is caused by damage to the nervous system due to a stroke. The patient presents with symptoms such as dysphagia, dyspnea, and generalized muscle weakness. The absence of symptoms such as diplopia, ptosis, and oculomotor apraxia suggests this diagnosis. +
+
++10. Dysphagia due to neuromuscular junction disorders: This includes conditions such as Myasthenia Gravis, Lam"
+['Myasthenia gravis']," +1. Myasthenia Gravis: This is an autoimmune neuromuscular disorder characterized by muscle weakness and fatigability. The patient presents with symptoms such as Diplopia, Bilateral ptosis, Dysphagia, and EMG: decremental response of compound muscle action potential to repetitive nerve stimulation. +2. Multiple Sclerosis: This is a chronic demyelinating disease of the central nervous system. The patient exhibits symptoms such as Leukoencephalopathy, Difficulty walking, Abnormal cerebral white matter morphology, and Exercise intolerance. +3. Parkinson's Disease: This is a progressive neurological disorder that affects movement. The patient does not present with Diplopia or Dysphagia but shows symptoms such as Difficulty walking, Easy fatigability, and Exercise intolerance. +4. Atherosclerosis: This is a condition characterized by the buildup of plaque in the arteries. The patient presents with symptoms such as Varicose veins, Atherosclerosis, and Abnormal carotid artery morphology. +5. Myelopathy: This is a condition that affects the spinal cord, leading to neurological symptoms. The patient exhibits symptoms such as Difficulty walking, Bilateral ptosis, and Weakness. +6. Guillain-Barré Syndrome: This is an autoimmune disorder that causes muscle weakness and paralysis. The patient presents with symptoms such as Dysphagia, Weakness, and EMG: repetitive nerve stimulation abnormality. +7. Myotonic Dystrophy: This is a genetic disorder that causes muscle weakness and wasting. The patient exhibits symptoms such as Difficulty walking, Myotonia (stiffness or prolonged muscle contraction after a brief muscle contraction), and Weakness. +8. Cerebral Vasculitis: This is an inflammation of the blood vessels in the brain. The patient presents with symptoms such as Headache, Dizziness, and Difficulty speaking. +9. Botulism: This is a rare bacterial illness that causes muscle weakness and paralysis. The patient exhibits symptoms such as Dysphagia, Weakness, and Paralysis. +10. Wernicke-Korsakoff Syndrome: This is a neurological disorder caused by a deficiency of thiamine (vitamin B1). The patient presents with symptoms such as Confusion, Memory loss, and Ataxia (lack of coordination)."
+['Myasthenia gravis']," +1. Bell's Palsy: Facial weakness or paralysis, including drooping of the tongue and difficulty with mastication, but no Diplopia, Depression, Diabetes mellitus, Hypertension, Slurred speech, Bilateral ptosis, Difficulty walking, Arterial calcification, Hyperlipidemia, Cerebral artery atherosclerosis, EMG abnormality, Upper limb muscle weakness, Impaired mastication, Anti-acetylcholine receptor antibody positivity, Abnormality of the maxillary sinus.
+
++2. Myasthenia Gravis: Weakness of voluntary muscles, including ocular muscles (ptosis, diplopia), bulbar muscles (dysarthria, difficulty swallowing), and limb muscles, but no Depression, Diabetes mellitus, Hypertension, Slurred speech, Bilateral ptosis (usually unilateral), Difficulty walking, Abnormal cerebral white matter morphology, Arterial calcification, Hyperlipidemia, Cerebral artery atherosclerosis, Reduced tendon reflexes, Ischemic stroke, Easy fatigability, Favorable response of weakness to acetylcholine esterase inhibitors, Abnormality of the maxillary sinus.
+
++3. Multiple Sclerosis: Demyelinating disease of the central nervous system, presenting with a wide range of symptoms including optic neuritis (Diplopia), depression, fatigue, gait disturbance, and various neurological deficits, but no Abnormality of the tongue, Hypertension, Dysarthria, Reduced tendon reflexes, Slurred speech, Bilateral ptosis, Difficulty walking (usually with spasticity), Arterial calcification, Hyperlipidemia, Cerebral artery atherosclerosis, Easy fatigability, EMG abnormality, Upper limb muscle weakness, Impaired mastication, Abnormality of the maxillary sinus.
+
++4. Parkinson's Disease: Progressive degenerative disorder of the central nervous system, characterized by motor symptoms such as tremors, rigidity, bradykinesia, and postural instability, but no Abnormality of the tongue, Diplopia, Depression, Diabetes mellitus, Hypertension, Dysarthria, Reduced tendon reflexes, Slurred speech, Bilateral ptosis, Difficulty walking (with shuffling gait and festinating gait), Abnormal cerebral white matter morphology, Arterial calcification, Hyperlipidemia, Cerebral artery atherosclerosis, Easy fatigability, EMG abnormality, Upper limb muscle weakness, Impaired mastication, Abnormality of the maxillary sinus.
+
++5. Guillain-Barré Syndrome: Autoimmune disorder causing inflammation and demyelination of peripheral nerves, resulting in muscle weakness and paralysis, but no Depression, Diabetes mellitus, Hypertension, Slurred speech, Bilateral ptosis, Difficulty walking, Abnormal cerebral white matter morphology, Arterial calcification, Hyperlipidemia, Cerebral artery atherosclerosis, Easy fatigability, Favorable response of weakness to acetylcholine esterase inhibitors, Anti-"
+['Myasthenia gravis']," +1. Myasthenia Gravis: This is an autoimmune neuromuscular disorder characterized by muscle weakness and fatigability. The patient presents with symptoms such as Diplopia, Dysarthria, Decreased body weight, Unilateral ptosis, Proximal muscle weakness, Fatigable weakness, and Favorable response of weakness to acetylcholine esterase inhibitors. +2. Myasthenia Gravis with Thymoma: This is a variant of Myasthenia Gravis where a thymoma tumor is present. The patient also presents with Thymoma in this case. +3. Myasthenia Gravis with Thyroid Disease: Some patients with Myasthenia Gravis may also have thyroid disorders such as Hashimoto thyroiditis. The patient in this case presents with Hashimoto thyroiditis. +4. Multiple Sclerosis: This is a chronic autoimmune disease affecting the central nervous system. The patient does not present with Diplopia, but does have Dysarthria, Progressive hearing impairment, Decreased body weight, and Favorable response of weakness to acetylcholine esterase inhibitors. +5. Parkinson's Disease: This is a progressive neurological disorder affecting movement. The patient presents with Dysarthria, Bradykinesia (which can present as decreased facial expression and monotone voice), Rigidity, Tremors, and Resting tremors. The patient does not have Diplopia, Hashimoto thyroiditis, or Thymoma. +6. Guillain-Barré Syndrome: This is a neurological disorder characterized by muscle weakness and paralysis due to damage to the peripheral nerves. The patient presents with Progressive muscle weakness, Decreased body weight, and Decreased reflexes. The patient does not have Diplopia, Hashimoto thyroiditis, or Thymoma. +7. Myotonic Dystrophy: This is a genetic disorder characterized by muscle weakness, wasting, and myotonia (delayed relaxation of muscles after contraction). The patient presents with Generalized muscle weakness, Decreased body weight, and Myotonia. The patient does not have Diplopia, Hashimoto thyroiditis, or Thymoma. +8. ALS (Amyotrophic Lateral Sclerosis): This is a progressive neurodegenerative disease affecting motor neurons. The patient presents with Progressive muscle weakness, Decreased body weight, and Bulbar symptoms (Dysarthria, Dysphagia, and Hoarse voice). The patient does not have Diplopia, Hashimoto thyroiditis, or Thymoma. +9. Polymyalgia Rheumatica: This is an inflammatory condition causing muscle pain, stiffness, and swelling, typically in the shoulders and hips. The patient does not present with Diplopia, Hashimoto thyroiditis, Thymoma, or any neurological symptoms. +10. Hypothyroidism: This is a condition where the thyroid gland does not produce enough thyroid hormones. The patient presents with Fatigability, Decreased body weight, and Constipation. The patient does not have Diplopia, Hashimoto thyroiditis, Thymoma, or any neurological symptoms."
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']"," +1. Overactive Bladder Syndrome: Urinary urgency, urinary frequency, and sometimes urinary incontinence. No hepatic steatosis, constipation, bradykinesia, akinesia, clumsiness, action tremor, sleep abnormality, shuffling gait, falls, EMG abnormality, decreased body weight, abnormal left ventricular function, poor fine motor coordination, progressive language deterioration, foot dorsiflexor weakness, abasia, abnormal lateral ventricle morphology, hand muscle weakness, reduced blood folate concentration, pollakisuria, dysuria.
+
++2. Parkinson's Disease: Bradykinesia, akinesia, clumsiness, action tremor, shuffling gait, falls, EMG abnormality, rigidity, resting tremor, decreased facial expression, monotone speech, postural instability, micrographia, masked facies, seborrheic dermatitis, olfactory dysfunction, REM sleep behavior disorder, constipation, urinary urgency, urinary hesitancy, urinary incontinence, erectile dysfunction, orthostatic hypotension, depression, anxiety, apathy, cognitive impairment, dementia, pain, abnormal urine cytology, abnormal lateral ventricle morphology, hand muscle weakness, foot dorsiflexor weakness, foot cramps, dystonia, myoclonus, seborrhea, sialorrhea, drooling, akathisia, dyskinesia, dystonia, hallucinations, delusions, psychosis.
+
++3. Benign Prostatic Hypertrophy: Urinary hesitancy, urinary retention, decreased force and caliber of urinary stream, intermittency, straining, incomplete emptying, nocturia, dysuria, hematuria, pain in the lower back, pelvis, or upper thighs, difficulty starting urination, weak urine stream, frequent urination, feeling of not emptying the bladder completely, and inability to urinate. No hepatic steatosis, constipation, bradykinesia, akinesia, clumsiness, action tremor, sleep abnormality, shuffling gait, falls, EMG abnormality, decreased body weight, abnormal left ventricular function, poor fine motor coordination, progressive language deterioration, foot dorsiflexor weakness, paroxysmal vertigo, aortic atherosclerotic lesion, pollakisuria, abasia, abnormal lateral ventricle morphology, hand muscle weakness, reduced blood folate concentration, pain, abnormal urine cytology, abnormal lateral ventricle morphology, hand muscle weakness, foot dorsiflexor weakness, paroxysmal vertigo, aortic atherosclerotic lesion.
+
++4. Chronic Kidney Disease: Hepatic steatosis, constipation, bradykinesia, akinesia, clumsiness, action tremor, sleep abnormality, shuffling gait, falls, EMG abnormality, decreased body weight, abnormal left ventricular function, poor fine motor coordination, progressive language deterioration, foot dorsiflexor weakness, paroxysmal vertigo, aortic atherosclerotic lesion, pain, abnormal urine cytology, abasia, abnormal lateral ventricle morphology,"
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']"," +1. Benign Prostatic Hypertrophy (BPH): Urinary urgency, urinary hesitancy, and dysuria.
++2. Sjogren's Syndrome: Xerostomia and dry eyes (not mentioned in the symptoms).
++3. Diabetes Mellitus: Hypertension, memory impairment, and poor appetite.
++4. Multiple Sclerosis: Dysarthria, clumsiness, poor fine motor coordination, and abnormal cerebral white matter morphology.
++5. Parkinson's Disease: Bradykinesia (not mentioned in the symptoms but often associated with dysarthria, rigidity, and tremors).
++6. Alzheimer's Disease: Memory impairment, confusion, and decreased facial expression.
++7. Cerebrovascular Accident (CVA): Syncope, slurred speech, hemiparesis (not mentioned in the symptoms), and abnormal fundus morphology.
++8. Renal Disease: Urinary incontinence, decreased appetite, and anemia (not mentioned in the symptoms).
++9. Thyroid Disease: Weight gain, poor appetite, and decreased facial expression.
++10. Anemia: Fatigue, decreased appetite, and pallor (not mentioned in the symptoms).
++11. Epilepsy: EEG abnormality and seizures (not mentioned in the symptoms).
++12. Guillain-Barre Syndrome: Weakness, decreased reflexes, and abnormal EMG (not mentioned in the symptoms).
++13. Arthritis: Clumsiness, poor fine motor coordination, and joint pain (not mentioned in the symptoms).
++14. Hepatic Disease: Jaundice (not mentioned in the symptoms), and abnormal liver function tests.
++15. Cardiovascular Disease: Hypertension, chest pain (not mentioned in the symptoms), and shortness of breath.
++16. Hypoglycemia: Dizziness, sweating, and confusion (not mentioned in the symptoms).
++17. Hypothyroidism: Fatigue, weight gain, and decreased appetite.
++18. Hyperthyroidism: Weight loss, tremors, and palpitations (not mentioned in the symptoms).
++19. Anxiety Disorder: Urinary frequency, anxiety, and insomnia (not mentioned in the symptoms).
++20. Depression: Memory impairment, decreased appetite, and decreased facial expression.
++21. Sleep Apnea: Fatigue, daytime somnolence, and snoring (not mentioned in the symptoms).
++22. Hypoparathyroidism: Hypocalcemia (not mentioned in the symptoms), and muscle cramps.
++23. Hypokalemia: Muscle weakness, cramps, and cardiac arrhythmias (not mentioned in the symptoms).
++24. Hypomagnesemia: Muscle cramps, tremors, and cardiac arrhythmias (not mentioned in the symptoms).
++25. Hypophosphatemia: Muscle weakness, cramps, and bone pain (not mentioned in the symptoms).
++26. Hypokalemic Periodic Paralysis: Muscle weakness, cramps, and paralysis (not mentioned in the symptoms).
++27. Hyperkalemia: Muscle weakness, cardiac arrhythmias, and ECG changes (not"
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']"," +1. Parkinson's Disease: Urinary incontinence, Bradykinesia, Dysdiadochokinesis, Broad-based gait, Tremors, Rigidity, Falls, Poor fine motor coordination, Lower limb muscle weakness, Cervical spondylosis : The patient presents with several symptoms that are common in Parkinson's Disease such as bradykinesia, dysdiadochokinesis, broad-based gait, and tremors. However, the patient does not have hallucinations, syncope, hepatic steatosis, or difficulty climbing stairs.
+
++2. Multiple Sclerosis: Urinary incontinence, Fatigue, Weakness, Difficulty walking, Falls, Spasticity, Reflexes abnormalities, Cognitive impairment : The patient presents with several symptoms that are common in Multiple Sclerosis such as urinary incontinence, weakness, difficulty walking, and falls. However, the patient does not have hallucinations, syncope, hepatic steatosis, or bradykinesia.
+
++3. Dementia with Lewy Bodies: Urinary incontinence, Hallucinations, Parkinsonian symptoms (Rigidity, Tremors, Bradykinesia), Falls, Sleep abnormality : The patient presents with several symptoms that are common in Dementia with Lewy Bodies such as urinary incontinence, hallucinations, parkinsonian symptoms, and falls. However, the patient does not have hepatic steatosis, syncope, or difficulty climbing stairs.
+
++4. Vestibular Disorder: Dizziness, Vertigo, Imbalance, Falling, Nausea, Vomiting : The patient presents with several symptoms that are common in Vestibular Disorders such as dizziness, vertigo, imbalance, and falling. However, the patient does not have urinary incontinence, hallucinations, or hepatic steatosis.
+
++5. Chronic Obstructive Pulmonary Disease (COPD): Cough, Shortness of breath, Wheezing, Chest tightness, Fatigue : The patient presents with several symptoms that are common in COPD such as cough, shortness of breath, wheezing, chest tightness, and fatigue. However, the patient does not have urinary incontinence, hallucinations, or neurological symptoms such as bradykinesia, dysdiadochokinesis, or broad-based gait.
+
++6. Diabetes Mellitus: Frequent urination, Thirst, Fatigue, Blurred vision, Numbness or tingling in hands or feet : The patient presents with several symptoms that are common in Diabetes Mellitus such as frequent urination, thirst, fatigue, and blurred vision. However, the patient does not have hallucinations, syncope, or neurological symptoms such as bradykinesia, dysdiadochokinesis, or broad-based gait.
+
++7. Chronic Kidney Disease: Urinary incontinence, Fatigue, Swelling, Shortness of breath : The patient presents with several symptoms that are common in Chronic Kidney Disease such as urinary incontinence, fatigue, and swelling. However, the patient does not have hallucinations, syncope, or neurological symptoms such as bradykinesia, dysdiadochokinesis, or broad-based gait.
+
++8. Anemia: Fatigue, Weakness, P"
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']"," +1. Urinary Tract Infection (UTI): Urinary urgency, dysuria, and possible urinary incontinence. +2. Parkinson's Disease: Urinary urgency, dysuria, dysdiadochokinesis, cerebral atrophy, and possible difficulty climbing stairs. +3. Multiple Sclerosis: Urinary urgency, dysuria, constipation, cerebral atrophy, abnormal cerebral white matter morphology, increased intracranial pressure, and possible dysesthesia. +4. Benign Prostatic Hyperplasia (BPH): Urinary hesitancy, urinary incontinence, and abnormal prostate morphology. +5. Stroke: Syncope, slurred speech, loss of consciousness, cerebral atrophy, cerebral ischemia, and possible difficulty climbing stairs. +6. Diabetes Mellitus: Urinary urgency, neuropathic changes, and possible erectile dysfunction. +7. Spinal Cord Injury: Abnormal spinal cord morphology, difficulty climbing stairs, and possible lower limb muscle weakness. +8. Brain Tumor: Headaches, cerebral atrophy, abnormal cerebral white matter morphology, increased intracranial pressure, and possible seizures. +9. Chronic Fatigue Syndrome: Fatigue, urinary urgency, and possible dysesthesia. +10. Interstitial Cystitis: Urinary urgency, dysuria, and possible pelvic pain. +11. Sleep Apnea: Fatigue, syncope, and possible snoring. +12. Lung Cancer: Neoplasm of the lung, and possible coughing and shortness of breath. +13. Guillain-Barré Syndrome: Neuropathic changes, possible weakness, and possible difficulty climbing stairs. +14. Myasthenia Gravis: Neuropathic changes, possible weakness, and possible dysphagia. +15. Amyotrophic Lateral Sclerosis (ALS): Neuropathic changes, possible muscle weakness, and possible difficulty climbing stairs. +16. Chronic Kidney Disease: Urinary urgency, possible proteinuria, and possible anemia. +17. Overactive Bladder: Urinary urgency, frequency, and possible incontinence. +18. Pelvic Floor Dysfunction: Urinary urgency, incontinence, and possible constipation. +19. Dementia: Cerebral atrophy, memory loss, and possible difficulty climbing stairs. +20. Epilepsy: Seizures, possible syncope, and possible abnormal cerebral white matter morphology. +21. Hepatic Encephalopathy: Cerebral atrophy, confusion, and possible increased CSF protein concentration. +22. Hypothyroidism: Fatigue, constipation, and possible weight gain. +23. Alzheimer's Disease: Cerebral atrophy, memory loss, and possible difficulty climbing stairs. +24. Vertigo: Dizziness, syncope, and possible nausea. +25. Ankylosing Spondylitis: Lower back pain, stiffness, and possible difficulty climbing stairs. +26. Multiple System Atrophy: Urinary urgency, dysuria, cerebral atrophy, and possible dysarthria. +27. Huntington's Disease: Cerebral atrophy,"
+"['Multiple system atrophy', 'Multiple system atrophy, parkinsonian type', 'Multiple system atrophy, cerebellar type']"," +1. Benign Prostatic Hypertrophy: This condition is characterized by an enlargement of the prostate gland, leading to urinary symptoms such as nocturia and urinary hesitancy. +2. Diabetes Mellitus: This metabolic disorder is associated with symptoms such as polyuria (frequent urination), polydipsia (increased thirst), and urinary incontinence. +3. Parkinson's Disease: This neurological disorder is characterized by motor symptoms such as bradykinesia, rigidity, and tremors, as well as non-motor symptoms like memory impairment, urinary incontinence, and constipation. +4. Multiple Sclerosis: This autoimmune disorder affects the central nervous system and can cause symptoms such as urinary incontinence, memory impairment, unsteady gait, and paresthesia. +5. Diabetic Neuropathy: This complication of diabetes can cause symptoms such as urinary incontinence, impaired pain sensation, and decreased vibration sensation. +6. Spinal Stenosis: This condition involves the narrowing of the spinal canal, leading to symptoms such as urinary incontinence, unsteady gait, and impaired vibration sensation. +7. Hypothyroidism: This condition can cause symptoms such as memory impairment, decreased body weight, and constipation. +8. Chronic Kidney Disease: This condition can cause symptoms such as nocturia, urinary incontinence, and decreased body weight. +9. Fibromyalgia: This condition is characterized by widespread pain, fatigue, and cognitive symptoms such as memory impairment and slurred speech. +10. Intervertebral Disc Herniation: This condition can cause symptoms such as lower back pain, sciatica, and urinary incontinence. +11. Peripheral Artery Disease: This condition can cause symptoms such as claudication (pain in the legs during physical activity), decreased body weight, and impaired pain sensation. +12. Alzheimer's Disease: This neurodegenerative disorder is characterized by memory impairment, cognitive decline, and behavioral changes. +13. Stroke: This condition can cause symptoms such as urinary incontinence, memory impairment, slurred speech, and unsteady gait. +14. Guillain-Barré Syndrome: This autoimmune disorder can cause symptoms such as weakness, paresthesia, and urinary incontinence. +15. Multiple Myeloma: This cancer of the bone marrow can cause symptoms such as bone pain, decreased body weight, and urinary incontinence. +16. Cushing's Syndrome: This condition is characterized by the overproduction of cortisol, leading to symptoms such as weight gain, memory impairment, and urinary incontinence. +17. Hypogonadism: This condition is characterized by decreased production of sex hormones, leading to symptoms such as male hypogonadism and decreased body weight. +18. Chronic Fatigue Syndrome: This condition is characterized by fatigue, cognitive symptoms, and muscle pain. +19. Restless Legs Syndrome: This condition can cause symptoms such as paresthesia, unsteady gait, and insomnia. +20. Overactive Bladder Syndrome: This condition is characterized by a frequent and urgent need to urinate, often accompanied by urinary incontinence. +"
+['Alport syndrome']," +1. Renal Disease (Nephropathy): Nocturia, Proteinuria, Hematuria, Hypoalbuminemia, Elevated circulating creatinine concentration, Hypertension.
++2. Diabetes Mellitus: Nocturia, Proteinuria, Hyperkalemia, Hypoalbuminemia, Hypercholesterolemia, Hyperuricosuria.
++3. Chronic Kidney Disease: Nocturia, Proteinuria, Hematuria, Hypoalbuminemia, Elevated circulating creatinine concentration, Hypertension.
++4. Hypertensive Nephropathy: Nocturia, Proteinuria, Hematuria, Hypertension.
++5. Glomerulonephritis: Nocturia, Proteinuria, Hematuria, Hypertension.
++6. Diabetic Nephropathy: Nocturia, Proteinuria, Hypoalbuminemia, Elevated circulating creatinine concentration, Hypertension.
++7. Renal Stone Disease: Nocturia, Abnormal urinary color, Hyperuricosuria.
++8. Thyroid Disease: Nodular goiter, Hypertension.
++9. Liver Disease: Hypoalbuminemia, Abnormal urinary color.
+
+Please note that the above list is not exhaustive and further diagnostic tests are required to confirm the diagnosis. The patient's symptoms may be indicative of multiple conditions, and it is important to consult with a healthcare professional for proper evaluation and treatment."
+['Alport syndrome']," +1. Nephritis: Renal inflammation causing Proteinuria, Hypertension, Fever, and possible Hematuria. No known association with Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++2. Diabetic Nephropathy: Chronic kidney damage due to diabetes, leading to Proteinuria, Hypertension, and Elevated circulating creatinine concentration. No known association with Fever, Hypercholesterolemia, Abnormal urinary color, or Cylindruria.
+
++3. Lupus Nephritis: Systemic autoimmune disease causing Nephritis, Proteinuria, Hypertension, and possible Fever. No known association with Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++4. IgA Nephropathy: Kidney disease characterized by IgA deposits, leading to Proteinuria, Hypertension, and possible Hematuria. No known association with Fever, Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++5. Glomerulonephritis: Inflammation of the glomeruli, causing Proteinuria, Hypertension, and possible Hematuria. No known association with Fever, Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++6. Focal Segmental Glomerulosclerosis (FSGS): Scarring of the kidney, leading to Proteinuria and possible Hypertension. No known association with Fever, Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++7. Membranoproliferative Glomerulonephritis (MPGN): Kidney inflammation with thickened glomerular basement membrane, causing Proteinuria, Hypertension, and possible Hematuria. No known association with Fever, Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++8. Alport Syndrome: Genetic disorder causing progressive kidney damage, leading to Proteinuria, Hypertension, and Hematuria. No known association with Fever, Hypercholesterolemia, Elevated creatinine, Abnormal urinary color, or Cylindruria.
+
++9. Polycystic Kidney Disease: Genetic disorder characterized by numerous kidney cysts, leading to Hypertension and Elevated creatinine concentration. No known association with Proteinuria, Fever, Hypercholesterolemia, Abnormal urinary color, or Cylindruria.
+
++10. Renal Artery Stenosis: Narrowing of the renal artery, leading to Hypertension and possible Elevated creatinine concentration. No known association with Proteinuria, Fever, Hypercholesterolemia, Abnormal urinary color, or Cylindruria.
+
++11. Renal Amyloidosis: Deposition of abnormal protein in the kidneys, leading to Proteinuria, Hypertension, and possible Hematuria."
+['Alport syndrome']," +1. Renal Disease (Nephritis, Microscopic hematuria, Abnormal urinary color): The patient presents with symptoms of kidney disease, including microscopic hematuria and abnormal urinary color. Nephritis is inflammation of the kidneys, which can lead to these symptoms.
+
++2. Glomerulonephritis (Nephritis, Microscopic hematuria, Proteinuria): The patient has symptoms of nephritis and microscopic hematuria. Glomerulonephritis is a type of nephritis characterized by inflammation of the glomeruli in the kidneys, leading to proteinuria and hematuria.
+
++3. Hematuria (Nephritis, Microscopic hematuria, Macroscopic hematuria): The patient presents with hematuria, which is the presence of blood in the urine. This can be caused by various conditions, including nephritis.
+
++4. Urinary Tract Infection (UTI, Dysuria, Frequency, Microscopic hematuria): The patient has symptoms of a UTI, including microscopic hematuria. UTIs can cause inflammation and infection in the urinary tract, leading to symptoms such as dysuria, frequency, and hematuria.
+
++5. Renal Stone Disease (Renal Colic, Abdominal pain, Hematuria): The patient presents with hematuria and abdominal pain, which can be symptoms of renal stone disease. Renal colic is the severe pain caused by the movement of a stone in the urinary tract.
+
++6. Hypertension (High Blood Pressure, Headache, Microscopic hematuria): The patient has microscopic hematuria and high blood pressure. Hypertension can damage the kidneys, leading to microscopic hematuria and other symptoms.
+
++7. Diabetes Mellitus (Polydipsia, Polyuria, Polyphagia, Microscopic hematuria): The patient has symptoms of diabetes mellitus, including microscopic hematuria. Diabetes can damage the kidneys, leading to microscopic hematuria and other symptoms.
+
++8. Systemic Lupus Erythematosus (Malar rash, Arthralgia, Microscopic hematuria): The patient has symptoms of systemic lupus erythematosus, including microscopic hematuria. SLE is an autoimmune disease that can affect various organs, including the kidneys, leading to symptoms such as hematuria and proteinuria.
+
++9. Vasculitis (Arthralgia, Fever, Microscopic hematuria): The patient has symptoms of vasculitis, including microscopic hematuria. Vasculitis is inflammation of the blood vessels, which can lead to symptoms such as arthralgia, fever, and hematuria.
+
++10. Sickle Cell Disease (Anemia, Joint pain, Microscopic hematuria): The patient has symptoms of sickle cell disease, including microscopic hematuria. Sickle cell disease is a genetic disorder that affects the production of hemoglobin, leading to anemia, joint pain, and hematuria.
+
++11. Leukemia (Fever, Fatigue, Microscopic hematuria):"
+['Alport syndrome']," +1. IgM Nephropathy: This is a type of glomerulonephritis characterized by the deposition of IgM immunoglobulins in the glomeruli. The patient presents with Proteinuria, Hematuria, and Increased circulating IgM level. +2. Membranoproliferative Glomerulonephritis: This is a type of glomerulonephritis characterized by the proliferation of the glomerular mesangium and the formation of a dense deposit in the glomerular basement membrane. The patient presents with Proteinuria, Hematuria, and Glomerulonephritis. +3. Diabetic Nephropathy: This is a type of chronic kidney disease that results from damage to the glomeruli and tubules in the kidneys due to long-term diabetes. The patient presents with Proteinuria, Chronic kidney disease, and Elevated erythrocyte sedimentation rate. +4. Graves' Disease: This is an autoimmune disorder that causes an overactive thyroid gland (hyperthyroidism) and a goiter. The patient presents with Nodular goiter and does not have Nocturia, Proteinuria, Hematuria, Glomerulonephritis, Pollakisuria, or Chronic kidney disease. +5. Pyelonephritis: This is a bacterial infection of the kidneys and the urinary tract. The patient does not have Nodular goiter, Chronic kidney disease, or Pollakisuria. +6. Benign Prostatic Hypertrophy: This is a non-cancerous enlargement of the prostate gland. The patient presents with Pollakisuria and does not have Nocturia, Proteinuria, Hematuria, Glomerulonephritis, Chronic kidney disease, or IgM Nephropathy. +7. Nephrolithiasis: This is the presence of stones in the kidneys or urinary tract. The patient does not have Nodular goiter, Chronic kidney disease, or Pollakisuria."
+['Alport syndrome']," +1. IgA Nephropathy: Proteinuria, Hematuria, Elevated circulating creatinine concentration, Elevated erythrocyte sedimentation rate.
++2. Systemic Lupus Erythematosus: Proteinuria, Glomerulonephritis, Fever, Elevated erythrocyte sedimentation rate, Visual loss (in some cases), Recurrent tonsillitis (may occur).
++3. Diabetic Nephropathy: Proteinuria, Elevated circulating creatinine concentration, Hypercholesterolemia, Elevated erythrocyte sedimentation rate.
++4. Membranoproliferative Glomerulonephritis: Proteinuria, Glomerulonephritis, Elevated circulating creatinine concentration, Elevated erythrocyte sedimentation rate.
++5. Wegener's Granulomatosis: Proteinuria, Glomerulonephritis, Fever, Hearing impairment, Recurrent tonsillitis.
++6. Alport Syndrome: Proteinuria, Hematuria, Visual loss, Elevated circulating creatinine concentration.
++7. Focal Segmental Glomerulosclerosis: Proteinuria, Elevated circulating creatinine concentration.
++8. Membranous Nephropathy: Proteinuria, Elevated circulating creatinine concentration.
++9. Post-Streptococcal Glomerulonephritis: Proteinuria, Hematuria, Fever, Elevated erythrocyte sedimentation rate, Abnormal urinary color.
++10. Hypertensive Nephropathy: Proteinuria, Elevated circulating creatinine concentration, Hypertension.
++11. Goodpasture's Syndrome: Proteinuria, Hematuria, Pulmonary hemorrhage, Fever.
++12. Minimal Change Disease: Proteinuria, Elevated circulating creatinine concentration.
++13. Membranous-proliferative Glomerulonephritis Type II: Proteinuria, Hematuria, Elevated circulating creatinine concentration, Elevated erythrocyte sedimentation rate.
++14. IgM Nephropathy: Proteinuria, Hematuria, Elevated circulating creatinine concentration.
++15. Membranous-proliferative Glomerulonephritis Type III: Proteinuria, Hematuria, Elevated circulating creatinine concentration, Elevated erythrocyte sedimentation rate.
+
+The patient's symptoms suggest a kidney disease with proteinuria and hematuria, as well as an elevated circulating creatinine concentration and erythrocyte sedimentation rate. Other possible symptoms include fever, glomerulonephritis, visual loss, hearing impairment, recurrent tonsillitis, and abnormal urinary color. Based on these symptoms, several potential kidney diseases could be considered, including IgA nephropathy, systemic lupus erythematosus, diabetic nephropathy, membranoproliferative glomerulonephritis, Wegener's granulomatosis, Alport syndrome, focal segmental"
+['Alport syndrome']," +1. IgA Nephropathy: Renal: Proteinuria, Hematuria, Renal insufficiency, Glomerular: IgA deposits, Systemic: Fever, + Hypoalbuminemia, + Hypo-γ-globulinemia, + Normal body weight.
++2. Diabetic Nephropathy: Renal: Proteinuria, Renal insufficiency, Glomerular: Capillary basement membrane thickening, Tubulointerstitial: Fibrosis, Systemic: Fever (rare), + Hypoalbuminemia, + Hypercholesterolemia, + Increased body weight.
++3. Membranoproliferative Glomerulonephritis: Renal: Proteinuria, Renal insufficiency, Glomerular: Cellular proliferation, + Foam cells in glomeruli, Systemic: Fever, + Hypoalbuminemia, + Normal body weight.
++4. Systemic Lupus Erythematosus: Renal: Proteinuria, Renal insufficiency, Glomerular: Immune complex deposition, + Fever, + Sparse scalp hair, + Hypoalbuminemia, + Hypocomplementemia, + Normal body weight.
++5. Amyloidosis: Renal: Proteinuria, Renal insufficiency, Glomerular: Glomerular amyloid deposition, + Fever (rare), + Hypoalbuminemia, + Normal body weight.
++6. Membranous Nephropathy: Renal: Proteinuria, Renal insufficiency, Glomerular: Subepithelial immune complex deposits, + Hypoalbuminemia, + Normal body weight.
++7. Minimal Change Disease: Renal: Proteinuria, Renal insufficiency, Glomerular: Edema, + Fever (rare), + Hypoalbuminemia, + Normal body weight.
++8. Alport Syndrome: Renal: Proteinuria, Renal insufficiency, Glomerular: Basement membrane thinning, + Sparse scalp hair, + Normal body weight.
++9. Focal Segmental Glomerulosclerosis: Renal: Proteinuria, Renal insufficiency, Glomerular: Segmental sclerosis, + Hypoalbuminemia, + Normal body weight.
++10. Tubulointerstitial Nephritis: Renal: Renal insufficiency, Tubulointerstitial: Inflammation, + Fever, + Hypoalbuminemia, + Normal body weight.
++11. Acute Tubular Necrosis: Renal: Renal insufficiency, Tubular: Necrosis, + Fever, + Hypoalbuminemia, + Normal body weight.
++12. Chronic Glomerulonephritis: Renal: Proteinuria, Renal insufficiency, Glomerular: Scarring, + Fever (rare), + Hypoalbuminemia, + Normal body weight.
++13. Renal Artery Stenosis: Renal: Renal insufficiency, + Hypertension, + Normal body weight.
++14. Polycystic Kidney Disease: Renal: Renal insufficiency, + Abdominal pain, +"
+['Alport syndrome']," +1. IgA Nephropathy: Proteinuria, Hematuria, Glomerulonephritis, Hypoalbuminemia, +
++2. Diabetic Nephropathy: Proteinuria, Hypoalbuminemia, Chronic kidney disease, +
++3. Lupus Nephritis: Proteinuria, Hematuria, Glomerulonephritis, Hypoalbuminemia, Thrombocytosis, Leukocytosis, +
++4. Membranoproliferative Glomerulonephritis: Proteinuria, Hematuria, Glomerulonephritis, Hypoalbuminemia, +
++5. Polycystic Kidney Disease: Renal cyst, Chronic kidney disease, +
++6. Renal Artery Stenosis: Hypertension (not mentioned in symptoms), Chronic kidney disease, +
++7. Alport Syndrome: Hearing impairment, Proteinuria, Hematuria, Glomerulonephritis, +
++8. Hypertensive Nephropathy: Hypertension (not mentioned in symptoms), Chronic kidney disease, +
++9. Renal Amyloidosis: Proteinuria, Hypoalbuminemia, +
++10. Renal Cell Carcinoma: Abnormal prostate morphology, Renal cyst, +
++11. Focal Segmental Glomerulosclerosis: Proteinuria, Hypoalbuminemia, +
++12. Membranous Nephropathy: Proteinuria, Hypoalbuminemia, +
++13. Minimal Change Disease: Proteinuria, Hypoalbuminemia, +
++14. Goodpasture's Disease: Hematuria, Pulmonary hemorrhage (not mentioned in symptoms), +
++15. Membranous Glomerulonephritis: Proteinuria, Hypoalbuminemia, +
++16. Membranous Proliferative Glomerulonephritis: Proteinuria, Hematuria, Hypoalbuminemia, +
++17. Post-Streptococcal Glomerulonephritis: Proteinuria, Hematuria, Glomerulonephritis, +
++18. IgM Nephropathy: Proteinuria, Hematuria, +
++19. Membranous-proliferative Glomerulonephritis Type II: Proteinuria, Hematuria, Hypoalbuminemia, +
++20. Membranous-proliferative Glomerulonephritis Type III: Proteinuria, Hematuria, Hypoalbuminemia, Thrombocytosis, Leukocytosis."
+['Alport syndrome']," +1. Nephritis: Proteinuria, Hematuria, Fever. This is a inflammatory condition of the kidneys, leading to damage of the glomeruli and leakage of proteins and red blood cells into the urine. Xerostomia (dry mouth) and decreased body weight are not typical symptoms.
+
++2. Preeclampsia: Proteinuria, Large for gestational age, Hypertension (not mentioned but often associated with this condition), Fever. This is a pregnancy complication characterized by hypertension and damage to various organs, including the kidneys. Xerostomia and hypercholesterolemia are not typical symptoms.
+
++3. Diabetes Mellitus: Proteinuria, Hypercholesterolemia. This is a metabolic disorder characterized by high blood sugar levels, which can lead to damage of various organs, including the kidneys. Xerostomia and macroscopic hematuria are not typical symptoms, but microscopic hematuria can occur.
+
++4. Sjogren's Syndrome: Xerostomia, Hypercholesterolemia. This is an autoimmune disorder characterized by dryness of the eyes and mouth, and can also affect other organs, including the kidneys, leading to proteinuria and hematuria in some cases. Fever and large for gestational age are not typical symptoms.
+
++5. Chronic Kidney Disease: Proteinuria, Hypercholesterolemia. This is a progressive deterioration of kidney function, leading to the loss of kidney function and the buildup of waste products in the body. Xerostomia and macroscopic hematuria are not typical symptoms, but microscopic hematuria can occur.
+
++6. Hyperparathyroidism: Hypercholesterolemia. This is a condition characterized by overactive parathyroid glands, leading to high levels of calcium in the blood and urine. Proteinuria, xerostomia, fever, and macroscopic hematuria are not typical symptoms.
+
++7. Lupus: Proteinuria, Xerostomia, Fever. This is an autoimmune disorder characterized by the production of autoantibodies against various body tissues, leading to inflammation and damage to various organs, including the kidneys. Hypercholesterolemia and large for gestational age are not typical symptoms.
+
++8. Glomerulonephritis: Proteinuria, Hematuria, Fever. This is a group of kidney diseases characterized by inflammation of the glomeruli, leading to damage and leakage of proteins and red blood cells into the urine. Xerostomia and large for gestational age are not typical symptoms.
+
++9. Hypertensive Nephropathy: Proteinuria, Hypertension, Hypercholesterolemia. This is a kidney damage caused by long-term high blood pressure. Xerostomia and macroscopic hematuria are not typical symptoms.
+
++10. Renal Artery Stenosis: Hypertension, Hypercholesterolemia. This is a narrowing of the renal arteries, leading to decreased blood flow to the kidneys and damage to the kidneys. Xerostomia, proteinuria, and macroscopic hematuria are not typical symptoms."
+['Fabry disease']," +1. Nephritis: Proteinuria, Hematuria, Increased blood urea nitrogen, Elevated circulating creatinine concentration :: Xerostomia, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness, Arthralgia
++2. Lupus nephritis: Proteinuria, Hematuria, Increased blood urea nitrogen, Elevated circulating creatinine concentration, Arthralgia :: Xerostomia, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness
++3. Diabetic nephropathy: Proteinuria, Increased blood urea nitrogen, Elevated circulating creatinine concentration :: Xerostomia, Premature birth, Hematuria, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness, Arthralgia
++4. Hypertensive nephrosclerosis: Proteinuria, Hematuria, Hypertension, Increased blood urea nitrogen, Elevated circulating creatinine concentration :: Xerostomia, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness
++5. Renal disease of pre-eclampsia: Proteinuria, Premature birth, Hypertension :: Xerostomia, Hematuria, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness, Arthralgia, Increased blood urea nitrogen, Elevated circulating creatinine concentration
++6. Sjogren's syndrome: Xerostomia, Arthralgia :: Proteinuria, Hematuria, Hypertension, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Drowsiness, Increased blood urea nitrogen, Elevated circulating creatinine concentration
++7. Thrombotic microangiopathy: Thrombocytosis, Microangiopathic hemolytic anemia (can cause Hematuria and decreased body weight) :: Proteinuria, Xerostomia, Premature birth, Leukocytosis, Chronic diarrhea, Drowsiness, Arthralgia, Increased blood urea nitrogen, Elevated circulating creatinine concentration
++8. Guillain-Barré syndrome: Weakness (can include arthralgia), Drowsiness :: Proteinuria, Hematuria, Hypertension, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Increased blood urea nitrogen, Elevated circulating creatinine concentration
++9. Rheumatoid arthritis: Arthralgia, Drowsiness :: Proteinuria, Hematuria, Hypertension, Premature birth, Thrombocytosis, Leukocytosis, Chronic diarrhea, Increased blood urea nitrogen, Elevated circulating creatinine concentration
++10. Chronic kidney disease: Proteinuria, Increased blood urea nitrogen, Elevated circulating creatinine concentration :: Xerostomia, Premature birth, Hematuria, Thrombocytosis, Leukocytosis, Chronic"
+['Fabry disease']," +1. Nephropathies (Renal Diseases): Renal diseases, such as glomerulonephritis or nephrosis, can cause proteinuria and abnormalities of the urinary system. The patient does not have symptoms of hematuria or edema, which are common in some nephropathies.
+
++2. Otosclerosis: A bone disorder that affects the middle ear and causes progressive sensorineural hearing loss. The patient presents with unilateral deafness and abnormal auditory canal and tympanic membrane morphology.
+
++3. Marfan Syndrome: A genetic disorder that affects the connective tissue, leading to abnormalities in various body systems. Symptoms include hypermobility of joints, long and thin body stature, and abnormalities in the eyes, cardiovascular system, and skeletal system. The patient presents with abnormal finger phalanx morphology and fractured hand bones.
+
++4. Paget's Disease: A chronic bone disorder characterized by abnormal bone remodeling and increased bone turnover. Symptoms include bone pain, deformities, and fractures. The patient presents with fractured hand bones and abnormal finger phalanx morphology.
+
++5. Cystic Fibrosis: A genetic disorder that affects the respiratory, digestive, and reproductive systems. Symptoms include persistent cough, lung infections, nasal congestion, and difficulty breathing. The patient does not present with symptoms of abnormal bone morphology or proteinuria.
+
++6. Nasal Polyposis Syndrome: A condition characterized by the growth of non-cancerous inflammatory polyps in the nasal passages. Symptoms include nasal congestion, loss of smell, and difficulty breathing through the nose. The patient presents with nasal polyposis.
+
++7. Hyperlipidemia: A condition characterized by high levels of lipids (fats) in the blood. Symptoms include hypercholesterolemia and an increased risk of cardiovascular disease. The patient does not present with symptoms of abnormalities in the urinary system or the ears."
+['Fabry disease']," +1. IgA Nephropathy: This is a type of glomerulonephritis characterized by the deposition of IgA immune complexes in the glomeruli. The patient presents with proteinuria, hematuria, and IgA deposition in the glomerulus. +2. Diabetic Nephropathy: This is a type of chronic kidney disease caused by diabetes mellitus. The patient presents with proteinuria, hypertension, and elevated circulating creatinine concentration. +3. Chronic Glomerulonephritis: This is a type of kidney inflammation that causes gradual damage to the glomeruli. The patient presents with proteinuria, hematuria, and possible hypertension. +4. Renal Cell Carcinoma: This is a type of kidney cancer that can cause renal cysts, hematuria, and possible hypertension. +5. Hypertensive Nephropathy: This is a type of kidney damage caused by high blood pressure. The patient presents with hypertension, proteinuria, and possible hematuria. +6. Renal Artery Stenosis: This is a narrowing of the reno-arteries, which can cause hypertension, renal cysts, and possible proteinuria. +7. Multiple Myeloma: This is a type of cancer of the bone marrow that can cause proteinuria, renal cysts, and possible hematuria. +8. Pheochromocytoma: This is a tumor of the adrenal glands that can cause hypertension, palpitations, and possible proteinuria. +9. Thyroid Disease: This can cause proteinuria, weight loss, and possible hypertension. +10. Liver Disease: This can cause proteinuria, abnormality of the gallbladder, and possible hematuria. +11. Heart Failure: This can cause hypertension, pedal edema, and possible proteinuria. +12. Sjogren's Syndrome: This is an autoimmune disease that can cause proteinuria, blurred vision, and possible hematuria. +13. Lupus Nephritis: This is a type of glomerulonephritis caused by systemic lupus erythematosus. The patient presents with proteinuria, hematuria, and possible hypertension. +14. Tuberculosis: This is a bacterial infection that can cause proteinuria, hematuria, and possible hypertension. +15. Amyloidosis: This is a group of diseases caused by the deposition of abnormal proteins in various organs, including the kidneys. The patient presents with proteinuria, possible hematuria, and possible hypertension. +16. Vasculitis: This is a group of diseases characterized by inflammation of the blood vessels. The patient presents with proteinuria, possible hematuria, and possible hypertension. +17. Scleroderma: This is a group of autoimmune diseases characterized by the thickening and hardening of the skin and connective tissue. The patient presents with possible proteinuria, possible hematuria, and possible hypertension. +18. Polycystic Kidney Disease: This is a genetic disorder characterized by the presence of multiple cysts in the kidneys. The patient presents with renal cysts and possible hypertension. +19. Pyelonephrit"
+['Gitelman syndrome']," +1. Renal Tubular Acidosis (RTA): Renal tubular acidosis is a group of disorders that prevent the kidneys from properly excreting acid. The patient presents with Renal potassium wasting, Hypokalemia, Renal magnesium wasting, Hyponatriuria, and Metabolic alkalosis.
++2. Bartter Syndrome: Bartter syndrome is a rare genetic disorder that causes excessive loss of salt, potassium, and other electrolytes in the urine. The patient presents with Renal potassium wasting, Hypokalemia, Hyperkalemia in urine (opposite of what is stated in the text), Hypomagnesemia, and Renal magnesium wasting.
++3. Gitelman Syndrome: Gitelman syndrome is a rare inherited disorder that causes the kidneys to lose too much salt and other minerals, such as potassium, magnesium, and calcium, in the urine. The patient presents with Renal potassium wasting, Hypokalemia, Hypomagnesemia, and Renal magnesium wasting.
++4. Hypokalemic Periodic Paralysis: Hypokalemic periodic paralysis is a rare genetic disorder characterized by recurrent episodes of muscle weakness and paralysis due to low potassium levels in the blood. The patient presents with Hypokalemia, Generalized muscle weakness, and Paresthesia.
++5. Thyrotoxicosis: Thyrotoxicosis is a condition caused by an overactive thyroid gland. The patient does not present with Renal potassium wasting, Skin rash, or Prolonged QT interval.
++6. Diabetic Ketoacidosis: Diabetic ketoacidosis is a potentially life-threatening complication of diabetes mellitus. The patient does not present with Skin rash or Hypernatriuria.
++7. Addison's Disease: Addison's disease is a condition that affects the adrenal glands and results in a deficiency of cortisol and aldosterone. The patient does not present with Renal potassium wasting, Skin rash, or Prolonged QT interval.
++8. Hypokalemic Alkalosis: Hypokalemic alkalosis is a metabolic disorder characterized by low potassium levels and an alkaline pH. The patient presents with Hypokalemia, Metabolic alkalosis, and Dyspnea.
++9. Lupus Nephritis: Lupus nephritis is a kidney disorder that occurs in people with systemic lupus erythematosus. The patient does not present with Renal potassium wasting, Skin rash, or Prolonged QT interval.
++10. Ammonium Chloride Administration: Ammonium chloride is a medication that can cause metabolic acidosis. The patient does not present with Renal potassium wasting, Skin rash, or Prolonged QT interval."
+['Gitelman syndrome']," +1. Renal Diseases: I. Diabetic Nephropathy: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Increased urinary potassium, Hypernatriuria, Elevated circulating alanine aminotransferase concentration.
+II. Focal Segmental Glomerulosclerosis: Nocturia, Renal potassium wasting, Hypokalemia, Proteinuria (not mentioned in symptoms), Edema (not mentioned in symptoms).
+III. IgA Nephropathy: Nocturia, Renal potassium wasting, Hepatic steatosis (common), Hyperuricemia, Elevated circulating alanine aminotransferase concentration.
+
++2. Endocrine Disorders: I. Diabetes Mellitus: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Hyperuricemia, Hypernatriuria, Hepatic steatosis (rare), Sinus tachycardia.
+II. Addison's Disease: Nocturia, Hypokalemia, Hyperkalemia (not mentioned in symptoms), Hyperpigmentation (not mentioned in symptoms), Sinus tachycardia.
+III. Cushing's Syndrome: Nocturia, Hyperhidrosis, Palpitations, Hypernatriuria, Hypokalemia, Hyperchloriduria, Hyperuricemia.
+
++3. Gastrointestinal Disorders: I. Gastroesophageal Reflux Disease: Nocturia, Hyperhidrosis, Hypokalemia, Hyperchloriduria.
+II. Celiac Disease: Nocturia, Hypokalemia, Hyperchloriduria, Hepatic steatosis (common), Hypernatriuria.
+III. Pancreatitis: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Hyperuricemia, Hypernatriuria, Elevated circulating alanine aminotransferase concentration.
+
++4. Cardiovascular Diseases: I. Heart Failure: Nocturia, Hypokalemia, Hyperchloriduria, Hypernatriuria.
+II. Renal Artery Stenosis: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Hypertension (not mentioned in symptoms).
+III. Atrial Fibrillation: Nocturia, Palpitations, Hypokalemia, Hyperchloriduria.
+
++5. Inherited Metabolic Disorders: I. Bartter Syndrome: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Hypernatriuria.
+II. Glycogen Storage Disease: Nocturia, Hypokalemia, Hyperchloriduria, Hepatic steatosis (common), Hyperuricemia.
+III. Lowe Syndrome: Nocturia, Renal potassium wasting, Hypokalemia, Hyperchloriduria, Hepatic ste"
+['Gitelman syndrome']," +1. Peptic Ulcer Disease: Oral ulcer, abdominal pain, heartburn, loss of appetite, bloating, nausea, and vomiting. + Symptoms: Oral ulcer, abdominal symptoms (not syncope, palpitations, dyspnea, diarrhea, hypokalemia, hypomagnesemia, vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++2. Renal Disease: Increased circulating renin level, proteinuria, hematuria, edema, and hypertension. + Symptoms: Increased circulating renin level, not oral ulcer, syncope, palpitations, dyspnea, diarrhea, hypokalemia, hypomagnesemia, generalized muscle weakness, lower limb muscle weakness, vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++3. Pheochromocytoma: Paroxysmal hypertension, palpitations, diaphoresis, and headache. + Symptoms: Paroxysmal hypertension, not oral ulcer, syncope, palpitations (worse than usual), dyspnea, diarrhea, hypokalemia, hypomagnesemia, generalized muscle weakness, lower limb muscle weakness, vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++4. Hypokalemia: Hypokalemia, muscle weakness, and cramps. + Symptoms: Hypokalemia, oral ulcer (not present), syncope, palpitations, dyspnea, diarrhea, hypokalemia (worse), hypomagnesemia, generalized muscle weakness (worse), lower limb muscle weakness (worse), vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++5. Hypomagnesemia: Hypomagnesemia, muscle weakness, and cramps. + Symptoms: Hypomagnesemia, oral ulcer (not present), syncope, palpitations, dyspnea, diarrhea, hypokalemia, hypomagnesemia (worse), generalized muscle weakness (worse), lower limb muscle weakness (worse), vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++6. Thyrotoxicosis: Palpitations, weight loss, diarrhea, and tremors. + Symptoms: Palpitations, not oral ulcer, syncope, dyspnea, diarrhea (worse), hypokalemia, hypomagnesemia, generalized muscle weakness, lower limb muscle weakness, vertigo, T-wave inversion, abnormality of urine calcium concentration, liver disease, dysesthesia, amaurosis fugax.
+
++7. Anemia: Fatigue, pallor, and shortness of breath. + Symptoms: Fatigue, not oral ulcer, syncope, palpitations, dyspnea (worse), diarrhe"
+['Gitelman syndrome']," +1. Renal Potassium Wasting Disorders (RPKD): This group of disorders includes conditions such as Renal Tubular Acidosis, Bartter Syndrome, and Gitelman Syndrome. Patients with RPKD exhibit Renal potassium wasting and Hypokalemia. They may also have Increased urinary potassium, but this is not always the case. Hypocalciuria is not a common feature of RPKD. Metabolic alkalosis is not typically associated with these disorders.
+
++2. Bartter Syndrome: A rare, inherited disorder characterized by Renal potassium wasting, Hypokalemia, and Increased urinary potassium. Patients may also have Hypocalciuria and Metabolic alkalosis due to the loss of potassium and hydrogen ions in the urine.
+
++3. Gitelman Syndrome: A rare, inherited disorder similar to Bartter Syndrome, but with milder symptoms. Patients exhibit Renal potassium wasting, Hypokalemia, and Increased urinary potassium. They may also have Hypocalciuria and Metabolic alkalosis due to the loss of potassium and hydrogen ions in the urine.
+
++4. Hypoaldosteronism: A condition characterized by decreased production of aldosterone, leading to Renal potassium wasting, Hypokalemia, and Increased urinary potassium. Hypocalciuria and Metabolic alkalosis are not typically associated with this condition.
+
++5. Diuretic Use: The use of diuretics can lead to Renal potassium wasting, Hypokalemia, and Increased urinary potassium. Hypocalciuria and Metabolic alkalosis are not typically associated with diuretic use.
+
++6. Primary Hyperaldosteronism: A condition characterized by overproduction of aldosterone, leading to Renal potassium wasting, Hypokalemia, and Increased urinary potassium. Hypocalciuria and Metabolic alkalosis are not typically associated with this condition.
+
++7. Mineralocorticoid Excess: This condition, which can be caused by various disorders or medications, leads to Renal potassium wasting, Hypokalemia, and Increased urinary potassium. Hypocalciuria and Metabolic alkalosis are not typically associated with mineralocorticoid excess.
+
++8. Diabetes Insipidus: A condition characterized by excessive urine production, which can lead to Hypokalemia due to the loss of potassium in large volumes of urine. Renal potassium wasting, Increased urinary potassium, Hypocalciuria, and Metabolic alkalosis are not typically associated with diabetes insipidus."
+['Paroxysmal nocturnal hemoglobinuria']," +1. Glomerulonephritis: Proteinuria, Urticaria, Thrombocytopenia, Anisocytosis, Macroscopic hematuria, Increased total bilirubin, Unconjugated hyperbilirubinemia, Anemia (may present as microcytic, hypochromic anemia in some cases), +
++2. Systemic Lupus Erythematosus: Proteinuria, Urticaria, Thrombocytopenia, Leukopenia, Anemia (may present as microcytic, hypochromic anemia), Elevated circulating aspartate aminotransferase concentration, Hypercoagulability, +
++3. Hemolytic Uremic Syndrome: Microangiopathic hemolytic anemia (may present as microcytic, hypochromic anemia), Thrombocytopenia, Microangiopathic schistocytes (abnormal granulocytopoietic cell morphology), Hemoglobinuria (may cause abnormal urinary color), Acute kidney injury (may cause proteinuria and increased total bilirubin), +
++4. Thyroid Disease: Generalized muscle weakness, Hyperglycemia, +
++5. Viral Hepatitis: Increased total bilirubin, Unconjugated hyperbilirubinemia, Diarrhea, +
++6. Celiac Disease: Decreased body weight, Anemia (may present as microcytic, hypochromic anemia), +
++7. Vitamin B12 Deficiency: Megaloblastic anemia, Neutropenia, Reticulocytosis, +
++8. Hemochromatosis: Increased total bilirubin, Unconjugated hyperbilirubinemia, +
++9. Leukemia: Neutropenia, Pancytopenia, Leukopenia, Anemia (may present as microcytic, hypochromic anemia), Abnormal granulocytopoietic cell morphology, +
++10. Sepsis: Fever (not mentioned in symptoms), Thrombocytopenia, Leukopenia, Anemia (may present as microcytic, hypochromic anemia), +
++11. Dengue Fever: Fever (not mentioned in symptoms), Thrombocytopenia, Hemorrhage (may cause macroscopic hematuria and petechiae), +
++12. Hodgkin's Lymphoma: Fatigue (not mentioned in symptoms), Lymphadenopathy (not mentioned in symptoms), Anemia (may present as microcytic, hypochromic anemia), +
++13. Multiple Myeloma: Anemia (may present as microcytic, hypochromic anemia), Hypercalcemia (not mentioned in symptoms), +
++14. Guillain-Barré Syndrome: Weakness (not mentioned in symptoms, but generalized muscle weakness is a common symptom), +
++15. Hemolytic Anemia: Anemia (may present as microcytic, hypochromic anemia), Reticulocytosis, +
++16. Thrombotic Thrombocy"
+['Paroxysmal nocturnal hemoglobinuria']," +1. Renal Disease (Nephropathy): Nocturia, Proteinuria, Hematuria, Elevated circulating creatinine concentration, Increased body weight, Unconjugated hyperbilirubinemia, Anuria.
++2. Diabetes Mellitus: Nocturia, Hyperglycemia, Fever, Tachycardia, Nausea, Dyspnea, Pleural effusion, Hypokalemia.
++3. Liver Disease (Hepatitis): Jaundice, Increased total bilirubin, Elevated erythrocyte sedimentation rate, Abdominal distention.
++4. Chronic Kidney Disease: Nocturia, Proteinuria, Hematuria, Elevated circulating creatinine concentration, Anemia, Reticulocytosis.
++5. Cholelithiasis: Abdominal distention, Vomiting, Right upper quadrant pain.
++6. Hypertension: Hypertension, Headache, Tachycardia, Dyspnea, Palpitations.
++7. Anemia: Anemia, Fatigue, Pallor, Shortness of breath, Dizziness.
++8. Urinary Tract Infection: Hematuria, Dysuria, Frequency, Urgency, Fever.
++9. Glomerulonephritis: Proteinuria, Hematuria, Edema, Hypertension, Fever.
++10. Pancreatitis: Abdominal pain, Fever, Nausea, Vomiting, Tachycardia.
++11. Thyroid Disease: Fatigue, Weight gain, Tachycardia, Anxiety, Palpitations.
++12. Heart Failure: Dyspnea, Tachycardia, Edema, Fatigue, Hypokalemia.
++13. Sepsis: Fever, Chills, Tachycardia, Confusion, Anemia, Hypotension.
++14. Malaria: Fever, Chills, Anemia, Splenomegaly, Jaundice.
++15. Leukemia: Anemia, Fatigue, Fever, Palpitations, Bone pain.
++16. Lupus: Joint pain, Rash, Fever, Fatigue, Proteinuria.
++17. Tuberculosis: Fever, Cough, Weight loss, Night sweats, Anemia.
++18. Cirrhosis: Jaundice, Abdominal distention, Edema, Confusion.
++19. Hodgkin's Lymphoma: Fatigue, Fever, Weight loss, Painless lymph node enlargement, Night sweats.
++20. Multiple Myeloma: Anemia, Fatigue, Bone pain, Calcium elevation, Renal insufficiency."
+['Paroxysmal nocturnal hemoglobinuria']," +1. Hepatitis: Depression, Hepatomegaly, Abdominal distention, Anemia, Jaundice, Poor appetite, Abnormal urinary color, Anisocytosis, Poikilocytosis, Reduced granulocyte CD55 level, Reduced granulocyte CD59 level, Decreased expression of GPI-anchored proteins on the cell surface : This condition is characterized by inflammation of the liver, leading to symptoms such as fatigue, loss of appetite, abdominal pain, and jaundice. Hepatomegaly and abdominal distention are common findings in hepatitis.
+
++2. Cirrhosis: Hepatomegaly, Splenomegaly, Ascites, Anemia, Leukopenia, Thrombocytopenia, Anisocytosis, Myelofibrosis, Anomalous splenoportal venous system, Abnormal mesentery morphology : Cirrhosis is a chronic liver disease characterized by the replacement of normal liver tissue with scar tissue. Symptoms include fatigue, weakness, abdominal distention, and an enlarged spleen (splenomegaly). Ascites, an accumulation of fluid in the abdominal cavity, is also common.
+
++3. Leukemia: Neutropenia, Leukopenia, Anemia, Reticulocytosis, Anisocytosis, Poikilocytosis, Myelofibrosis, Anomalous splenoportal venous system, Reduced granulocyte CD55 level, Reduced granulocyte CD59 level, Decreased expression of GPI-anchored proteins on the cell surface : Leukemia is a type of cancer that affects the production of white blood cells in the bone marrow. Symptoms include fatigue, fever, frequent infections, and easy bruising or bleeding. Neutropenia, or a low number of neutrophils, is a common finding in leukemia.
+
++4. Hepatic cysts: Hepatic cysts, Abdominal distention, Anemia : Hepatic cysts are fluid-filled sacs that develop in the liver. They are usually benign and do not cause symptoms unless they become large enough to press on other organs, causing abdominal distention and anemia due to blood loss from the cysts.
+
++5. Splenomegaly: Splenomegaly, Anemia, Thrombocytopenia : Splenomegaly is an enlargement of the spleen, which can be caused by various conditions such as viral infections, liver disease, or blood disorders. Symptoms include fatigue, abdominal pain or discomfort, and anemia due to the spleen's increased destruction of red blood cells.
+
++6. Anemia: Anemia, Fatigue, Weakness, Pallor : Anemia is a condition characterized by a decrease in the number of red blood cells or the amount of hemoglobin in the blood. Symptoms include fatigue, weakness, and pallor. Anemia can be caused by various conditions, including nutritional deficiencies, chronic diseases, or blood loss.
+
++7. Hepatosplenomegaly: Hepatosplenomegaly, Fatigue, Abdominal distention : Hepatosplenomegaly is an enlargement of both the liver and the spleen"
+['Paroxysmal nocturnal hemoglobinuria']," +1. Aplastic Anemia: Severe decrease in all three types of blood cells (pancytopenia), bone marrow failure, and may present with fever and anemia. No oral ulcers or skin rash.
+
++2. Leukemia: Abnormal production of white blood cells (leukocytosis or leukopenia), anemia, and thrombocytopenia. May present with fever, bone pain, and recurrent infections. No oral ulcers or skin rash.
+
++3. Systemic Lupus Erythematosus (SLE): Skin rash (malar rash, discoid rash, or photosensitivity), anemia, leukopenia, and thrombocytopenia. No oral ulcers or hematochezia.
+
++4. Inflammatory Bowel Disease (IBD): Hematochezia, abdominal pain, and recurrent upper respiratory tract infections. No oral ulcers, anemia, or pancytopenia.
+
++5. Vitamin B12 Deficiency: Anemia, fatigue, and neurological symptoms (paresthesia, numbness, or weakness). No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++6. Dengue Fever: Fever, rash, and hemorrhagic manifestations (hemorrhage from mucous membranes, including oral ulcers, and hematochezia). No anemia, pancytopenia, or recurrent upper respiratory tract infections.
+
++7. Thyroid Disease: Fatigue, weight changes, and anemia. No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++8. HIV Infection: Fever, weight loss, and recurrent infections. No oral ulcers, skin rash, anemia, or pancytopenia.
+
++9. Hodgkin's Lymphoma: Lymph node enlargement, fever, and anemia. No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++10. Celiac Disease: Abdominal pain, diarrhea, and weight loss. No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++11. Hemolytic Anemia: Anemia, jaundice, and reticulocytosis. No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++12. Hepatitis: Jaundice, abdominal pain, and fever. No oral ulcers, skin rash, thrombocytopenia, or neutropenia.
+
++13. Malaria: Fever, chills, and hemorrhagic manifestations (hemorrhage from mucous membranes, including oral ulcers, and hematochezia). No anemia, pancytopenia, or recurrent upper respiratory tract infections.
+
++14. Myelodysplastic Syndrome (MDS): Anemia, thrombocytopenia, and neutropenia. May present with fatigue, recurrent infections, and anisocytosis. No oral ulcers, skin rash, or hematochez"
+['Paroxysmal nocturnal hemoglobinuria']," +1. Thrombotic Thrombocytopenic Purpura (TTP): Purpura, Thrombocytopenia, Microangiopathic hemolytic anemia, Fever, Microangiopathic schistocytes in peripheral blood smear, Renal dysfunction, Neurologic symptoms (including fever, headache, altered mental status, seizures, and paresis) + Several symptoms: Skin rash, Muscle weakness, Ascites, Anemia, Leukocytosis, Hepatomegaly, Vertigo, Low back pain, Increased total bilirubin, Recurrent thromboembolism, Respiratory tract infection, Abnormal urinary color, Abnormal erythroid lineage cell morphology, Abnormal granulocytopoietic cell morphology, Hemophagocytosis, Lower limb pain, Gastric varix, Portal vein thrombosis, Productive cough, Hypercoagulability
+
++2. Disseminated Intravascular Coagulation (DIC): Purpura, Thrombocytopenia, Microangiopathic hemolytic anemia, Fever, Leukocytosis, Dyspnea, Renal dysfunction, Hepatomegaly, Increased total bilirubin, Recurrent thromboembolism, Abnormal urinary color, Hemorrhage (not mentioned in the symptoms), Abnormal coagulation tests (not mentioned in the symptoms) + Several symptoms: Skin rash, Muscle weakness, Ascites, Anemia, Vertigo, Low back pain, Abnormal erythroid lineage cell morphology, Abnormal granulocytopoietic cell morphology, Hemophagocytosis, Lower limb pain, Gastric varix, Portal vein thrombosis, Productive cough
+
++3. Hepatitis: Skin rash (not typical), Fatigue, Anorexia, Nausea, Vomiting, Abdominal pain, Jaundice (not mentioned in the symptoms), Dark urine (not mentioned in the symptoms), Increased total bilirubin + Several symptoms: Purpura, Thrombocytopenia, Muscle weakness, Ascites, Anemia, Fever, Leukocytosis, Hepatomegaly, Vertigo, Low back pain, Recurrent thromboembolism, Respiratory tract infection, Abnormal urinary color, Abnormal erythroid lineage cell morphology, Abnormal granulocytopoietic cell morphology, Hemophagocytosis, Lower limb pain, Gastric varix, Portal vein thrombosis, Productive cough, Hypercoagulability
+
++4. Systemic Lupus Erythematosus (SLE): Purpura, Skin rash, Muscle weakness, Arthralgia (not mentioned in the symptoms), Fever, Leukocytosis, Anemia, Hepatomegaly, Increased total bilirubin, Thrombocytopenia, Recurrent thromboembolism, Respiratory tract infection, Abnormal urinary color, Abnormal erythroid lineage cell morphology, Abnormal granulocytopoietic cell morphology, Hemophagocytosis, Lower limb pain, Gastric varix, Portal vein thrombosis, Productive cough, Hypercoagulability + Several symptoms: None
+
++"
+['POEMS syndrome']," +1. Nephrotic Syndrome: Proteinuria, Hypoalbuminemia, Edema (Pedal, Anasarca), + Hypocalcemia, + Hypophosphatemia, + Elevated Circulating C-reactive protein concentration.
+
++2. Systemic Lupus Erythematosus: Proteinuria, Skin pigmentation abnormality, Fever, Arthralgia (not mentioned but common in SLE), + Lymphadenopathy, + Elevated Erythrocyte sedimentation rate, + Elevated Circulating Thyroid-stimulating hormone concentration, + Elevated Circulating C-reactive protein concentration.
+
++3. Cirrhosis: Hepatosplenomegaly, Ascites, + Abdominal distention, + Hypoalbuminemia, + Elevated Circulating Thyroid-stimulating hormone concentration, + Elevated Circulating C-reactive protein concentration.
+
++4. Thyroid Disease: Hypothyroidism, + Elevated Circulating Thyroid-stimulating hormone concentration, + Elevated Circulating Thyroid hormone concentration.
+
++5. Chronic Kidney Disease: Proteinuria, Hypoalbuminemia, + Anemia, + Elevated Circulating Erythrocyte sedimentation rate, + Elevated Circulating C-reactive protein concentration.
+
++6. Sarcoidosis: Lymphadenopathy, + Skin pigmentation abnormality, + Elevated Circulating Erythrocyte sedimentation rate, + Elevated Circulating C-reactive protein concentration.
+
++7. Liver Cancer: Hepatosplenomegaly, Abdominal distention, + Abnormal intervertebral disk morphology, + Ascites, + Abdominal pain (not mentioned but common in liver cancer).
+
++8. Heart Failure: Congestive heart failure, + Cardiomegaly, + Pulmonary arterial hypertension, + Pericardial effusion, + Right atrial enlargement, + Left atrial enlargement.
+
++9. Venous Thromboembolism: Patent foramen ovale, Thrombocytosis, + Pedal edema, + Elevated Circulating C-reactive protein concentration.
+
++10. Anemia: Anemia, + Splenomegaly.
+
++11. Tuberculosis: Fever, + Lymphadenopathy, + Elevated Circulating Erythrocyte sedimentation rate, + Elevated Circulating C-reactive protein concentration.
+
++12. Leukemia: Thrombocytosis, + Splenomegaly, + Lymphadenopathy, + Anemia.
+
++13. Pancreatitis: Abdominal pain, + Elevated Circulating C-reactive protein concentration.
+
++14. Malnutrition: Decreased body weight, + Hypoalbuminemia, + Hypocalcemia, + Hypophosphatemia.
+
++15. Ovarian Cancer: Enlarged ovaries, + Abdominal distention, + Abdominal pain (not mentioned but common in ovarian cancer).
+
++16. Rhe"
+['POEMS syndrome']," +1. Cushing's Syndrome: Facial edema, Apathy, Hypothyroidism, Increased circulating prolactin concentration, Hyperpigmentation of the skin, Anasarca, Decreased body weight, Poor appetite, Abnormal intervertebral disk morphology, Anomalous splenoportal venous system, Foot dorsiflexor weakness, Pedal edema, Dysesthesia, Monoclonal elevation of IgG. (Cushing's Syndrome is characterized by obesity, moon face, buffalo hump, hypertension, and hyperglycemia. Hypothyroidism, apathy, and decreased appetite are common in Cushing's Syndrome but not specific to it.)
+
++2. Chronic Liver Disease: Cirrhosis, Hepatosplenomegaly, Ascites, Anasarca, Splenomegaly, Anemia, Fever, Dyspnea, Pleural effusion, Lymphadenopathy, Hypoproteinemia, Abdominal distention. (Chronic liver disease can present with many of these symptoms, but not all. Facial edema, apathy, hypothyroidism, increased circulating prolactin concentration, hyperpigmentation, and EMG abnormality are not typical.)
+
++3. Hypothyroidism: Hypothyroidism, Apathy, Decreased body weight, Poor appetite, Anemia, Dyspnea, Fatigue, Cold intolerance, Constipation, Dry skin, Bradycardia, Hoarseness, Muscle cramps, Joint pain, Carpal tunnel syndrome, Menstrual irregularities, Fertility problems, Forgetfulness, Depression, Myxedema. (This patient presents with some symptoms of hypothyroidism, but not all. Facial edema, obsolete impaired social interactions, increased circulating prolactin concentration, hyperpigmentation, papilledema, cirrhosis, hepatosplenomegaly, ascites, pericardial effusion, splenomegaly, anasarca, lower limb pain, dysesthesia, abnormal circulating thyroid hormone concentration, monoclonal elevation of IgG are not typical.)
+
++4. Multiple Myeloma: Hypothyroidism, Anemia, Fatigue, Bone pain, Recurrent infections, Weight loss, Hypercalcemia, Proteinuria, Renal insufficiency, Hyperviscosity, Hyperuricemia, Hyperphosphatemia, Hypernatremia, Hyperglycemia, Hyperlipidemia, Hyperproteinemia, Monoclonal elevation of IgG. (This patient presents with some symptoms of multiple myeloma, but not all. Facial edema, obsolete impaired social interactions, apathy, hyperpigmentation, papilledema, cirrhosis, hepatosplenomegaly, ascites, pericardial effusion, splenomegaly, anasarca, lower limb pain, dysesthesia, and EMG abnormality are not typical.)
+
++5. Addison's Disease: Hypothyroidism, Fatigue, Weakness, Weight loss, Poor appetite, Nausea, Vomiting, Diarrhea, Abdominal pain, Dizziness, Syncope, Hypotension, Hyperpigmentation"
+['POEMS syndrome']," +1. Multiple Sclerosis: Demyelinating motor and sensory neuropathy, dysesthesia, abnormal peripheral nerve morphology by anatomical site, left ventricular diastolic dysfunction, left atrial enlargement, abnormal thoracic spine morphology. (No association with Papilledema, Hepatic steatosis, Myocardial infarction, Coronary artery atherosclerosis, Splenomegaly, Thrombocytosis, Pulmonary arterial hypertension, Increased circulating IgA level, Difficulty climbing stairs, Osteoporosis of vertebrae, Dilatation of the ventricular cavity, Abasia, Abnormal granulocytopoietic cell morphology)
+
++2. Systemic Lupus Erythematosus: Demyelinating motor and sensory neuropathy, dysesthesia, difficulty climbing stairs, left ventricular diastolic dysfunction, left atrial enlargement, abnormal thoracic spine morphology. (No association with Papilledema, Hepatic steatosis, Myocardial infarction, Coronary artery atherosclerosis, Splenomegaly, Thrombocytosis, Pulmonary arterial hypertension, Increased circulating IgA level, Osteoporosis of vertebrae, Dilatation of the ventricular cavity, Abasia, Abnormal granulocytopoietic cell morphology)
+
++3. Rheumatoid Arthritis: Demyelinating motor and sensory neuropathy, difficulty climbing stairs, left ventricular diastolic dysfunction, left atrial enlargement, abnormal thoracic spine morphology. (No association with Papilledema, Hepatic steatosis, Myocardial infarction, Coronary artery atherosclerosis, Splenomegaly, Thrombocytosis, Pulmonary arterial hypertension, Increased circulating IgA level, Osteoporosis of vertebrae, Dilatation of the ventricular cavity, Abasia, Abnormal granulocytopoietic cell morphology)
+
++4. Chronic Kidney Disease: Difficulty climbing stairs, osteoporosis of vertebrae, dilatation of the ventricular cavity, left ventricular diastolic dysfunction, left atrial enlargement. (No association with Papilledema, Hepatic steatosis, Myocardial infarction, Coronary artery atherosclerosis, Splenomegaly, Thrombocytosis, Pulmonary arterial hypertension, Increased circulating IgA level, Demyelinating motor and sensory neuropathy, dysesthesia, abnormal peripheral nerve morphology by anatomical site, abasia, abnormal granulocytopoietic cell morphology)
+
++5. Hemochromatosis: Hepatic steatosis, increased circulating IgA level. (No association with Papilledema, Myocardial infarction, Coronary artery atherosclerosis, Splenomegaly, Thrombocytosis, Pulmonary arterial hypertension, Demyelinating motor and sensory neuropathy, dysesthesia, difficulty climbing stairs, osteoporosis of vertebra"
+['POEMS syndrome']," +1. Systemic Lupus Erythematosus (Proteinuria, Abnormal renal glomerulus morphology, Hematuria, Thrombocytosis, Elevated erythrocyte sedimentation rate, Malar rash, Arthralgia, Pleuritis, Pericarditis, Lymphadenopathy, Lymphadenitis, Elevated circulating IgA level, Dysesthesia, Hand muscle weakness, Abnormal circulating thyroid hormone concentration): This is a chronic autoimmune disease that can affect various organs, including the kidneys, skin, joints, and blood vessels. Patients may experience symptoms such as proteinuria, hematuria, and abnormal renal morphology due to inflammation and damage to the glomeruli. Thrombocytosis and elevated erythrocyte sedimentation rate are common laboratory findings.
+
++2. Renal Disease (Proteinuria, Abnormal renal glomerulus morphology, Hypertension, Elevated circulating creatinine concentration, Abnormal tubulointerstitial morphology): Renal disease encompasses a broad range of conditions that can damage the kidneys and impair their function. Symptoms may include proteinuria, hematuria, and abnormal renal morphology. Hypertension is a common complication, and kidney function may be assessed by measuring circulating creatinine concentration and observing abnormal tubulointerstitial morphology.
+
++3. Sarcoidosis (Lymphadenopathy, Lymphadenitis, Elevated circulating IgA level, Pulmonary infiltrates, Skin lesions, Hypercalcemia): Sarcoidosis is a multisystem granulomatous disorder of unknown etiology. It is characterized by the presence of non-caseating granulomas in various organs, including the lungs, lymph nodes, and skin. Symptoms may include lymphadenopathy, lymphadenitis, and elevated circulating IgA levels. Other common manifestations include pulmonary infiltrates, skin lesions, and hypercalcemia.
+
++4. Cirrhosis (Ascites, Splenomegaly, Jaundice, Abdominal distention, Elevated circulating bilirubin level): Cirrhosis is a chronic liver disease characterized by the replacement of normal liver tissue with fibrous and regenerative scar tissue. Symptoms may include ascites, splenomegaly, jaundice, and abdominal distention. Laboratory findings may include an elevated circulating bilirubin level.
+
++5. Diabetes Mellitus (Polydipsia, Polyuria, Polyphagia, Weight loss, Hypertension, Hyperglycemia): Diabetes mellitus is a metabolic disorder characterized by hyperglycemia due to an absolute or relative deficiency of insulin. Symptoms may include polydipsia, polyuria, polyphagia, and weight loss. Hypertension is a common complication, and laboratory findings may include hyperglycemia.
+
++6. Thyroid Disease (Hypothyroidism, Hyperthyroidism, Weight loss, Tachycardia, Hypertension, Abnormal circulating thyroid hormone concentration): Thyroid disease encompasses a range of conditions that can affect the thyroid gland and its function. Symptoms may include weight loss,"
+['POEMS syndrome']," +1. Nephrotic Syndrome: Facial edema, Proteinuria (Hematuria is not a common symptom), Hypoalbuminemia, Edema, Weight loss, Anemia, Elevated circulating creatinine concentration, Abdominal distention, Poor appetite, Scaling skin.
+
++2. Chronic Kidney Disease: Nephrolithiasis, Hematuria, Hypoalbuminemia, Elevated circulating creatinine concentration, Abdominal distention, Anemia, Exercise intolerance, Weight loss.
+
++3. Thyroid Disease: Hypothyroidism, Dry skin, Decreased circulating T4 concentration.
+
++4. Cirrhosis: Ascites, Splenomegaly, Abdominal distention, Poor appetite, Hypoalbuminemia, Elevated circulating bilirubin concentration (not mentioned in the symptoms).
+
++5. Heart Failure: Cardiomegaly, Pericardial effusion, Exertional dyspnea, Right ventricular dilatation, Increased circulating NT-proBNP concentration, Lower limb pain, Anemia, Exercise intolerance, Weight loss.
+
++6. Lupus: Nephritis (can present with Hematuria and Proteinuria), Anemia, Elevated circulating C-reactive protein concentration, Abnormal lymphocyte morphology, Monoclonal elevation of circulating IgA, Scaling skin, Chronic gastritis, Arthralgia (not mentioned in the symptoms).
+
++7. Malnutrition: Dry skin, Poor appetite, Weight loss, Hypoalbuminemia.
+
++8. Sarcoidosis: Lymphadenopathy (not mentioned in the symptoms), Abnormal mesentery morphology, Abnormal lymphocyte morphology, Elevated circulating angiotensin-converting enzyme (ACE) level (not mentioned in the symptoms).
+
++9. Anemia: Anemia, Fatigue (not mentioned in the symptoms), Pallor (not mentioned in the symptoms).
+
++10. Tuberculosis: Productive cough, Weight loss, Anemia, Fever (not mentioned in the symptoms), Night sweats (not mentioned in the symptoms).
+
++11. Cancer: Abdominal distention, Weight loss, Anemia, Fatigue (not mentioned in the symptoms), Fever (not mentioned in the symptoms).
+
++12. Rheumatoid Arthritis: Chronic joint pain (not mentioned in the symptoms), Morning stiffness (not mentioned in the symptoms), Anemia.
+
++13. Diabetes Mellitus: Polyuria (not mentioned in the symptoms), Polydipsia (not mentioned in the symptoms), Polyphagia (not mentioned in the symptoms), Hypoalbuminemia, Hypocalcemia.
+
++14. Pancreatitis: Abdominal pain (not mentioned in the symptoms), Abdominal distention, Elevated circulating amylase concentration (not mentioned in the symptoms).
+
++15. Celiac Disease: Poor appetite, Weight loss, Abdominal distention, Diarrhea (not mentioned in the symptoms), Malabsorption (not mentioned in the symptoms).
+
++16. Vasculitis: Abnormal lymphocyte morphology, Elevated circulating C-reactive protein concentration, Monoclonal"
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']"," +1. Cirrhosis: Hepatosplenomegaly, Recurrent respiratory infections, Fever, Intermittent diarrhea, Jaundice, Ascites, Confusion, Muscle wasting. (Urinary incontinence and Falls are not common symptoms)
++2. Leukemia: Bone-marrow foam cells, Fever, Recurrent respiratory infections, Fatigue, Pallor, Easy bruising or bleeding, Lymphadenopathy, Anemia. (Urinary incontinence and Hepatosplenomegaly are not common symptoms)
++3. Chronic Kidney Disease: Urinary incontinence, Hepatosplenomegaly, Protuberant abdomen, Nausea, Vomiting, Anemia, Shortness of breath. (Fever and Recurrent respiratory infections are not common symptoms)
++4. Tuberculosis: Fever, Cough, Night sweats, Weight loss, Fatigue, Loss of appetite, Chest pain. (Hepatosplenomegaly, Urinary incontinence, Protuberant abdomen, Intermittent diarrhea, and Bone-marrow foam cells are not common symptoms)
++5. Chronic Obstructive Pulmonary Disease (COPD): Cough, Shortness of breath, Wheezing, Chest tightness, Fatigue, Weight loss, Frequent respiratory infections. (Urinary incontinence, Hepatosplenomegaly, Protuberant abdomen, and Intermittent diarrhea are not common symptoms)
++6. Gastrointestinal Cancer: Abdominal pain, Weight loss, Fatigue, Nausea, Vomiting, Diarrhea, Anemia, Jaundice. (Urinary incontinence and Hepatosplenomegaly are not common symptoms)
++7. Systemic Lupus Erythematosus: Fatigue, Fever, Joint pain, Rash, Anemia, Kidney problems, Chest pain, Shortness of breath. (Protuberant abdomen, Urinary incontinence, Hepatosplenomegaly, Intermittent diarrhea, and Bone-marrow foam cells are not common symptoms)
++8. Sarcoidosis: Fatigue, Fever, Lymphadenopathy, Chest pain, Cough, Shortness of breath, Joint pain, Skin rash. (Urinary incontinence, Hepatosplenomegaly, Protuberant abdomen, Intermittent diarrhea, and Bone-marrow foam cells are not common symptoms)
++9. Celiac Disease: Abdominal pain, Bloating, Diarrhea, Weight loss, Fatigue, Anemia, Joint pain, Skin rash. (Urinary incontinence, Hepatosplenomegaly, Protuberant abdomen, Fever, and Bone-marrow foam cells are not common symptoms)
++10. Parkinson's Disease: Tremors, Rigidity, Bradykinesia, Postural instability, Speech changes, Depression, Constipation. (Urinary incontinence, Hepatosplenomegaly, Protuberant abdomen, Fever, Recurrent respiratory infections, Intermittent diarrhea, and Bone-marrow foam cells are not common symptoms"
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']"," +1. Myopia: A refractive error causing difficulty in seeing objects clearly at a distance. (Common symptom)
++2. Thyroid Eye Disease: Autoimmune condition causing inflammation and damage to the tissues around the eyes, leading to vision loss, diplopia, and eye discomfort. (Common symptom: Abnormal choroid morphology)
++3. Splenomegaly and Leukemia: Enlargement of the spleen due to the production of abnormal white blood cells. (Common symptom: Splenomegaly)
++4. Vitamin B12 Deficiency: Nutritional deficiency leading to anemia, fatigue, poor appetite, and neurological symptoms. (Common symptom: Anemia, not specified, and poor appetite)
++5. Celiac Disease: Autoimmune disorder causing damage to the small intestine when consuming gluten, leading to diarrhea, abdominal pain, and poor appetite. (Common symptom: Diarrhea and poor appetite)
++6. Wilson's Disease: Genetic disorder causing copper accumulation in the liver, brain, and other organs, leading to neurological symptoms, liver damage, and abdominal pain. (Common symptom: Abnormal liver function tests, not specified)
++7. Niemann-Pick Disease: Lysosomal storage disorder causing the accumulation of cholesterol and other lipids in various organs, leading to hepatosplenomegaly, neurological symptoms, and developmental delay. (Common symptom: Splenomegaly and developmental delay)
++8. Sarcoidosis: Systemic inflammatory condition causing granulomas in various organs, leading to symptoms such as lymphadenopathy, abnormal basal ganglia morphology, and pulmonary symptoms. (Common symptom: Lymphadenopathy and abnormal basal ganglia morphology)
++9. Cystic Fibrosis: Genetic disorder causing thick and sticky mucus in the lungs, leading to chronic lung infections, poor growth, and digestive symptoms. (Common symptom: Chronic lung infections and poor growth)
++10. Neurodegenerative Diseases: A group of disorders causing progressive degeneration of the nervous system, leading to intellectual disability, poor appetite, and various neurological symptoms. (Common symptom: Intellectual disability and poor appetite)
++11. Addison's Disease: Autoimmune disorder causing damage to the adrenal glands, leading to fatigue, poor appetite, and various neurological symptoms. (Common symptom: Fatigue and poor appetite)
++12. Chronic Kidney Disease: Progressive loss of kidney function, leading to various symptoms such as anemia, poor appetite, and intellectual disability. (Common symptom: Anemia and intellectual disability)
++13. Tuberculosis: Bacterial infection causing fever, weight loss, and various respiratory symptoms. (Common symptom: Fever)
++14. Lupus: Autoimmune disorder causing inflammation in various organs, leading to symptoms such as fatigue, joint pain, and skin rashes. (Common symptom: Fatigue)
++15. Hemochromatosis: Genetic disorder causing excessive absorption of iron, leading to liver damage, joint pain, and various other symptoms. (Common symptom: Joint pain)
++16. Sjogren's Syndrome: Autoimmune disorder causing dryness of"
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']"," +1. Thalassemia: This is a group of genetic disorders that affect the production of hemoglobin. The patient presents with Microcytic anemia, Splenomegaly, and Anisocytosis. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++2. Sickle Cell Disease: This is another genetic disorder that affects the production of hemoglobin, leading to the formation of sickle-shaped red blood cells. The patient presents with Microcytic anemia, Splenomegaly, Reticulocytosis, and Hemolytic anemia. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++3. Hemolytic Anemia: This is a condition where the red blood cells are destroyed faster than they can be produced. The patient presents with Microcytic anemia, Reticulocytosis, and Hemolytic anemia. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++4. Cirrhosis: This is a chronic liver disease that causes scarring of the liver. The patient presents with Hepatomegaly, Splenomegaly, Anemia, and Ascites. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++5. Leukemia: This is a cancer of the blood and bone marrow. The patient presents with Pancytopenia, Anemia, Neutropenia, Thrombocytopenia, and Leukopenia. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++6. Hemochromatosis: This is a condition where the body absorbs too much iron from the diet. The patient presents with Hepatomegaly, Jaundice, and Abdominal pain. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++7. Thrombotic Thrombocytopenic Purpura (TTP): This is a rare blood disorder that causes blood clots to form in small blood vessels. The patient presents with Thrombocytopenia, Microangiopathic hemolytic anemia, and Fever. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++8. Disseminated Intravascular Coagulation (DIC): This is a condition where blood clots form in small blood vessels throughout the body. The patient presents with Thrombocytopenia, Microangiopathic hemolytic anemia, and Dyspnea. They do not have Schistocytosis, Neonatal respiratory distress, or Conjugated hyperbilirubinemia.
+
++9. Hodgkin's Lymphoma: This is a type of cancer that affects the lymphatic system. The patient presents with Generalized lymphadenopathy, Fever, and Weight loss. They do not have Schistocytosis, Neonatal respiratory distress, or Conjug"
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']"," +1. Trismus: A condition characterized by the inability to open the mouth fully due to muscle spasms or contractures. The patient does not have this symptom.
++2. Intellectual disability: A condition characterized by significant limitations in intellectual functioning and adaptive behavior. The patient exhibits this symptom.
++3. Seizure: A sudden and uncontrollable electrical disturbance in the brain. The patient exhibits this symptom.
++4. Dysarthria: A motor speech disorder caused by damage to the nervous system. The patient exhibits this symptom.
++5. Tetany: A condition characterized by muscle spasms and cramps, often due to low calcium levels in the blood. The patient does not have this symptom.
++6. Gait disturbance: Any disorder that affects the way a person walks. The patient exhibits this symptom.
++7. Slurred speech: A speech disorder characterized by difficulty articulating words clearly. The patient exhibits this symptom.
++8. Splenomegaly: An enlargement of the spleen, often due to liver disease or infection. The patient does not have this symptom.
++9. Talipes: A condition characterized by deformity of the foot and ankle. The patient does not have this symptom.
++10. Abnormal lung morphology: Any structural abnormality of the lungs. The patient does not have this symptom.
++11. Drooling: The excessive production and leakage of saliva from the mouth. The patient exhibits this symptom.
++12. Memory impairment: Difficulty with learning and retaining new information. The patient exhibits this symptom.
++13. Obsolete Dysphasia: A language disorder characterized by difficulty understanding and using language. The patient exhibits this symptom.
++14. Dyscalculia: A learning disorder that affects the ability to understand numbers and perform mathematical calculations. The patient exhibits this symptom.
++15. Abnormal cerebral white matter morphology: Any structural abnormality of the white matter in the brain. The patient does not have this symptom.
++16. Progressive language deterioration: A gradual worsening of language abilities. The patient exhibits this symptom.
++17. Loss of consciousness: A temporary or permanent loss of awareness of the environment and self. The patient does not have this symptom.
++18. Abnormal medulla oblongata morphology: Any structural abnormality of the medulla oblongata, the part of the brainstem that controls vital functions. The patient does not have this symptom.
++19. Abnormality of the maxillary sinus: Any structural or functional abnormality of the maxillary sinus, an air-filled cavity in the cheekbone. The patient does not have this symptom.
+
+Based on the given symptoms, potential diagnoses could include intellectual disability with speech and language impairments, seizure disorder with dysarthria and memory impairment, or a neurodegenerative disorder such as progressive supranuclear palsy or Creutzfeldt-Jakob disease. Further testing and evaluation would be necessary to determine an accurate diagnosis."
+"['Chronic visceral acid sphingomyelinase deficiency', 'Niemann-Pick disease type C']"," +1. Hepatitis: Delayed puberty, Jaundice, Conjugated hyperbilirubinemia, Hepatosplenomegaly, Hypoalbuminemia, Abdominal distention, Anemia, Thrombocytopenia, Neutropenia, Pancytopenia, Leukopenia, Increased total bilirubin, Decreased body weight, Splenomegaly, Prolonged prothrombin time, Hepatic calcification. The patient does not have symptoms of cardiac or respiratory issues associated with this disease.
+
++2. Hemochromatosis: Bruising susceptibility, Splenomegaly, Hepatosplenomegaly, Decreased urine output, Increased total bilirubin, Decreased body weight. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++3. Hemolytic anemia: Bruising susceptibility, Anemia, Thrombocytopenia, Neutropenia, Pancytopenia, Leukopenia, Splenomegaly, Anemia. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++4. Cirrhosis: Delayed puberty, Jaundice, Hepatosplenomegaly, Abnormal liver function tests (conjugated hyperbilirubinemia, hypoalbuminemia), Abdominal distention, Decreased body weight, Splenomegaly. The patient does not have symptoms of cardiac or respiratory issues associated with this disease.
+
++5. Sickle cell disease: Bruising susceptibility, Anemia, Splenomegaly, Thrombocytopenia, Neutropenia, Leukopenia, Fever, Pain, Anemia. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++6. Thyroid disease: Delayed puberty, Generalized muscle weakness, Exercise intolerance, Decreased body weight. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++7. Congenital heart disease: Abnormal aortic valve morphology, Mitral regurgitation, Cardiomegaly, Left ventricular hypertrophy, Pulmonary arterial hypertension, Exertional dyspnea, Hypokalemia, Increased circulating NT-proBNP concentration. The patient does not have symptoms of jaundice, hepatosplenomegaly, or bleeding disorders associated with this disease.
+
++8. Coagulopathy: Bruising susceptibility, Thrombocytopenia, Hypofibrinogenemia, Prolonged prothrombin time. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++9. Malnutrition: Delayed puberty, Decreased body weight, Generalized muscle weakness, Exercise intolerance. The patient does not have symptoms of jaundice, cardiac or respiratory issues associated with this disease.
+
++10. Leukemia: Bruising susceptibility, Thrombocytopenia, Neutropenia, Pancytopenia, Leukopenia, Fever,"

@@ -5,7 +5,7 @@ import os
 auth_key = str(os.getenv("DEEPL_API_KEY"))
 
 
-def X(text):
+def deepl_translate(text):
     # auth_key = "YOUR_AUTH_KEY"
     translator = deepl.Translator(auth_key)
     translated_text = translator.translate_text(text, target_lang='EN-US').text
@@ -19,7 +19,7 @@ def translate_diseases(file_path):
 
     # Iterar sobre cada enfermedad y traducir su nombre
     for i, entry in enumerate(data):
-        entry['name'] = X(entry['name'])
+        entry['name'] = deepl_translate(entry['name'])
         print(entry['name'])
         print(f"Progress: Translated disease {i+1} out of {len(data)}")
 
@@ -30,6 +30,6 @@ def translate_diseases(file_path):
 
     return translated_file_path
 
-# Usar la función con la ruta de tu archivo JSON corregido
-translated_file_path = translate_diseases('./data/Final_List_200_proms_corrected.json')
-print(f"Archivo traducido guardado en: {translated_file_path}")
+# # Usar la función con la ruta de tu archivo JSON corregido
+# translated_file_path = translate_diseases('./data/Final_List_200_proms_corrected.json')
+# print(f"Archivo traducido guardado en: {translated_file_path}")

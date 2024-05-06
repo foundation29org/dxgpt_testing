@@ -1,0 +1,40 @@
+Model,Dataset,Strict Accuracy,Top-5 Accuracy
+GPT-4 0613,Synthetic,66.5,90.5
+GPT-4 Turbo 1106,Synthetic,68.5,92.0
+GPT-4 Turbo 0409,Synthetic,67.0,91.0
+Claude 3 Opus,Synthetic,72.5,91.5
+Claude 3 Sonnet,Synthetic,65.5,88.5
+Gemini 1.5 Pro,Synthetic,70.0,91.0
+Llama 2 7B,Synthetic,30.5,58.0
+Llama 3 8B,Synthetic,48.22,74.11
+Llama 3 70B,Synthetic,64.0,90.5
+Mistral 7B,Synthetic,47.0,70.5
+Mixtral8x7B,Synthetic,56.5,84.5
+Mixtral8x22B,Synthetic,67.5,87.0
+Cohere Command R+,Synthetic,54.0,80.0
+GPT-4 0613,RAMEDIS,50.25,63.32
+GPT-4 Turbo 1106,RAMEDIS,51.5,67.5
+GPT-4 Turbo 0409,RAMEDIS,54.04,68.69
+Claude 3 Opus,RAMEDIS,55.0,70.0
+Claude 3 Sonnet,RAMEDIS,50.5,64.5
+Gemini 1.5 Pro,RAMEDIS,42.63,51.05
+Llama 2 7B,RAMEDIS,25.63,37.19
+Llama 3 8B,RAMEDIS,43.0,56.0
+Llama 3 70B,RAMEDIS,53.54,62.12
+Mistral 7B,RAMEDIS,24.62,48.24
+Mixtral8x7B,RAMEDIS,31.82,55.05
+Mixtral8x22B,RAMEDIS,39.59,61.93
+Cohere Command R+,RAMEDIS,29.29,58.08
+GPT-4 0613,PUMCH,44.0,53.33
+GPT-4 Turbo 1106,PUMCH,59.46,64.86
+GPT-4 Turbo 0409,PUMCH,47.3,58.11
+Claude 3 Opus,PUMCH,52.05,61.64
+Claude 3 Sonnet,PUMCH,33.33,48.0
+Gemini 1.5 Pro,PUMCH,47.3,54.05
+Llama 2 7B,PUMCH,18.92,28.38
+Llama 3 8B,PUMCH,33.33,41.33
+Llama 3 70B,PUMCH,44.44,48.61
+Mistral 7B,PUMCH,31.08,44.59
+Mixtral8x7B,PUMCH,30.14,46.58
+Mixtral8x22B,PUMCH,38.67,45.33
+Cohere Command R+,PUMCH,42.67,46.67

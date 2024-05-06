@@ -4,7 +4,7 @@ import pandas as pd
 # Load the scores data
 df2 = pd.read_csv('data/scores_RAMEDIS_c3sonnet.csv')
 
-df = pd.read_csv('data/scores_URG_Torre_Dic_200_gpt4turbo0409.csv')
+df = pd.read_csv('data/scores_URG_Torre_Dic_200_gpt4turbo1106   .csv')
 
 # Summarize the data
 # print(df.describe())

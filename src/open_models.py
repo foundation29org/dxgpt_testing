@@ -24,6 +24,8 @@ import os
 import boto3
 import json
 from dotenv import load_dotenv
+from mistralai.client import MistralClient
+from mistralai.models.chat_completion import ChatMessage
 
 # Load the environment variables from the .env file
 load_dotenv()
@@ -102,3 +104,25 @@ def initialize_mistral7b(prompt, temperature=0, max_tokens=800):
 
     # print(response.get('body').read())
     return json.loads(response.get('body').read())
+
+
+def initialize_mixtral_moe_big(prompt, temperature=0, max_tokens=800):
+    api_key = os.environ["MISTRAL_API_KEY"]
+    model = "open-mixtral-8x22b"
+
+    client = MistralClient(api_key=api_key)
+
+    messages = [
+        ChatMessage(role="user", content=prompt)
+    ]
+
+    # No streaming
+    chat_response = client.chat(
+        model=model,
+        messages=messages,
+        temperature=temperature,
+        max_tokens=max_tokens
+    )
+
+    # print(chat_response.choices[0].message.content)
+    return chat_response.choices[0].message.content
