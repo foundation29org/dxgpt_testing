@@ -10,9 +10,15 @@ In this repository, you will find detailed evaluations, comparisons, and insight
 
 Stay tuned for updates and findings as we delve deeper into the world of AI and healthcare.
 
-### Summary plot
+### Summary plots
 
-![Main Plot 100424](./mainplot_100424.png)
+![All Models Comparison](./allmodels_plot.png)
+
+![Synthetic Dataset](./synthetic_plot.png)
+
+![RAMEDIS Dataset](./RAMEDIS_plot.png)
+
+![PUMCH Dataset](./PUMCH_plot.png)
 
 
 ### IPynb Dashboard with comparison of multiple models:

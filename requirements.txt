@@ -20,3 +20,4 @@ google-cloud-aiplatform
 mistralai
 scipy
 statsmodels
+seaborn
