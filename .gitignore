@@ -2,7 +2,9 @@
 .venv
 .history
 nav29-21389-c1a94e300dcb.json
+Ruber_cases/*
 data/URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx
 data/URG_Torre_Dic_2022_IA_GEN_modified.xlsx
 data/URG_Torre_Dic_2022_IA_GEN.xlsx
-src/__pycache__/
+src/__pycache__/*
+

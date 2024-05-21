@@ -8,9 +8,7 @@ import pyhpo
 import pandas as pd
 import boto3
 from dotenv import load_dotenv
-from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
-from langchain_community.chat_models import BedrockChat
-from langchain.prompts import PromptTemplate
+from langchain_community.chat_models import AzureChatOpenAI, ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from langchain_community.chat_models.azureml_endpoint import AzureMLChatOnlineEndpoint
 from langchain_community.chat_models.azureml_endpoint import (
@@ -24,7 +22,8 @@ import vertexai
 from vertexai.preview.generative_models import GenerativeModel
 from google.oauth2 import service_account
 from open_models import initialize_mistralmoe, initialize_mistral7b, initialize_mixtral_moe_big
-
+import textract
+from docx import Document
 from translate import deepl_translate
 
 logging.basicConfig(level=logging.INFO)
@@ -32,42 +31,6 @@ logging.basicConfig(level=logging.INFO)
 # Load the environment variables from the .env file
 load_dotenv()
 
-
-def orpha_api_get_disease_name(disease_code):
-    """
-    Get disease name from Orpha API
-    """
-    api_key = "f29dev"
-    int_code = disease_code.split(":")[1]
-    url = f"https://api.orphacode.org/EN/ClinicalEntity/orphacode/{int_code}/Name"
-    headers = {
-        "accept": "application/json",
-        "apiKey": api_key
-    }
-    
-    response = requests.get(url, headers=headers)
-    
-    if response.status_code == 200:
-        data = response.json()
-        return data["Preferred term"]
-    else:
-        return None
-
-def mapping_fn_with_hpo3_plus_orpha_api(data):
-    """
-    Same as mapping_fn but with HPO3
-    This function takes in the dataset and returns the mapped dataset
-    Input is a list of Example objects. Output should be another list of Example objects
-    Change Phenotype object list to list of texts mapped.
-    """
-    pyhpo.Ontology()
-    mapped_data = []
-    for example in data:
-        example["Phenotype"] = [pyhpo.Ontology.get_hpo_object(phenotype).name for phenotype in example["Phenotype"]]
-        example["RareDisease"] = [orpha_api_get_disease_name(disease) for disease in example["RareDisease"] if disease.startswith("ORPHA:")]
-        mapped_data.append(example)
-
-    return mapped_data
 
 def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
     client = anthropic.Anthropic(
@@ -277,6 +240,8 @@ PROMPT_TEMPLATE_RARE = "Behave like a hypotethical doctor who has to do a diagno
 
 PROMPT_TEMPLATE = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Give me a list of potential diseases with a short description. Shows for each potential diseases always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the disease and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common. The text is \n Symptoms:{description}"
 
+PROMPT_TEMPLATE_RARE_GENE = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Give me a list of potential rare genetic pathogenic variants with a short description. Shows for each potential rare genetic etiologies always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the etiology and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate which symptoms the patient has in common with the proposed diagnosis and which symptoms the patient does not have in common. The text is \n Symptoms:{description}"
+
 PROMPT_TEMPLATE_MORE = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Continue the list of potential rare diseases without repeating any disease from the list I give you. If you repeat any, it is better not to return it. Shows for each potential rare diseases always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the disease and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate a short description and which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common. The text is \n Symptoms: {description}. Each must have this format '\n\n+7.' for each potencial rare diseases. The list is: {initial_list} "
 
 PROMPT_TEMPLATE_IMPROVED = """
@@ -303,7 +268,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         HF = True
 
     # Load the data
-    input_path = f'data/{dataframe}'
+    input_path = f'Ruber_cases/{dataframe}'
     if HF:
         df = pd.DataFrame(dataframe)
     elif input_path.endswith('.csv'):
@@ -325,7 +290,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
     for index, row in tqdm(df[:200].iterrows(), total=df[:200].shape[0]):
         # Get the ground truth (GT) and the description
         if HM:
-            description = row[0]
+            description = row["Phenotype"]
         elif HF:
             description = row["Phenotype"]
             gt = row["RareDisease"]
@@ -398,23 +363,41 @@ def get_diagnosis(prompt, dataframe, output_file, model):
         # break
 
     # Save the diagnoses to a new CSV file
-    output_path = f'data/{output_file}'
+    output_path = f'Ruber_cases/{output_file}'
     diagnoses_df.to_csv(output_path, index=False)
 
 
-# datasets = ["RAMEDIS", "MME", "HMS", "LIRICAL", "PUMCH_ADM"]
-data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
+# This file is specific to RUBER HHCC Epilepsy related cases.
+def prepare_cases():
+    # Get the list of files in the Ruber_cases directory
+    files = os.listdir("Ruber_cases")
+    files_sorted_naturally = sorted(files, key=lambda x: int(''.join(filter(str.isdigit, x))))
+    cases_df = pd.DataFrame(columns=['Phenotype'])
 
-mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
-print(type(mapped_data))
+    for file in files_sorted_naturally:
+        # File is a .docx with the text for each case
+        # We will read the file and store it in the DataFrame
+        if file.endswith('.doc') or file.endswith('.docx'):
+            # Read the text from the .doc or .docx file
+            text = ''
+            if file.endswith('.doc'):
+                # Use a different library for .doc files due to encoding issues
+                text = textract.process(f'Ruber_cases/{file}').decode('utf-8')
+            else:
+                doc = Document(f'Ruber_cases/{file}')
+                list_text = []
+                for para in doc.paragraphs:
+                    list_text.append(para.text)
 
-# print(mapped_data[:5])
+                text = '\n'.join(list_text)
 
-# get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mixtralmoe_big.csv', "mistralmoebig")
+            # Add the text to the DataFrame
+            df = pd.DataFrame({'Phenotype': [text]})
+        cases_df = pd.concat([cases_df, df])
 
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', "mistralmoebig")
+    # Save the cases to a new CSV file
+    output_path = f'Ruber_cases/Ruber_HHCC_Epilepsy_50.xlsx'
+    cases_df.to_excel(output_path, index=False)
 
-get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_gpt4o.csv', gpt4o)
-
-# get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_gpt4o.csv', gpt4o)
+get_diagnosis(PROMPT_TEMPLATE_RARE_GENE, 'Ruber_HHCC_Epilepsy_50.xlsx', 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv', gpt4_0613azure)
 

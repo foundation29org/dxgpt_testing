@@ -85,7 +85,7 @@ def get_scores(model, dataframe, gt, output_file):
 
 # get_scores(model, 'diagnoses_medisearch_turbo_v2.csv', 'scores_medisearch_turbo_v2.csv')
 # get_scores(model, 'diagnoses_URG_Torre_Dic_200_llama2_7b.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_llama2_7b.csv')
-get_scores(model, 'diagnoses_URG_Torre_Dic_200_mixtralmoe_big.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_mixtralmoe_big.csv')
+get_scores(model, 'diagnoses_URG_Torre_Dic_200_gpt4o.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_gpt4o.csv')
 # get_scores(model, 'diagnoses_URG_Torre_Dic_200_mistral7b.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_mistral7b.csv')
 # get_scores(model, 'diagnoses_URG_Torre_Dic_200_cohere_cplus.csv', 'URG_Torre_Dic_2022_IA_GEN.xlsx', 'scores_URG_Torre_Dic_200_cohere_cplus.csv')
 

@@ -19,15 +19,13 @@ model = AzureChatOpenAI(
     max_tokens=800
 )
 
-def get_scores(model, dataframe, output_file):
+def get_scores(model, dataframe, gt, output_file):
     # Load the diagnoses data
-    input_path = f'data/{dataframe}'
-    df = pd.read_csv(input_path)
+    input_path = f'Ruber_cases/{dataframe}'
+    df_dx = pd.read_csv(input_path)
+    input_path = f'Ruber_cases/{gt}'
+    df_gt = pd.read_excel(input_path)
 
-    # Summarize the data
-    # print(df.describe())
-    # print(df.head())
-    # print(df.shape)
 
     # Now we will analyze the data to see if the GT is in the column 1 of diagnoses (each column has between 3 to 6 diagnoses), between P1 and P5 predictions.
     # Then we will create a new DataFrame to store the scores of the predictions.
@@ -58,9 +56,9 @@ def get_scores(model, dataframe, output_file):
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
     # Iterate over the rows in the diagnoses data
-    for index, row in tqdm(df.iterrows(), total=df.shape[0]):
+    for index, row in tqdm(df_dx.iterrows(), total=df_dx.shape[0]):
         # Get the ground truth (GT) and the first prediction
-        gt = row[0]
+        gt = df_gt.loc[index][2]
         predictions = row[1]
 
         # Generate a score for the prediction
@@ -82,16 +80,9 @@ def get_scores(model, dataframe, output_file):
         scores_df.loc[index] = [gt, score]
 
     # Save the scores to a new CSV file
-    output_path = f'data/{output_file}'
+    output_path = f'Ruber_cases/{output_file}'
     scores_df.to_csv(output_path, index=False)
 
-# get_scores(model, 'diagnoses_v2_mixtralmoe_big.csv', 'scores_v2_mixtralmoe_big.csv')
-
-# get_scores(model, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', 'scores_PUMCH_ADM_mixtralmoe_big.csv')
-
-get_scores(model, 'diagnoses_RAMEDIS_gpt4o.csv', 'scores_RAMEDIS_gpt4o.csv')
-
-
-
+get_scores(model, 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv', 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613.xlsx', 'scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv')
 
 

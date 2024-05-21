@@ -21,3 +21,5 @@ mistralai
 scipy
 statsmodels
 seaborn
+textract
+python-docx
