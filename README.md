@@ -2,7 +2,7 @@
 
 ### Intro to this repo
 
-Welcome to our repository dedicated to the evaluation of <a href="https://dxgpt.app/" target="_blank">DxGPT</a> across various AI models, both for common and rare diseases. 
+Welcome to our repository dedicated to the evaluation of [DxGPT](https://dxgpt.app/) across various AI models, both for common and rare diseases. 
 
 This project aims to explore the capabilities and limitations of different AI models in diagnosing diseases through synthetic and real-world datasets. Our comprehensive analysis includes closed models like GPT-4, Claude3 and open models like Llama2, Mistral and Cohere Command R +, providing insights into their diagnostic accuracy and potential applications in healthcare.
 
@@ -22,7 +22,7 @@ Stay tuned for updates and findings as we delve deeper into the world of AI and 
 
 
 ### IPynb Dashboard with comparison of multiple models:
-<a href="https://colab.research.google.com/github/foundation29org/dxgpt_testing/blob/main/dashboard.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/foundation29org/dxgpt_testing/blob/main/dashboard.ipynb)
 
 ## File naming convention
 
@@ -70,14 +70,14 @@ In addition to the main parts, file names may include modifiers that provide fur
 This structured approach to file naming ensures that each file is easily identifiable and that its contents are self-explanatory based on the name alone.
 
 ### Link to the DxGPT free web app:
-<a href="https://dxgpt.app/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-Green" alt="Project Page"></a>
+[![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://dxgpt.app/)
 
 # Evaluation of DxGPT live model accuracy for <u>rare diseases</u>   diagnoses
 This repository contains all the code, data, and results for the evaluation of [DxGPT](https://github.com/foundation29org/Dx29_client_gpt)'s diagnostic accuracy on synthetic rare disease cases. The paper "Evaluation of DxGPT Accuracy for Rare Diseases Diagnoses" describes the methodology and findings of this analysis in detail. The goal of open sourcing this content is to provide full transparency on the evaluation process and enable further research to build on this work.
 
 ## Summary
 
-<a href="https://www.medrxiv.org/content/10.1101/2024.05.08.24307062v1" target="_blank">This paper</a> evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
+[This paper](https://www.medrxiv.org/content/10.1101/2024.05.08.24307062v1) evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
 
 These 200 cases were selected from a curated list from Orphanet Prevalency List, a list of diseases that are the most common in rare diseases.
 
