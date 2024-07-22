@@ -77,7 +77,7 @@ This repository contains all the code, data, and results for the evaluation of [
 
 ## Summary
 
-[This paper](https://foundation29.sharepoint.com/:w:/s/Fundacion29-Share/Edy1Cl9pjdRLicmopJgPCeoBlwPpwjQ-Po07vLb-ZVXIWQ?e=HNViOk) evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
+[This paper](https://www.medrxiv.org/content/10.1101/2024.05.08.24307062v1) evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
 
 These 200 cases were selected from a curated list from Orphanet Prevalency List, a list of diseases that are the most common in rare diseases.
 
