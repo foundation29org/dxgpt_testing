@@ -4,22 +4,29 @@
 
 Welcome to our repository dedicated to the evaluation of [DxGPT](https://dxgpt.app/) across various AI models, both for common and rare diseases. 
 
-This project aims to explore the capabilities and limitations of different AI models in diagnosing diseases through synthetic and real-world datasets. Our comprehensive analysis includes closed models like GPT-4, Claude3 and open models like Llama2, Mistral and Cohere Command R +, providing insights into their diagnostic accuracy and potential applications in healthcare.
+This project aims to explore the capabilities and limitations of different AI models in diagnosing diseases through synthetic and real-world datasets. Our comprehensive analysis includes closed models like GPT-4o, Claude 3 and 3.5 and open models like Llama 2 and 3, Mistral and Cohere Command R +, providing insights into their diagnostic accuracy and potential applications in healthcare.
 
 In this repository, you will find detailed evaluations, comparisons, and insights derived from multiple AI models. Our goal is to contribute to the advancement of AI in healthcare, specifically in improving diagnostic processes and outcomes for a wide range of diseases. We encourage collaboration, discussion, and feedback to further enhance the understanding and development of AI-driven diagnostics.
 
 Stay tuned for updates and findings as we delve deeper into the world of AI and healthcare.
 
-### Summary plots
+### Summary plot
 
-![All Models Comparison](./allmodels_plot.png)
+![All Models Comparison](./allmodels_240724.png)
 
-![Synthetic Dataset](./synthetic_plot.png)
+In this graph, the green and orange bars correspond respectively to P1 (probability of correctly identifying within the first diagnosis) and P5 (probability of correctly identifying the diagnosis among the top 5 suggestions). 
 
-![RAMEDIS Dataset](./RAMEDIS_plot.png)
+Furthermore, the black line is the difference in accuracy between common diseases (top) and rare diseases (bottom). 
 
-![PUMCH Dataset](./PUMCH_plot.png)
+### Our first paper
 
+Here you can find the first preprint of our work:
+
+[Assessing DxGPT: Diagnosing Rare Diseases with Various Large Language Models](https://www.medrxiv.org/content/10.1101/2024.05.08.24307062v1)
+
+### Next steps
+
+It's crucial to emphasize that DxGPT is still in development and is intended as a decision support tool, not a replacement for professional medical judgment. The tool aims to assist healthcare professionals by generating diagnostic hypotheses based on patient symptoms and clinical data, potentially reducing the time to diagnosis for common and rare diseases. Further validation on real clinical data and comparison with human expert diagnoses are necessary to fully assess its performance and potential impact on patient care. We are also conducting these studies within hospitals and the first results will be published soon. 
 
 ### IPynb Dashboard with comparison of multiple models:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/foundation29org/dxgpt_testing/blob/main/dashboard.ipynb)
@@ -72,43 +79,3 @@ This structured approach to file naming ensures that each file is easily identif
 ### Link to the DxGPT free web app:
 [![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://dxgpt.app/)
 
-# Evaluation of DxGPT live model accuracy for <u>rare diseases</u>   diagnoses
-This repository contains all the code, data, and results for the evaluation of [DxGPT](https://github.com/foundation29org/Dx29_client_gpt)'s diagnostic accuracy on synthetic rare disease cases. The paper "Evaluation of DxGPT Accuracy for Rare Diseases Diagnoses" describes the methodology and findings of this analysis in detail. The goal of open sourcing this content is to provide full transparency on the evaluation process and enable further research to build on this work.
-
-## Summary
-
-[This paper](https://foundation29.sharepoint.com/:w:/s/Fundacion29-Share/Edy1Cl9pjdRLicmopJgPCeoBlwPpwjQ-Po07vLb-ZVXIWQ?e=HNViOk) evaluates DxGPT, a [web platform](https://dxgpt.app/) designed to accelerate the diagnosis of rare diseases. The platform uses GPT-4 to provide diagnostic suggestions based on a brief clinical description. The evaluation utilized 200 synthetic patient cases, derived from three models: GPT-4, Claude2, and MediSearch.
-
-These 200 cases were selected from a curated list from Orphanet Prevalency List, a list of diseases that are the most common in rare diseases.
-
-## Key features
-
-- **Accelerated diagnosis**: Targets rare diseases that often face long diagnosis delays (average of 5-6 years).
-- **Input**: Takes a brief clinical description.
-- **Output**: Provides a ranked list of potential diagnoses.
-
-## Evaluation metrics
-
-- **Strict Accuracy (P1)**: Top suggestion matches the ground truth.
-- **Top-5 Accuracy (P1+P5)**: Ground truth appears within the top 5 suggestions.
-
-## Results
-
-- 67.5% Strict Accuracy (for GPT-4 cases)
-- 57% Strict Accuracy (for MediSearch cases)
-- 88.5% Top-5 Accuracy (for GPT-4 cases)
-- 83.5% Top-5 Accuracy (for MediSearch cases)
-
-## Conclusions
-
-The results are promising but require further validation on real clinical data and against human expert diagnoses.
-
-## Future work
-
-- Examine model performance per disease type.
-- Investigate qualitative errors.
-- Compare model performance to clinician baselines.
-
-## Potential impact
-
-With further rigorous evaluation, DxGPT shows potential to significantly assist doctors in diagnosing rare diseases faster, thus leading to improved patient outcomes.

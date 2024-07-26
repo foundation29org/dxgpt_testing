@@ -6,10 +6,11 @@ import pandas as pd
 
 # df = pd.read_csv('data/scores_URG_Torre_Dic_200_gpt4turbo1106.csv')
 
-df = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4o_gene.csv')
-
-df2 = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv')
-
+# df = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4o_gene.csv')
+# df2 = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv')
+df2 = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4o_text.csv')
+# df = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene_text.csv')
+df = pd.read_csv('Ruber_cases/scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_text.csv')
 # Summarize the data
 # print(df.describe())
 # print(df.head())

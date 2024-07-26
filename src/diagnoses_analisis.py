@@ -58,7 +58,7 @@ def get_scores(model, dataframe, output_file):
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
     # Iterate over the rows in the diagnoses data
-    for index, row in tqdm(df.iterrows(), total=df.shape[0]):
+    for index, row in tqdm(df[:200].iterrows(), total=df[:200].shape[0]):
         # Get the ground truth (GT) and the first prediction
         gt = row[0]
         predictions = row[1]
@@ -89,7 +89,7 @@ def get_scores(model, dataframe, output_file):
 
 # get_scores(model, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', 'scores_PUMCH_ADM_mixtralmoe_big.csv')
 
-get_scores(model, 'diagnoses_RAMEDIS_gpt4o.csv', 'scores_RAMEDIS_gpt4o.csv')
+get_scores(model, 'diagnoses_RAMEDIS_gpt4o_json.csv', 'scores_RAMEDIS_gpt4o_json_2.csv')
 
 
 

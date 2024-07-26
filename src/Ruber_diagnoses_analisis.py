@@ -58,7 +58,7 @@ def get_scores(model, dataframe, gt, output_file):
     # Iterate over the rows in the diagnoses data
     for index, row in tqdm(df_dx.iterrows(), total=df_dx.shape[0]):
         # Get the ground truth (GT) and the first prediction
-        gt = df_gt.loc[index][2]
+        gt = df_gt.loc[index][3]
         predictions = row[1]
 
         # Generate a score for the prediction
@@ -83,6 +83,6 @@ def get_scores(model, dataframe, gt, output_file):
     output_path = f'Ruber_cases/{output_file}'
     scores_df.to_csv(output_path, index=False)
 
-get_scores(model, 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv', 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613.xlsx', 'scores_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv')
+get_scores(model, 'diagnoses_RUBER_HHCC_Epilepsy_50_c35sonnet_specific.csv', 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613.xlsx', 'scores_RUBER_HHCC_Epilepsy_50_c35sonnet_specific.csv')
 
 

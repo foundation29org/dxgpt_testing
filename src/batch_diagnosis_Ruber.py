@@ -32,6 +32,20 @@ logging.basicConfig(level=logging.INFO)
 load_dotenv()
 
 
+def initialize_anthropic_c35(prompt, temperature=0, max_tokens=2000):
+    client = anthropic.Anthropic(
+        # defaults to os.environ.get("ANTHROPIC_API_KEY")
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
+    )
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=max_tokens,
+        temperature=temperature,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    # print(message.content)
+    return message
+
 def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
     client = anthropic.Anthropic(
         # defaults to os.environ.get("ANTHROPIC_API_KEY")
@@ -260,6 +274,23 @@ Patient Symptoms:
 </prompt>
 """
 
+PROMPT_TEMPLATE_SPECIFIC = """
+You will be acting as a hypothetical doctor tasked with diagnosing a patient based on their reported symptoms. Your goal is to generate a list of potential diseases that match the given symptoms, along with a brief description of each disease and how it relates to the patient's condition.
+
+Here are the patient's reported symptoms:
+<symptoms>
+{description}
+</symptoms>
+
+Please generate a list of potential diseases that could explain the patient's symptoms. For each disease, start with '\n\n+' followed by a number, beginning with '\n\n+1'. After the number, write the name of the disease followed by a colon. Then, describe which of the patient's symptoms are consistent with that disease, as well as any common symptoms of the disease that the patient does not have.
+
+When listing the diseases, try to be as specific as possible. If a broad category of disease is suspected, include specific subtypes or subgroups of that disease rather than just the general category.
+
+Remember to use '\n\n+' for each disease and do not use '\n\n-' at any point.
+
+Write your list of potential diseases inside <diseases> tags.
+"""
+
 
 def get_diagnosis(prompt, dataframe, output_file, model):
     HM = False # HM Hospitals
@@ -286,7 +317,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
     human_message_prompt = HumanMessagePromptTemplate.from_template(prompt)
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
-    # Iterate over the rows in the synthetic data
+    # Iterate over the rows in the data
     for index, row in tqdm(df[:200].iterrows(), total=df[:200].shape[0]):
         # Get the ground truth (GT) and the description
         if HM:
@@ -311,6 +342,8 @@ def get_diagnosis(prompt, dataframe, output_file, model):
             try:
                 if model == "c3opus":
                     diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
+                elif model == "c35sonnet":
+                    diagnosis = initialize_anthropic_c35(formatted_prompt[0].content).content[0].text
                 elif model == "c3sonnet":
                     diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
                     # print(diagnosis)
@@ -399,5 +432,5 @@ def prepare_cases():
     output_path = f'Ruber_cases/Ruber_HHCC_Epilepsy_50.xlsx'
     cases_df.to_excel(output_path, index=False)
 
-get_diagnosis(PROMPT_TEMPLATE_RARE_GENE, 'Ruber_HHCC_Epilepsy_50.xlsx', 'diagnoses_RUBER_HHCC_Epilepsy_50_gpt4_0613_gene.csv', gpt4_0613azure)
+get_diagnosis(PROMPT_TEMPLATE_SPECIFIC, 'Ruber_HHCC_Epilepsy_50.xlsx', 'diagnoses_RUBER_HHCC_Epilepsy_50_c35sonnet_specific.csv', "c35sonnet")
 

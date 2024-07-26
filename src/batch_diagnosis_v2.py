@@ -83,6 +83,20 @@ def initialize_anthropic_claude(prompt, temperature=0, max_tokens=2000):
     # print(message.content)
     return message
 
+def initialize_anthropic_c35(prompt, temperature=0, max_tokens=2000):
+    client = anthropic.Anthropic(
+        # defaults to os.environ.get("ANTHROPIC_API_KEY")
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
+    )
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=max_tokens,
+        temperature=temperature,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    # print(message.content)
+    return message
+
 def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
     aws_access_key_id = os.getenv("BEDROCK_USER_KEY")
     aws_secret_access_key = os.getenv("BEDROCK_USER_SECRET")
@@ -295,8 +309,50 @@ Patient Symptoms:
 </prompt>
 """
 
+PROMPT_TEMPLATE_JSON = """
+Behave like a hypothetical doctor tasked with providing 5 hypothesis diagnosis for a patient based on their description. Your goal is to generate a list of 5 potential diseases, each with a short description, and indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common.
 
-def get_diagnosis(prompt, dataframe, output_file, model):
+        Carefully analyze the patient description and consider various potential diseases that could match the symptoms described. For each potential disease:
+        1. Provide a brief description of the disease
+        2. List the symptoms that the patient has in common with the disease
+        3. List the symptoms that the patient has that are not in common with the disease
+        
+        Present your findings in a JSON format within XML tags. The JSON should contain the following keys for each of the 5 potential disease:
+        - "diagnosis": The name of the potential disease
+        - "description": A brief description of the disease
+        - "symptoms_in_common": An array of symptoms the patient has that match the disease
+        - "symptoms_not_in_common": An array of symptoms the patient has that are not in common with the disease
+        
+        Here's an example of how your output should be structured:
+        
+        <5_diagnosis_output>
+        [
+        {{
+            "diagnosis": "some disease 1",
+            "description": "some description",
+            "symptoms_in_common": ["symptom1", "symptom2", "symptomN"],
+            "symptoms_not_in_common": ["symptom1", "symptom2", "symptomN"]
+        }},
+        ...
+        {{
+            "diagnosis": "some disease 5",
+            "description": "some description",
+            "symptoms_in_common": ["symptom1", "symptom2", "symptomN"],
+            "symptoms_not_in_common": ["symptom1", "symptom2", "symptomN"]
+        }}
+        ]
+        </5_diagnosis_output>
+        
+        Present your final output within <5_diagnosis_output> tags as shown in the example above.
+        
+        Here is the patient description:
+        <patient_description>
+        {description}
+        </patient_description>
+"""
+
+
+def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
     HM = False # HM Hospitals
     HF = False # Hugging Face Datasets
     if isinstance(dataframe, list):
@@ -322,7 +378,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
 
     # Iterate over the rows in the synthetic data
-    for index, row in tqdm(df[:200].iterrows(), total=df[:200].shape[0]):
+    for index, row in tqdm(df[:num_samples].iterrows(), total=df[:num_samples].shape[0]):
         # Get the ground truth (GT) and the description
         if HM:
             description = row[0]
@@ -346,6 +402,8 @@ def get_diagnosis(prompt, dataframe, output_file, model):
             try:
                 if model == "c3opus":
                     diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
+                elif model == "c35sonnet":
+                    diagnosis = initialize_anthropic_c35(formatted_prompt[0].content).content[0].text
                 elif model == "c3sonnet":
                     diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
                     # print(diagnosis)
@@ -406,7 +464,7 @@ def get_diagnosis(prompt, dataframe, output_file, model):
 data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
 
 mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
-print(type(mapped_data))
+# print(type(mapped_data))
 
 # print(mapped_data[:5])
 
@@ -414,7 +472,9 @@ print(type(mapped_data))
 
 # get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', "mistralmoebig")
 
-get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_gpt4o.csv', gpt4o)
+get_diagnosis(PROMPT_TEMPLATE_JSON, mapped_data, 'diagnoses_RAMEDIS_gpt4o_json.csv', gpt4o, 200)
 
-# get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_gpt4o.csv', gpt4o)
+# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_c35sonnet.csv', "c35sonnet")
+
+# get_diagnosis(PROMPT_TEMPLATE_JSON, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_gpt4o_json.csv', gpt4o, 200)
 
