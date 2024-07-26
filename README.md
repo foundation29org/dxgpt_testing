@@ -78,4 +78,3 @@ This structured approach to file naming ensures that each file is easily identif
 
 ### Link to the DxGPT free web app:
 [![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://dxgpt.app/)
-
