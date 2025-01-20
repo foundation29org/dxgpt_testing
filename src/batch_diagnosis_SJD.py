@@ -23,7 +23,6 @@ import anthropic
 import vertexai
 from vertexai.preview.generative_models import GenerativeModel
 from google.oauth2 import service_account
-from open_models import initialize_mistralmoe, initialize_mistral7b, initialize_mixtral_moe_big
 
 from translate import deepl_translate
 
@@ -95,6 +94,18 @@ def initialize_anthropic_c35(prompt, temperature=0, max_tokens=2000):
         messages=[{"role": "user", "content": prompt}]
     )
     # print(message.content)
+    return message
+
+def initialize_anthropic_c35_oct24(prompt, temperature=0, max_tokens=2000):
+    client = anthropic.Anthropic(
+        api_key=os.environ.get("ANTHROPIC_API_KEY")
+    )
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20241022",
+        max_tokens=max_tokens,
+        temperature=temperature,
+        messages=[{"role": "user", "content": prompt}]
+    )
     return message
 
 def initialize_bedrock_claude(prompt, temperature=0, max_tokens=2000):
@@ -289,13 +300,14 @@ gpt4o = ChatOpenAI(
 o1_mini = ChatOpenAI(
         openai_api_key = openai_api_key,
         model_name = "o1-mini",
-        temperature = 1
+        temperature = 1,
+
     )
 
 o1_preview = ChatOpenAI(
         openai_api_key = openai_api_key,
         model_name = "o1-preview",
-        temperature = 1
+        temperature = 1,
     )
 
 
@@ -412,23 +424,14 @@ Behave like a hypothetical doctor tasked with providing 5 hypothesis diagnosis f
         """
 
 
-def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
-    HM = False # HM Hospitals
-    HF = False # Hugging Face Datasets
-    if isinstance(dataframe, list):
-        HF = True
-
+def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200, extended=False, case_id=None):
     # Load the data
-    input_path = f'data/{dataframe}'
-    if HF:
-        df = pd.DataFrame(dataframe)
-    elif input_path.endswith('.csv'):
+    input_path = f'SJD_ENG_cases/{dataframe}'
+
+    if input_path.endswith('.csv'):
         df = pd.read_csv(input_path, sep=',')
-    elif input_path.endswith('.xlsx'):
-        df = pd.read_excel(input_path)
-        HM = True
     else:
-        raise ValueError("Unsupported file extension. Please provide a .csv or .xlsx file.")
+        raise ValueError("Unsupported file extension. Please provide a .csv file.")
         
     # Create a new DataFrame to store the diagnoses
     diagnoses_df = pd.DataFrame(columns=['GT', 'Diagnosis 1'])
@@ -436,18 +439,19 @@ def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
     # Define the chat prompt template
     human_message_prompt = HumanMessagePromptTemplate.from_template(prompt)
     chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
-
+    if case_id: 
+        df = df[df['Caso'] == case_id]
+        print(f"Number of cases in df: {df.shape[0]}")
     # Iterate over the rows in the synthetic data
     for index, row in tqdm(df[:num_samples].iterrows(), total=df[:num_samples].shape[0]):
         # Get the ground truth (GT) and the description
-        if HM:
-            description = row[0]
-        elif HF:
-            description = row["Phenotype"]
-            gt = row["RareDisease"]
-        else:
-            gt = row[0]
-            description = row[1]
+        gt = row[3]
+        description = row[1]
+        if extended:
+            if pd.notna(row[2]) and row[2] != "":
+                description = description + "\nINFORMACIÓN ADICIONAL: " + row[2]
+            else:
+                continue  # Skip this iteration if column 2 is empty when extended is True
         # Generate a diagnosis
         diagnoses = []
         # Generate the diagnosis using the GPT-4 model
@@ -458,23 +462,18 @@ def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
             formatted_prompt = chat_prompt.format_messages(description=description)
         # print(formatted_prompt[0].content)
         attempts = 0
+        print(f"Starting diagnosis for: {description}")
         while attempts < 2:
             try:
                 if model == "c3opus":
                     diagnosis = initialize_anthropic_claude(formatted_prompt[0].content).content[0].text
                 elif model == "c35sonnet":
                     diagnosis = initialize_anthropic_c35(formatted_prompt[0].content).content[0].text
+                elif model == "c35sonnet_new":
+                    diagnosis = initialize_anthropic_c35_oct24(formatted_prompt[0].content).content[0].text
                 elif model == "c3sonnet":
                     diagnosis = initialize_bedrock_claude(formatted_prompt[0].content).get("content")[0].get("text")
                     # print(diagnosis)
-                elif model == "mistralmoebig":
-                    diagnosis = initialize_mixtral_moe_big(formatted_prompt[0].content)
-                elif model == "mistralmoe":
-                    diagnosis = initialize_mistralmoe(formatted_prompt[0].content)["outputs"][0]["text"]
-                    # print(diagnosis)
-                elif model == "mistral7b":
-                    diagnosis = initialize_mistral7b(formatted_prompt[0].content)["outputs"][0]["text"]
-                    print(diagnosis)
                 elif model == "llama2_7b":
                     diagnosis = initialize_azure_llama2_7b(formatted_prompt[0].content)
                 elif model == "llama3_8b":
@@ -487,6 +486,7 @@ def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
                     diagnosis = initialize_gcp_geminipro(formatted_prompt[0].content)
                 else:
                     diagnosis = model(formatted_prompt).content  # Call the model instance directly
+                    # print(diagnosis)
                 break
             except Exception as e:
                 attempts += 1
@@ -507,39 +507,74 @@ def get_diagnosis(prompt, dataframe, output_file, model, num_samples=200):
         # print(diagnosis)
 
         # Add the diagnoses to the new DataFrame
-        if HM:
-            diagnoses_df.loc[index] = [description] + diagnoses
-        else:
-            diagnoses_df.loc[index] = [gt] + diagnoses
+        diagnoses_df.loc[index] = [gt] + diagnoses
 
         # print(diagnoses_df.loc[index])
         # break
 
     # Save the diagnoses to a new CSV file
-    output_path = f'data/{output_file}'
+    output_path = f'SJD_ENG_cases/{output_file}'
     diagnoses_df.to_csv(output_path, index=False)
 
+# I want to test if column 2 is not empty, if it is not empty, we want to add it to the description as "INFORMACIÓN ADICIONAL: {column2}"
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis.csv', 'diagnoses_SJD_gpt4o_1_extended.csv', gpt4o, extended=True)
 
-# datasets = ["RAMEDIS", "MME", "HMS", "LIRICAL", "PUMCH_ADM"]
-data = load_dataset('chenxz/RareBench', "RAMEDIS", split='test')
+# Now with gpt4o, c35sonnet and gpt4turbo0409
 
-mapped_data = mapping_fn_with_hpo3_plus_orpha_api(data)
-# print(type(mapped_data))
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_2.csv', "c35sonnet_new")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_3.csv', "c35sonnet_new")
 
-# print(mapped_data[:5])
+# print("Finished c35sonnet_new ENG")
 
-# get_diagnosis(PROMPT_TEMPLATE, 'synthetic_data_v2.csv', 'diagnoses_v2_mixtralmoe_big.csv', "mistralmoebig")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_2.csv', gpt4o)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_3.csv', gpt4o)
 
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', "mistralmoebig")
+# print("Finished gpt4o ENG")
 
-# get_diagnosis(PROMPT_TEMPLATE_JSON_RISK, mapped_data, 'diagnoses_RAMEDIS_gpt4o_json_risk.csv', gpt4o, 200)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_1_extended.csv', "c35sonnet_new", extended=True)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_2_extended.csv', "c35sonnet_new", extended=True)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_3_extended.csv', "c35sonnet_new", extended=True)
 
-# get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_c35sonnet.csv', "c35sonnet")
+# print("Finished c35sonnet_new ENG extended")
 
-# get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_o1_mini.csv', o1_mini, 200)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_1_extended.csv', gpt4o, extended=True)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_2_extended.csv', gpt4o, extended=True)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_3_extended.csv', gpt4o, extended=True)
 
-# get_diagnosis(PROMPT_TEMPLATE, 'URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx', 'diagnoses_URG_Torre_Dic_200_o1_preview.csv', o1_preview, 200)
+# print("Finished gpt4o ENG extended")
 
-get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_o1_mini.csv', o1_mini, 200)
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_1.csv', o1_preview)
+# print("Finished o1_preview ENG 1")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_2.csv', o1_preview)
+# print("Finished o1_preview ENG 2")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_3.csv', o1_preview)
 
-get_diagnosis(PROMPT_TEMPLATE, mapped_data, 'diagnoses_RAMEDIS_o1_preview.csv', o1_preview, 200)
+# print("Finished o1_preview ENG")
+
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_1_extended.csv', o1_preview, extended=True)
+# print("Finished o1_preview ENG 1 extended")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_2_extended.csv', o1_preview, extended=True)
+# print("Finished o1_preview ENG 2 extended")
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_3_extended.csv', o1_preview, extended=True)
+
+# print("Finished o1_preview ENG extended")
+
+# get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_1_extended_49.csv', o1_preview, extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_2_extended_49.csv', o1_preview, extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_o1_preview_3_extended_49.csv', o1_preview, extended=True, case_id="NC_49")
+print("Finished o1_preview ENG 1 extended")
+
+# now for claude 3.5 sonnet
+
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_1_extended_49.csv', "c35sonnet_new", extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_2_extended_49.csv', "c35sonnet_new", extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_c35sonnet_new_3_extended_49.csv', "c35sonnet_new", extended=True, case_id="NC_49")
+print("Finished c35sonnet_new ENG 1 extended")
+
+# now for gpt4o
+
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_1_extended_49.csv', gpt4o, extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_2_extended_49.csv', gpt4o, extended=True, case_id="NC_49")
+get_diagnosis(PROMPT_TEMPLATE, 'cases_with_diagnosis_translated.csv', 'diagnoses_SJD_ENG_gpt4o_3_extended_49.csv', gpt4o, extended=True, case_id="NC_49")
+print("Finished gpt4o ENG 1 extended")
+

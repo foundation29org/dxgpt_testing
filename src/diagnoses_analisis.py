@@ -19,9 +19,9 @@ model = AzureChatOpenAI(
     max_tokens=800
 )
 
-def get_scores(model, dataframe, output_file):
+def get_scores(model, dataframe, output_file, new_path='data/'):
     # Load the diagnoses data
-    input_path = f'data/{dataframe}'
+    input_path = f'{new_path}{dataframe}'
     df = pd.read_csv(input_path)
 
     # Summarize the data
@@ -82,16 +82,19 @@ def get_scores(model, dataframe, output_file):
         scores_df.loc[index] = [gt, score]
 
     # Save the scores to a new CSV file
-    output_path = f'data/{output_file}'
+    output_path = f'{new_path}{output_file}'
     scores_df.to_csv(output_path, index=False)
 
 # get_scores(model, 'diagnoses_v2_mixtralmoe_big.csv', 'scores_v2_mixtralmoe_big.csv')
 
 # get_scores(model, 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv', 'scores_PUMCH_ADM_mixtralmoe_big.csv')
 
-get_scores(model, 'diagnoses_RAMEDIS_gpt4o_json.csv', 'scores_RAMEDIS_gpt4o_json_2.csv')
+# get_scores(model, 'diagnoses_URG_Torre_Dic_200_gpt4o_json_risk.csv', 'scores_URG_Torre_Dic_200_gpt4o_json_risk_2.csv')
 
+# get_scores(model, 'diagnoses_SJD_gpt4_0613.csv', 'scores_SJD_gpt4_0613.csv', new_path='SJD_cases/')
 
+get_scores(model, 'diagnoses_SJD_ENG_c35sonnet_new_1.csv', 'scores_SJD_ENG_c35sonnet_new_1.csv', new_path='SJD_cases/')
 
+get_scores(model, 'diagnoses_SJD_ENG_gpt4o_1.csv', 'scores_SJD_ENG_gpt4o_1.csv', new_path='SJD_cases/')
 
 

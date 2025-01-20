@@ -10,7 +10,6 @@ def deepl_translate(text):
     translator = deepl.Translator(auth_key)
     translated_text = translator.translate_text(text, target_lang='EN-US').text
     return translated_text
-    return text
 
 def translate_diseases(file_path):
     # Cargar los datos del archivo JSON

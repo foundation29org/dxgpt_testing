@@ -3,10 +3,14 @@
 .history
 nav29-21389-c1a94e300dcb.json
 Ruber_cases/*
+SJD_cases/*
+SJD_ENG_cases/*
+SJD_ENG_cases_final/*
+SJD_ENG_cases_final_49/*
 data/URG_Torre_Dic_2022_IA_GEN_modified_2.xlsx
 data/URG_Torre_Dic_2022_IA_GEN_modified.xlsx
 data/URG_Torre_Dic_2022_IA_GEN.xlsx
 src/__pycache__/*
 
 TODO.odt
-src/__pycache__/open_models.cpython-38.pyc
+SJD_ENG_cases_final_49_ext.zip
